@@ -5,13 +5,14 @@ const puppeteer = require('puppeteer');
     const page = await browser.newPage();
     await page.goto('https://funcenterdirectory.com/directory/', { waitUntil: 'networkidle2' });
 
-    // Selecting all the listings on the page
     const listings = await page.evaluate(() => {
         return Array.from(document.querySelectorAll('.grid-item')).map(element => {
             const companyName = element.querySelector('h4.case27-primary-text.listing-preview-title')?.textContent.trim();
             const logoUrl = element.querySelector('.lf-avatar')?.style.backgroundImage.match(/url\("?(.+?)"?\)/)[1];
-            const phone = element.querySelector('.icon-phone-outgoing + span')?.textContent.trim();
-            const address = element.querySelector('.icon-location-pin-add-2 + span')?.textContent.trim();
+            const description = element.querySelector('h6')?.textContent.trim();
+            const contactInfo = element.querySelectorAll('.lf-contact li');
+            const phone = contactInfo[0]?.textContent.trim();
+            const address = contactInfo[1]?.textContent.trim();
             const websiteUrl = element.querySelector('a')?.href;
             const category = element.querySelector('.category-name')?.textContent.trim();
 
@@ -28,6 +29,7 @@ const puppeteer = require('puppeteer');
             return {
                 companyName,
                 logoUrl,
+                description,
                 phone,
                 address,
                 address1,
@@ -44,5 +46,3 @@ const puppeteer = require('puppeteer');
 
     await browser.close();
 })();
-
-
