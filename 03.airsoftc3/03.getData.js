@@ -1,4 +1,5 @@
 const puppeteer = require('puppeteer');
+const fs = require('fs').promises;
 
 async function scrapeUnitInfo(url) {
     const browser = await puppeteer.launch();
@@ -62,11 +63,43 @@ async function scrapeUnitInfo(url) {
     }
 }
 
-const url = 'https://airsoftc3.com/us/hawaii/fields/583/dogs-of-war-airsoft';
-scrapeUnitInfo(url)
-    .then(data => {
-        console.log(data);
-    })
-    .catch(error => {
-        console.error('Scraping failed:', error);
-    });
+async function scrapeLinksFromFile(filePath) {
+    try {
+        const linksData = await fs.readFile(filePath, 'utf-8');
+        const linksByState = JSON.parse(linksData);
+
+        for (const state in linksByState) {
+            const links = linksByState[state];
+            console.log(`Scraping links for ${state}`);
+            for (const link of links) {
+                let retries = 3;
+                let data = null;
+
+                while (retries > 0) {
+                    try {
+                        data = await scrapeUnitInfo(link);
+                        if (data) {
+                            console.log('Data:', data);
+                            break;
+                        } else {
+                            console.log('Failed to scrape:', link);
+                            retries--;
+                        }
+                    } catch (error) {
+                        console.error('Error during scraping:', error);
+                        retries--;
+                    }
+                }
+
+                if (retries === 0) {
+                    console.log('Max retries reached for:', link);
+                }
+            }
+        }
+    } catch (error) {
+        console.error('Error reading file:', error);
+    }
+}
+
+const filePath = 'linksByState.json';
+scrapeLinksFromFile(filePath);
