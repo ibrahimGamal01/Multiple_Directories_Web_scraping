@@ -1,14 +1,32 @@
-# 01.funcenterdirectory
+## Web Scraper for Fun Center Directory
 
-Webiste (https://funcenterdirectory.com/directory/)
+This script, `01.js`, is a web scraper that extracts data from the Fun Center Directory website. 
 
-## Using Code 
+### What it Does
+The script navigates to the Fun Center Directory pages and extracts the following information from each listing:
 
-1. Run the following command `node 01.js` to scrape the data from the site.
-    This run would export the file in CSV, JS, TXT
+Website: `https://funcenterdirectory.com/directory/`
 
-2. Take either of the formats and make sure it is formated as a JS array and insert it into the code in `01.GLinks.js`
-    This code would get the links when available for the specific sites (would take lots of time to run)
-    Run the following command `node 01.GLinks.js`.
-    It would extract the data in the final format.
-    
+- Company Name
+- Logo URL
+- Description
+- Phone
+- Address
+- Address1
+- City
+- Zip Code
+- State/Province
+- Website URL
+- Category
+
+This data is then saved in three formats: JSON, CSV, and TXT. The JSON data is saved to `scrapedData.js`, the CSV data is saved to `scrapedData.csv`, and the TXT data is saved to `scrapedData.txt`.
+
+### How to Use
+
+1. Ensure you have Node.js installed on your machine.
+2. Install the necessary dependencies by running `npm install puppeteer csv-writer`.
+3. Run the script with `node 01.js`.
+
+### Error Handling
+
+If an error occurs during the scraping process, the error will be logged to the console and the browser will be closed. If the data is successfully scraped but an error occurs while writing the data to a file, the error will be logged to the console.
