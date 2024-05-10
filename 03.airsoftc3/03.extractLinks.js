@@ -1,5 +1,5 @@
-
 const puppeteer = require('puppeteer');
+const fs = require('fs');
 
 // Function to extract links from divs with a specific class and structure with error handling and retry
 async function extractLinksFromDivs(page, url) {
@@ -34,15 +34,17 @@ async function extractLinksFromDivs(page, url) {
 // Function to generate URLs for each state and scrape links with error handling and retry
 async function scrapeSitesForLinks(states) {
     const browser = await puppeteer.launch();
+    const linksByState = {};
 
     for (const state of states) {
-        const url = `https://airsoftc3.com/us/${state.toLowerCase().replace(/\s+/g, '-')}/fields`;
+        const url = `https://airsoftc3.com/us/${state.toLowerCase().replace(/\s+/g, '')}/fields`;
         const page = await browser.newPage();
         
         let links = [];
         try {
             links = await extractLinksFromDivs(page, url);
             console.log(`Links scraped from ${state}:`, links);
+            linksByState[state] = links;
         } catch (error) {
             console.error(`Error scraping links for ${state}: ${error.message}`);
         } finally {
@@ -51,6 +53,10 @@ async function scrapeSitesForLinks(states) {
     }
 
     await browser.close();
+
+    // Save the linksByState object as a JSON file
+    fs.writeFileSync('linksByState.json', JSON.stringify(linksByState, null, 2));
+    console.log('Data saved to linksByState.json');
 }
 
 // List of states to generate URLs for
