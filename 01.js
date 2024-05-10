@@ -3,7 +3,23 @@ const puppeteer = require('puppeteer');
 (async () => {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
-    await page.goto('https://funcenterdirectory.com/directory/', { waitUntil: 'networkidle2' });
+
+    // Function to handle retrying navigation
+    const retryNavigation = async (url, retries = 3) => {
+        try {
+            await page.goto(url, { waitUntil: 'networkidle2' });
+        } catch (error) {
+            if (retries > 0) {
+                console.error('Navigation error. Retrying...', error);
+                await retryNavigation(url, retries - 1);
+            } else {
+                throw new Error('Max retries exceeded for navigation.');
+            }
+        }
+    };
+
+    const initialUrl = 'https://funcenterdirectory.com/directory/?type=place&pg=2&sort=latest';
+    await retryNavigation(initialUrl);
 
     const listings = await page.evaluate(() => {
         return Array.from(document.querySelectorAll('.grid-item')).map(element => {
