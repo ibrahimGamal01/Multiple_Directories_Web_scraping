@@ -13,6 +13,7 @@ async function scrapeUnitInfo(url) {
             const contactInfos = Array.from(document.querySelectorAll('.contact_info'));
 
             let address = '';
+            let addressUrl = '';
             let email = '';
             let phone = '';
             let website2 = '';
@@ -20,9 +21,11 @@ async function scrapeUnitInfo(url) {
             contactInfos.forEach(contactInfo => {
                 const label = contactInfo.querySelector('.contact_label')?.textContent.trim();
                 const value = contactInfo.querySelector('.contact_value')?.textContent.trim();
+                const anchor = contactInfo.querySelector('.contact_value a');
 
                 if (label === 'Address') {
                     address = value;
+                    addressUrl = anchor?.href;
                 } else if (label === 'Email') {
                     email = value;
                 } else if (label === 'Phone') {
@@ -42,6 +45,7 @@ async function scrapeUnitInfo(url) {
                 name,
                 website,
                 address,
+                addressUrl,
                 email,
                 phone,
                 website2,
