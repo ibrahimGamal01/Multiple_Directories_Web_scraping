@@ -22,6 +22,8 @@ node 79.arrowtag.js
 
 The script will save the scraped links to a file named `arrowtag_locations.txt`.
 
+280 items will be saved
+
 ## Functions
 
 - `scrapeArrowTagLocations(url)`: This is the main function that performs the web scraping. It takes a URL as input, navigates to the page, clicks the "Load More" button to load all locations, scrapes the links, and returns them.
