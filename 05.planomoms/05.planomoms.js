@@ -1,6 +1,7 @@
 const puppeteer = require('puppeteer');
+const fs = require('fs');
 
-async function scrapeIndoorPlaces(url) {
+async function scrapeArcadesAndLaserTag(url) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
@@ -8,38 +9,29 @@ async function scrapeIndoorPlaces(url) {
         await page.goto(url, { waitUntil: 'networkidle2' });
 
         const data = await page.evaluate(() => {
-            const hrElements = Array.from(document.querySelectorAll('hr.wp-block-separator.has-css-opacity'));
-
-            const placesData = {};
-
-            hrElements.forEach(hr => {
-                const prevElements = [];
-                let prevElement = hr.previousElementSibling;
-                while (prevElement && prevElement.tagName !== 'HR') {
-                    prevElements.unshift(prevElement);
-                    prevElement = prevElement.previousElementSibling;
-                }
-
-                const nextElements = [];
-                let nextElement = hr.nextElementSibling;
-                while (nextElement && nextElement.tagName !== 'HR') {
-                    nextElements.push(nextElement);
+            const items = [];
+            const headings = document.querySelectorAll('h3.wp-block-heading');
+            
+            headings.forEach(heading => {
+                const item = {};
+                item.name = heading.querySelector('a')?.textContent.trim();
+                item.link = heading.querySelector('a')?.href;
+                
+                const paragraphs = [];
+                let nextElement = heading.nextElementSibling;
+                
+                while (nextElement && nextElement.tagName !== 'H3') {
+                    if (nextElement.tagName === 'P') {
+                        paragraphs.push(nextElement.textContent.trim());
+                    }
                     nextElement = nextElement.nextElementSibling;
                 }
-
-                const prevText = prevElements.map(el => el.textContent.trim()).join('\n');
-                const nextText = nextElements.map(el => el.textContent.trim()).join('\n');
-
-                const titleElement = hr.previousElementSibling.querySelector('h3.wp-block-heading[id]');
-                const title = titleElement ? titleElement.textContent.trim() : '';
-
-                placesData[title] = {
-                    beforeHr: prevText,
-                    afterHr: nextText
-                };
+                
+                item.details = paragraphs.join('\n');
+                items.push(item);
             });
 
-            return placesData;
+            return items;
         });
 
         await browser.close();
@@ -52,10 +44,13 @@ async function scrapeIndoorPlaces(url) {
 }
 
 const url = 'https://planomoms.com/30-indoor-places-around-plano-for-kids/';
-scrapeIndoorPlaces(url)
+const outputFileJSON = 'scrapedData.json';
+
+scrapeArcadesAndLaserTag(url)
     .then(data => {
         if (data) {
-            console.log(data);
+            fs.writeFileSync(outputFileJSON, JSON.stringify(data, null, 2));
+            console.log(`Data saved to ${outputFileJSON}`);
         } else {
             console.log('No data scraped.');
         }
