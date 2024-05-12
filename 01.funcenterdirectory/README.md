@@ -7,6 +7,8 @@ The script navigates to the Fun Center Directory pages and extracts the followin
 
 Website: `https://funcenterdirectory.com/directory/`
 
+Ignore these parameters CITY, ZIP_CODE, STATE_PROVINCE as the data is no way organized to extract them separate 
+
 - Company Name
 - Logo URL
 - Description

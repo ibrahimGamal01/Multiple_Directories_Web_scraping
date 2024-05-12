@@ -10,65 +10,33 @@
 
 // // //         console.log('Extracting field information...');
 
-// // //         // Extracting field information from the table
-// // //         const result = await page.evaluate(() => {
-// // //             const fields = Array.from(document.querySelectorAll('.tborder tr:not(:first-child)'));
+// // //         const data = await page.evaluate(() => {
+// // //             const trElements = Array.from(document.querySelectorAll('.tborder tr'));
 
-// // //             const extractText = (element, selector) => {
-// // //                 const subElement = element.querySelector(selector);
-// // //                 return subElement ? subElement.textContent.trim() : null;
-// // //             };
+// // //             const fieldData = trElements.map(tr => {
+// // //                 const name = tr.querySelector('.alt1 div > div')?.textContent.trim();
+// // //                 const description = tr.querySelector('.alt1 div[style*="text-align: justify"]')?.textContent.trim();
+// // //                 const address = tr.querySelector('.alt1 + td .smallfont')?.textContent.trim();
+// // //                 const websiteElement = tr.querySelector('.alt1 div > a');
+// // //                 const website = websiteElement ? websiteElement.href : 'Website not found';
+// // //                 const email = tr.querySelector('.fieldicons.email a')?.href.split(':')[1];
+// // //                 const rating = tr.querySelector('.star-rating .current-rating')?.style.width; // Returns width which is proportional to the rating value
+// // //                 // const features = Array.from(tr.querySelectorAll('.feature')).map(img => img.alt);
 
-// // //             const extractImageAlt = (element, alt) => {
-// // //                 const img = element.querySelector(`img[alt="${alt}"]`);
-// // //                 return img ? true : false;
-// // //             };
-
-// // //             const data = fields.map(field => {
-// // //                 const name = extractText(field, 'td:first-child > div > div');
-// // //                 const address = extractText(field, 'td:nth-child(3)');
-// // //                 const addressParts = address ? address.split('<br>').map(line => line.trim()) : ['', '', '', '', ''];
-// // //                 const [address1, address2, cityStateZip, country, phone] = addressParts;
-// // //                 const website = extractText(field, 'a.fieldicons.website');
-// // //                 const email = extractText(field, 'a.fieldicons.revise');
-// // //                 const phoneNumber = extractText(field, '.smallfont');
-
-// // //                 return {
-// // //                     name,
-// // //                     address1,
-// // //                     address2,
-// // //                     cityStateZip,
-// // //                     country,
-// // //                     phone,
-// // //                     website,
-// // //                     email
-// // //                 };
+// // //                 return { name, address, website, description, email, rating };
 // // //             });
 
-// // //             return data;
+// // //             return fieldData.filter(data => data.name && data.address && data.website !== 'Website not found');
 // // //         });
 
-// // //         // Extracting information from the specific div
-// // //         const specificDivInfo = await page.evaluate(() => {
-// // //             const specificDiv = document.querySelector('div[style="min-height:60px; height:auto !important; height:60px;"]');
-// // //             if (specificDiv) {
-// // //                 const name = specificDiv.querySelector('div > a').textContent.trim();
-// // //                 const description = specificDiv.querySelector('div[style="text-align: justify; padding: 5px 0;"]').textContent.trim();
-
-// // //                 return { name, description };
-// // //             }
-// // //             return null;
-// // //         });
-
-// // //         console.log('Extracted Field Information:', result);
-// // //         console.log('Extracted Specific Div Information:', specificDivInfo);
+// // //         console.log('Extracted Field Information:', data);
 
 // // //         await browser.close();
-// // //         return { result, specificDivInfo };
+// // //         return data;
 // // //     } catch (error) {
 // // //         console.error('Error during extraction:', error);
 // // //         await browser.close();
-// // //         return null;
+// // //         throw error;
 // // //     }
 // // // }
 
@@ -77,11 +45,13 @@
 // // //     .then(info => {
 // // //         console.log('Extracted Information:', info);
 // // //     })
-// // //     .catch(error => {
+// // //     .catch(async (error) => {
 // // //         console.error('Error:', error);
 // // //     });
 
+// // // ! Get links from file 
 
+// // const fs = require('fs');
 // // const puppeteer = require('puppeteer');
 
 // // async function extractFieldInformation(url) {
@@ -94,76 +64,53 @@
 
 // //         console.log('Extracting field information...');
 
-// //         // Extracting field information from the table
-// //         const result = await page.evaluate(() => {
-// //             const fields = Array.from(document.querySelectorAll('.tborder tr:not(:first-child)'));
+// //         const data = await page.evaluate(() => {
+// //             const trElements = Array.from(document.querySelectorAll('.tborder tr'));
 
-// //             const extractText = (element, selector) => {
-// //                 const subElement = element.querySelector(selector);
-// //                 return subElement ? subElement.textContent.trim() : null;
-// //             };
+// //             const fieldData = trElements.map(tr => {
+// //                 const name = tr.querySelector('.alt1 div > div')?.textContent.trim();
+// //                 const description = tr.querySelector('.alt1 div[style*="text-align: justify"]')?.textContent.trim();
+// //                 const address = tr.querySelector('.alt1 + td .smallfont')?.textContent.trim();
+// //                 const websiteElement = tr.querySelector('.alt1 div > a');
+// //                 const website = websiteElement ? websiteElement.href : 'Website not found';
+// //                 const email = tr.querySelector('.fieldicons.email a')?.href.split(':')[1];
+// //                 const rating = tr.querySelector('.star-rating .current-rating')?.style.width; // Returns width which is proportional to the rating value
 
-// //             const extractImageAlt = (element, alt) => {
-// //                 const img = element.querySelector(`img[alt="${alt}"]`);
-// //                 return img ? true : false;
-// //             };
-
-// //             const data = fields.map(field => {
-// //                 const name = extractText(field, 'td:first-child > div > div');
-// //                 const address = extractText(field, 'td:nth-child(3)');
-// //                 const addressParts = address ? address.split('<br>').map(line => line.trim()) : ['', '', '', '', ''];
-// //                 const [address1, address2, cityStateZip, country, phone] = addressParts;
-// //                 const phoneNumber = extractText(field, '.smallfont');
-
-// //                 return {
-// //                     name,
-// //                     address1,
-// //                     address2,
-// //                     cityStateZip,
-// //                     country,
-// //                     phone
-// //                 };
+// //                 return { name, address, website, description, email, rating };
 // //             });
 
-// //             return data;
+// //             return fieldData.filter(data => data.name && data.address && data.website !== 'Website not found');
 // //         });
 
-// //         // Extracting information from the specific div
-// //         const specificDivInfo = await page.evaluate(() => {
-// //             const specificDiv = document.querySelector('div[style="min-height:60px; height:auto !important; height:60px;"]');
-// //             if (specificDiv) {
-// //                 const name = specificDiv.querySelector('div > a').textContent.trim();
-// //                 const description = specificDiv.querySelector('div[style="text-align: justify; padding: 5px 0;"]').textContent.trim();
-// //                 const website = specificDiv.querySelector('div > a').href;
-
-// //                 return { name, description, website };
-// //             }
-// //             return null;
-// //         });
-
-// //         console.log('Extracted Field Information:', result);
-// //         console.log('Extracted Specific Div Information:', specificDivInfo);
+// //         console.log('Extracted Field Information:', data);
 
 // //         await browser.close();
-// //         return { result, specificDivInfo };
+// //         return data;
 // //     } catch (error) {
 // //         console.error('Error during extraction:', error);
 // //         await browser.close();
-// //         return null;
+// //         throw error;
 // //     }
 // // }
 
-// // const url = 'https://www.pbnation.com/fieldshow.php?state=ky';
-// // extractFieldInformation(url)
-// //     .then(info => {
-// //         console.log('Extracted Information:', info);
-// //     })
-// //     .catch(error => {
-// //         console.error('Error:', error);
-// //     });
+// // async function processUrlsFromFile(filePath) {
+// //     try {
+// //         const urls = fs.readFileSync(filePath, 'utf8').split('\n').filter(url => url.trim() !== '');
 
-// // !
+// //         for (const url of urls) {
+// //             const fieldData = await extractFieldInformation(url);
+// //             console.log('Extracted Information for', url, ':', fieldData);
+// //         }
+// //     } catch (error) {
+// //         console.error('Error processing URLs:', error);
+// //     }
+// // }
 
+// // const filePath = '12.1.linkList.txt'; // Update with your file path
+// // processUrlsFromFile(filePath);
+
+
+// const fs = require('fs');
 // const puppeteer = require('puppeteer');
 
 // async function extractFieldInformation(url) {
@@ -172,125 +119,138 @@
 
 //     try {
 //         console.log('Navigating to the URL:', url);
-//         await page.goto(url, { waitUntil: 'networkidle0', timeout: 60000 });
+//         await page.goto(url, { waitUntil: 'networkidle0', timeout: 90000 });
 
 //         console.log('Extracting field information...');
 
-//         // Extracting field information from the table
-//         const result = await page.evaluate(() => {
-//             const fields = Array.from(document.querySelectorAll('.tborder tr:not(:first-child)'));
+//         const data = await page.evaluate(() => {
+//             const trElements = Array.from(document.querySelectorAll('.tborder tr'));
 
-//             const extractText = (element, selector) => {
-//                 const subElement = element.querySelector(selector);
-//                 return subElement ? subElement.textContent.trim() : null;
-//             };
+//             const fieldData = trElements.map(tr => {
+//                 const name = tr.querySelector('.alt1 div > div')?.textContent.trim();
+//                 const description = tr.querySelector('.alt1 div[style*="text-align: justify"]')?.textContent.trim();
+//                 const address = tr.querySelector('.alt1 + td .smallfont')?.textContent.trim();
+//                 const websiteElement = tr.querySelector('.alt1 div > a');
+//                 const website = websiteElement ? websiteElement.href : 'Website not found';
+//                 const email = tr.querySelector('.fieldicons.email a')?.href.split(':')[1];
+//                 const rating = tr.querySelector('.star-rating .current-rating')?.style.width; // Returns width which is proportional to the rating value
 
-//             const data = fields.map(field => {
-//                 const name = extractText(field, 'td:first-child > div > div');
-//                 const address = extractText(field, 'td:nth-child(3)');
-//                 const addressParts = address ? address.split('<br>').map(line => line.trim()) : ['', '', '', '', ''];
-//                 const [address1, address2, cityStateZip, country, phone] = addressParts;
-//                 const phoneNumber = extractText(field, '.smallfont');
-
-//                 return {
-//                     name,
-//                     address1,
-//                     address2,
-//                     cityStateZip,
-//                     country,
-//                     phone
-//                 };
+//                 return { name, address, website, description, email, rating };
 //             });
 
-//             return data;
+//             return fieldData.filter(data => data.name && data.address && data.website !== 'Website not found');
 //         });
 
-//         // Extracting information from the specific div
-//         const specificDivInfo = await page.evaluate(() => {
-//             const specificDiv = document.querySelector('div[style="min-height:60px; height:auto !important; height:60px;"]');
-//             if (specificDiv) {
-//                 const name = specificDiv.querySelector('div > a').textContent.trim();
-//                 const description = specificDiv.querySelector('div[style="text-align: justify; padding: 5px 0;"]').textContent.trim();
-//                 const website = specificDiv.querySelector('div > a').href;
-
-//                 // Extracting address information from the description
-//                 const addressMatch = description.match(/Address: (.+?)<br>/);
-//                 const [_, address1, address2, cityStateZip, country] = addressMatch ? addressMatch[1].split('<br>').map(line => line.trim()) : ['', '', '', '', ''];
-//                 const phoneMatch = description.match(/Phone: (.+?)<br>/);
-//                 const phone = phoneMatch ? phoneMatch[1].trim() : '';
-
-//                 return { name, address1, address2, cityStateZip, country, phone, website };
-//             }
-//             return null;
-//         });
-
-//         console.log('Extracted Field Information:', result);
-//         console.log('Extracted Specific Div Information:', specificDivInfo);
+//         console.log('Extracted Field Information:', data);
 
 //         await browser.close();
-//         return { result, specificDivInfo };
+//         return data;
 //     } catch (error) {
 //         console.error('Error during extraction:', error);
 //         await browser.close();
-//         return null;
+//         throw error;
 //     }
 // }
 
-// const url = 'https://www.pbnation.com/fieldshow.php?state=ky';
-// extractFieldInformation(url)
-//     .then(info => {
-//         console.log('Extracted Information:', info);
-//     })
-//     .catch(error => {
-//         console.error('Error:', error);
-//     });
+// async function processUrlsFromFile(filePath) {
+//     try {
+//         const urls = fs.readFileSync(filePath, 'utf8').split('\n').filter(url => url.trim() !== '');
+//         const extractedData = [];
+
+//         for (const url of urls) {
+//             const fieldData = await extractFieldInformation(url);
+//             console.log('Extracted Information for', url, ':', fieldData);
+//             // extractedData.push({ url, data: fieldData }); // identified by url
+//             extractedData.push(...fieldData); // Push each data object directly into the array
+
+//         }
+
+//         // Write extracted data to a JSON file
+//         const outputFilePath = 'extracted_data.json';
+//         fs.writeFileSync(outputFilePath, JSON.stringify(extractedData, null, 2));
+//         console.log('Extracted data saved to:', outputFilePath);
+//     } catch (error) {
+//         console.error('Error processing URLs:', error);
+//     }
+// }
+
+// const filePath = '12.1.linkList.txt'; // Update with your file path
+// processUrlsFromFile(filePath);
 
 
+const fs = require('fs');
 const puppeteer = require('puppeteer');
 
-async function extractFieldInformation(url) {
-    const browser = await puppeteer.launch();
-    const page = await browser.newPage();
+async function extractFieldInformation(url, maxRetries = 3) {
+    let retries = 0;
+    while (retries < maxRetries) {
+        const browser = await puppeteer.launch();
+        const page = await browser.newPage();
 
-    try {
-        console.log('Navigating to the URL:', url);
-        await page.goto(url, { waitUntil: 'networkidle0', timeout: 60000 });
+        try {
+            console.log('Navigating to the URL:', url);
+            await page.goto(url, { waitUntil: 'networkidle0', timeout: 90000 });
 
-        console.log('Extracting field information...');
+            console.log('Extracting field information...');
 
-        const data = await page.evaluate(() => {
-            const trElements = Array.from(document.querySelectorAll('.tborder tr'));
+            const data = await page.evaluate(() => {
+                const trElements = Array.from(document.querySelectorAll('.tborder tr'));
 
-            const fieldData = trElements.map(tr => {
-                const name = tr.querySelector('.alt1 div > a')?.textContent.trim();
-                const description = tr.querySelector('.alt1 div[style="text-align: justify; padding: 5px 0;"]')?.textContent.trim();
-                const address = tr.querySelector('.alt1 + td .smallfont')?.textContent.trim();
-                const website = tr.querySelector('.alt1 div > a')?.href;
-                const email = tr.querySelector('.fieldicons.email')?.href.split(':')[1];
+                const fieldData = trElements.map(tr => {
+                    const name = tr.querySelector('.alt1 div > div')?.textContent.trim();
+                    const description = tr.querySelector('.alt1 div[style*="text-align: justify"]')?.textContent.trim();
+                    const address = tr.querySelector('.alt1 + td .smallfont')?.textContent.trim();
+                    const websiteElement = tr.querySelector('.alt1 div > a');
+                    const website = websiteElement ? websiteElement.href : 'Website not found';
+                    const email = tr.querySelector('.fieldicons.email a')?.href.split(':')[1];
+                    const rating = tr.querySelector('.star-rating .current-rating')?.style.width; // Returns width which is proportional to the rating value
 
-                return { name, address, website, description, email };
+                    return { name, address, website, description, email, rating };
+                });
+
+                return fieldData.filter(data => data.name && data.address && data.website !== 'Website not found');
             });
 
-            return fieldData.filter(data => data.name && data.address && data.website && data.description && data.email);
-        });
+            console.log('Extracted Field Information:', data);
 
-        console.log('Extracted Field Information:', data);
+            await browser.close();
+            return data;
+        } catch (error) {
+            console.error('Error during extraction:', error);
+            await browser.close();
+            retries++;
+            console.log(`Retrying (${retries}/${maxRetries})...`);
+        }
+    }
 
-        await browser.close();
-        return data;
+    console.error(`Max retries (${maxRetries}) reached for URL: ${url}. Skipping...`);
+    return null;
+}
+
+async function processUrlsFromFile(filePath) {
+    try {
+        const urls = fs.readFileSync(filePath, 'utf8').split('\n').filter(url => url.trim() !== '');
+        const extractedData = [];
+
+        for (const url of urls) {
+            const fieldData = await extractFieldInformation(url);
+            if (fieldData !== null) {
+                console.log('Extracted Information for', url, ':', fieldData);
+                extractedData.push(...fieldData); // Push each data object directly into the array
+            } else {
+                console.log('Skipping URL:', url);
+            }
+        }
+
+        // Write extracted data to a JSON file
+        const outputFilePath = 'extracted_data.json';
+        fs.writeFileSync(outputFilePath, JSON.stringify(extractedData, null, 2));
+        console.log('Extracted data saved to:', outputFilePath);
     } catch (error) {
-        console.error('Error during extraction:', error);
-        await browser.close();
-        throw error; // Re-throw the error to retry or handle it in the caller function
+        console.error('Error processing URLs:', error);
     }
 }
 
-const url = 'https://www.pbnation.com/fieldshow.php?state=ky';
-extractFieldInformation(url)
-    .then(info => {
-        console.log('Extracted Information:', info);
-    })
-    .catch(async (error) => {
-        console.error('Error:', error);
-        // Handle retrying here or in the caller function
-    });
+const filePath = '12.1.linkList.txt'; // Update with your file path
+processUrlsFromFile(filePath);
+
