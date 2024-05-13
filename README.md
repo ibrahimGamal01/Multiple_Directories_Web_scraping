@@ -12,5 +12,13 @@
 - [My Kid List](02.mykidlist/README.md)
 
 
+## address are written in full in all cases as the formatiing of the addresses in the sites 
+
+# Similar Sites
+
+## 36, 39, ** 41, 46 **
+
+## 10 and 28, except I was able to extract the data from this site manually
+
 
 ## License
