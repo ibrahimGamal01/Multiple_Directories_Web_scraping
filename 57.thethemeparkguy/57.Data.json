@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Crocosaurus Cove",
+    "websiteLink": "https://www.crocosauruscove.com/"
+  },
+  {
+    "name": "Dreamworld",
+    "websiteLink": "https://www.dreamworld.com.au/"
+  },
+  {
+    "name": "Sea World Australia",
+    "websiteLink": "https://seaworld.com.au/"
+  },
+  {
+    "name": "Sydney's lost theme parks",
+    "websiteLink": ""
+  },
+  {
+    "name": "Warner Brothers Movie World",
+    "websiteLink": "https://movieworld.myfun.com.au/"
+  },
+  {
+    "name": "Wet'n'Wild Water World",
+    "websiteLink": "https://www.wetnwild.com.au/"
+  },
+  {
+    "name": "WhiteWater World",
+    "websiteLink": "https://www.whitewaterworld.com.au/"
+  },
+  {
+    "name": "Atlantis Bahamas",
+    "websiteLink": "https://www.atlantis.com/"
+  },
+  {
+    "name": "Lost Paradise of Dilmun",
+    "websiteLink": "https://lpodwaterpark.com/"
+  },
+  {
+    "name": "Hopi Hari",
+    "websiteLink": ""
+  },
+  {
+    "name": "Jerudong Park",
+    "websiteLink": "https://www.jerudongpark.com/"
+  },
+  {
+    "name": "Siem Reap funfair",
+    "websiteLink": ""
+  },
+  {
+    "name": "WhiteWater West factory",
+    "websiteLink": "https://www.whitewaterwest.com/"
+  },
+  {
+    "name": "Chimelong Ocean Kingdom",
+    "websiteLink": "https://www.chimelong.com/"
+  },
+  {
+    "name": "Chimelong Paradise",
+    "websiteLink": "http://www.chimelong.com/"
+  },
+  {
+    "name": "Chimelong Waterpark",
+    "websiteLink": "https://www.chimelong.com/"
+  },
+  {
+    "name": "Happy Valley Beijing",
+    "websiteLink": "http://bj.happyvalley.cn/"
+  },
+  {
+    "name": "Happy Valley Chengdu",
+    "websiteLink": "http://cd.happyvalley.cn/"
+  },
+  {
+    "name": "Happy Valley Shenzhen",
+    "websiteLink": "http://sz.happyvalley.cn/"
+  },
+  {
+    "name": "Happy Valley Sheshan",
+    "websiteLink": "http://www.happyvalley.cn/"
+  },
+  {
+    "name": "Happy Valley Wuhan",
+    "websiteLink": ""
+  },
+  {
+    "name": "OCT East",
+    "websiteLink": "https://www.chinaoct.com/octresort/en/english.htm"
+  },
+  {
+    "name": "Shanghai Disneyland",
+    "websiteLink": "https://www.shanghaidisneyresort.com/"
+  },
+  {
+    "name": "Universal Studios Beijing",
+    "websiteLink": ""
+  },
+  {
+    "name": "Window of the World",
+    "websiteLink": "https://www.szwwco.com/"
+  },
+  {
+    "name": "World Joyland",
+    "websiteLink": ""
+  },
+  {
+    "name": "Fasouri Watermania",
+    "websiteLink": "http://www.fasouri-watermania.com/"
+  },
+  {
+    "name": "WaterWorld Waterpark",
+    "websiteLink": "https://waterworldwaterpark.com/"
+  },
+  {
+    "name": "Tivoli Gardens",
+    "websiteLink": "https://www.tivoli.dk/"
+  },
+  {
+    "name": "Dream Park",
+    "websiteLink": "http://www.dreamparkegypt.com/"
+  },
+  {
+    "name": "Bora Amusement Park",
+    "websiteLink": ""
+  },
+  {
+    "name": "Disneyland Paris",
+    "websiteLink": "https://www.disneylandparis.com/"
+  },
+  {
+    "name": "Futuroscope",
+    "websiteLink": "https://www.futuroscope.com/"
+  },
+  {
+    "name": "Walt Disney Studios",
+    "websiteLink": "https://www.disneylandparis.com/"
+  },
+  {
+    "name": "Europa-Park",
+    "websiteLink": "https://www.europapark.de/en"
+  },
+  {
+    "name": "Heidepark",
+    "websiteLink": "https://www.heide-park.de/"
+  },
+  {
+    "name": "Holiday Park",
+    "websiteLink": "https://www.holidaypark.de/"
+  },
+  {
+    "name": "Movie Park Germany",
+    "websiteLink": "https://www.movieparkgermany.de/"
+  },
+  {
+    "name": "Neuschwanstein Castle",
+    "websiteLink": "https://www.neuschwanstein.de/"
+  },
+  {
+    "name": "Phantasialand",
+    "websiteLink": "https://www.phantasialand.de/en/"
+  },
+  {
+    "name": "Tropical Islands",
+    "websiteLink": "https://www.tropical-islands.de/"
+  },
+  {
+    "name": "Hong Kong Disneyland",
+    "websiteLink": "https://www.hongkongdisneyland.com/"
+  },
+  {
+    "name": "Ocean Park",
+    "websiteLink": "https://www.oceanpark.com.hk/tc"
+  },
+  {
+    "name": "Adlabs Imagica",
+    "websiteLink": ""
+  },
+  {
+    "name": "Trans Studio Bandung",
+    "websiteLink": "https://www.transstudiobandung.com/"
+  },
+  {
+    "name": "Waterbom Bali",
+    "websiteLink": "https://www.waterbom-bali.com/"
+  },
+  {
+    "name": "Tehran amusement parks",
+    "websiteLink": ""
+  },
+  {
+    "name": "The Baghdad Zoo And Entertainment Experience",
+    "websiteLink": ""
+  },
+  {
+    "name": "Superland",
+    "websiteLink": "https://www.superland.co.il/"
+  },
+  {
+    "name": "Gardaland",
+    "websiteLink": "https://www.gardaland.it/"
+  },
+  {
+    "name": "DisneySea",
+    "websiteLink": "https://www.tokyodisneyresort.jp/en/"
+  },
+  {
+    "name": "Fuji-Q Highland",
+    "websiteLink": "https://www.fujiq.jp/"
+  },
+  {
+    "name": "Rinno-ji Temple Garden - Old",
+    "websiteLink": ""
+  },
+  {
+    "name": "Tokyo Disneyland",
+    "websiteLink": "https://www.tokyodisneyresort.jp/"
+  },
+  {
+    "name": "Universal Studios Japan",
+    "websiteLink": "https://www.usj.co.jp/"
+  },
+  {
+    "name": "Aqua Park Kuwait",
+    "websiteLink": "https://www.aquaparkkuwait.com/"
+  },
+  {
+    "name": "Habtoorland",
+    "websiteLink": ""
+  },
+  {
+    "name": "Fisherman’s Wharf Macau",
+    "websiteLink": "https://www.fishermanswharf.com.mo/"
+  },
+  {
+    "name": "Cosmo's World",
+    "websiteLink": "https://www.berjayatimessquarekl.com/"
+  },
+  {
+    "name": "Legoland Malaysia",
+    "websiteLink": "https://www.legoland.com.my/"
+  },
+  {
+    "name": "Sunway Lagoon",
+    "websiteLink": "https://www.sunwaylagoon.com/"
+  },
+  {
+    "name": "Ulaanbaatar National Amusement Park",
+    "websiteLink": ""
+  },
+  {
+    "name": "Parc Sindibad",
+    "websiteLink": "http://parcsindibad.ma/"
+  },
+  {
+    "name": "Efteling",
+    "websiteLink": "https://www.efteling.nl/"
+  },
+  {
+    "name": "Rainbow's End",
+    "websiteLink": "https://rainbowsend.co.nz/"
+  },
+  {
+    "name": "Pyongyang fun fairs",
+    "websiteLink": "https://koryogroup.com/"
+  },
+  {
+    "name": "God's own theme park: Dhofar",
+    "websiteLink": "https://www.offhotels.com/"
+  },
+  {
+    "name": "Enchanted Kingdom",
+    "websiteLink": "https://www.enchantedkingdom.ph/"
+  },
+  {
+    "name": "Aqua Park Qatar",
+    "websiteLink": "http://aquaparkqatar.com/"
+  },
+  {
+    "name": "Primorsky Oceanarium",
+    "websiteLink": "https://primocean.ru/"
+  },
+  {
+    "name": "Sochi-Park",
+    "websiteLink": "https://www.sochipark.ru/en/"
+  },
+  {
+    "name": "Universal Studios Moscow",
+    "websiteLink": ""
+  },
+  {
+    "name": "Vladivostok",
+    "websiteLink": ""
+  },
+  {
+    "name": "Equarius Water Park",
+    "websiteLink": "https://www.rwsentosa.com/"
+  },
+  {
+    "name": "Har Par Villa",
+    "websiteLink": ""
+  },
+  {
+    "name": "Marine Life Park",
+    "websiteLink": "https://www.rwsentosa.com/"
+  },
+  {
+    "name": "Universal Studios Singapore",
+    "websiteLink": "https://www.rwsentosa.com/"
+  },
+  {
+    "name": "Valley of Waves",
+    "websiteLink": "https://www.suncity.co.za/"
+  },
+  {
+    "name": "Caribbean Bay",
+    "websiteLink": "https://www.everland.com/"
+  },
+  {
+    "name": "Everland",
+    "websiteLink": "https://www.everland.com/"
+  },
+  {
+    "name": "Lotte World",
+    "websiteLink": "http://www.lotteworld.com/"
+  },
+  {
+    "name": "MGM Studio Park Korea",
+    "websiteLink": ""
+  },
+  {
+    "name": "Paramount Movie Park Korea",
+    "websiteLink": ""
+  },
+  {
+    "name": "Seorak Waterpia",
+    "websiteLink": "https://www.hanwharesort.co.kr/"
+  },
+  {
+    "name": "Universal Studios Korea",
+    "websiteLink": ""
+  },
+  {
+    "name": "Costa Caribe",
+    "websiteLink": "https://www.portaventuraworld.com/"
+  },
+  {
+    "name": "Paramount Park Spain",
+    "websiteLink": ""
+  },
+  {
+    "name": "Parque Warner Madrid",
+    "websiteLink": "https://www.parquewarner.com/"
+  },
+  {
+    "name": "PortAventura",
+    "websiteLink": "https://www.portaventuraworld.com/"
+  },
+  {
+    "name": "Siam Park Tenerife",
+    "websiteLink": "https://www.siampark.net/"
+  },
+  {
+    "name": "Gröna Lund",
+    "websiteLink": "https://www.gronalund.com/"
+  },
+  {
+    "name": "Liseberg",
+    "websiteLink": "https://www.liseberg.se/"
+  },
+  {
+    "name": "Dream World",
+    "websiteLink": "https://www.dreamworld.co.th/"
+  },
+  {
+    "name": "Siam Park City",
+    "websiteLink": "https://www.siamamazingpark.com/"
+  },
+  {
+    "name": "Carthageland",
+    "websiteLink": "https://www.carthageland.com/"
+  },
+  {
+    "name": "Turkmenbashi's Land of Fairy Tales",
+    "websiteLink": ""
+  },
+  {
+    "name": "Abandoned fairground",
+    "websiteLink": ""
+  },
+  {
+    "name": "Atlantis The Palm",
+    "websiteLink": "http://www.atlantisthepalm.com/"
+  },
+  {
+    "name": "Dreamland Aquapark",
+    "websiteLink": "http://www.dreamlanduae.com/"
+  },
+  {
+    "name": "Dubailand",
+    "websiteLink": ""
+  },
+  {
+    "name": "Ferrari World",
+    "websiteLink": "https://www.ferrariworldabudhabi.com/"
+  },
+  {
+    "name": "Ice Land Water Park",
+    "websiteLink": "https://icelandwaterpark.com/"
+  },
+  {
+    "name": "Khalifa Park 'Museum'",
+    "websiteLink": "https://khalifapark.wixsite.com/khalifapark"
+  },
+  {
+    "name": "Sega Republic",
+    "websiteLink": "https://www.thedubaimall.com/"
+  },
+  {
+    "name": "Ski Dubai",
+    "websiteLink": "https://www.skidxb.com/"
+  },
+  {
+    "name": "Stargate",
+    "websiteLink": ""
+  },
+  {
+    "name": "The Universal Studios park that never was",
+    "websiteLink": ""
+  },
+  {
+    "name": "Universal Studios Dubailand",
+    "websiteLink": ""
+  },
+  {
+    "name": "Wild Wadi",
+    "websiteLink": "https://www.wildwadi.com/"
+  },
+  {
+    "name": "Wonderland",
+    "websiteLink": "https://www.wonderlanduae.com/"
+  },
+  {
+    "name": "Yas Island Water Park",
+    "websiteLink": ""
+  },
+  {
+    "name": "Yas Waterworld",
+    "websiteLink": "https://www.yaswaterworld.com/"
+  },
+  {
+    "name": "Alton Towers",
+    "websiteLink": "http://www.altontowers.com/"
+  },
+  {
+    "name": "Indiana Jones Mine Car Rollercoaster",
+    "websiteLink": ""
+  },
+  {
+    "name": "Legoland Windsor",
+    "websiteLink": "https://www.legoland.co.uk/"
+  },
+  {
+    "name": "Thorpe Park",
+    "websiteLink": "https://www.thorpepark.com/"
+  },
+  {
+    "name": "Aquatica",
+    "websiteLink": "https://www.aquatica.com/"
+  },
+  {
+    "name": "Blizzard Beach",
+    "websiteLink": "https://disneyworld.disney.go.com/"
+  },
+  {
+    "name": "Cedar Point",
+    "websiteLink": "https://www.cedarpoint.com/"
+  },
+  {
+    "name": "Discovery Cove",
+    "websiteLink": "http://www.discoverycove.com/"
+  },
+  {
+    "name": "Disney's Animal Kingdom",
+    "websiteLink": "https://disneyworld.disney.go.com/"
+  },
+  {
+    "name": "Disney's California Adventure",
+    "websiteLink": "https://disneyland.disney.go.com/"
+  },
+  {
+    "name": "Disney's Hollywood Studios",
+    "websiteLink": "https://disneyworld.disney.go.com/"
+  },
+  {
+    "name": "Disneyland",
+    "websiteLink": "http://disneyland.disney.go.com/"
+  },
+  {
+    "name": "Epcot",
+    "websiteLink": "https://disneyworld.disney.go.com/"
+  },
+  {
+    "name": "Hawaiian Waters",
+    "websiteLink": ""
+  },
+  {
+    "name": "Las Vegas",
+    "websiteLink": "https://www.visitlasvegas.com/"
+  },
+  {
+    "name": "Legoland California",
+    "websiteLink": "https://www.legoland.com/"
+  },
+  {
+    "name": "Magic Kingdom",
+    "websiteLink": "https://disneyworld.disney.go.com/"
+  },
+  {
+    "name": "SeaWorld Orlando",
+    "websiteLink": "https://seaworld.com/orlando/"
+  },
+  {
+    "name": "SeaWorld San Diego",
+    "websiteLink": "https://seaworld.com/"
+  },
+  {
+    "name": "Six Flags Discovery Kingdom",
+    "websiteLink": "https://www.sixflags.com/"
+  },
+  {
+    "name": "Splendid China Florida",
+    "websiteLink": ""
+  },
+  {
+    "name": "The Wizarding World of Harry Potter",
+    "websiteLink": "https://www.universalorlando.com/harrypotter"
+  },
+  {
+    "name": "Typhoon Lagoon",
+    "websiteLink": "https://disneyworld.disney.go.com/"
+  },
+  {
+    "name": "Universal Studios Florida",
+    "websiteLink": "https://www.universalorlando.com/"
+  },
+  {
+    "name": "Universal Studios Hollywood",
+    "websiteLink": "https://www.universalstudioshollywood.com/"
+  },
+  {
+    "name": "Universal's Islands of Adventure",
+    "websiteLink": "https://www.universalorlando.com/"
+  },
+  {
+    "name": "Wet'n Wild",
+    "websiteLink": "https://www.wetnwild.com/"
+  },
+  {
+    "name": "Happyland",
+    "websiteLink": ""
+  }
+]

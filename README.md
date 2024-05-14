@@ -16,9 +16,13 @@
 
 # Similar Sites
 
-## 36, 39, ** 41, 46, 47 **
+## ** 36, 39 ** ** 41, 46, 47 **
 
-## 10 and 28, except I was able to extract the data from this site manually
+
+## Blogs, unstructured, hardlinks
+1. `10.airsoftpal` 
+2. `28.climbphilippines` got the data manually
+3. `56.parkrovers` got the data manually (can have a code written/ waste of time)
 
 
 ## License
