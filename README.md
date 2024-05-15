@@ -19,10 +19,16 @@
 ## ** 36, 39 ** ** 41, 46, 47 **
 
 
+## Needed Nice work
+Needed to click next/loadmore buttons 
+- `27.theclimbingdirectory`
+- `29.climbodachi`
+- `35.`
+
 ## Blogs, unstructured, hardlinks
-1. `10.airsoftpal` 
-2. `28.climbphilippines` got the data manually
-3. `56.parkrovers` got the data manually (can have a code written/ waste of time)
+- `10.airsoftpal` 
+- `28.climbphilippines` got the data manually
+- `56.parkrovers` got the data manually (can have a code written/ waste of time)
 
 
 ## License
