@@ -31,4 +31,8 @@ Needed to click next/loadmore buttons
 - `56.parkrovers` got the data manually (can have a code written/ waste of time)
 
 
+## Load more 
+- `77 , 79`
+
+
 ## License
