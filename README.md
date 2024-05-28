@@ -16,8 +16,10 @@
 
 # Similar Sites
 
-## ** 36, 39 ** ** 41, 46, 47 **
-
+- **36, 39** 
+- **41, 46, 47**
+- **63** Added Regex for better parsing.
+- 
 
 ## Needed Nice work
 Needed to click next/loadmore buttons 
