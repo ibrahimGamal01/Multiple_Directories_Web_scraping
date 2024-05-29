@@ -1,6 +1,10 @@
 # Multiple Directories Web scraping and Data Extraction
 
-It can be hard to navigate some of the files at this point as 
+> :Note: **Notice:** It can be hard to navigate some of the files at this point as this is the first round over the code.
+## 2nd Round will include:
+- adding error handling logic to all the sites
+- Cleanning file namings
+- Cleaning data when possible
 
 ## Installation
 
