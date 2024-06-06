@@ -9,7 +9,8 @@ Website: `https://mykidlist.com/arcades-game-play-laser-tag/`
 
 The data extracted from this site is less structured as it is a blog. The data formatting can be enhanced using more scripting, which would consume a lot of time.
 
-This data is then saved in a JSON format. The JSON data is saved to `extracted_data.json`.
+This data is then saved in a JSON format. The JSON data is saved to `02.Data.json`.
+
 
 ### How to Use
 

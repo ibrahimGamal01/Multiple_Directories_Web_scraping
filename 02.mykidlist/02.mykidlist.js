@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-async function scrapeArcadesAndLaserTag(url) {
+async function scrapeArcadesAndLaserTag(url, retries = 3) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
@@ -39,12 +39,19 @@ async function scrapeArcadesAndLaserTag(url) {
     } catch (error) {
         console.error('Error during scraping:', error);
         await browser.close();
-        return null;
+        
+        if (retries > 0) {
+            console.log(`Retrying... (${retries} attempts left)`);
+            return scrapeArcadesAndLaserTag(url, retries - 1);
+        } else {
+            console.log('Max retries reached. Skipping this URL.');
+            return null;
+        }
     }
 }
 
 const url = 'https://mykidlist.com/arcades-game-play-laser-tag/';
-const outputFileJSON = 'scrapedData.json';
+const outputFileJSON = '02.Data.json';
 
 scrapeArcadesAndLaserTag(url)
     .then(data => {
