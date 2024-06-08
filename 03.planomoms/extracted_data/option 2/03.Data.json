@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Safari Run",
+    "link": "https://www.safarirun.com/location/plano",
+    "location": "2300 Coit Road, Suite 300, Plano, TX 75075",
+    "description": "It’s a fun and very health-conscious indoor playground and kids’ play area nearby.",
+    "highlights": "Really easy and manageable venue for parents with very young kids and multiple numbers to supervise. Be sure to leave any food or drinks at home, but they sell healthy snacks of all varieties to eat there.",
+    "notes": "Weekends are always closed to private parties, so for open play check with them for times you can drop in. Kids must wash their hands before and after playing. Healthier snack options are for sale, and they also have a fun game room – perfect for a kid’s play place and one of our favorite indoor playgrounds. Memberships are available. Check with the venue for updated pricing."
+  },
+  {
+    "name": "Kid Mania",
+    "link": "https://www.kidmania.com/",
+    "location": "7252 Chase Oaks Boulevard, Plano 75025",
+    "hours": "Monday – Thursday 10 am – 9 pm, Friday 10 am – 10 pm, Saturday 9 am – 10 pm, Sunday 11 am – 8 pm",
+    "description": "A safe and fun play place for kids of all ages to climb and explore with an area for toddlers to play within this indoor playground.",
+    "highlights": "Perfect for a rainy day or when it’s too hot with tons of toddler activities nearby and a really big indoor play structure. Prices depend on age. Kid Mania also has a great snack bar and a fun game room with an arcade upstairs.",
+    "notes": "Bring socks for the kids or buy them at $1 a pair."
+  },
+  {
+    "name": "The Shops at Willow Bend",
+    "link": "https://www.shopwillowbend.com/services/play-area",
+    "description": "The small but perfectly formed indoor kids play space can get crowded but this is a great free option nearby!",
+    "location": "Located on the lower level near Crate & Barrel.",
+    "highlights": "Perfect for toddlers that need to get some wiggles out. With a nod to Plano and its historic Haggard Park, the mall’s new 1,960-square-foot Plano Playground will welcome little ones with a gazebo. Once inside, they’ll enjoy climbing on the soft, one-of-a-kind play pieces including a water fountain, slide, sandbox, teeter totter, fire truck, ambulance, and merry-go-round, all constructed of hand-sculpted, kid-friendly foam.",
+    "notes": "Kids can rock and ride the mascots of local high schools — Plano East, Plano West, and Plano Senior High. A hot air balloon lights the play action from above. Along with an interactive game wall that looks like the hospital, a scavenger hunt in the play area will feature hidden hospital icons for children to find, evoking the popular Highlights magazine often found in doctors’ offices. The multi-sensory play area includes sound-chip technology, adding surprise and delight to complete the experience. The play area is suitable for children 42 inches or shorter."
+  },
+  {
+    "name": "Library Story Time",
+    "link": "https://planomoms.com/plano-libraries/",
+    "description": "Another free option and perfect for younger kids at any of the Plano Libraries!",
+    "highlights": "If you have older kids then make sure they are checking out books for their summer reading list and participating in the Barnes and Noble summer reading program to earn free books!"
+  },
+  {
+    "name": "Playstreet Museum",
+    "link": "https://www.playstreetmuseum.com/plano/",
+    "location": "964 W Parker Rd #120, Plano, TX 75093",
+    "description": "This is such a cute place for younger kids to create and play.",
+    "pricing": "The cost is $13 for children 1-8. Children younger or older are free.",
+    "highlights": "Themed as the great outdoors, this indoor playground center is currently offering playtime by reservation as well as birthday parties and events."
+  },
+  {
+    "name": "Prestonwood Baptist Church Playspace",
+    "link": "https://prestonwood.org/connect/children/indoor-playground-2/",
+    "location": "6801 W. Park Blvd. Plano, TX. 75093",
+    "description": "(10 and under only) FREE!!!",
+    "hours": "Open Monday – Friday 10 am – 4 pm",
+    "highlights": "Restrooms & water fountains are available at this clean and easily accessible indoor playground and kids play area. It’s a really fun place for kids nearby."
+  },
+  {
+    "name": "Monster Yogurt",
+    "link": "https://www.scarytastesgood.com/",
+    "location": "1360 W Campbell Rd, Ste 101, Richardson, TX 75080 (Next to Tom Thumb)",
+    "description": "A frozen yogurt place with a kids play area?? Yes!",
+    "highlights": "The indoor playground area is small but it will give the kids something to do when they are done eating. This isn’t exactly Plano, but really close in Richardson off Coit/Campbell area! There is also a Dallas location."
+  },
+  {
+    "name": "Crayola Experience Plano",
+    "link": "https://planomoms.com/crayolaexperienceplano/",
+    "location": "The Shops at Willow Bend",
+    "description": "This huge indoor playground space is a great option if you’re looking for a bigger kids play area or kid play place with tons of toddler activities nearby.",
+    "pricing": "Discounted daily rate of $5.50 off or you could invest in membership too at a discount rate. Buy here",
+    "highlights": "We have tons of Top Tips to enjoy it as a family."
+  },
+  {
+    "name": "Kidzania",
+    "link": "https://planomoms.com/kidzania-the-first-mini-city-for-kids-in-frisco/",
+    "location": "Stonebriar Mall, 2601 Preston Road, Suite 3011, Frisco, Texas 75034",
+    "description": "Every activity at KidZania is the perfect combination of fun and learning – one of our favorite fun places for kids.",
+    "highlights": "For example, children learn about human anatomy while performing surgery on a mannequin at the Hospital, get a degree in archaeology at the University, or create a nutrition & workout plan at the Fitness Studio. Each activity is created by professional educators to blend in the local school curriculum for deeper, more advanced outside-the-classroom learning.",
+    "hours": "Currently open Friday 2 pm – 8 pm, Saturday & Sunday 12 pm – 7 pm",
+    "pricing": "Children 3 and under FREE, Children 4-5 $14.95, Children 6-14 – $42.95, Adults 15+ years – $14.95. Super fun for Kids for a half-day or all day trip (but best suited for kids over the age of 4)"
+  },
+  {
+    "name": "Dino Kidz",
+    "link": "https://dinokidzplaycenter.com/",
+    "location": "1201 W. McDermott Drive, #112, Allen, Texas 75013",
+    "description": "Dino Kidz is a children’s indoor playground designed for the excitement of our young visitors.",
+    "pricing": "$11.99 per child $10.99 for siblings, one adult free with each child. Must wear socks.",
+    "highlights": "Kids can celebrate with the ultimate birthday party, or develop their fine and gross motor skills through play, unique classes, and using their imagination in a safe, clean environment. (10 months – 7 years). Up to 10 year olds are allowed for a private birthday party.",
+    "hours": "Vary. They offer Storytime every Tuesday and Thursday."
+  },
+  {
+    "name": "Frisco Fire Safety Town",
+    "link": "http://www.friscofiresafetytown.com/",
+    "location": "8601 Gary Burns Dr, Frisco, TX 75034",
+    "hours": "Monday to Friday 8 am – 5 pm",
+    "notes": "Tours are available by appointment only."
+  },
+  {
+    "name": "Sci-Tech Discovery Center",
+    "link": "https://planomoms.com/directory-listing/sci-tech-discovery-center/",
+    "location": "8004 Dallas Pkwy, Frisco, TX 75034",
+    "hours": "Opens at 10 am (open Tuesday – Sunday)",
+    "pricing": "Currently offering timed tickets, $10 for ages 3 and up",
+    "notes": "Many of these offer Kids Play places nearby offer free entrance with the purchase of a Pogo Pass."
+  }
+]
