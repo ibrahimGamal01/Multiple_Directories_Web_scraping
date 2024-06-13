@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Altidude Climbing Gym",
+    "address": "No.2 & 3, Lower Ground The Hills, Interhill Place, No, 8, Jalan Bukit Mata Kuching, Kuching City, 93100 Kuching, Sarawak, Malaysia",
+    "description": "Opening Hours: Mon Closed; Tue-Fri 2pm-10pm; Sat-Sun 11am-7.30pm",
+    "openHours": " Mon Closed; Tue-Fri 2pm-10pm; Sat-Sun 11am-7.30pm",
+    "phone": " Mon Closed; Tue-Fri 2pm-10pm; Sat-Sun 11am-7.30pm",
+    "extraLink": "https://www.facebook.com/Altidude-Climbing-Company-2226121700754382/"
+  },
+  {
+    "name": "Banana Climbing Gym",
+    "address": "10, Jalan Sibuga, 90000 Sandakan, Sabah, Malaysia",
+    "description": "Opening Hours: Mon Closed; Tue-Fri 4pm-9pm; Sat-Sun 12pm-7pm\nContact No.: +60 8 966 5448",
+    "openHours": " Mon Closed; Tue-Fri 4pm-9pm; Sat-Sun 12pm-7pm",
+    "phone": " +60 8 966 5448",
+    "extraLink": "https://www.facebook.com/bananaclimbinggym/"
+  },
+  {
+    "name": "Bolder Ventures Climbing Gym",
+    "address": "11, Jalan Industri USJ 1/2, Taman Perindustrian Usj 1, 47600 Subang Jaya, Selangor, Malaysia",
+    "description": "Opening Hours: Mon-Fri 2.30pm-10pm; Sat 10.30am-6pm; Sun Closed\nContact No.: +60 38 023 4948",
+    "openHours": " Mon-Fri 2.30pm-10pm; Sat 10.30am-6pm; Sun Closed",
+    "phone": " +60 38 023 4948",
+    "extraLink": "https://www.bolderventures.com.my/"
+  },
+  {
+    "name": "BUMP Bouldering",
+    "address": "Lot 1.051, Level 1, The School, Jaya One, 72A Jalan Universiti, PJS 13, Petaling Jaya, 46200 Selangor, Malaysia",
+    "description": "Opening Hours: Mon-Sun 10am to 10pm",
+    "openHours": " Mon-Sun 10am to 10pm",
+    "phone": " Mon-Sun 10am to 10pm",
+    "extraLink": "https://www.bumpbouldering.com/"
+  },
+  {
+    "name": "BUMP Bouldering 2.0",
+    "address": "Lot 5.84-01, Level 5, 2, Pavilion Bukit Jalil, Persiaran Jalil 8, Bukit Jalil, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+    "description": "Opening Hours: Mon-Sun 10am to 10pm",
+    "openHours": null,
+    "phone": null,
+    "extraLink": "https://www.bumpbouldering.com/"
+  },
+  {
+    "name": "Camp5 Climbing Gym – 1Utama",
+    "address": "5th Floor, 1 Utama Shopping Centre, 1, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor, Malaysia",
+    "description": "Opening Hours: Mon-Fri 12pm-11pm; Sat-Sun 10am-8pm\nContact No.: +60 37 726 0410",
+    "openHours": " Mon-Fri 12pm-11pm; Sat-Sun 10am-8pm",
+    "phone": " +60 37 726 0410",
+    "extraLink": "http://www.camp5.com/"
+  },
+  {
+    "name": "Camp5 Climbing Gym – Eco City",
+    "address": "Lot 07 & 08, 4th Floor KL Eco City Mall, Jalan Bangsar, Bangsar, 59200 Kuala Lumpur, Malaysia",
+    "description": "Opening Hours: Mon-Sun 10am-10pm\nContact No.: +60 32 201 4360",
+    "openHours": " Mon-Sun 10am-10pm",
+    "phone": " +60 32 201 4360",
+    "extraLink": "http://www.camp5.com/"
+  },
+  {
+    "name": "Camp5 Climbing Gym – Jumpa",
+    "address": "3rd Floor, Jumpa Sungai Wang Mall, Jalan Sultan Ismail, Bukit Bintang, 59200 Kuala Lumpur, Malaysia",
+    "description": "Opening Hours: Mon-Sun 10am-10pm\nContact No.: +60 32 713 7128/29",
+    "openHours": " Mon-Sun 10am-10pm",
+    "phone": " +60 32 713 7128/29",
+    "extraLink": "http://www.camp5.com/"
+  },
+  {
+    "name": "Camp5 Climbing Gym – Paradigm",
+    "address": "Paradigm Mall, 7F-08 Level 7, Skudai, Jalan Bertingkat Skudai, 81200 Johor Bahru, Johor, Malaysia",
+    "description": "Opening Hours: Mon-Sun 10am-10pm\nContact No.: +60 72 32 7783",
+    "openHours": " Mon-Sun 10am-10pm",
+    "phone": " +60 72 32 7783",
+    "extraLink": "http://www.camp5.com/"
+  },
+  {
+    "name": "Camp5 Climbing Gym – Utropolis",
+    "address": "Lot UG- D1a, Utropolis Marketplace, Jalan Kontraktor U1/14, Sek U1, 40150 Shah Alam, Selangor, Malaysia",
+    "description": "Opening Hours: Mon-Sun 10am-10pm\nContact No.: +60 35 036 0160",
+    "openHours": " Mon-Sun 10am-10pm",
+    "phone": " +60 35 036 0160",
+    "extraLink": "http://www.camp5.com/"
+  },
+  {
+    "name": "Camp5 KL East",
+    "address": "Level G3 & L1 , KL East Mall Jln Lingkaran Tengah 2, 53100 Kuala Lumpur",
+    "description": "Opening Hours: Mon-Fri 12pm-10pm ; Sat/Sun 10am-8pm\nContact No.: +6 03 4101 2128",
+    "openHours": null,
+    "phone": null,
+    "extraLink": "https://www.camp5.com/kleast/"
+  },
+  {
+    "name": "HangOut Climbing Gym – Gelugor",
+    "address": "The Palazzia, 97-01-23 & 97-01-23A, Jalan Bukit Gambir, 11700 Gelugor, Pulau Pinang, Malaysia",
+    "description": "Opening Hours: Mon-Sun 10am-10pm\nContact No.: +60 16 776 7733",
+    "openHours": " Mon-Sun 10am-10pm",
+    "phone": " +60 16 776 7733",
+    "extraLink": "https://www.facebook.com/HangOutClimbingGym"
+  },
+  {
+    "name": "HangOut Climbing Gym – Jelutong",
+    "address": "1-L5-28, Metro Avenue, Lintang Hajjah Rehmah, 11600 Jelutong, Pulau Pinang, Malaysia",
+    "description": "Opening Hours: Mon-Sun 10am-10pm\nContact No.: +60 16 776 7733",
+    "openHours": " Mon-Sun 10am-10pm",
+    "phone": " +60 16 776 7733",
+    "extraLink": "https://www.facebook.com/HangOutClimbingGym"
+  },
+  {
+    "name": "KilmbZone",
+    "address": "2nd Floor, Sublot 10, Lots 659 & 660, Block 17, KCLD, Jalan Lapangan Terbang, 93350 Kuching, Sarawak, Malaysia",
+    "description": "Opening Hours: Mon-Fri 12pm-10pm; Sat-Sun 11am-7pm\n\nContact No.: +60 82 615 615",
+    "openHours": " Mon-Fri 12pm-10pm; Sat-Sun 11am-7pm",
+    "phone": " Mon-Fri 12pm-10pm; Sat-Sun 11am-7pm",
+    "extraLink": "https://klimbzone.com/"
+  },
+  {
+    "name": "Madmonkeyz Climbing Gym",
+    "address": "19-1 & 19-2, Jalan Metro Wangsa, Section 2 Wangsa Maju, 53300, Kuala Lumpur, Wilayah Persekutuan, 53300, Malaysia",
+    "description": "Opening Hours: Mon 6pm-11pm; Tue-Fri 2pm-11pm; Sat-Sun 10am-7pm\nContact No.: +60 34 142 0698",
+    "openHours": " Mon 6pm-11pm; Tue-Fri 2pm-11pm; Sat-Sun 10am-7pm",
+    "phone": " +60 34 142 0698",
+    "extraLink": "https://madmonkeyz.my/"
+  },
+  {
+    "name": "Overtime Bouldering Gym",
+    "address": "G-13, Blok B, Permas City, Kawasan Perdagangan Permas Utara, Jalan Permas Utara, Permas Jaya, 81750 Masai, Johor, Malaysia",
+    "description": "Opening Hours: Mon-Fri 4pm-12am; Sat/Sun 10am-10pm",
+    "openHours": null,
+    "phone": null,
+    "extraLink": null
+  },
+  {
+    "name": "PAMPA Rock Climbing",
+    "address": "2 Jalan KSB 2, Taman Kota Syahbandar, 75200 Malacca City",
+    "description": "Opening Hours: Sat-Mon Closed; Tue-Fri 2pm-10pm\n\nContact No.: +60 16 710 2622",
+    "openHours": " Sat-Mon Closed; Tue-Fri 2pm-10pm",
+    "phone": " Sat-Mon Closed; Tue-Fri 2pm-10pm",
+    "extraLink": "https://pampaclimbing.com/"
+  },
+  {
+    "name": "Petit Climbing Center",
+    "address": "Lot 432, Taman Saujana, Petong, Jalan Saujana Utama, Taman Saujana, 81750 Johor Bahru, Johor, Malaysia",
+    "description": "Opening Hours: Mon Closed; Tue-Thu 12pm-9pm; Sat-Sun 11am-9pm\nContact No.: +60 19 716 6222",
+    "openHours": " Mon Closed; Tue-Thu 12pm-9pm; Sat-Sun 11am-9pm",
+    "phone": " +60 19 716 6222",
+    "extraLink": "http://www.petitoutdoor.com.my/"
+  },
+  {
+    "name": "Project Rock - Gurney Plaza",
+    "address": "170-07-12A, Plaza Gurney, Persiaran Gurney, 10250 George Town, Penang, Malaysia",
+    "description": "Opening Hours: Mon-Sun 10am-10pm\nContact No.: +60 4228 3300",
+    "openHours": " Mon-Sun 10am-10pm",
+    "phone": " +60 4228 3300",
+    "extraLink": "https://www.projectrock.com.my/"
+  },
+  {
+    "name": "Project Rock – Batu Kawan",
+    "address": "L1.10, IKEA Batu Kawan – Link Building, Aspen Vision City, Lebuhraya Bandar Cassia, 14110 Batu Kawan, Pulau Pinang, Malaysia",
+    "description": "Opening Hours: Mon-Sun 10am-10pm\nContact No.: +60 10 948 3009",
+    "openHours": " Mon-Sun 10am-10pm",
+    "phone": " +60 10 948 3009",
+    "extraLink": "https://www.projectrock.com.my/"
+  },
+  {
+    "name": "Putrajaya Challenge Park",
+    "address": "Jalan P5, Presint 5, 62200 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",
+    "description": "Opening Hours: Mon-Tue 10am-8pm; Wed 10am-10pm; Thu 10am-8pm; Fri 10am-12.30pm, 3pm-10pm; Sat-Sun 10am-8pm\nContact No.: +60 38 887 7000",
+    "openHours": " Mon-Tue 10am-8pm; Wed 10am-10pm; Thu 10am-8pm; Fri 10am-12.30pm, 3pm-10pm; Sat-Sun 10am-8pm",
+    "phone": " +60 38 887 7000",
+    "extraLink": "https://www.facebook.com/Putrajaya.Challenge.Park/"
+  },
+  {
+    "name": "Rockworld",
+    "address": "Setia Business Park 2, 81300 Skudai, Johor, Malaysia",
+    "description": "Opening Hours: Mon Closed; Tue-Fri 6pm-11.30pm; Sat-Sun 10am-10pm\nContact No.: +60 19 772 9338",
+    "openHours": " Mon Closed; Tue-Fri 6pm-11.30pm; Sat-Sun 10am-10pm",
+    "phone": " +60 19 772 9338",
+    "extraLink": "https://www.facebook.com/Rockworldjb/"
+  },
+  {
+    "name": "Rocky Basecamp – Shah Alam",
+    "address": "Lot T05, Level 3, 1 64, 13, Persiaran Akuatik, Seksyen 13, 40100 Shah Alam, Selangor, Malaysia",
+    "description": "Opening Hours: Mon-Sun 11am-10pm\nContact No.: +60 35 524 1020",
+    "openHours": " Mon-Sun 11am-10pm",
+    "phone": " +60 35 524 1020",
+    "extraLink": "http://www.rockybasecamp.com/"
+  },
+  {
+    "name": "Rocky Basecamp Tebrau City",
+    "address": "F102A, Level 1, Lot, Taman Desa Tebrau, 81100 Johor Bahru, Johor, Malaysia",
+    "description": "Opening Hours: Mon-Sun 10am-10pm\nContact No.: +60 17 228 5068",
+    "openHours": " Mon-Sun 10am-10pm",
+    "phone": " +60 17 228 5068",
+    "extraLink": "http://www.rockybasecamp.com/"
+  },
+  {
+    "name": "Sabah Indoor Climbing Centre",
+    "address": "24, Jalan Burung Puin, Taman Yakim Jaya, 88450 Kota Kinabalu, Sabah, Malaysia",
+    "description": "Opening Hours: Mon Closed; Tue-Fri 4pm-9pm; Sat-Sun 12pm-9pm\nContact No.: +60 19 883 7341",
+    "openHours": " Mon Closed; Tue-Fri 4pm-9pm; Sat-Sun 12pm-9pm",
+    "phone": " +60 19 883 7341",
+    "extraLink": "https://www.facebook.com/climbsabah/"
+  }
+]
