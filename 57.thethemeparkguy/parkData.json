@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Crocosaurus Cove",
+    "websiteLink": "https://www.crocosauruscove.com/",
+    "location": "Australia, Oceania"
+  },
+  {
+    "name": "Dreamworld",
+    "websiteLink": "https://www.dreamworld.com.au/",
+    "location": "Australia, Oceania"
+  },
+  {
+    "name": "Sea World Australia",
+    "websiteLink": "https://seaworld.com.au/",
+    "location": "Australia, Oceania"
+  },
+  {
+    "name": "Sydney's lost theme parks",
+    "websiteLink": "",
+    "location": "Australia, Oceania"
+  },
+  {
+    "name": "Warner Brothers Movie World",
+    "websiteLink": "https://movieworld.myfun.com.au/",
+    "location": "Australia, Oceania"
+  },
+  {
+    "name": "Wet'n'Wild Water World",
+    "websiteLink": "https://www.wetnwild.com.au/",
+    "location": "Australia, Oceania"
+  },
+  {
+    "name": "WhiteWater World",
+    "websiteLink": "https://www.whitewaterworld.com.au/",
+    "location": "Australia, Oceania"
+  },
+  {
+    "name": "Atlantis Bahamas",
+    "websiteLink": "https://www.atlantis.com/",
+    "location": "Bahamas, Central America"
+  },
+  {
+    "name": "Lost Paradise of Dilmun",
+    "websiteLink": "https://lpodwaterpark.com/",
+    "location": "Bahrain, Middle East"
+  },
+  {
+    "name": "Hopi Hari",
+    "websiteLink": "",
+    "location": "Brazil, South America"
+  },
+  {
+    "name": "Jerudong Park",
+    "websiteLink": "https://www.jerudongpark.com/",
+    "location": "Brunei, Southeast Asia"
+  },
+  {
+    "name": "Siem Reap funfair",
+    "websiteLink": "",
+    "location": "Cambodia, Southeast Asia"
+  },
+  {
+    "name": "WhiteWater West factory",
+    "websiteLink": "https://www.whitewaterwest.com/",
+    "location": "Canada, North America"
+  },
+  {
+    "name": "Chimelong Ocean Kingdom",
+    "websiteLink": "https://www.chimelong.com/",
+    "location": "China, Asia"
+  },
+  {
+    "name": "Chimelong Paradise",
+    "websiteLink": "http://www.chimelong.com/",
+    "location": "China, Asia"
+  },
+  {
+    "name": "Chimelong Waterpark",
+    "websiteLink": "https://www.chimelong.com/",
+    "location": "China, Asia"
+  },
+  {
+    "name": "Happy Valley Beijing",
+    "websiteLink": "http://bj.happyvalley.cn/",
+    "location": "China, Asia"
+  },
+  {
+    "name": "Happy Valley Chengdu",
+    "websiteLink": "http://cd.happyvalley.cn/",
+    "location": "China, Asia"
+  },
+  {
+    "name": "Happy Valley Shenzhen",
+    "websiteLink": "http://sz.happyvalley.cn/",
+    "location": "China, Asia"
+  },
+  {
+    "name": "Happy Valley Sheshan",
+    "websiteLink": "http://www.happyvalley.cn/",
+    "location": "China, Asia"
+  },
+  {
+    "name": "Happy Valley Wuhan",
+    "websiteLink": "",
+    "location": "China, Asia"
+  },
+  {
+    "name": "OCT East",
+    "websiteLink": "https://www.chinaoct.com/octresort/en/english.htm",
+    "location": "China, Asia"
+  },
+  {
+    "name": "Shanghai Disneyland",
+    "websiteLink": "https://www.shanghaidisneyresort.com/",
+    "location": "China, Asia"
+  },
+  {
+    "name": "Universal Studios Beijing",
+    "websiteLink": "",
+    "location": "China, Asia"
+  },
+  {
+    "name": "Window of the World",
+    "websiteLink": "https://www.szwwco.com/",
+    "location": "China, Asia"
+  },
+  {
+    "name": "World Joyland",
+    "websiteLink": "",
+    "location": "China, Asia"
+  },
+  {
+    "name": "Fasouri Watermania",
+    "websiteLink": "http://www.fasouri-watermania.com/",
+    "location": "Cyprus, Europe"
+  },
+  {
+    "name": "WaterWorld Waterpark",
+    "websiteLink": "https://waterworldwaterpark.com/",
+    "location": "Cyprus, Europe"
+  },
+  {
+    "name": "Tivoli Gardens",
+    "websiteLink": "https://www.tivoli.dk/",
+    "location": "Denmark, Europe"
+  },
+  {
+    "name": "Dream Park",
+    "websiteLink": "http://www.dreamparkegypt.com/",
+    "location": "Egypt, Africa"
+  },
+  {
+    "name": "Bora Amusement Park",
+    "websiteLink": "",
+    "location": "Ethiopia, Africa"
+  },
+  {
+    "name": "Disneyland Paris",
+    "websiteLink": "https://www.disneylandparis.com/",
+    "location": "France, Europe"
+  },
+  {
+    "name": "Futuroscope",
+    "websiteLink": "https://www.futuroscope.com/",
+    "location": "France, Europe"
+  },
+  {
+    "name": "Walt Disney Studios",
+    "websiteLink": "https://www.disneylandparis.com/",
+    "location": "France, Europe"
+  },
+  {
+    "name": "Europa-Park",
+    "websiteLink": "https://www.europapark.de/en",
+    "location": "Germany, Europe"
+  },
+  {
+    "name": "Heidepark",
+    "websiteLink": "https://www.heide-park.de/",
+    "location": "Germany, Europe"
+  },
+  {
+    "name": "Holiday Park",
+    "websiteLink": "https://www.holidaypark.de/",
+    "location": "Germany, Europe"
+  },
+  {
+    "name": "Movie Park Germany",
+    "websiteLink": "https://www.movieparkgermany.de/",
+    "location": "Germany, Europe"
+  },
+  {
+    "name": "Neuschwanstein Castle",
+    "websiteLink": "https://www.neuschwanstein.de/",
+    "location": "Germany, Europe"
+  },
+  {
+    "name": "Phantasialand",
+    "websiteLink": "https://www.phantasialand.de/en/",
+    "location": "Germany, Europe"
+  },
+  {
+    "name": "Tropical Islands",
+    "websiteLink": "https://www.tropical-islands.de/",
+    "location": "Germany, Europe"
+  },
+  {
+    "name": "Hong Kong Disneyland",
+    "websiteLink": "https://www.hongkongdisneyland.com/",
+    "location": "Hong Kong, Asia"
+  },
+  {
+    "name": "Ocean Park",
+    "websiteLink": "https://www.oceanpark.com.hk/tc",
+    "location": "Hong Kong, Asia"
+  },
+  {
+    "name": "Adlabs Imagica",
+    "websiteLink": "",
+    "location": "India, Asia"
+  },
+  {
+    "name": "Trans Studio Bandung",
+    "websiteLink": "https://www.transstudiobandung.com/",
+    "location": "Indonesia, Southeast Asia"
+  },
+  {
+    "name": "Waterbom Bali",
+    "websiteLink": "https://www.waterbom-bali.com/",
+    "location": "Indonesia, Southeast Asia"
+  },
+  {
+    "name": "Tehran amusement parks",
+    "websiteLink": "",
+    "location": "Iran, Middle East"
+  },
+  {
+    "name": "The Baghdad Zoo And Entertainment Experience",
+    "websiteLink": "",
+    "location": "Iraq, Middle East"
+  },
+  {
+    "name": "Superland",
+    "websiteLink": "https://www.superland.co.il/",
+    "location": "Israel, Middle East"
+  },
+  {
+    "name": "Gardaland",
+    "websiteLink": "https://www.gardaland.it/",
+    "location": "Italy, Europe"
+  },
+  {
+    "name": "DisneySea",
+    "websiteLink": "https://www.tokyodisneyresort.jp/en/",
+    "location": "Japan, Asia"
+  },
+  {
+    "name": "Fuji-Q Highland",
+    "websiteLink": "https://www.fujiq.jp/",
+    "location": "Japan, Asia"
+  },
+  {
+    "name": "Rinno-ji Temple Garden - Old",
+    "websiteLink": "",
+    "location": "Japan, Asia"
+  },
+  {
+    "name": "Tokyo Disneyland",
+    "websiteLink": "https://www.tokyodisneyresort.jp/",
+    "location": "Japan, Asia"
+  },
+  {
+    "name": "Universal Studios Japan",
+    "websiteLink": "https://www.usj.co.jp/",
+    "location": "Japan, Asia"
+  },
+  {
+    "name": "Aqua Park Kuwait",
+    "websiteLink": "https://www.aquaparkkuwait.com/",
+    "location": "Kuwait, Middle East"
+  },
+  {
+    "name": "Habtoorland",
+    "websiteLink": "",
+    "location": "Lebanon, Middle East"
+  },
+  {
+    "name": "Fisherman’s Wharf Macau",
+    "websiteLink": "https://www.fishermanswharf.com.mo/",
+    "location": "Macau, Asia"
+  },
+  {
+    "name": "Cosmo's World",
+    "websiteLink": "https://www.berjayatimessquarekl.com/",
+    "location": "Malaysia, Southeast Asia"
+  },
+  {
+    "name": "Legoland Malaysia",
+    "websiteLink": "https://www.legoland.com.my/",
+    "location": "Malaysia, Southeast Asia"
+  },
+  {
+    "name": "Sunway Lagoon",
+    "websiteLink": "https://www.sunwaylagoon.com/",
+    "location": "Malaysia, Southeast Asia"
+  },
+  {
+    "name": "Ulaanbaatar National Amusement Park",
+    "websiteLink": "",
+    "location": "Mongolia, Asia"
+  },
+  {
+    "name": "Parc Sindibad",
+    "websiteLink": "http://parcsindibad.ma/",
+    "location": "Morocco, Africa"
+  },
+  {
+    "name": "Efteling",
+    "websiteLink": "https://www.efteling.nl/",
+    "location": "Netherlands, Europe"
+  },
+  {
+    "name": "Rainbow's End",
+    "websiteLink": "https://rainbowsend.co.nz/",
+    "location": "New Zealand, Oceania"
+  },
+  {
+    "name": "Pyongyang fun fairs",
+    "websiteLink": "https://koryogroup.com/",
+    "location": "North Korea, Asia"
+  },
+  {
+    "name": "God's own theme park: Dhofar",
+    "websiteLink": "https://www.offhotels.com/",
+    "location": "Oman, Middle East"
+  },
+  {
+    "name": "Enchanted Kingdom",
+    "websiteLink": "https://www.enchantedkingdom.ph/",
+    "location": "Philippines, Southeast Asia"
+  },
+  {
+    "name": "Aqua Park Qatar",
+    "websiteLink": "http://aquaparkqatar.com/",
+    "location": "Qatar, Middle East"
+  },
+  {
+    "name": "Primorsky Oceanarium",
+    "websiteLink": "https://primocean.ru/",
+    "location": "Russia, Europe"
+  },
+  {
+    "name": "Sochi-Park",
+    "websiteLink": "https://www.sochipark.ru/en/",
+    "location": "Russia, Europe"
+  },
+  {
+    "name": "Universal Studios Moscow",
+    "websiteLink": "",
+    "location": "Russia, Europe"
+  },
+  {
+    "name": "Vladivostok",
+    "websiteLink": "",
+    "location": "Russia, Europe"
+  },
+  {
+    "name": "Equarius Water Park",
+    "websiteLink": "https://www.rwsentosa.com/",
+    "location": "Singapore, Southeast Asia"
+  },
+  {
+    "name": "Har Par Villa",
+    "websiteLink": "",
+    "location": "Singapore, Southeast Asia"
+  },
+  {
+    "name": "Marine Life Park",
+    "websiteLink": "https://www.rwsentosa.com/",
+    "location": "Singapore, Southeast Asia"
+  },
+  {
+    "name": "Universal Studios Singapore",
+    "websiteLink": "https://www.rwsentosa.com/",
+    "location": "Singapore, Southeast Asia"
+  },
+  {
+    "name": "Valley of Waves",
+    "websiteLink": "https://www.suncity.co.za/",
+    "location": "South Africa, Africa"
+  },
+  {
+    "name": "Caribbean Bay",
+    "websiteLink": "https://www.everland.com/",
+    "location": "South Korea, Asia"
+  },
+  {
+    "name": "Everland",
+    "websiteLink": "https://www.everland.com/",
+    "location": "South Korea, Asia"
+  },
+  {
+    "name": "Lotte World",
+    "websiteLink": "http://www.lotteworld.com/",
+    "location": "South Korea, Asia"
+  },
+  {
+    "name": "MGM Studio Park Korea",
+    "websiteLink": "",
+    "location": "South Korea, Asia"
+  },
+  {
+    "name": "Paramount Movie Park Korea",
+    "websiteLink": "",
+    "location": "South Korea, Asia"
+  },
+  {
+    "name": "Seorak Waterpia",
+    "websiteLink": "https://www.hanwharesort.co.kr/",
+    "location": "South Korea, Asia"
+  },
+  {
+    "name": "Universal Studios Korea",
+    "websiteLink": "",
+    "location": "South Korea, Asia"
+  },
+  {
+    "name": "Costa Caribe",
+    "websiteLink": "https://www.portaventuraworld.com/",
+    "location": "Spain, Europe"
+  },
+  {
+    "name": "Paramount Park Spain",
+    "websiteLink": "",
+    "location": "Spain, Europe"
+  },
+  {
+    "name": "Parque Warner Madrid",
+    "websiteLink": "https://www.parquewarner.com/",
+    "location": "Spain, Europe"
+  },
+  {
+    "name": "PortAventura",
+    "websiteLink": "https://www.portaventuraworld.com/",
+    "location": "Spain, Europe"
+  },
+  {
+    "name": "Siam Park Tenerife",
+    "websiteLink": "https://www.siampark.net/",
+    "location": "Spain, Europe"
+  },
+  {
+    "name": "Gröna Lund",
+    "websiteLink": "https://www.gronalund.com/",
+    "location": "Sweden, Europe"
+  },
+  {
+    "name": "Liseberg",
+    "websiteLink": "https://www.liseberg.se/",
+    "location": "Sweden, Europe"
+  },
+  {
+    "name": "Dream World",
+    "websiteLink": "https://www.dreamworld.co.th/",
+    "location": "Thailand, Southeast Asia"
+  },
+  {
+    "name": "Siam Park City",
+    "websiteLink": "https://www.siamamazingpark.com/",
+    "location": "Thailand, Southeast Asia"
+  },
+  {
+    "name": "Carthageland",
+    "websiteLink": "https://www.carthageland.com/",
+    "location": "Tunisia, Africa"
+  },
+  {
+    "name": "Turkmenbashi's Land of Fairy Tales",
+    "websiteLink": "",
+    "location": "Turkmenistan, Asia"
+  },
+  {
+    "name": "Abandoned fairground",
+    "websiteLink": "",
+    "location": "Ukraine, Europe"
+  },
+  {
+    "name": "Atlantis The Palm",
+    "websiteLink": "http://www.atlantisthepalm.com/",
+    "location": "United Arab Emirates, Middle East"
+  },
+  {
+    "name": "Dreamland Aquapark",
+    "websiteLink": "http://www.dreamlanduae.com/",
+    "location": "United Arab Emirates, Middle East"
+  },
+  {
+    "name": "Dubailand",
+    "websiteLink": "",
+    "location": "United Arab Emirates, Middle East"
+  },
+  {
+    "name": "Ferrari World",
+    "websiteLink": "https://www.ferrariworldabudhabi.com/",
+    "location": "United Arab Emirates, Middle East"
+  },
+  {
+    "name": "Ice Land Water Park",
+    "websiteLink": "https://icelandwaterpark.com/",
+    "location": "United Arab Emirates, Middle East"
+  },
+  {
+    "name": "Khalifa Park 'Museum'",
+    "websiteLink": "https://khalifapark.wixsite.com/khalifapark",
+    "location": "United Arab Emirates, Middle East"
+  },
+  {
+    "name": "Sega Republic",
+    "websiteLink": "https://www.thedubaimall.com/",
+    "location": "United Arab Emirates, Middle East"
+  },
+  {
+    "name": "Ski Dubai",
+    "websiteLink": "https://www.skidxb.com/",
+    "location": "United Arab Emirates, Middle East"
+  },
+  {
+    "name": "Stargate",
+    "websiteLink": "",
+    "location": "United Arab Emirates, Middle East"
+  },
+  {
+    "name": "The Universal Studios park that never was",
+    "websiteLink": "",
+    "location": "United Arab Emirates, Middle East"
+  },
+  {
+    "name": "Universal Studios Dubailand",
+    "websiteLink": "",
+    "location": "United Arab Emirates, Middle East"
+  },
+  {
+    "name": "Wild Wadi",
+    "websiteLink": "https://www.wildwadi.com/",
+    "location": "United Arab Emirates, Middle East"
+  },
+  {
+    "name": "Wonderland",
+    "websiteLink": "https://www.wonderlanduae.com/",
+    "location": "United Arab Emirates, Middle East"
+  },
+  {
+    "name": "Yas Island Water Park",
+    "websiteLink": "",
+    "location": "United Arab Emirates, Middle East"
+  },
+  {
+    "name": "Yas Waterworld",
+    "websiteLink": "https://www.yaswaterworld.com/",
+    "location": "United Arab Emirates, Middle East"
+  },
+  {
+    "name": "Alton Towers",
+    "websiteLink": "http://www.altontowers.com/",
+    "location": "United Kingdom, Europe"
+  },
+  {
+    "name": "Indiana Jones Mine Car Rollercoaster",
+    "websiteLink": "",
+    "location": "United Kingdom, Europe"
+  },
+  {
+    "name": "Legoland Windsor",
+    "websiteLink": "https://www.legoland.co.uk/",
+    "location": "United Kingdom, Europe"
+  },
+  {
+    "name": "Thorpe Park",
+    "websiteLink": "https://www.thorpepark.com/",
+    "location": "United Kingdom, Europe"
+  },
+  {
+    "name": "Aquatica",
+    "websiteLink": "https://www.aquatica.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Blizzard Beach",
+    "websiteLink": "https://disneyworld.disney.go.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Cedar Point",
+    "websiteLink": "https://www.cedarpoint.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Discovery Cove",
+    "websiteLink": "http://www.discoverycove.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Disney's Animal Kingdom",
+    "websiteLink": "https://disneyworld.disney.go.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Disney's California Adventure",
+    "websiteLink": "https://disneyland.disney.go.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Disney's Hollywood Studios",
+    "websiteLink": "https://disneyworld.disney.go.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Disneyland",
+    "websiteLink": "http://disneyland.disney.go.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Epcot",
+    "websiteLink": "https://disneyworld.disney.go.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Hawaiian Waters",
+    "websiteLink": "",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Las Vegas",
+    "websiteLink": "https://www.visitlasvegas.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Legoland California",
+    "websiteLink": "https://www.legoland.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Magic Kingdom",
+    "websiteLink": "https://disneyworld.disney.go.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "SeaWorld Orlando",
+    "websiteLink": "https://seaworld.com/orlando/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "SeaWorld San Diego",
+    "websiteLink": "https://seaworld.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Six Flags Discovery Kingdom",
+    "websiteLink": "https://www.sixflags.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Splendid China Florida",
+    "websiteLink": "",
+    "location": "United States, North America"
+  },
+  {
+    "name": "The Wizarding World of Harry Potter",
+    "websiteLink": "https://www.universalorlando.com/harrypotter",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Typhoon Lagoon",
+    "websiteLink": "https://disneyworld.disney.go.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Universal Studios Florida",
+    "websiteLink": "https://www.universalorlando.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Universal Studios Hollywood",
+    "websiteLink": "https://www.universalstudioshollywood.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Universal's Islands of Adventure",
+    "websiteLink": "https://www.universalorlando.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Wet'n Wild",
+    "websiteLink": "https://www.wetnwild.com/",
+    "location": "United States, North America"
+  },
+  {
+    "name": "Happyland",
+    "websiteLink": "",
+    "location": "Vietnam, Southeast Asia"
+  }
+]

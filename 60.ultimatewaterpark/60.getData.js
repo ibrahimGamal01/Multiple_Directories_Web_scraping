@@ -135,7 +135,7 @@ async function scrapeData(url) {
             const rating = ratingElement ? ratingElement.innerText : null;
             const addressAndPhone = addressAndPhoneElement ? addressAndPhoneElement.innerText : null;
             const address = addressAndPhone ? addressAndPhone.match(/([0-9]{1,5}[^,]+?,[^0-9]+?[0-9]{5})/)[0].trim() : null;
-            const phone = addressAndPhone ? addressAndPhone.match(/\(([^)]+)\)/)[1] : null;
+            const phone = addressAndPhone ? addressAndPhone.match(/\(\d{3}\)\s*\d{3}-\d{4}/)[0] : null;
             const openHours = openHoursElement ? openHoursElement.innerText : null;
             const admissionPrices = admissionPricesElement ? admissionPricesElement.innerText : null;
 

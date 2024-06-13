@@ -22,11 +22,15 @@ async function scrapeMembersDirectory() {
                 contactInfo[key] = value;
             });
 
+            const websiteLinkElement = member.querySelector('.contact-info li:last-child a');
+            const websiteUrl = websiteLinkElement ? websiteLinkElement.href : '';
+
             return {
                 logo,
                 title,
                 content,
-                contactInfo
+                contactInfo,
+                websiteUrl
             };
         });
 

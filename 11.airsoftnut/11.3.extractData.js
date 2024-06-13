@@ -49,12 +49,17 @@ async function extractAirsoftBusinessDetails(url) {
         const website = document.querySelector('.AirsoftBusinessListing a[href^="http:"]')?.href;
         const facebook = document.querySelector('.AirsoftBusinessListing a[href*="facebook"]')?.href;
 
+        // Extract hours of operation
+        const hoursParagraph = [...document.querySelectorAll('.AirsoftBusinessListing > p')].find(p => p.textContent.includes('Hours:'));
+        const hours = hoursParagraph ? hoursParagraph.innerText.split('\n').slice(1).join(', ') : null;
+
         return {
             name,
             address,
             phone,
             website,
-            facebook
+            facebook,
+            hours
         };
     });
 
