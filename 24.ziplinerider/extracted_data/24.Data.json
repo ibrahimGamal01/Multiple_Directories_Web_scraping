@@ -1,0 +1,1976 @@
+[
+  {
+    "name": "Banff",
+    "address": "Awesome All Season Adventures",
+    "phone": "(403) 760-3394",
+    "website": "http://www.awesomebanff.com/",
+    "description": "2810 Beaverfoot Road, Banff, Alberta Canada"
+  },
+  {
+    "name": "Lake Country",
+    "address": "Oyama Zipline Forest Adventure",
+    "phone": null,
+    "website": "https://www.oyamazipline.com/",
+    "description": "5617 Oyama Lake Rd, Lake Country, British Columbia V4V 2C9 Canada"
+  },
+  {
+    "name": "North Vancouver",
+    "address": "Grouse Mountain Resorts Ltd.",
+    "phone": "(604) 984-0661",
+    "website": "https://www.grousemountain.com/zipline",
+    "description": "6400 Nancy Greene Way, North Vancouver, British Columbia V7R 4K9 Canada"
+  },
+  {
+    "name": "Peachland",
+    "address": "ZipZone Adventure Park",
+    "phone": null,
+    "website": "https://zipzone.ca/",
+    "description": "8km up Princeton Ave, Peachland, near Kelowna, Peachland, British Columbia Canada"
+  },
+  {
+    "name": "Revelstoke",
+    "address": "Skytrek Adventure Park",
+    "phone": "(250) 837-9477",
+    "website": "https://skytrekadventurepark.com/",
+    "description": "7060 Trans Canada Hwy, Revelstoke, British Columbia V0E 2S0 Canada"
+  },
+  {
+    "name": "Victoria",
+    "address": "Adrena Line Zipline Adventure Tours",
+    "phone": "(250) 642-1933",
+    "website": "https://adrenalinezip.com/",
+    "description": "5128C Sooke Rd, Victoria, British Columbia V9Z 0E2 Canada"
+  },
+  {
+    "name": "Whistler",
+    "address": "Ziptrek Ecotours - Sasquatch",
+    "phone": "(604) 935-0001",
+    "website": "https://whistler.ziptrek.com/",
+    "description": "4282 Mountain Square, Whistler, British Columbia V0N 1B4 Canada"
+  },
+  {
+    "name": "Manitou",
+    "address": "Hy-Wire Zip line Adventures",
+    "phone": "(204) 242-3396",
+    "website": "https://hywirezipline.ca/",
+    "description": "P.O Box 30 R.R.2., Manitou, Manitoba R0G 1G0 Canada"
+  },
+  {
+    "name": "Barrie",
+    "address": "Treetop Trekking Horseshoe Resort",
+    "phone": "(705) 835-7600",
+    "website": "https://treetoptrekking.com/",
+    "description": "1101 Horseshoe Valley rd West, Barrie, Ontario L4M 4Y8 Canada"
+  },
+  {
+    "name": "Bracebridge",
+    "address": "Muskoka Zip Lines and Aerial Park",
+    "phone": "(705) 640-4040",
+    "website": "https://www.aerialpark.ca/",
+    "description": "1624 Golden Beach Rd., Bracebridge, Ontario P1L 1T7 Canada"
+  },
+  {
+    "name": "Brampton",
+    "address": "Treetop Trekking Brampton",
+    "phone": null,
+    "website": "https://treetoptrekking.com/park/brampton/",
+    "description": "10818 Heart Lake Rd, Brampton, Ontario L6Z 0B3 Canada"
+  },
+  {
+    "name": "Campbellcroft",
+    "address": "Treetop Trekking Ganaraska",
+    "phone": "(705) 797-2000",
+    "website": "https://treetoptrekking.com/",
+    "description": "10585 Cold Springs Camp Road, Campbellcroft, Ontario L0A 1B0 Canada"
+  },
+  {
+    "name": "Collingwood",
+    "address": "Scenic Caves Nature Adventures",
+    "phone": "(705) 446-0256",
+    "website": "https://sceniccaves.com/collections/warm-seasons",
+    "description": "260 Scenic Caves Rd, Collingwood, Ontario L9Y 3Z5 Canada"
+  },
+  {
+    "name": "Elora",
+    "address": "Elora SkyRider Zipline",
+    "phone": "(519) 846-8888",
+    "website": "https://www.oneaxepursuits.com/zipline-extreme",
+    "description": "60 David St. West, Elora, Ontario N0B1S0 Canada"
+  },
+  {
+    "name": "Huntsville",
+    "address": "Treetop Trekking, Huntsville",
+    "phone": null,
+    "website": "https://treetoptrekking.com/",
+    "description": "1235 Deerhust Drive, Huntsville, Ontario P1H 1A9 Canada"
+  },
+  {
+    "name": "London",
+    "address": "Boler Mountain Treetop Adventure Park",
+    "phone": null,
+    "website": "https://www.bolermountain.com/treetop/",
+    "description": "689 Griffith Street, London, Ontario N6K 2S5 Canda"
+  },
+  {
+    "name": "Oshawa",
+    "address": "Treetop Eco-Adventure Park",
+    "phone": null,
+    "website": "https://treetopeco-adventurepark.com/",
+    "description": "53 Snow Ridge Court, Oshawa, Ontario L1H 7K4 Canada"
+  },
+  {
+    "name": "Port Hope/ Peterborough",
+    "address": "Treetop Trekking Ganaraska",
+    "phone": "(705) 797-2000",
+    "website": "https://treetoptrekking.com/park/ganaraska/",
+    "description": "10585 Cold Springs Camp Road, Port Hope/ Peterborough, Ontario L0A 1B0 Canada"
+  },
+  {
+    "name": "Whitchurch-Stouffville",
+    "address": "Treetop Trekking Stouffville",
+    "phone": null,
+    "website": "https://treetoptrekking.com/park/stouffville/",
+    "description": "3291 Souffville Rd, Whitchurch-Stouffville, Ontario L4A 7X5 Canada"
+  },
+  {
+    "name": "Chelsea",
+    "address": "Camp Fortune Aerial Experience",
+    "phone": "(819) 827-5517",
+    "website": "https://campfortune.com/ziplines/",
+    "description": "300 Chemin Dunlop, Chelsea, Quebec Canada"
+  },
+  {
+    "name": "Mont Tremblant",
+    "address": "Ziptrek Ecotours",
+    "phone": null,
+    "website": "https://tremblant.ziptrek.com/",
+    "description": "150 Chemin du Pied de la Montagne, Mont Tremblant, Quebec J8E 3M2 Canada"
+  },
+  {
+    "name": "Rigaud",
+    "address": "Arbraska Rigaud , La Forêt des Aventures",
+    "phone": null,
+    "website": null,
+    "description": "85 rue Bourget, Rigaud, Quebec J0P 1P0 Canada"
+  },
+  {
+    "name": "Maple Creek",
+    "address": "Cypress Hills Eco Adventures Ltd",
+    "phone": null,
+    "website": "https://www.treeosix.com/cypress-hills/",
+    "description": "Box 176, Maple Creek, Saskatchewan S0N 1N0 Canada"
+  },
+  {
+    "name": "Waskesiu Lake",
+    "address": "Treeosix Adventure Park - Elk Ridge",
+    "phone": null,
+    "website": "https://www.treeosix.com/waskesiu/",
+    "description": "Highway 264, Waskesiu Lake, Saskatchewan S0J 2Y0"
+  },
+  {
+    "name": "Cape Enrage",
+    "address": "Cape Enrage Adventures Zip Line",
+    "phone": null,
+    "website": "https://www.capeenrage.ca/en/experience-the-thrill-of-a-lifetime/zip-line",
+    "description": "650 Cape Enrage Rd. Waterside, Cape Enrage, New Brunswick E4H 4Z4 Canada"
+  },
+  {
+    "name": "Grand Falls",
+    "address": "Open Sky Adventures",
+    "phone": null,
+    "website": "http://www.openskyadventures.com/",
+    "description": "16087 Route 105, Grand Falls, New Brunswick Canada"
+  },
+  {
+    "name": "Lyttleton",
+    "address": "Over the Hill Zip-Line",
+    "phone": null,
+    "website": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FOverTheHillZipLine",
+    "description": "Rio Rd, Lyttleton, Miramichi, Lyttleton, New Brunswick E9E 1W3 Canada"
+  },
+  {
+    "name": "Mactaquac",
+    "address": "TreeGo",
+    "phone": null,
+    "website": "http://www.treegomactaquac.ca/",
+    "description": "1439 Route 105, Mactaquac, New Brunswick, Canada"
+  },
+  {
+    "name": "Miramichi",
+    "address": "Over the Cove Zipline",
+    "phone": null,
+    "website": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FOvertheCove%2F",
+    "description": "French Fort Cove, Miramichi, New Brunswick"
+  },
+  {
+    "name": "Saint John",
+    "address": "Saint John Adventures",
+    "phone": null,
+    "website": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FSaint-John-Adventures-Inc-Zip-Line-223315024348112%2F",
+    "description": "50 Fallsview Avenue, Saint John, New Brunswick Canada"
+  },
+  {
+    "name": "Petty Harbour",
+    "address": "North Atlantic ZipLines",
+    "phone": null,
+    "website": "https://www.zipthenorthatlantic.com/NAZDesktop/index.html",
+    "description": "P.O. Box 436, Petty Harbour, Newfoundland A0A 3H0 Canada"
+  },
+  {
+    "name": "Steady Brook",
+    "address": "Marble Zip Tours",
+    "phone": null,
+    "website": "https://marbleziptours.com/",
+    "description": "Steady Brook, Newfoundland Canada"
+  },
+  {
+    "name": "Yukon",
+    "address": "Yukon Ziplines",
+    "phone": null,
+    "website": null,
+    "description": "Add a zipline, Yukon, Canada"
+  },
+  {
+    "name": "Alexander City",
+    "address": "Wind Creek Ziplines",
+    "phone": null,
+    "website": "https://www.windcreekzipline.com/",
+    "description": "4325 Alabama Highway 128, Alexander City, AL 35010"
+  },
+  {
+    "name": "Guntersville",
+    "address": "SCREAMING EAGLE AT LAKE GUNTERSVILLE",
+    "phone": null,
+    "website": "https://www.lakeguntersvillezipline.com/",
+    "description": "1155 Lodge Drive, Guntersville, AL 35976"
+  },
+  {
+    "name": "Troy",
+    "address": "Butter and Egg Adventures | Zip Lines in Alabama",
+    "phone": "(334) 670-9954",
+    "website": "https://butterandeggadventures.com/",
+    "description": "2127 Butter & Egg Road, Troy, Alabama"
+  },
+  {
+    "name": "Fairbanks",
+    "address": "Globe Creek Camp",
+    "phone": null,
+    "website": "https://www.globecreekcamp.com/",
+    "description": "3127 Moose Mountain Rd, Fairbanks, AK 99709"
+  },
+  {
+    "name": "Ketchikan",
+    "address": "Southeast Exposure, Alaska Sea Kayaking Adventure",
+    "phone": "(907) 225-8829",
+    "website": "https://rainforestcanopyzipline.com/",
+    "description": "37 Potter Road, Ketchikan, Alaska 99901"
+  },
+  {
+    "name": "Seward",
+    "address": "Stoney Creek Canopy Adventure",
+    "phone": null,
+    "website": "https://www.stoneycreekca.com/tours/canopy-adventure-tour/",
+    "description": "1304 4th Ave, Seward, AK 99664"
+  },
+  {
+    "name": "Skagway",
+    "address": "Skagway Adventure Park and Zip Lines",
+    "phone": null,
+    "website": "http://skagwayexcursion.com/skagway/zipline/",
+    "description": "Skagway, Alaska 99840"
+  },
+  {
+    "name": "Talkeetna",
+    "address": "Denali Zipline Tours",
+    "phone": null,
+    "website": "https://www.denaliziplinetours.com/",
+    "description": "Talkeetna, Alaska 99676"
+  },
+  {
+    "name": "Camp Verde",
+    "address": "Predator Zip Lines, LLC",
+    "phone": "(928) 567-9947",
+    "website": "https://predatorzipline.com/",
+    "description": "Commonwealth Dr., Camp Verde, Arizona 86322"
+  },
+  {
+    "name": "Flagstaff",
+    "address": "Flagstaff Extreme Adventure Course",
+    "phone": "(888) 259-0125",
+    "website": "https://flagstaffextreme.com/",
+    "description": "Fort Tuthill Loop, Flagstaff, Arizona 86005"
+  },
+  {
+    "name": "Oracle",
+    "address": "Arizona Zipline Adventures",
+    "phone": null,
+    "website": "https://www.ziparizona.com/",
+    "description": "35406 S. Mt. Lemmon Rd., Oracle, AZ 85623"
+  },
+  {
+    "name": "Phoenix",
+    "address": "Rock it Up",
+    "phone": "(602) 330-7625",
+    "website": "http://www.rockitup.com/zipline.html",
+    "description": "18444 N 25th Ave, Phoenix, AZ 85023"
+  },
+  {
+    "name": "Scottsdale",
+    "address": "Zip lines for rent",
+    "phone": "(480) 874-3470",
+    "website": "https://www.arizonabouncearound.com/products/zip-line-rentals-in-phoenix-arizona.html",
+    "description": "1717 N 77th St, Scottsdale, Arizona 85257"
+  },
+  {
+    "name": "Williams",
+    "address": "Route 66 Zipline",
+    "phone": null,
+    "website": "https://www.ziplineroute66.com/",
+    "description": "200 North Grand Canyon Blvd., Williams, Arizona 86046 United States"
+  },
+  {
+    "name": "Eureka Springs",
+    "address": "Ozark Mountain Ziplines at Eureka Springs",
+    "phone": "(479) 363-6699",
+    "website": "https://www.ziplineeurekasprings.com/",
+    "description": "15927 Hwy 187, Eureka Springs, Arkansas, 72631"
+  },
+  {
+    "name": "Jasper",
+    "address": "Iron Horse Zip Line at Horseshoe Canyon Ranch",
+    "phone": null,
+    "website": "https://horseshoecanyonadventures.com/adventure-packages/",
+    "description": "HC 70 Box 261, Jasper, Arkansas 72641"
+  },
+  {
+    "name": "Mena",
+    "address": "The Blue; Zip Line & Farm",
+    "phone": "(479) 216-8639",
+    "website": "https://blueziplinefarm.com/",
+    "description": "142 Polk Road 185, Mena, Arkansas"
+  },
+  {
+    "name": "Ponca",
+    "address": "Buffalo River Canopy Tours",
+    "phone": null,
+    "website": "https://www.buffaloriver.com/zipline-tours/",
+    "description": "1 Main St., Ponca, Arkansas 72670"
+  },
+  {
+    "name": "Arroyo Grande",
+    "address": "Vista Lago Adventure Park",
+    "phone": null,
+    "website": "https://www.vistalagoadventurepark.com/",
+    "description": "6820 Lopez Drive, Arroyo Grande, CA 93420"
+  },
+  {
+    "name": "Berkeley",
+    "address": "Cal Adventures Ropes Course",
+    "phone": "(510) 642-6400",
+    "website": "https://recwell.berkeley.edu/wellness-offerings/recwell-adventures/custom-trips-events/",
+    "description": "Strawberry Canyon Recreation Area; 2301 Bancroft Way, Berkeley, California 94720-4420"
+  },
+  {
+    "name": "Big Bear Lake",
+    "address": "Action Tours California",
+    "phone": null,
+    "website": "https://actiontourscalifornia.com/",
+    "description": "41693 Big Bear Blvd., Big Bear Lake, CA 92315"
+  },
+  {
+    "name": "Corona",
+    "address": "Skull Canyon Eco Experiences and Zipline",
+    "phone": null,
+    "website": "https://skullcanyon.com/",
+    "description": "13540 Temescal Canyon Road, Corona, California 92883"
+  },
+  {
+    "name": "Escondido",
+    "address": "San Diego Zoo's Safari Park Flightline Zip Line",
+    "phone": null,
+    "website": "https://sdzsafaripark.org/safaris/flightline-safari",
+    "description": "15500 San Pasqual Valley Road, Escondido, California 92027-7017"
+  },
+  {
+    "name": "Grizzly Flats",
+    "address": "Leoni Meadows Camp - Clear Creek Canopy Tour",
+    "phone": null,
+    "website": "http://leonimeadows.org/adventures/clear-creek.php",
+    "description": "6100 Leoni Rd, Grizzly Flats, CA 95636"
+  },
+  {
+    "name": "Mount Hermon",
+    "address": "Mount Hermon Adventures",
+    "phone": null,
+    "website": "https://mounthermonadventures.com/",
+    "description": "37 Conference Dr, Mount Hermon, California 95041"
+  },
+  {
+    "name": "Occidental",
+    "address": "Sonoma Canopy Tours",
+    "phone": null,
+    "website": "https://www.sonomacanopytours.com/",
+    "description": "6250 Bohemian Highway, Occidental, California 95465"
+  },
+  {
+    "name": "Rocklin",
+    "address": "Quarry Park Adventures",
+    "phone": null,
+    "website": "https://quarrypark.com/adventures/zip-line/",
+    "description": "5373 Pacific Street, Rocklin, CA 95677"
+  },
+  {
+    "name": "Santa Margarita",
+    "address": "Margarita Adventures",
+    "phone": null,
+    "website": "https://www.margarita-adventures.com/",
+    "description": "22719 El Camino Real, Santa Margarita, California 93453"
+  },
+  {
+    "name": "Tahoe City",
+    "address": "Tahoe Treetop Adventure Park",
+    "phone": null,
+    "website": "https://tahoetreetop.com/",
+    "description": "725 Granlibakken Rd., Tahoe City, California 96145"
+  },
+  {
+    "name": "Wrightwood",
+    "address": "ziplinse at pacific crest",
+    "phone": null,
+    "website": "https://ziplinespc.com/",
+    "description": "6014 Park Dr, Wrightwood, CA 92397"
+  },
+  {
+    "name": "Avon (Vail)",
+    "address": "Colorado Zipline Adventures, Zip Adventures Inc.",
+    "phone": "(970) 926-9470",
+    "website": "https://zipadventures.com/",
+    "description": "PO BOX 19444, Avon (Vail), Colorado"
+  },
+  {
+    "name": "Buena Vista",
+    "address": "Browns Canyon Adventure Park",
+    "phone": null,
+    "website": "https://noahsark.com/trips/adventure-aerial-park/",
+    "description": "23910 US Hwy 285 S, Buena Vista, Colorado 81211 United States of America"
+  },
+  {
+    "name": "Colorado Springs",
+    "address": "Broadmoor Outfitters",
+    "phone": null,
+    "website": "https://www.broadmooroutfitters.com/",
+    "description": "7 Lake Ave, Colorado Springs, CO"
+  },
+  {
+    "name": "Conifer",
+    "address": "Denver Zipline Tours",
+    "phone": null,
+    "website": "https://denveradventures.com/zipline/",
+    "description": "26267 Conifer Rd, Conifer, Colorado 80433"
+  },
+  {
+    "name": "Durango",
+    "address": "Soaring Tree Top Adventures",
+    "phone": "(970) 769-2357",
+    "website": "https://soaringcolorado.com/",
+    "description": "964 County Road 200, Durango, Colorado 81301"
+  },
+  {
+    "name": "Glenwood Springs",
+    "address": "Colorado Adventure Center",
+    "phone": null,
+    "website": "https://www.raftingcolorado.com/colorado-zip-line-tours/",
+    "description": "1308 Country Rd 129, Glenwood Springs, Colorado 81601"
+  },
+  {
+    "name": "Idaho Springs",
+    "address": "AVA Rafting & Zipline",
+    "phone": null,
+    "website": "https://www.coloradorafting.net/activities/ziplining/#filter/5",
+    "description": "431 Chicago Creek Rd, Idaho Springs, CO 80452"
+  },
+  {
+    "name": "Lawson",
+    "address": "Lawson Adventure Park & Resort",
+    "phone": "(855) 372-7238",
+    "website": "https://lawsonadventurepark.com/",
+    "description": "3440 Alvarado Rd, Lawson, CO 80436"
+  },
+  {
+    "name": "Leadville",
+    "address": "The Top of the Rockies Zip Line",
+    "phone": null,
+    "website": "https://www.topoftherockieszipline.com/",
+    "description": "6492 Highway 91, Leadville, Colorado 80461"
+  },
+  {
+    "name": "Manitou Springs",
+    "address": "Bat-A-Pult Zip Line",
+    "phone": "(719) 685-5444",
+    "website": "https://caveofthewinds.com/",
+    "description": "100 Cave of the Winds Road, Manitou Springs, Colorado 80829"
+  },
+  {
+    "name": "Salida",
+    "address": "Captain Zipline Aerial Adventure Park",
+    "phone": null,
+    "website": "https://captainzipline.com/",
+    "description": "1500 Couinty Road 45, Salida, Colorado 81201 usa"
+  },
+  {
+    "name": "Tabernash",
+    "address": "Devil's Thumb Ranch Zip Line Tour",
+    "phone": "(970) 726-8231",
+    "website": "https://www.devilsthumbranch.com/",
+    "description": "3530 County Road 83, Tabernash, Colorado 80478"
+  },
+  {
+    "name": "Bridgeport",
+    "address": "Adventure Park at Discovery Museum",
+    "phone": "(203) 690-1717",
+    "website": "https://myadventurepark.com/location/bridgeport-ct/",
+    "description": "4450 Park Avenue, Bridgeport, CT 06604"
+  },
+  {
+    "name": "Mashantucket",
+    "address": "Foxwoods HighFlyer Zipline",
+    "phone": null,
+    "website": "https://foxwoodshighflyer.com/",
+    "description": "350 Trolley Line Blvd, Mashantucket, CT"
+  },
+  {
+    "name": "Portland",
+    "address": "Brownstone Exploration & Discovery Park",
+    "phone": "(866) 860-0208",
+    "website": "https://brownstonepark.com/zip-lines/",
+    "description": "161 Brownstone Ave, Portland, Connecticut"
+  },
+  {
+    "name": "Storrs",
+    "address": "Adventure Park at Storrs",
+    "phone": null,
+    "website": "https://myadventurepark.com/location/storrs-ct/",
+    "description": "2007 Storrs Rd, Storrs, CT 06268"
+  },
+  {
+    "name": "Bear",
+    "address": "Go Ape! Lums Pond",
+    "phone": "(800) 971-8271",
+    "website": "https://www.goape.com/location/delaware-bear/",
+    "description": "1042 Howell School Road, Bear, Delaware 19701"
+  },
+  {
+    "name": "Cape Canaveral",
+    "address": "Cocoa Beach Ariel adventures",
+    "phone": null,
+    "website": "http://www.climbcobeach.com/",
+    "description": "6419 North Atlantic Avenue, Cape Canaveral, Florida 32920"
+  },
+  {
+    "name": "Dade City",
+    "address": "TreeHoppers Aerial Adventure Park",
+    "phone": "(813) 381-5400",
+    "website": "https://treehoppers.com/",
+    "description": "27839 Saint Joe Road, Dade City, FL 33525"
+  },
+  {
+    "name": "Daytona Beach",
+    "address": "Daytona Beach Zipline Adventure",
+    "phone": null,
+    "website": "https://daytonazipline.com/index.html",
+    "description": "​1000 Orange Ave., Daytona Beach, FL 32114"
+  },
+  {
+    "name": "Kissimmee",
+    "address": "Zip Orlando",
+    "phone": null,
+    "website": "https://ebl.org/orlando/",
+    "description": "4509 South Orange Blossom Trail, Kissimmee, Florida 34746"
+  },
+  {
+    "name": "Melbourne",
+    "address": "Treetop Trek Aerial Adventures",
+    "phone": "(321) 254-9453",
+    "website": "https://treetoptrek.com/?tab=beginner",
+    "description": "8225 N. Wickham Road, Melbourne, Florida 32940"
+  },
+  {
+    "name": "Milton",
+    "address": "Adventures Unlimited - Zip Adventures",
+    "phone": "(850) 623-6197",
+    "website": "https://adventuresunlimited.com/zip-adventures/",
+    "description": "8974 Tomahawk Landing Road, Milton, Florida 32570"
+  },
+  {
+    "name": "Ocala",
+    "address": "The Canyons Zip Line & Canopy Tours",
+    "phone": "(352) 351-9477",
+    "website": "https://www.zipthecanyons.com/",
+    "description": "8045 NW Gainesville Rd., Ocala, Florida 34475"
+  },
+  {
+    "name": "Oldsmar",
+    "address": "Empower Adventures Tampa Bay",
+    "phone": null,
+    "website": "https://www.zipontampabay.com/",
+    "description": "423 Lafayette Blvd., Oldsmar, FL. 34677"
+  },
+  {
+    "name": "Orlando",
+    "address": "Screamin' Gator Zip",
+    "phone": "(800) 393-5297",
+    "website": "https://www.gatorland.com/",
+    "description": "14501 South Orange Blossom Trail, Orlando, Florida 32837"
+  },
+  {
+    "name": "Sanford",
+    "address": "Zoomair Sanford",
+    "phone": "(407) 330-0767",
+    "website": "https://www.centralfloridazoo.org/",
+    "description": "Central Florida Zoo & Botanical Gardens, Sanford, Florida 32771"
+  },
+  {
+    "name": "St. Augustine",
+    "address": "Crocodile Crossing Adventure at the St. Augustine Alligator Farm Zoological Park",
+    "phone": "(904) 824-3337",
+    "website": "https://alligatorfarm.com/special-experiences/ccx/",
+    "description": "999 Anastasia Blvd, St. Augustine, Florida"
+  },
+  {
+    "name": "Tallahassee",
+    "address": "Tallahassee Tree to Tree",
+    "phone": "(850) 575-8684",
+    "website": "https://tallahasseemuseum.org/treetotreeadventures/",
+    "description": "3945 Museum Road, Tallahassee, Florida"
+  },
+  {
+    "name": "Banning",
+    "address": "Screaming Eagle at Historic Banning Mills",
+    "phone": null,
+    "website": "https://historicbanningmills.com/zipline/",
+    "description": "205 Horseshoe Dam Rd., Banning, Georgia 30185"
+  },
+  {
+    "name": "Blue Ridge",
+    "address": "Zipline Canopy Tours of Blue Ridge",
+    "phone": "(800) 251-4800",
+    "website": "https://zipblueridge.com/",
+    "description": "Lower Cashes Valley Road, Blue Ridge, Georgia 30513"
+  },
+  {
+    "name": "Bowman",
+    "address": "The Sandbar Zip Lines and Canopy Tour",
+    "phone": null,
+    "website": "http://thesandbarbroadriver.com/ziplining.html",
+    "description": "3435 King Hall Mill Road, Bowman, Georgia 30624"
+  },
+  {
+    "name": "Buford",
+    "address": "Tree Top Quest",
+    "phone": "(770) 904-3500",
+    "website": "https://www.treetopquest.com/",
+    "description": "2020 Clean Water Drive, Buford, Georgia 30519"
+  },
+  {
+    "name": "Clarkesville",
+    "address": "Zippity Dude Ranch at Sunburst Stables",
+    "phone": "(706) 947-7433",
+    "website": "https://sunburststables.com/zipline-tours/",
+    "description": "3181 State Hwy 255, Clarkesville, Georgia 30523"
+  },
+  {
+    "name": "Columbus",
+    "address": "Blue Heron Adventure",
+    "phone": null,
+    "website": "https://chattahoochee.whitewaterexpress.com/zipline-adventure-park/",
+    "description": "1000 Bay Ave, Columbus, GA 31901"
+  },
+  {
+    "name": "Dawsonville",
+    "address": "Amicalola Zipline and Aerial Adventure Park",
+    "phone": null,
+    "website": "https://www.amicalolazipline.com/",
+    "description": "418 Amicalola Falls Lodge Rd, Dawsonville, GA 30534"
+  },
+  {
+    "name": "Helen",
+    "address": "Unicoi Zipline & Aerial Adventure Park",
+    "phone": null,
+    "website": "https://www.unicoizipline.com/",
+    "description": "1788 GA-356, Helen, GA 30545"
+  },
+  {
+    "name": "Pine Mountain",
+    "address": "Callaway Gardens Treetop Adventures",
+    "phone": null,
+    "website": "https://www.callawaygardens.com/",
+    "description": "17800 US Hwy 27, Pine Mountain, Georgia 31822"
+  },
+  {
+    "name": "Valdosta",
+    "address": "CORE Challenge Course",
+    "phone": "(229) 333-5898",
+    "website": "https://www.valdosta.edu/student/rec-wellness/campus-recreation/core/challenge-course.php",
+    "description": "Valdosta State University, Valdosta, Georgia 31698"
+  },
+  {
+    "name": "Haiku",
+    "address": "NorthShore Zipline Co.",
+    "phone": "(808) 269-0671",
+    "website": "https://nszipline.com/",
+    "description": "2065 Kauhikoa Rd., Haiku, Hawaii"
+  },
+  {
+    "name": "Hakalau",
+    "address": "Botanical World Adventures",
+    "phone": null,
+    "website": "https://botanicalworld.com/zipline/",
+    "description": "31-240 Old Mamalahoa Highway, Hakalau, Hawaii 96710"
+  },
+  {
+    "name": "Hanalei",
+    "address": "Princeville Ranch Adventures",
+    "phone": "(888) 955-7669",
+    "website": "https://princevilleranch.com/horseback-adventures/",
+    "description": "P.O.Box 224, Hanalei, Hawaii 96714"
+  },
+  {
+    "name": "Hanama'ulu",
+    "address": "Kauai Backcountry Zip line Adventure",
+    "phone": "(808) 245-2506",
+    "website": "https://kauaibackcountry.com/zipline/",
+    "description": "3-4131 Kuhio Highway, Hanama'ulu, Hawaii 96715"
+  },
+  {
+    "name": "Historic Volcano Block Building",
+    "address": "Kapohokine Adventures Zip Line",
+    "phone": "(866) 965-9552",
+    "website": "https://kapohokine.com/",
+    "description": "25 Waianuenue Avenue, Historic Volcano Block Building, Hilo, Hawaii 96720"
+  },
+  {
+    "name": "Kaneohe",
+    "address": "Bay View Mini-Putt and Zip Line",
+    "phone": "(808) 247-6464",
+    "website": "https://bayviewminiputt.com/",
+    "description": "45-285 Kaneohe Bay Dr, Kaneohe, Hawaii 96744-2366"
+  },
+  {
+    "name": "Lahaina",
+    "address": "Kapalua Adventures",
+    "phone": "(808) 665-3753",
+    "website": "https://bayviewminiputt.com/",
+    "description": "2000 Village Road, Lahaina, Maui, Hawaii 96761"
+  },
+  {
+    "name": "Pukalani",
+    "address": "Skyline Eco-Adventures",
+    "phone": "(808) 878-8400",
+    "website": "https://www.skylinehawaii.com/",
+    "description": "P.O. Box 880518, Pukalani, Hawaii 96788"
+  },
+  {
+    "name": "Wailuku",
+    "address": "Flyin Hawaiian Zipline",
+    "phone": "(808) 463-5786",
+    "website": "https://www.flyinhawaiianzipline.com/",
+    "description": "1670 Honoapiilani Hwy, Wailuku, Hawaii 96793"
+  },
+  {
+    "name": "Coeur d Alene",
+    "address": "Timberline Adventures",
+    "phone": "(208) 820-2080",
+    "website": "https://www.ziptimberline.com/",
+    "description": "210 Sherman Ave - Coeur d'Alene Plaza Shops, Coeur d Alene, Idaho 83814"
+  },
+  {
+    "name": "Donnelly",
+    "address": "Tamarack Canopy Zipline Tour (a.k.a. Zip Tamarack)",
+    "phone": null,
+    "website": "https://tamarackidaho.com/activities/zipline",
+    "description": "311 Village Drive, Donnelly, Idaho 83615"
+  },
+  {
+    "name": "Eagle",
+    "address": "Zip Boise",
+    "phone": null,
+    "website": "http://zipmccall.com/",
+    "description": "165 S. Eagle Island Parkway, Eagle, ID 83616"
+  },
+  {
+    "name": "McCall",
+    "address": "Zip McCall Adventures",
+    "phone": null,
+    "website": "http://zipmccall.com/",
+    "description": "Boulder Creek Road, McCall, ID 83638"
+  },
+  {
+    "name": "Ririe",
+    "address": "Heise Zip",
+    "phone": "(208) 538-6048",
+    "website": "https://www.heisehotsprings.net/",
+    "description": "5116 Heise Rd., Ririe, Idaho 83443"
+  },
+  {
+    "name": "Marseilles",
+    "address": "Zip Chicago",
+    "phone": "(815) 795-5011",
+    "website": "http://www.zipchicago.com/",
+    "description": "2681 East Route 6, Marseilles, Illinois 61341"
+  },
+  {
+    "name": "Spring Grove",
+    "address": "The Richardson Farm Zip Line Tower",
+    "phone": "(815) 675-9729",
+    "website": "https://richardsonadventurefarm.com/AdventureFarm/Home",
+    "description": "9407 Richardson Road, Spring Grove, Illinois 60081"
+  },
+  {
+    "name": "Western Springs",
+    "address": "Go Ape Bemis Woods",
+    "phone": "(800) 971-8271",
+    "website": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FGoApeUSA%2F",
+    "description": "Bemis Woods Access, Western Springs, IL 60558"
+  },
+  {
+    "name": "Crown Point",
+    "address": "Edge Adventures Aerial Park - Deep River NWI",
+    "phone": "(800) 590-8347",
+    "website": "https://edgeadventureparks.com/",
+    "description": "9001 E. Lincoln Highway, Crown Point, IN 46307"
+  },
+  {
+    "name": "Huntington",
+    "address": "Zip Timber Lake",
+    "phone": null,
+    "website": "http://www.discovertimberlake.com/zipline-tours.html",
+    "description": "1740 E 675 N, Huntington, Indiana 46750"
+  },
+  {
+    "name": "Indianapolis",
+    "address": "Go Ape! Eagle Creek Park",
+    "phone": null,
+    "website": "https://www.goape.com/location/Indiana-Indianapolis/",
+    "description": "5910 Delong Road, Indianapolis, Indiana 46254"
+  },
+  {
+    "name": "Mauckport",
+    "address": "Squire Boone Caverns Zipline Adventure",
+    "phone": "(812) 732-1200",
+    "website": "https://sbcza.com/",
+    "description": "100 Squire Boone Rd SW, Mauckport, Indiana 47142 Harrison"
+  },
+  {
+    "name": "Wapello",
+    "address": "Langwood Challenge Course",
+    "phone": "(319) 523-8381",
+    "website": "https://louisacountyconservation.org/",
+    "description": "12635 County Rd, Wapello, Iowa 52653"
+  },
+  {
+    "name": "Bonner Springs",
+    "address": "Zip KC",
+    "phone": "(913) 214-9478",
+    "website": "https://zipkc.com/",
+    "description": "12829 Loring Rd, Bonner Springs, KS 66012"
+  },
+  {
+    "name": "Manhattan",
+    "address": "Wildwood Adventure Park",
+    "phone": null,
+    "website": "https://www.mhkadventures.com/",
+    "description": "375 Johnson Rd, Manhattan, KS 66502"
+  },
+  {
+    "name": "Campton",
+    "address": "Red River Gorge Zipline",
+    "phone": "(888) 605-2609",
+    "website": "https://www.redrivergorgezipline.com/",
+    "description": "400 Cliffview Road, Campton, Kentucky 41301"
+  },
+  {
+    "name": "Cave City",
+    "address": "Mammoth Cave Adventures",
+    "phone": "(270) 773-6087",
+    "website": "https://adventuresofmammothcave.com/",
+    "description": "1994 Roy Hunter Rd., Cave City, Kentucky 42127"
+  },
+  {
+    "name": "Horse Cave",
+    "address": "Hidden River Cave",
+    "phone": null,
+    "website": "https://kygetaway.com/attractions/hidden-river-cave-zipline-rappel/",
+    "description": "119 E Main St., Horse Cave, KY 42749"
+  },
+  {
+    "name": "Lexington",
+    "address": "Boone Creek Outdoors Zipline Canopy Tour Adventure!",
+    "phone": null,
+    "website": "https://boonecreekoutdoors.com/",
+    "description": "8291 Old Richmond Rd, Lexington, Kentucky 40515"
+  },
+  {
+    "name": "Petersburg",
+    "address": "Creation Museum",
+    "phone": "(888) 582-4253",
+    "website": "https://www.screamingraptorziplines.com/",
+    "description": "2800 Bullittsburg Church Rd., Petersburg, Kentucky 41080"
+  },
+  {
+    "name": "Pineville",
+    "address": "Pine Mountain Zipline Canopy Tour",
+    "phone": null,
+    "website": null,
+    "description": "1050 State Park Rd, Pineville, KY 40977"
+  },
+  {
+    "name": "Versailles",
+    "address": "Life Adventure Center",
+    "phone": "(859) 873-3271",
+    "website": "https://lifeadventurecenter.org/our-facilities/",
+    "description": "570 Milner Road, Versailles, Kentucky 40383"
+  },
+  {
+    "name": "Wilmore",
+    "address": "Asbury University",
+    "phone": "(859) 858-3511",
+    "website": "https://www.asbury.edu/life/opportunities/adventure-leadership/",
+    "description": "1 Macklem Dr, Wilmore, Kentucky 40390"
+  },
+  {
+    "name": "Greenwood",
+    "address": "Gators and Friends Zip Lining",
+    "phone": null,
+    "website": "http://www.gatorsandfriends.com/",
+    "description": "11441 US HWY 80, Greenwood, LA 71033 United States"
+  },
+  {
+    "name": "Clarksburg",
+    "address": "GO-Adventures Zip Line at Highpoint Farm",
+    "phone": "(240) 603-4150",
+    "website": "https://www.go-adventures.com/",
+    "description": "23730 Frederick Road , Clarksburg, Maryland 20871"
+  },
+  {
+    "name": "Rockville (Derwood)",
+    "address": "Go Ape! Rock Creek Regional Park",
+    "phone": null,
+    "website": "https://www.goape.com/location/maryland-rockville/",
+    "description": "6129 Needwood Lake Drive, Rockville (Derwood), Maryland 20855 United States"
+  },
+  {
+    "name": "Sandy Spring",
+    "address": "The Adventure Park at Sandy Spring",
+    "phone": null,
+    "website": "https://sandyspringadventurepark.org/",
+    "description": "16701 Norwood Road, Sandy Spring, Maryland 20860"
+  },
+  {
+    "name": "Savage",
+    "address": "Terrapin Adventures",
+    "phone": null,
+    "website": "https://www.terrapinadventures.com/",
+    "description": "8600 Foundry Street, Savage, MD 20763"
+  },
+  {
+    "name": "Berlin",
+    "address": "Boundless Adventures",
+    "phone": null,
+    "website": "https://boundlessadventures.net/ma-park/zip-lining/",
+    "description": "154 River Road West, Berlin, Massachusetts 01503"
+  },
+  {
+    "name": "Canton",
+    "address": "TreeTop Adventures - Zip Line and Climbing Park",
+    "phone": null,
+    "website": "https://treetopcanton.com/",
+    "description": "200 New Boston Drive, Canton, Massachusetts"
+  },
+  {
+    "name": "Charlemont",
+    "address": "Berkshire East Canopy Tours",
+    "phone": "(413) 339-6618",
+    "website": "https://berkshireeast.com/summer/zip-line-canopy-tours/overview",
+    "description": "66 Thunder Mt. Road, Charlemont, Massachusetts"
+  },
+  {
+    "name": "Newton",
+    "address": "Exxcel Gym",
+    "phone": "(617) 244-3300",
+    "website": "https://www.exxcel.net/birthday/",
+    "description": "88 Wells Ave, Newton, Massachusetts 02459"
+  },
+  {
+    "name": "Sandwich",
+    "address": "The Adventure Park at Heritage Museum and Gardens",
+    "phone": null,
+    "website": "https://heritageadventurepark.org/",
+    "description": "67 Grove Street, Sandwich, MA 02563"
+  },
+  {
+    "name": "Boyne Mountain Resort",
+    "address": "ZIPLINE ADVENTURE at Boyne Mountain",
+    "phone": "(231) 549-6000",
+    "website": "https://www.boyneresorts.com/",
+    "description": "One Boyne Mnt. Rd., Boyne Mountain Resort, Boyne Falls, Michigan 49713"
+  },
+  {
+    "name": "Frankenmuth",
+    "address": "Adventure Park",
+    "phone": "(248) 429-7177",
+    "website": "https://zipandclimb.com/",
+    "description": "1375 Weiss St, Frankenmuth, MI 48734"
+  },
+  {
+    "name": "Grand Rapids",
+    "address": "John Ball Zoo",
+    "phone": "(616) 336-4300",
+    "website": "https://jbzoo.org/experiences/zoo-adventures/",
+    "description": "1300 W. Fulton, Grand Rapids, Michigan 49504"
+  },
+  {
+    "name": "Harrison",
+    "address": "Snow Snake Zip Line Tour",
+    "phone": "(989) 539-6583",
+    "website": "https://snowsnake.net///zip_info.php",
+    "description": "3407 East Mannsiding Road, Harrison, Michigan 48625"
+  },
+  {
+    "name": "Mackinaw City",
+    "address": "Historic Mill Creek Discovery Park",
+    "phone": "(231) 436-4100",
+    "website": "https://www.mackinacparks.com/parks-and-attractions/historic-mill-creek-discovery-park/",
+    "description": "9001 US-23 P.O. Box 873, Mackinaw City, Michigan 49701"
+  },
+  {
+    "name": "Newaygo",
+    "address": "Camp Newaygo's Zipline Canopy Tour",
+    "phone": null,
+    "website": "https://campnewaygo.org/",
+    "description": "5333 Centerline Rd, Newaygo, MI 49337"
+  },
+  {
+    "name": "West Bloomfield",
+    "address": "The Adventure Park",
+    "phone": null,
+    "website": "https://treerunnerparks.com/westbloomfield/",
+    "description": "6600 West Maple Road, West Bloomfield, MI 48322"
+  },
+  {
+    "name": "Dresser",
+    "address": "Trollhaugen",
+    "phone": null,
+    "website": "https://www.trollhaugen.com/",
+    "description": "2232 100th Avenue, Dresser, WI 54009"
+  },
+  {
+    "name": "Henderson",
+    "address": "Kerfoot Canopy Tour",
+    "phone": null,
+    "website": "https://www.kerfootcanopytour.com/",
+    "description": "30200 Scenic Byway Road, Henderson, MN"
+  },
+  {
+    "name": "Motley",
+    "address": "Camp Shamineau",
+    "phone": null,
+    "website": "https://shamineau.org/activities-2/",
+    "description": "2345 Ridge rd, Motley, Minnesota 56466"
+  },
+  {
+    "name": "Nisswa",
+    "address": "Brainerd Zip Line Tour",
+    "phone": null,
+    "website": "https://www.zipbrainerd.com/",
+    "description": "9898 County Road 77 SW, Nisswa, MN 56468"
+  },
+  {
+    "name": "Winona",
+    "address": "Old Mountain Outdoor Adventures, LLC",
+    "phone": null,
+    "website": "https://omoams.com/",
+    "description": "90 Old Mountain Rd, Winona, MS 38967"
+  },
+  {
+    "name": "Branson",
+    "address": "Adventure Ziplines of Branson",
+    "phone": "(417) 239-3030",
+    "website": "https://www.adventureziplinesofbranson.com/",
+    "description": "501 N. Wildwood Dr., Branson, Missouri 65616"
+  },
+  {
+    "name": "House Springs",
+    "address": "Adventure Valley",
+    "phone": "(314) 366-1145",
+    "website": "http://www.adventurevalley.com/",
+    "description": "5320 State Highway MM, House Springs, MO 6102"
+  },
+  {
+    "name": "Kansas City",
+    "address": "Go Ape Treetop Adventure",
+    "phone": null,
+    "website": "https://www.goape.com/location/missouri-kansas-city/",
+    "description": "7331 Oakwood Drive, Kansas City, MO 64132"
+  },
+  {
+    "name": "Maryland Heights",
+    "address": "Go Ape at Creve Coeur Park",
+    "phone": null,
+    "website": "https://www.goape.com/location/missouri-st-louis/",
+    "description": "13219 Streetcar Drive, Maryland Heights, Missouri 63043"
+  },
+  {
+    "name": "New Florence",
+    "address": "Eco Adventure Ziplines",
+    "phone": null,
+    "website": "https://ecoadventureziplines.com/",
+    "description": "487 MO-19, New Florence, MO 63363"
+  },
+  {
+    "name": "Osceola",
+    "address": "Living Waters Ranch",
+    "phone": "(417) 646-2694",
+    "website": "http://www.livingwatersfoundation.org/",
+    "description": "4520 SE 450 Road, Osceola, Missouri 64776"
+  },
+  {
+    "name": "Reeds Spring",
+    "address": "Zipline USA & Lasertag USA",
+    "phone": null,
+    "website": "https://goziplineusa.com/",
+    "description": "3335 US Highway 160, Reeds Spring, MO 65737"
+  },
+  {
+    "name": "Sullivan",
+    "address": "Caveman Zipline",
+    "phone": "(573) 468-3166",
+    "website": "https://www.cavemanzipline.com/",
+    "description": "1135 Hwy W, Sullivan, Missouri 63080"
+  },
+  {
+    "name": "Columbia Falls",
+    "address": "Glacier ZipLines",
+    "phone": null,
+    "website": "https://glacier-ziplines.com/",
+    "description": "7840 Hwy 2 E, Columbia Falls, Mt 59912"
+  },
+  {
+    "name": "East Coram",
+    "address": "Glacier Highline Adventure Park",
+    "phone": null,
+    "website": "https://www.glacierhighline.com/",
+    "description": "10167 Hwy 2, East Coram, MT 59913"
+  },
+  {
+    "name": "West Yellowstone",
+    "address": "Yellwostone Aerial Adventures",
+    "phone": null,
+    "website": "https://www.yellowstoneparkzipline.com/",
+    "description": "105 S Faithful St, West Yellowstone, MT 59758"
+  },
+  {
+    "name": "Whitefish",
+    "address": "Whitefish Mountain Resort",
+    "phone": "(800) 858-4152",
+    "website": "http://skiwhitefish.com/aerial-adventure-park/",
+    "description": "3840 Big Mountain Road, Whitefish, Montana 59937"
+  },
+  {
+    "name": "Las Vegas",
+    "address": "SlotZilla",
+    "phone": null,
+    "website": "https://vegasexperience.com/slotzilla-zip-line/",
+    "description": "425 Fremont Street, Las Vegas, Nevada 89101"
+  },
+  {
+    "name": "Bretton Woods",
+    "address": "Bretton Woods Canopy Tour",
+    "phone": "(800) 258-0330",
+    "website": "https://www.brettonwoods.com/activities/canopy_tour/overview",
+    "description": "99 Ski Area Road, Bretton Woods, New Hampshire 03575"
+  },
+  {
+    "name": "Charlestown",
+    "address": "Morningside Park Zip Line Canopy Tours",
+    "phone": "(603) 542-4416",
+    "website": "https://flymorningside.kittyhawk.com/zip-lining/",
+    "description": "357 Morningside Lane, Charlestown, New Hampshire 03603"
+  },
+  {
+    "name": "Gilford",
+    "address": "Aerial Treetop Adventures",
+    "phone": "(603) 737-4388",
+    "website": "https://www.gunstock.com/winter/activities-winter/",
+    "description": "719 Cherry Valley Road, Gilford, New Hampshire 03249"
+  },
+  {
+    "name": "Hewitt",
+    "address": "Shiloh Adventures",
+    "phone": null,
+    "website": "http://www.campshiloh.com/",
+    "description": "753 Burnt Meadow Rd, Hewitt, New Jersey 07421"
+  },
+  {
+    "name": "Ledgewood",
+    "address": "FLG X Adventure Course - NJ",
+    "phone": null,
+    "website": "https://flgxnj.com/",
+    "description": "59 Mt. Arlington Rd., Ledgewood, NJ 07852"
+  },
+  {
+    "name": "Vernon",
+    "address": "Zoom Ziplines at Mountain Creek",
+    "phone": null,
+    "website": "https://mountaincreek.com/promotions/zip-tours/",
+    "description": "200 Rt 94, Vernon, New Jersey 07462"
+  },
+  {
+    "name": "Angel Fire",
+    "address": "Angel Fire Adventure Tours",
+    "phone": null,
+    "website": "https://www.angelfireresort.com/activities/summer-activities/zipline-adventure-tours/",
+    "description": "10 Miller Ln., Angel Fire, New Mexico 87710 United States"
+  },
+  {
+    "name": "Mescalero",
+    "address": "Ski Apache ZipTour",
+    "phone": "(575) 464-3600",
+    "website": "https://www.skiapache.com/zipline-through-sierra-blanca-mountains/",
+    "description": "1286 Ski Run Road, Mescalero, New Mexico 88312"
+  },
+  {
+    "name": "Red River",
+    "address": "Red River Ski Area",
+    "phone": null,
+    "website": "https://www.redriverskiarea.com/",
+    "description": "400 Pioneer Rd, Red River, New Mexico 87558"
+  },
+  {
+    "name": "Barryville",
+    "address": "Kittatiny Zip Line",
+    "phone": "(800) 356-2852",
+    "website": "https://kittatinny.com/dual-racing-ziplines/",
+    "description": "Route 97, Barryville, New York 12743"
+  },
+  {
+    "name": "Bolton Landing",
+    "address": "Adirondack Extreme Adventure Course",
+    "phone": "(518) 494-7200",
+    "website": "https://adirondackextreme.com/",
+    "description": "35 Westwood Forest Lane, Bolton Landing, New York 12814"
+  },
+  {
+    "name": "Canandaigua",
+    "address": "Bristol Mountain Aerial Adventures",
+    "phone": "(585) 374-1180",
+    "website": "https://bristolmountainadventures.com/",
+    "description": "5589 South Hill Road, Canandaigua, New York 14424"
+  },
+  {
+    "name": "Clymer",
+    "address": "Peekin Peak Resort Zipline",
+    "phone": "(716) 355-4141",
+    "website": "https://www.pknpk.com/summer-adventures/adventure-course/",
+    "description": "1405 Olde Road, Clymer, New York 14724"
+  },
+  {
+    "name": "Cortland",
+    "address": "Greek Peak Mountain Resort Adventure Center",
+    "phone": "(800) 955-2754",
+    "website": "https://www.greekpeak.net/outdoor-adventure-center/",
+    "description": "2000 NY State Rt 392, Cortland, New York 13045"
+  },
+  {
+    "name": "Ellicottville",
+    "address": "Sky High Adventure Park",
+    "phone": "(716) 699-2345",
+    "website": "https://www.holidayvalley.com/summer/sky-high-adventure-park/",
+    "description": "Route 219, Ellicottville, New York 14731-0370"
+  },
+  {
+    "name": "Glenville",
+    "address": "Mountain Ridge Adventure",
+    "phone": null,
+    "website": "https://www.mountainridgeadventure.com/",
+    "description": "300 Weatherwax Road, Glenville, NY 12302"
+  },
+  {
+    "name": "Howe Cave",
+    "address": "Howe High Adventure",
+    "phone": "(518) 296-8900",
+    "website": "https://howecaverns.com/",
+    "description": "255 Discovery Dr., Howe Cave, New York 12092"
+  },
+  {
+    "name": "Purchase",
+    "address": "BOUNDLESS ADVENTURES",
+    "phone": null,
+    "website": "https://boundlessadventures.net/ny-park/",
+    "description": "735 Anderson Hill Road, Purchase, New York 10577"
+  },
+  {
+    "name": "Asheville",
+    "address": "Asheville Zipline Canopy Adventures",
+    "phone": "(800) 451-9972",
+    "website": "https://wildwaterrafting.com/zipline-canopy-tours/",
+    "description": "1 Resort Drive, Asheville, North Carolina 28806"
+  },
+  {
+    "name": "Blowing Rock",
+    "address": "High Gravity Adventures Zip Line & Aerial Park",
+    "phone": null,
+    "website": "https://www.highgravityadventures.com/",
+    "description": "215 Tweetsie Railroad Ln, Blowing Rock, NC"
+  },
+  {
+    "name": "Bryson City",
+    "address": "Nantahala Gorge Canopy Tours",
+    "phone": "(800) 451-9972",
+    "website": "https://wildwaterrafting.com/zipline-canopy-tours/",
+    "description": "10345 Highway 74 West, Bryson City, North Carolina 28713"
+  },
+  {
+    "name": "Fayetteville",
+    "address": "ZipQuest",
+    "phone": null,
+    "website": "https://www.zipquest.com/",
+    "description": "533 Carver's Falls Drive, Fayetteville, North Carolina 28311"
+  },
+  {
+    "name": "High Point",
+    "address": "Kersey Valley Zip Line",
+    "phone": "(336) 802-1962",
+    "website": "https://kerseyvalleyzipline.com/",
+    "description": "1615 Kersey Valley Rd, High Point, North Carolina 27263"
+  },
+  {
+    "name": "Lake Lure",
+    "address": "Canopy Ridge Farm Zip Line Tours",
+    "phone": "(828) 625-4500",
+    "website": "https://canopyridgefarm.com/",
+    "description": "7115 US Hwy 64/74A, Lake Lure, North Carolina 28746"
+  },
+  {
+    "name": "Long Creek",
+    "address": "Zipline Canopy Tours",
+    "phone": null,
+    "website": "https://wildwaterrafting.com/zipline-canopy-tours/",
+    "description": "P.O. Box 309, Long Creek, SC 29658"
+  },
+  {
+    "name": "Monroe",
+    "address": "Xtreeme Challenge LLC",
+    "phone": "(800) 701-0225",
+    "website": "https://www.xtreemechallenge.com/",
+    "description": "near the Hill Top Restaurant off Highway 601 South, Monroe, North Carolina"
+  },
+  {
+    "name": "Morganton",
+    "address": "Beanstalk Ziplines",
+    "phone": null,
+    "website": "https://www.thebeanstalkjourney.com/",
+    "description": "700 Sanford Dr, Morganton, NC 28655"
+  },
+  {
+    "name": "Ocean Isle Beach",
+    "address": "Shallotte Swamp Park",
+    "phone": "(910) 575-8000",
+    "website": "https://www.shallotteriverswamppark.com/",
+    "description": "5550 Shallotte Swamp Park Road, Ocean Isle Beach, North Carolina 28467 United States"
+  },
+  {
+    "name": "Raleigh",
+    "address": "Go Ape Treetop Adventure - Blue Jay Point County Park",
+    "phone": "(800) 971-8271",
+    "website": "https://www.goape.com/location/north-carolina-raleigh-durham/",
+    "description": "3200 Pleasant Union Church Road, Raleigh, NC 27614 United States"
+  },
+  {
+    "name": "Saluda",
+    "address": "The Gorge Zipline",
+    "phone": "(855) 749-2500",
+    "website": "https://thegorgezipline.com/",
+    "description": "166 Honey Bee Dr., Saluda, North Carolina 28773"
+  },
+  {
+    "name": "Scaly Mountain",
+    "address": "Highlands Aerial Park",
+    "phone": null,
+    "website": "https://highlandsaerialpark.com/zipline-tour/",
+    "description": "9625 Dillard Road, Scaly Mountain, North Carolina 28775"
+  },
+  {
+    "name": "U.S. National Whitewater Center",
+    "address": "The Mega-Zip Zip Line",
+    "phone": "(704) 391-3900",
+    "website": "https://center.whitewater.org/activity/ziplines/",
+    "description": "5000 Whitewater Center Parkway, U.S. National Whitewater Center, Charlotte, North Carolina 28214"
+  },
+  {
+    "name": "Add a zipline",
+    "address": "Please add a zipline for North Dakota",
+    "phone": null,
+    "website": null,
+    "description": "Add a zipline, North Dakota"
+  },
+  {
+    "name": "Clarington",
+    "address": "Ohio Valley Tactical Zip Lines and Rappelling",
+    "phone": "(740) 458-0566",
+    "website": "https://ohiovalleytactical.com/",
+    "description": "52315 TH 215, Clarington, Ohio 43915"
+  },
+  {
+    "name": "Cleveland",
+    "address": "Go Ape Treetop Adventure - Mill Stream Run Reservation",
+    "phone": "(800) 971-8271",
+    "website": "https://www.goape.com/location/ohio-cleveland/",
+    "description": "16200 Valley Pkwy, Cleveland, Ohio 44136 United States"
+  },
+  {
+    "name": "Columbus",
+    "address": "ZipZone Canopy Tours at Camp Mary Orton",
+    "phone": null,
+    "website": "https://zipzonetours.com/",
+    "description": "7925 North High Street, Columbus, Ohio"
+  },
+  {
+    "name": "Oberlin",
+    "address": "Common Ground Canopy Tours",
+    "phone": null,
+    "website": "https://commongroundcenter.org/",
+    "description": "14240 Baird Rd., Oberlin, Ohio 44074"
+  },
+  {
+    "name": "Rogers",
+    "address": "Camp Frederick",
+    "phone": null,
+    "website": "https://www.campfrederickohio.com/",
+    "description": "6996 Millrock Rd., Rogers, OH 44455"
+  },
+  {
+    "name": "Streetsboro",
+    "address": "Zip City Indoor Zipline Park",
+    "phone": null,
+    "website": "http://zipcityusa.com/",
+    "description": "9960 State Route 43, Streetsboro, Ohio 44241"
+  },
+  {
+    "name": "Toledo",
+    "address": "Toledo Zoo Aerial Adventure Course",
+    "phone": null,
+    "website": null,
+    "description": "2 Hippo Way, Toledo, OH 43609"
+  },
+  {
+    "name": "Diana",
+    "address": "Thomas Falls Zip Line Challenge Course",
+    "phone": null,
+    "website": "http://ziptf.com/",
+    "description": "Thomas Falls Inc. 5543 US Hwy 259 N., Diana, TX 75640"
+  },
+  {
+    "name": "Cave Junction",
+    "address": "Out 'n' About Treesort LLC",
+    "phone": "(541) 592-2208",
+    "website": "https://treehouseziplines.com/",
+    "description": "300 Page Creek Road, Cave Junction, Oregon 97523"
+  },
+  {
+    "name": "Gaston",
+    "address": "Tree to Tree Adventure Park",
+    "phone": "(503) 357-0109",
+    "website": "https://tree2treeadventurepark.com/",
+    "description": "2975 SW Nelson Road, Gaston, Oregon 97119"
+  },
+  {
+    "name": "Government Camp",
+    "address": "Mt. Hood Skibowl",
+    "phone": "(503) 222-2695",
+    "website": "https://www.skibowl.com/",
+    "description": "87000 E Hwy 26, Government Camp, Oregon"
+  },
+  {
+    "name": "North Bend",
+    "address": "Oregon Dunes KOA",
+    "phone": null,
+    "website": "https://koa.com/campgrounds/oregon-dunes/",
+    "description": "68632 Hwy 101, North Bend, OR 97459"
+  },
+  {
+    "name": "Warrenton",
+    "address": "High Life Adventures",
+    "phone": "(503) 861-9875",
+    "website": "https://highlife-adventures.com/",
+    "description": "33136 Hwy 101 Business, Warrenton, Oregon 97146"
+  },
+  {
+    "name": "Aspers",
+    "address": "Fields of Adventure",
+    "phone": "(888) 677-0093",
+    "website": "https://www.fieldsofadventure.com/attractions",
+    "description": "64 Tree Lane, Aspers, Pennsylvania 17304"
+  },
+  {
+    "name": "Bushkill",
+    "address": "Pocono Zip Racer / Pocono TreeVentures",
+    "phone": "(800) 446-0231",
+    "website": "http://ww3.poconozipracer.com/",
+    "description": "Route 209, Bushkill, PA 18324 United States"
+  },
+  {
+    "name": "Elysburg",
+    "address": "Nemacolin Woodlands Resort",
+    "phone": "(866) 344-6957",
+    "website": "https://www.nemacolin.com/experiences/wildlife-adventures/",
+    "description": "1001 Lafayette Drive , Farmington, Pennsylvania 15437"
+  },
+  {
+    "name": "Fort Hill",
+    "address": "Deer Valley YMCA Family Camp",
+    "phone": "(814) 662-4031",
+    "website": "https://www.deervalleyymca.org/",
+    "description": "254 Deer Valley Drive, Fort Hill, Pennsylvania 15540"
+  },
+  {
+    "name": "Hershey",
+    "address": "The Odyssey",
+    "phone": "(717) 520-5837",
+    "website": "https://www.thehotelhershey.com/recreation/",
+    "description": "100 Hotel Road, Hershey, Pennsylvania 17033"
+  },
+  {
+    "name": "Palmerton",
+    "address": "Blue Mountain High Ropes & Ziplines",
+    "phone": null,
+    "website": "https://www.skibluemt.com/",
+    "description": "1660 Blue Mountain Drive, Palmerton, Pennsylvania 18071"
+  },
+  {
+    "name": "Seven Springs Mountain Resort",
+    "address": "Laurel Ridgeline Canopy Tours",
+    "phone": "(800) 452-2223",
+    "website": "https://www.7springs.com/",
+    "description": "777 Waterwheel Drive, Seven Springs Mountain Resort, Champion, Pennsylvania 15622"
+  },
+  {
+    "name": "Spring Mount",
+    "address": "Spring Mountain Adventures",
+    "phone": "(888) 305-5044",
+    "website": "https://springmountainadventures.com/canopy-tour/",
+    "description": "757 Spring Mount Rd., Spring Mount, Pennsylvania 19478"
+  },
+  {
+    "name": "Stevens",
+    "address": "Zip Line Canopy Tours at Refreshing Mountain",
+    "phone": "(717) 738-1490",
+    "website": "https://refreshingmountain.com/group-activities/ziplines/",
+    "description": "455 Camp Road, Stevens, Pennsylvania 17578"
+  },
+  {
+    "name": "Tannersville",
+    "address": "CBK Mountain Adventures",
+    "phone": "(570) 629-1661",
+    "website": "https://www.camelbackresort.com/mountain-adventures/poconos-zipline/",
+    "description": "One Camelback Road, Tannersville, Pennsylvania 18372"
+  },
+  {
+    "name": "Wernersville",
+    "address": "South Mountain Adventures",
+    "phone": null,
+    "website": "https://www.smymca.org/south-mountain-adventures/",
+    "description": "201 Cushion Peak Road, Wernersville, PA 19565"
+  },
+  {
+    "name": "West Chester",
+    "address": "Treehouse World",
+    "phone": null,
+    "website": "https://treehouseworld.com/valley-creek-zipline-tour/",
+    "description": "1442 Phoenixville Pike, West Chester, PA"
+  },
+  {
+    "name": "Awendaw",
+    "address": "Charleston Zip Line Adventures",
+    "phone": null,
+    "website": "https://charlestonziplineadventures.com/",
+    "description": "1152 Guerins Bridge Rd, Awendaw, South Carolina 29429"
+  },
+  {
+    "name": "Columbia",
+    "address": "Riverbanks Zoo & Garden",
+    "phone": null,
+    "website": "https://www.riverbanks.org/plan-your-visit/zipline-tours",
+    "description": "500 Wildlife Parkway, Columbia, SC 29210"
+  },
+  {
+    "name": "Long Creek",
+    "address": "Chattooga Ridge Canopy Tours",
+    "phone": "(800) 451-9972",
+    "website": "https://wildwaterrafting.com/zipline-canopy-tours/",
+    "description": "1251 Academy Rd., Long Creek, South Carolina 29658"
+  },
+  {
+    "name": "Myrtle Beach",
+    "address": "Myrtle Beach Zipline Adventures",
+    "phone": null,
+    "website": "https://mbziplines.com/",
+    "description": "321 9th Ave. N., Myrtle Beach, South Carolina 29577 United States"
+  },
+  {
+    "name": "Rock Hill",
+    "address": "Canaan Zipline Canopy Tour",
+    "phone": null,
+    "website": "https://canaanzipline.com/",
+    "description": "3111 Sand Island Rd, Rock Hill, SC 29732"
+  },
+  {
+    "name": "Keystone",
+    "address": "Rushmore Tramway Aerial Adventure Park",
+    "phone": "(605) 666-4478",
+    "website": "https://rushmoretramwayadventures.com/attractions/alpine-slide/",
+    "description": "203 Cemetery Road, Keystone, South Dakota 57751"
+  },
+  {
+    "name": "Ducktown",
+    "address": "Ocoee River Basin Canopy Tours",
+    "phone": "(800) 451-9972",
+    "website": "https://wildwaterrafting.com/adventures/ocoee-river-canopy-tours/",
+    "description": "5000 Hwy 64 West, Ducktown, Tennessee 37326"
+  },
+  {
+    "name": "Gatlinburg",
+    "address": "CLIMB Works Canopy",
+    "phone": "(865) 325-8116",
+    "website": "https://www.climbworks.com/smoky_mountains/",
+    "description": "155 Branam Hollow Rd., Gatlinburg, Tennessee 37738"
+  },
+  {
+    "name": "Hartford",
+    "address": "Pigeon River Canopy Tours",
+    "phone": "(800) 451-9972",
+    "website": "https://wildwaterrafting.com/zipline-canopy-tours/",
+    "description": "3555 Hartford Rd., Hartford, Tennessee 37753"
+  },
+  {
+    "name": "Kodak",
+    "address": "Adrenaline Park",
+    "phone": null,
+    "website": "https://www.adrenalinepark.com/",
+    "description": "168 Lee Greenwood Way, Kodak, Tennessee 37764"
+  },
+  {
+    "name": "Memphis",
+    "address": "Go Ape Treetop Adventure - Shelby Farms Park",
+    "phone": "(800) 971-8271",
+    "website": "https://www.goape.com/location/tennessee-memphis/",
+    "description": "500 North Pine Lake Drive, Memphis, TN 38134 United States"
+  },
+  {
+    "name": "Nashville",
+    "address": "Treetop Adventure Park at Nashville Shores",
+    "phone": null,
+    "website": "https://www.nashvilleshores.com/treetop-adventure-park/",
+    "description": "4001 Bell Road, Nashville, TN 37076 United States"
+  },
+  {
+    "name": "Ocoee Outpost",
+    "address": "NOC's Ocoee Outpost High Ropes and Zip Line",
+    "phone": "(888) 905-7238",
+    "website": "https://noc.com/zip-lining/",
+    "description": "Ocoee Outpost, Tennessee"
+  },
+  {
+    "name": "Pigeon Forge",
+    "address": "Smoky Mountain Zip Lines",
+    "phone": "(865) 429-9004",
+    "website": "https://smokymountainziplines.com/",
+    "description": "509 Mill Creek Road, Pigeon Forge, Tennessee 37764"
+  },
+  {
+    "name": "Sevierville",
+    "address": "Adventure Ziplines of Pigeon Forge",
+    "phone": "(865) 774-3330",
+    "website": "https://legacymountainziplines.com/",
+    "description": "2820 Legacy Vista Drive, Sevierville, Tennessee 37876"
+  },
+  {
+    "name": "Townsend",
+    "address": "Next to Heaven Ziplines",
+    "phone": null,
+    "website": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fnext2heavensmokies%2F",
+    "description": "1239 Wears Valley Road, Townsend, Tennessee 37882"
+  },
+  {
+    "name": "Diana",
+    "address": "Thomas Falls Zipline",
+    "phone": null,
+    "website": "http://www.ziptf.com/",
+    "description": "Hwy 259 N, Diana, Texas 75640"
+  },
+  {
+    "name": "LaRue",
+    "address": "New York, Texas ZipLine Adventures",
+    "phone": "(903) 681-3791",
+    "website": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FGoZipTexas",
+    "description": "7290 cr 4328, LaRue, Texas 75770"
+  },
+  {
+    "name": "Plano",
+    "address": "Go Ape Treetop Adventure",
+    "phone": null,
+    "website": "https://www.goape.com/location/texas-plano/",
+    "description": "5901 Los Rios Blvd, Plano, TX 75074"
+  },
+  {
+    "name": "Roanoke",
+    "address": "DFW Adventure Park",
+    "phone": null,
+    "website": "https://dfwap.com/play/zip-lines/",
+    "description": "13055 Cleveland Gibbs Rd, Roanoke, Texas 76262 United States"
+  },
+  {
+    "name": "Rocksprings",
+    "address": "Camp Eagle Zip 3000",
+    "phone": null,
+    "website": "https://campeagle.org/",
+    "description": "6424 Hackberry Rd, Rocksprings, Texas 78880"
+  },
+  {
+    "name": "Wimberley",
+    "address": "Wimberley Zipline Adventures",
+    "phone": "(512) 847-9990",
+    "website": "https://www.wimberleyzipline.com/",
+    "description": "Jim Winn Ranch, Wimberley, Texas 78676"
+  },
+  {
+    "name": "Heber City",
+    "address": "Zipline Utah",
+    "phone": "(866) 923-1063",
+    "website": "http://www.ziplineutah.com/",
+    "description": "Deer Creek State Park, Heber City, Utah"
+  },
+  {
+    "name": "Moab",
+    "address": "Ravens Rim",
+    "phone": null,
+    "website": "https://www.ravensrim.com/",
+    "description": "998 North Main Street, Moab, UT 84532"
+  },
+  {
+    "name": "Park City",
+    "address": "Utah Olympic Park Zipline",
+    "phone": null,
+    "website": "https://utaholympiclegacy.org/",
+    "description": "3419 Olympic Parkway, Park City, Utah"
+  },
+  {
+    "name": "Provo",
+    "address": "CLAS Ropes Course",
+    "phone": "(801) 373-8897",
+    "website": "https://www.clasropes.com/",
+    "description": "3606 W. Center, Provo, Utah 84601"
+  },
+  {
+    "name": "Sundance",
+    "address": "Sundance Mountain Resort",
+    "phone": null,
+    "website": "https://www.sundanceresort.com/summer-activities/ziptour/",
+    "description": "8841 N. Alpine Loop Road, Sundance, Utah 84604"
+  },
+  {
+    "name": "Jeffersonville",
+    "address": "ArborTrek Canopy Adventures at Smugglers' Notch",
+    "phone": "(802) 644-9300",
+    "website": "https://arbortrek.com/company/business-opportunities/build-a-park/",
+    "description": "1239 Edwards Road, Jeffersonville, Vermont 05464"
+  },
+  {
+    "name": "Londonderry",
+    "address": "TimberQuest Park at Magic",
+    "phone": "(802) 659-0854",
+    "website": "http://www.timberquestparks.com/magic/",
+    "description": "495 Magic Mountain Access Road, Londonderry, Vermont 05148"
+  },
+  {
+    "name": "Ludlow",
+    "address": "Okemo's Sawyers Sweep Zip Line",
+    "phone": "(802) 228-1600",
+    "website": "https://www.okemo.com/explore-the-resort/about-the-resort/groups-and-weddings/meetings-and-events.aspx",
+    "description": "480 Ranta Road, Ludlow, Vermont 05149"
+  },
+  {
+    "name": "Stowe",
+    "address": "Stowe Mountain Resort ZipTour Adventure",
+    "phone": null,
+    "website": "https://gostowe.com/activity/zip-lining/",
+    "description": "7416 Mountain Road, Stowe, VT"
+  },
+  {
+    "name": "Luray",
+    "address": "Bear Mountain Ziplines",
+    "phone": "(540) 743-1733",
+    "website": "https://bearmountainadventure.com/mama-bear-zipline/",
+    "description": "2354 US Hwy 211E, Luray, Virginia 22835"
+  },
+  {
+    "name": "McGaheysville",
+    "address": "Massanutten Adventure Park",
+    "phone": null,
+    "website": "https://www.massresort.com/",
+    "description": "3827 Massanutten Drive, McGaheysville, VA 22840 Rockingham"
+  },
+  {
+    "name": "Purcellville",
+    "address": "Harpers Ferry Adventure Center: Aerial adventure Park, Zipline Canopy Tour",
+    "phone": null,
+    "website": "https://harpersferryadventurecenter.com/all-activities/",
+    "description": "37291 Jefferson Pike, Purcellville, VA 20132"
+  },
+  {
+    "name": "Virginia Beach",
+    "address": "The Adventure Park at Virginia Aquarium",
+    "phone": null,
+    "website": "https://myadventurepark.com/location/virginia-beach-va/",
+    "description": "801 General Booth Blvd, Virginia Beach, VA 23451"
+  },
+  {
+    "name": "Williamsburg",
+    "address": "Go Ape! Freedom Park",
+    "phone": null,
+    "website": "https://www.goape.com/location/virginia-williamsburg/",
+    "description": "5537 Centerville Road, Williamsburg, Virginia 23188"
+  },
+  {
+    "name": "Amboy",
+    "address": "ZiplineX Zipline Tours",
+    "phone": null,
+    "website": "https://www.ziplinex.com/",
+    "description": "32016 NE Healy Road, Amboy, WA 98601"
+  },
+  {
+    "name": "Bellevue",
+    "address": "Bellevue Zip Tour",
+    "phone": null,
+    "website": "https://bellevuewa.gov/city-government/departments/parks/community-centers/sbcc/bellevue-zip-tour",
+    "description": "14509 SE Newport Way, Bellevue, Washington 98006"
+  },
+  {
+    "name": "Camano Island",
+    "address": "Canopy Tours Northwest",
+    "phone": "(360) 387-5807",
+    "website": "https://canopytoursnw.com/",
+    "description": "332 NE Camano Dr., Camano Island, Washington 98282"
+  },
+  {
+    "name": "Everett",
+    "address": "High Trek Adventures",
+    "phone": "(425) 382-2966",
+    "website": "https://www.hightrekeverett.com/",
+    "description": "11928 Beverly Park Rd 11928 Beverly Park Rd, Everett, WA"
+  },
+  {
+    "name": "Liberty Lake",
+    "address": "Mica Moon Zip Tours",
+    "phone": null,
+    "website": "https://micamoon.com/",
+    "description": "23403 E. Mission Ave. Suite 100, Liberty Lake, WA 99019"
+  },
+  {
+    "name": "Stevenson",
+    "address": "Skamania Lodge Zipline Tour",
+    "phone": null,
+    "website": "https://zipnskamania.com/",
+    "description": "1131 Skamania Lodge Way, Stevenson, WA 98648 usa"
+  },
+  {
+    "name": "Circleville",
+    "address": "North Fork Valley Canopy Tour",
+    "phone": "(877) 435-4842",
+    "website": "http://www.nrocks.com/activities/north-fork-valley-canopy-tour/",
+    "description": "141 Nelson Gap Road, Circleville, West Virginia 26804"
+  },
+  {
+    "name": "Glen Jean",
+    "address": "Summit Bechtel Reserve 'Big Zip'",
+    "phone": null,
+    "website": "https://www.summitbsa.org/about-us/venues/adventure-valley/zip/",
+    "description": "2550 Jack Furst Dr, Glen Jean, West Virginia 25846"
+  },
+  {
+    "name": "Morgantown",
+    "address": "Adventure WV Canopy Tour",
+    "phone": null,
+    "website": "https://adventurewv.wvu.edu/",
+    "description": "Adventure WV 2001 Rec Center Dr, Morgantown, WV 26506"
+  },
+  {
+    "name": "Oak Hill",
+    "address": "River Expeditions- The Ridges",
+    "phone": null,
+    "website": "https://raftinginfo.com/ziplining/",
+    "description": "900 Broadway Avenue, Oak Hill, WV"
+  },
+  {
+    "name": "Baileys Harbor",
+    "address": "Lakeshore Adventures Zip Line Tours",
+    "phone": null,
+    "website": "https://zipliningdoorcounty.com/",
+    "description": "8113 Hwy 57, Baileys Harbor, Door County, WI 54202"
+  },
+  {
+    "name": "Bristol",
+    "address": "BOUNDLESS ADVENTURES",
+    "phone": null,
+    "website": "https://boundlessadventures.net/wi-park/",
+    "description": "9800 160th Ave, Bristol, WI 53104"
+  },
+  {
+    "name": "Dresser",
+    "address": "Trollhaugen Adventure Park",
+    "phone": null,
+    "website": "https://trollhaugen.com/zip-line-park",
+    "description": "2232 100th Avenue, Dresser, Wisconsin 54009"
+  },
+  {
+    "name": "Green Bay",
+    "address": "NEW Zoo Adventure Park",
+    "phone": "(920) 434-7841",
+    "website": "https://newzoo.org/adventure-park",
+    "description": "4378 Reforestation Rd, Green Bay, WI 54313"
+  },
+  {
+    "name": "Greendale",
+    "address": "Mobile Zipline Rental",
+    "phone": null,
+    "website": "https://www.williefunevents.com/",
+    "description": "6600 Industrial Loop, Greendale, Wisconsin 53129"
+  },
+  {
+    "name": "Lake Geneva",
+    "address": "Lake Geneva Canopy Tours",
+    "phone": "(262) 248-9271",
+    "website": "https://www.lakegenevaadventures.com/",
+    "description": "N3219 County Road H, Lake Geneva, Wisconsin 53147"
+  },
+  {
+    "name": "Minocqua",
+    "address": "Northwoods Zip Line Tour",
+    "phone": null,
+    "website": "https://northwoodszipline.com/",
+    "description": "9635 Adventure Lane, Minocqua, Wisconsin 54548"
+  },
+  {
+    "name": "Niagara",
+    "address": "Wildman Adventure Resort",
+    "phone": null,
+    "website": "https://wildmanranch.com/outdoor-adventures-in-wisconsin/zipline-tour/",
+    "description": "N22200 Bomber Road, Niagara, Wisconsin 54151"
+  },
+  {
+    "name": "Wisconsin Dells",
+    "address": "Bigfoot Zipline Tours",
+    "phone": null,
+    "website": "https://www.bigfootzip.com/",
+    "description": "1550 Wisconsin Dells Pkwy, Wisconsin Dells, WI 53965"
+  }
+]
