@@ -61,7 +61,14 @@ async function extractInformation(url, retryCount = 3) {
             const addressParts = Array.from(document.querySelectorAll('.content > div > br')).map(br => br.nextSibling.textContent.trim());
             const [location_name, address, city, county] = addressParts.filter(part => part.trim().length > 0);
 
-            return { location_name, address, city, county, imgLink };
+            // Check if the phone number is available and extract it
+            const phoneRegex = /\((\d{3})\)\s*(\d{3})-(\d{4})/;
+            const phoneNumberMatch = document.querySelector('.content').textContent.match(phoneRegex);
+            const phoneNumber = phoneNumberMatch ? `(${phoneNumberMatch[1]}) ${phoneNumberMatch[2]}-${phoneNumberMatch[3]}` : '';
+
+            
+
+            return { location_name, address, city, county, phoneNumber, imgLink };
         });
 
         console.log('Extracted Data:', result);
@@ -98,10 +105,10 @@ async function runExtractionFromFile(inputFile) {
         }
     }
 
-    const outputFile = 'extracted_data.json';
+    const outputFile = '14.Data.json';
     fs.writeFileSync(outputFile, JSON.stringify(extractedData, null, 2));
     console.log(`Extraction completed. Data saved to ${outputFile}`);
 }
 
 // Example usage
-runExtractionFromFile('14.fieldsLinks.txt').catch(error => console.error('Error:', error));
+runExtractionFromFile('14.links.txt').catch(error => console.error('Error:', error));
