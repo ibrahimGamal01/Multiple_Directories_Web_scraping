@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Ballahack Airsoft",
+        "website": "https://airgunsdaddy.com/vendors/ballahack-airsoft-field-chesapeake-va/",
+        "logoLink": "https://airgunsdaddy.com/wp-content/uploads/2023/04/Ballahack-Airsoft-logo-1.jpg",
+        "about": "Playing space (99 acres)Indoor & outdoor areasOn-site rentalsOn-site retail storeUp to 1,000 players capacityGear repairs & upgradesOn-site repair shopTank refills",
+        "address":"2900 Ballahack Rd, Chesapeake, VA 23322",
+        "phone": "(757) 685-3356",
+        "addressLink": "https://www.google.com/maps/dir/41.500672,-81.6807936/ballahack+airsoft/@39.0250456,-81.227612,7z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x89baae0be336d8ab:0x185930ca93301f46!2m2!1d-76.2878165!2d36.594959",
+        "capacity": "Up to 1,000",
+        "space": "(99 acres)",
+        "socailMedia": {
+            "facebook": "https://www.facebook.com/ballahackairsoft/",
+            "instagram": "https://www.instagram.com/ballahackairsoft/",
+            "twitter": "https://twitter.com/ballahackairsoft",
+            "youtube": "https://www.youtube.com/user/BallahackAirsoft",
+            "pinterest": "https://www.pinterest.com/ballahackairsoft/",
+            "tumblr": "https://ballahackairsoft.tumblr.com/",
+            "reddit": "https://www.reddit.com/r/BallahackAirsoft/",
+            "linkedin": "https://www.linkedin.com/company/ballahack-airsoft/",
+            "flickr": "https://www.flickr.com/photos/ballahackairsoft/",
+            "vimeo": "https://vimeo.com/ballahackairsoft"
+        }
+    },
+    {
+        "name": "SS Airsoft",
+        "website": "https://ssairsoft.com/ss-airsoft-arena/",
+        "logoLink": "https://airgunsdaddy.com/wp-content/uploads/2023/04/SS-Airsoft-logo.jpg",
+        "about": "The SS Airsoft battlefield is a 24,000 ft² purpose-built arena to provide a well-laid out field with various elements that provide cover for airsoft players. The field configuration changes on a regular basis to provide a unique experience even for our regulars. Environmental conditions on the field can change from game to game. We alter the battlefield environment with lighting effects, as well as varying degrees of fog, sometimes so dense that you can see hardly 15′ in front of you! These different conditions can change the outcome of the entire game and challenge players of all skill levels. Light’s out night-scenario games are also played for a really intense experience.",
+        "address": "4729 Nelson Brogdon Blvd A, Sugar Hill, GA 30518",
+        "phone": "(678) 714-6001",
+        "addressLink": "https://www.google.com/maps/place/SS+Airsoft/@34.1037597,-84.0211104,15z/data=!4m14!1m8!3m7!1s0x0:0x5e7b3afcabe39881!2sSS+Airsoft!8m2!3d34.1033484!4d-84.0208557!14m1!1BCgIgARICCAI!3m4!1s0x0:0x5e7b3afcabe39881!8m2!3d34.1033484!4d-84.0208557",
+        "capacity": "Up to 1,000",
+        "space": "(24,000 Sq Ft)",
+        "socailMedia": {
+            "facebook": "https://www.facebook.com/SSAIRSOFT/",
+            "instagram": "https://www.instagram.com/SSAIRSOFT/",
+            "twitter": "https://twitter.com/SSAIRSOFT",
+            "youtube": "https://www.youtube.com/user/SSAIRSOFT",
+            "pinterest": "https://www.pinterest.com/SSAIRSOFT/",
+            "reddit": "https://www.reddit.com/r/SSAIRSOFT/",
+            "flickr": "https://www.flickr.com/photos/SSAIRSOFT/",
+            "vimeo": "https://vimeo.com/SSAIRSOFT"
+        }
+    }
+]
