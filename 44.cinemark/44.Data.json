@@ -1,0 +1,782 @@
+[
+  {
+    "name": "Cinemark Century Anchorage 16 And Xd",
+    "address": "301 East 36th Ave,\nAnchorage AK 99503",
+    "phone": "Phone907-770-2602",
+    "email": "433@cinemark.com"
+  },
+  {
+    "name": "Cinemark Bridge Street And Xd",
+    "address": "370 The Bridge St,\nHuntsville AL 35806",
+    "phone": "Phone256-327-8340",
+    "email": "1131@cinemark.com"
+  },
+  {
+    "name": "Cinemark Tinseltown Usa Benton",
+    "address": "17314 I-30,\nBenton AR 72019",
+    "phone": "Phone501-776-2282",
+    "email": "237@cinemark.com"
+  },
+  {
+    "name": "Cinemark Towne Centre And Xd",
+    "address": "201 Skyline Dr,\nSuite 25 Conway AR 72032",
+    "phone": "Phone501-450-7558",
+    "email": "1053@cinemark.com"
+  },
+  {
+    "name": "Cinemark Colonel Glenn And Xd",
+    "address": "18 Colonel Glenn Plaza Dr,\nLittle Rock AR 72210",
+    "phone": "Phone501-687-0499",
+    "email": "1083@cinemark.com"
+  },
+  {
+    "name": "Cinemark Mesa 16",
+    "address": "1051 N Dobson Rd,\nMesa AZ 85201",
+    "phone": "Phone480-733-2843",
+    "email": "366@cinemark.com"
+  },
+  {
+    "name": "Cinemark Sierra Vista 10",
+    "address": "2175 El Mercado Loop,\nSierra Vista AZ 85635",
+    "phone": "Phone520-458-1936",
+    "email": "290@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century El Con 20 And Xd",
+    "address": "3601 E Broadway Blvd,\nTucson AZ 85716",
+    "phone": "Phone520-202-3358",
+    "email": "435@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century Park Place 20 And Xd",
+    "address": "5870 E Broadway Blvd,\nSuite 3006 Tucson AZ 85711",
+    "phone": "Phone520-745-2321",
+    "email": "465@cinemark.com"
+  },
+  {
+    "name": "Century Gateway 12 Now Closed",
+    "address": "770 North Kolb,\nTucson AZ 85710",
+    "phone": "520-886-1000",
+    "email": "489@cinemark.com"
+  },
+  {
+    "name": "Cinemark Jess Ranch",
+    "address": "18935 Bear Valley Rd,\nApple Valley CA 92308",
+    "phone": "Phone760-247-5871",
+    "email": "1042@cinemark.com"
+  },
+  {
+    "name": "Cinemark Carson And Xd",
+    "address": "20700 S Avalon Blvd,\nSuite 285 Carson CA 90746",
+    "phone": "Phone310-323-0394",
+    "email": "1016@cinemark.com"
+  },
+  {
+    "name": "Cinemark Tinseltown Chico 14 And Xd",
+    "address": "801 East Ave,\nSuite 200 Chico CA 95926",
+    "phone": "Phone530-879-0143",
+    "email": "262@cinemark.com"
+  },
+  {
+    "name": "Cinemark Chino Movies 8",
+    "address": "5546 Philadelphia St,\nChino CA 91710",
+    "phone": "Phone909-464-1203",
+    "email": "125@cinemark.com"
+  },
+  {
+    "name": "Century Blackhawk Plaza Now Closed",
+    "address": "4175 Blackhawk Plaza Circle,\nDanville CA 94506",
+    "phone": "925-736-0367",
+    "email": "123@cinemark.com"
+  },
+  {
+    "name": "Cinemark Downey And Xd",
+    "address": "8840 Apollo Way,\nDowney CA 90242",
+    "phone": "Phone562-803-3014",
+    "email": "1134@cinemark.com"
+  },
+  {
+    "name": "Cinemark Imperial Valley Mall 14",
+    "address": "3651 S Dogwood Rd,\nEl Centro CA 92243",
+    "phone": "Phone760-482-9200",
+    "email": "1043@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century Laguna 16 And Xd",
+    "address": "9349 Big Horn Blvd,\nElk Grove CA 95758",
+    "phone": "Phone916-683-5282",
+    "email": "417@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century Folsom 14",
+    "address": "261 Iron Point Rd,\nFolsom CA 95630",
+    "phone": "Phone916-353-5247",
+    "email": "416@cinemark.com"
+  },
+  {
+    "name": "Cinemark Hanford Movies 8",
+    "address": "1669 W. Lacey,\nHanford CA 93230",
+    "phone": "Phone559-582-1474",
+    "email": "168@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century At Hayward",
+    "address": "1069 B St,\nHayward CA 94541",
+    "phone": "Phone510-582-1190",
+    "email": "1009@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century Southland Mall",
+    "address": "256 Southland Mall Dr,\nHayward CA 94545",
+    "phone": "Phone510-784-3040",
+    "email": "1138@cinemark.com"
+  },
+  {
+    "name": "Cinemark At The Pike Outlets And Xd",
+    "address": "99 South Pine Ave,\nLong Beach CA 90802",
+    "phone": "Phone562-435-5754",
+    "email": "347@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century Napa Valley And Xd",
+    "address": "195 Gasser Dr,\nNapa CA 94559",
+    "phone": "Phone707-251-3780",
+    "email": "1003@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century Arden 14 And Xd",
+    "address": "1590 Ethan Way,\nSacramento CA 95825",
+    "phone": "Phone916-922-4241",
+    "email": "1137@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century Northgate",
+    "address": "7000 Northgate Dr,\nSan Rafael CA 94903",
+    "phone": "Phone415-491-1314",
+    "email": "470@cinemark.com"
+  },
+  {
+    "name": "Cinemark Tracy 14",
+    "address": "3300 N Naglee Rd,\nTracy CA 95376",
+    "phone": "Phone209-833-8897",
+    "email": "217@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century Vallejo 14",
+    "address": "109 Plaza Dr,\nVallejo CA 94591\n\nLocated in Gateway Plaza Center",
+    "phone": "Phone707-553-1205",
+    "email": "445@cinemark.com"
+  },
+  {
+    "name": "Cinemark Victorville 16 And Xd",
+    "address": "14470 Bear Valley Rd,\nVictorville CA 92392",
+    "phone": "Phone760-243-2037",
+    "email": "341@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century Aurora And Xd",
+    "address": "14300 East Alameda Ave,\nAurora CO 80012",
+    "phone": "Phone303-363-0300",
+    "email": "428@cinemark.com"
+  },
+  {
+    "name": "Cinemark Enfield Square 12 Now Closed",
+    "address": "90 Elm St,\nEnfield CT 06082",
+    "phone": "860-741-6053",
+    "email": "1087@cinemark.com"
+  },
+  {
+    "name": "Cinemark Wilmington Movies 10",
+    "address": "1796 W Newport Pike,\nWilmington DE 19804",
+    "phone": "Phone302-994 7075",
+    "email": "037@cinemark.com"
+  },
+  {
+    "name": "Cinemark Majestic Cinemas",
+    "address": "2140 E Cinema Dr,\nMeridian ID 83642",
+    "phone": "Phone(208) 893-5028",
+    "email": "1019@cinemark.com"
+  },
+  {
+    "name": "Cinemark Melrose Park And Xd",
+    "address": "1001 West North Ave,\nMelrose Park IL 60160",
+    "phone": "Phone708-338-2294",
+    "email": "221@cinemark.com"
+  },
+  {
+    "name": "Cinemark Spring Hill Mall And Xd",
+    "address": "2000 Spring Hill Mall,\nWest Dundee IL 60118",
+    "phone": "Phone847-844-1089",
+    "email": "1139@cinemark.com"
+  },
+  {
+    "name": "Cinemark Greenwood Corner",
+    "address": "1848 E Stop 13 Rd,\nIndianapolis IN 46227",
+    "phone": "Phone317-882-2685",
+    "email": "028@cinemark.com"
+  },
+  {
+    "name": "Cinemark Valparaiso",
+    "address": "700 Porter's Vale Blvd,\nValparaiso IN 46383",
+    "phone": "Phone219-464-0260",
+    "email": "1031@cinemark.com"
+  },
+  {
+    "name": "Cinemark Merriam And Xd",
+    "address": "5500 Antioch,\nMerriam KS 66202",
+    "phone": "Phone913-789-7038",
+    "email": "259@cinemark.com"
+  },
+  {
+    "name": "Cinemark Florence 14 And Xd",
+    "address": "7860 Mall Rd,\nFlorence KY 41042",
+    "phone": "Phone859-282-6619",
+    "email": "1091@cinemark.com"
+  },
+  {
+    "name": "Cinemark Monroe Cinema 10 Now Closed",
+    "address": "4700 Millhaven Rd,\nMonroe LA 71203",
+    "phone": "318-325-4760",
+    "email": "062@cinemark.com"
+  },
+  {
+    "name": "Cinemark Columbia Snowden And Screenx",
+    "address": "9161 Commerce Center Dr. ,\nColumbia MD 21046",
+    "phone": "Phone410-872-0676",
+    "email": "5004@cinemark.com"
+  },
+  {
+    "name": "Cinemark Southland Center And Xd",
+    "address": "23000 Eureka Rd,\nTaylor MI 48180",
+    "phone": "Phone734-287-0629",
+    "email": "1127@cinemark.com"
+  },
+  {
+    "name": "Cinemark Tupelo Movies 8",
+    "address": "1001 Barnes Crossing Rd,\nTupelo MS 38804",
+    "phone": "Phone662-844-8256",
+    "email": "124@cinemark.com"
+  },
+  {
+    "name": "Cinemark Rockingham Park And Xd",
+    "address": "15 Mall Rd,\nSalem NH 03079",
+    "phone": "Phone603-890-7111",
+    "email": "1149@cinemark.com"
+  },
+  {
+    "name": "Cinemark Somerdale 16 And Xd",
+    "address": "711 Evesham Rd,\nSomerdale NJ 08083",
+    "phone": "Phone856-784-3429",
+    "email": "187@cinemark.com"
+  },
+  {
+    "name": "Cinemark Watchung And Xd",
+    "address": "1670 US Route 22 East,\nWatchung NJ 07069",
+    "phone": "Phone908-561-5970",
+    "email": "1151@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century Orleans 18 And Xd",
+    "address": "4500 West Tropicana Blvd,\nLas Vegas NV 89103",
+    "phone": "Phone702-889-1220",
+    "email": "424@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century Sams Town 18",
+    "address": "5111 Boulder Hwy,\nLas Vegas NV 89122",
+    "phone": "Phone702-547-1732",
+    "email": "442@cinemark.com"
+  },
+  {
+    "name": "Cinemark Polaris 18 And Xd",
+    "address": "1071 Gemini Place,\nColumbus OH 43240",
+    "phone": "Phone614-781-8228",
+    "email": "1101@cinemark.com"
+  },
+  {
+    "name": "Cinemark River Valley Mall And Xd",
+    "address": "1611 River Valley Circle S,\nLancaster OH 43130",
+    "phone": "Phone740-681-5697",
+    "email": "1123@cinemark.com"
+  },
+  {
+    "name": "Cinemark Macedonia",
+    "address": "8161 Macedonia Commons Blvd,\nMacedonia OH 44056",
+    "phone": "330-908-1005",
+    "email": "257@cinemark.com"
+  },
+  {
+    "name": "Cinemark Milford 16",
+    "address": "500 Rivers Edge Dr,\nMilford OH 45150",
+    "phone": "Phone513-248-2169",
+    "email": "1105@cinemark.com"
+  },
+  {
+    "name": "Cinemark Levis Commons 12",
+    "address": "2005 Hollenbeck Dr,\nPerrysburg OH 43551",
+    "phone": "Phone419-874-2154",
+    "email": "1108@cinemark.com"
+  },
+  {
+    "name": "Cinemark Miami Valley",
+    "address": "1020 Garbry Rd,\nPiqua OH 45356",
+    "phone": "Phone937-778-1438",
+    "email": "1038@cinemark.com"
+  },
+  {
+    "name": "Cinemark Franklin Park 16 And Xd",
+    "address": "5001 Monroe St,\n#2006 Toledo OH 43623",
+    "phone": "Phone419-472-2324",
+    "email": "1107@cinemark.com"
+  },
+  {
+    "name": "Cinemark Valley View And Xd",
+    "address": "6001 Canal Rd,\nValley View OH 44125",
+    "phone": "Phone216-447-8820",
+    "email": "283@cinemark.com"
+  },
+  {
+    "name": "Cinemark Wooster Movies 10",
+    "address": "4108 Burbank Rd,\nWooster OH 44691",
+    "phone": "Phone330-345-2610",
+    "email": "034@cinemark.com"
+  },
+  {
+    "name": "Cinemark Ada",
+    "address": "1090 North Hills Center,\nAda OK 74820",
+    "phone": "Phone580-421-9905",
+    "email": "1073@cinemark.com"
+  },
+  {
+    "name": "Cinemark Broken Arrow",
+    "address": "1801 E Hillside Dr,\nBroken Arrow OK 74012",
+    "phone": "Phone918-355-0427",
+    "email": "1036@cinemark.com"
+  },
+  {
+    "name": "Cinemark Tulsa And Imax",
+    "address": "10802 E 71st St,\nTulsa OK 74133",
+    "phone": "Phone918-250-1956",
+    "email": "265@cinemark.com"
+  },
+  {
+    "name": "Cinemark Cedar Hills 16",
+    "address": "3200 SW Hocken Ave,\nBeaverton OR 97005",
+    "phone": "Phone503-520-0892",
+    "email": "483@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century Eastport Plaza 16",
+    "address": "4040 SE 82nd Ave,\nPortland OR 97266",
+    "phone": "Phone503-772-1111",
+    "email": "432@cinemark.com"
+  },
+  {
+    "name": "Cinemark Tinseltown Erie",
+    "address": "1910 Rotunda Dr,\nErie PA 16509",
+    "phone": "Phone814-866-3390",
+    "email": "186@cinemark.com"
+  },
+  {
+    "name": "Cinemark Center Township Marketplace",
+    "address": "99 Wagner Rd,\nMonaca PA 15061",
+    "phone": "Phone724-775-4993",
+    "email": "344@cinemark.com"
+  },
+  {
+    "name": "Cinemark Montage Mountain 20 And Xd",
+    "address": "40 Glenmaura National Blvd,\nMoosic PA 18507",
+    "phone": "Phone570-961-5943",
+    "email": "279@cinemark.com"
+  },
+  {
+    "name": "Cinemark University City Penn 6",
+    "address": "4012 Walnut St,\nPhiladelphia PA 19104",
+    "phone": "Phone215-386-9800",
+    "email": "1109@cinemark.com"
+  },
+  {
+    "name": "Cinemark North Hills And Xd",
+    "address": "851 Providence Blvd,\nPittsburgh PA 15237",
+    "phone": "Phone412-364-1095",
+    "email": "1082@cinemark.com"
+  },
+  {
+    "name": "Cinemark Stroud Mall And Xd",
+    "address": "344 Stroud Mall Rd,\nSuite 160 Stroudsburg PA 18360",
+    "phone": "Phone570-421-1284",
+    "email": "1061@cinemark.com"
+  },
+  {
+    "name": "Cinemark Myrtle Beach",
+    "address": "2100 Coastal Grand Circle,\nMyrtle Beach SC 29577",
+    "phone": "Phone843-839-3225",
+    "email": "345@cinemark.com"
+  },
+  {
+    "name": "Cinemark Summerville",
+    "address": "4488 Ladson Rd,\nSummerville SC 29485",
+    "phone": "Phone843-873-1501",
+    "email": "127@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century Abilene 12",
+    "address": "3818 John Knox Dr,\nAbilene TX 79606",
+    "phone": "Phone325-793-9292",
+    "email": "429@cinemark.com"
+  },
+  {
+    "name": "Cinemark Abilene And Xd",
+    "address": "672 E Overland Trail,\nAbilene TX 79601",
+    "phone": "Phone(325) 670-0097",
+    "email": "1146@cinemark.com"
+  },
+  {
+    "name": "Cinemark Amarillo Hollywood 16 And Xd",
+    "address": "9100 Canyon Dr,\nAmarillo TX 79119",
+    "phone": "Phone806-352-7411",
+    "email": "247@cinemark.com"
+  },
+  {
+    "name": "Cinemark Southpark Meadows",
+    "address": "9900 S IH-35 Service Rd SB,\nUnit N Austin TX 78748",
+    "phone": "Phone512-291-0171",
+    "email": "384@cinemark.com"
+  },
+  {
+    "name": "Cinemark Hill Country Galleria",
+    "address": "12812 Hill Country Blvd,\nBee Cave TX 78738",
+    "phone": "Phone512-263-0862",
+    "email": "377@cinemark.com"
+  },
+  {
+    "name": "Cinemark Cinema Big Spring 4",
+    "address": "1801 East FM 700,\nBig Spring TX 79720",
+    "phone": "Phone432-263-2252",
+    "email": "085@cinemark.com"
+  },
+  {
+    "name": "Cinemark Sunrise Mall And Xd",
+    "address": "2370 Old Hwy 77,\nSuite 1314 Brownsville TX 78520",
+    "phone": "Phone956-547-9213",
+    "email": "314@cinemark.com"
+  },
+  {
+    "name": "Cinemark Cedar Hill",
+    "address": "280 Uptown Blvd,\nCedar Hill TX 75104",
+    "phone": "Phone972-291-5069",
+    "email": "349@cinemark.com"
+  },
+  {
+    "name": "Cinemark Cleburne Cinema 6",
+    "address": "1643 W Henderson St,\nSuite C Cleburne TX 76031",
+    "phone": "Phone817-556-2901",
+    "email": "094@cinemark.com"
+  },
+  {
+    "name": "Cinemark Cypress And Xd",
+    "address": "25720 Northwest Frwy,\nCypress TX 77429",
+    "phone": "Phone281-256-7652",
+    "email": "373@cinemark.com"
+  },
+  {
+    "name": "Cinemark Dallas Xd And Imax",
+    "address": "11819 Webb Chapel Rd,\nDallas TX 75234",
+    "phone": "Phone972-247-8172",
+    "email": "207@cinemark.com"
+  },
+  {
+    "name": "Cinemark Del Rio Movies 8",
+    "address": "2205 Veterans Blvd,\nDel Rio TX 78840",
+    "phone": "Phone830-775-8120",
+    "email": "229@cinemark.com"
+  },
+  {
+    "name": "Cinemark Denton 14",
+    "address": "2825 Wind River Ln,\nDenton TX 76210",
+    "phone": "Phone940-535-2654",
+    "email": "359@cinemark.com"
+  },
+  {
+    "name": "Cinemark Bistro Edinburg",
+    "address": "2001 W Trenton,\nSuite 116 Edinburg TX 78539",
+    "phone": "Phone956-631-3990",
+    "email": "1080@cinemark.com"
+  },
+  {
+    "name": "Cinemark West El Paso Xd And Screenx",
+    "address": "7440 Remcon Circle,\nEl Paso TX 79912",
+    "phone": "Phone915-587-5145",
+    "email": "241@cinemark.com"
+  },
+  {
+    "name": "Cinemark East Montana And Xd",
+    "address": "12704 East Montana,\nEl Paso TX 79938",
+    "phone": "Phone915-849-1661",
+    "email": "1081@cinemark.com"
+  },
+  {
+    "name": "Cinemark Frisco Square And Xd",
+    "address": "5655 Frisco Square Blvd,\nFrisco TX 75034",
+    "phone": "Phone214-705-9901",
+    "email": "1055@cinemark.com"
+  },
+  {
+    "name": "Cinemark Grand Prairie",
+    "address": "220 W Westchester Pkwy,\nGrand Prairie TX 75052",
+    "phone": "Phone972-263-0104",
+    "email": "056@cinemark.com"
+  },
+  {
+    "name": "Cinemark Harker Heights",
+    "address": "201 E Central Texas Expy,\nSuite 100 Harker Heights TX 76548",
+    "phone": "Phone254-690-4581",
+    "email": "1033@cinemark.com"
+  },
+  {
+    "name": "Cinemark Tinseltown Houston 290 And Xd",
+    "address": "12920 Northwest Fwy,\nHouston TX 77040",
+    "phone": "Phone713-329-9402",
+    "email": "218@cinemark.com"
+  },
+  {
+    "name": "Cinemark North East Mall 18 And Xd",
+    "address": "1101 Melbourne Rd,\nSuite 6000 Hurst TX 76053\n\n(Located at North East Mall. Across the parking lot from Best Buy. Between Dillard’s and Nordstrom.)",
+    "phone": "Phone817-591-8540",
+    "email": "1112@cinemark.com"
+  },
+  {
+    "name": "Cinemark Lancaster Movies 14",
+    "address": "3250 W Pleasant Run Rd,\nLancaster TX 75146",
+    "phone": "Phone972-230-1510",
+    "email": "035@cinemark.com"
+  },
+  {
+    "name": "Cinemark Lewisville And Xd",
+    "address": "2401 S Stemmons Freeway,\nLewisville TX 75067",
+    "phone": "Phone972-315-6152",
+    "email": "371@cinemark.com"
+  },
+  {
+    "name": "Cinemark Lufkin",
+    "address": "109 Miles Way,\nLufkin TX 75901",
+    "phone": "Phone936-639-9861",
+    "email": "1030@cinemark.com"
+  },
+  {
+    "name": "Cinemark Hollywood Usa Mcallen North",
+    "address": "100 W Nolana Ave,\nMcAllen TX 78504",
+    "phone": "Phone956-682-9438",
+    "email": "093@cinemark.com"
+  },
+  {
+    "name": "Cinemark Movies Mcallen 6",
+    "address": "1800 S 16th St,\nMcAllen TX 78503",
+    "phone": "Phone956-686-0170",
+    "email": "114@cinemark.com"
+  },
+  {
+    "name": "Cinemark North Mckinney And Xd",
+    "address": "1701 N Hardin Blvd,\nMcKinney TX 75071",
+    "phone": "Phone214-491-1822",
+    "email": "1154@cinemark.com"
+  },
+  {
+    "name": "Cinemark Tinseltown Usa Mission And Xd",
+    "address": "2516 East Expressway 83,\nMission TX 78572",
+    "phone": "Phone956-583-1961",
+    "email": "261@cinemark.com"
+  },
+  {
+    "name": "Cinemark Valley Ranch And Xd",
+    "address": "21750 Valley Ranch Parkway,\nNew Caney TX 77357",
+    "phone": "Phone281-354-4117",
+    "email": "1148@cinemark.com"
+  },
+  {
+    "name": "Cinemark Paris Movies 8",
+    "address": "1225 North East Loop 286,\nParis TX 75460",
+    "phone": "Phone903-737-6989",
+    "email": "210@cinemark.com"
+  },
+  {
+    "name": "Cinemark Hollywood Pasadena And Xd",
+    "address": "2101 E Beltway 8,\nPasadena TX 77503",
+    "phone": "Phone713-475-8180",
+    "email": "190@cinemark.com"
+  },
+  {
+    "name": "Cinemark Stone Hill Town Center",
+    "address": "18820 Hilltop Commercial Dr,\nPflugerville TX 78660",
+    "phone": "Phone512-251-1673",
+    "email": "1058@cinemark.com"
+  },
+  {
+    "name": "Cinemark Pharr Town Center And Xd",
+    "address": "600 N Jackson Rd,\nPharr TX 78577",
+    "phone": "Phone956-683-1242",
+    "email": "1074@cinemark.com"
+  },
+  {
+    "name": "Cinemark Central Plano",
+    "address": "1818 Coit Rd,\nPlano TX 75075",
+    "phone": "Phone972-985-1394",
+    "email": "193@cinemark.com"
+  },
+  {
+    "name": "Cinemark Legacy And Xd",
+    "address": "7201 Central Expy,\nSuite 100 Plano TX 75025",
+    "phone": "Phone972-527-4385",
+    "email": "251@cinemark.com"
+  },
+  {
+    "name": "Cinemark Rockwall 14 And Xd",
+    "address": "2125 Summer Lee,\nRockwall TX 75032",
+    "phone": "Phone972-771-6653",
+    "email": "352@cinemark.com"
+  },
+  {
+    "name": "Cinemark Rosenberg 12",
+    "address": "3420 Vista Dr,\nRosenberg TX 77471",
+    "phone": "Phone281-232-2612",
+    "email": "375@cinemark.com"
+  },
+  {
+    "name": "Cinemark Tinseltown Usa San Angelo",
+    "address": "4425 Sherwood Way,\nSan Angelo TX 76904",
+    "phone": "Phone325-223-2854",
+    "email": "278@cinemark.com"
+  },
+  {
+    "name": "Cinemark Mccreless Market",
+    "address": "4224 S New Braunfels Ave,\nSuite 601 San Antonio TX 78223",
+    "phone": "Phone210-532-4459",
+    "email": "1035@cinemark.com"
+  },
+  {
+    "name": "Cinemark Sherman",
+    "address": "3310 Town Center St,\nSherman TX 75092",
+    "phone": "Phone903-868-4337",
+    "email": "339@cinemark.com"
+  },
+  {
+    "name": "Cinemark Stephenville Cinema 6",
+    "address": "2900 W Washington St,\nSuite 53 Stephenville TX 76401",
+    "phone": "Phone254-968-6080",
+    "email": "098@cinemark.com"
+  },
+  {
+    "name": "Cinemark Temple And Xd",
+    "address": "4501 South General Bruce Dr,\nTemple TX 76502",
+    "phone": "Phone254-773-8497",
+    "email": "1075@cinemark.com"
+  },
+  {
+    "name": "Cinemark Movies 12 Now Closed",
+    "address": "10000 E.F. Lowry Expressway,\nTexas City TX 77591",
+    "phone": "409-986-7241",
+    "email": "175@cinemark.com"
+  },
+  {
+    "name": "Cinemark Waco And Xd",
+    "address": "2400 Creekview Dr,\nWaco TX 76711",
+    "phone": "Phone682-499-3273",
+    "email": "1168@cinemark.com"
+  },
+  {
+    "name": "Cinemark Weslaco Movies 10",
+    "address": "2113 West Expressway 83,\nWeslaco TX 78596",
+    "phone": "Phone956-968-8437",
+    "email": "212@cinemark.com"
+  },
+  {
+    "name": "Cinemark Wichita Falls 14",
+    "address": "2915 Glenwood Blvd,\nWichita Falls TX 76308",
+    "phone": "Phone940-716-9933",
+    "email": "354@cinemark.com"
+  },
+  {
+    "name": "Cinemark Draper And Xd",
+    "address": "12129 South State St,\nDraper UT 84020",
+    "phone": "Phone801-619-6494",
+    "email": "1056@cinemark.com"
+  },
+  {
+    "name": "Cinemark Layton And Xd",
+    "address": "720 W Ring Rd,\nLayton UT 84041",
+    "phone": "Phone801-546-4764",
+    "email": "119@cinemark.com"
+  },
+  {
+    "name": "Cinemark Provo 16",
+    "address": "1200 Town Center Blvd,\nSuite 2050 Provo UT 84601",
+    "phone": "Phone801-852-8526",
+    "email": "285@cinemark.com"
+  },
+  {
+    "name": "Cinemark Riverton And Xd",
+    "address": "13257 S Teal Ridge Way,\nRiverton UT 84096",
+    "phone": "Phone1-801-938-5700",
+    "email": "1165@cinemark.com"
+  },
+  {
+    "name": "Cinemark Movies 9 Now Closed",
+    "address": "9539 So. 700 E. Suite 2,\nSandy UT 84070",
+    "phone": "801-571-0968",
+    "email": "061@cinemark.com"
+  },
+  {
+    "name": "Cinemark Jordan Landing 24 And Xd",
+    "address": "7301 S Jordan Landing,\nWest Jordan UT 84084",
+    "phone": "Phone801-282-8847",
+    "email": "288@cinemark.com"
+  },
+  {
+    "name": "Cinemark Centreville",
+    "address": "6201 Multiplex Dr,\nCentreville VA 20121",
+    "phone": "Phone703-802-1100",
+    "email": "1110@cinemark.com"
+  },
+  {
+    "name": "Cinemark Chesapeake Square And Xd",
+    "address": "2413 Chesapeake Square Ring Rd,\nChesapeake VA 23321",
+    "phone": "Phone757-488-4695",
+    "email": "1052@cinemark.com"
+  },
+  {
+    "name": "Cinemark City Center And Xd",
+    "address": "11810 Fountain Way,\nSuite J Newport News VA 23606",
+    "phone": "Phone757-525-9898",
+    "email": "1156@cinemark.com"
+  },
+  {
+    "name": "Cinemark Totem Lake Kirkland And Xd",
+    "address": "12600 120th Ave NE,\nKirkland WA 98034",
+    "phone": "Phone425-821-0511",
+    "email": "1159@cinemark.com"
+  },
+  {
+    "name": "Cinemark Century Point Ruston And Xd",
+    "address": "5057 Main St,\nTacoma WA 98407",
+    "phone": "Phone253-752-6325",
+    "email": "1013@cinemark.com"
+  },
+  {
+    "name": "Cinemark Grand Cinemas",
+    "address": "1325 W Poplar St,\nWalla Walla WA 99362",
+    "phone": "Phone509-522-3232",
+    "email": "1020@cinemark.com"
+  },
+  {
+    "name": "Cinemark Huntington Mall",
+    "address": "500 Mall Rd,\nSuite 700 Barboursville WV 25504",
+    "phone": "Phone304-733-3984",
+    "email": "1046@cinemark.com"
+  },
+  {
+    "name": "Cinemark Meadowbrook Mall",
+    "address": "2105 Meadowbrook Rd,\nBridgeport WV 26330",
+    "phone": "Phone304-842-9296",
+    "email": "364@cinemark.com"
+  }
+]
