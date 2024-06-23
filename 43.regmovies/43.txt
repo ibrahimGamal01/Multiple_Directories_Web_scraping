@@ -1,0 +1,322 @@
+<div class="css-15fgo7p ercq8yr5">
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-edwards-alhambra-renaissance-1053">Alhambra - Regal Edwards Alhambra Renaissance</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-edwards-aliso-viejo-1032">Aliso Viejo - Regal Edwards
+            Aliso Viejo</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-arroyo-grande-1812">Arroyo Grande -
+            Regal Arroyo Grande</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-auburn-california-1823">Auburn
+            - Regal Auburn - California</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-edwards-bakersfield-1031">Bakersfield - Regal Edwards Bakersfield</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-edwards-brea-east-1028">Brea - Regal Edwards Brea
+            East</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-edwards-camarillo-palace-1009">Camarillo -
+            Regal Edwards Camarillo Palace</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-carlsbad-1778">Carlsbad - Regal Carlsbad</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-edwards-cerritos-1018">Cerritos - Regal Edwards Cerritos</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-rancho-del-rey-0361">Chula Vista - Regal Rancho Del
+            Rey</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-ua-clovis-movies-1185">Clovis - Regal UA
+            Clovis</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-edwards-corona-crossings-rpx-0665">Corona -
+            Regal Edwards Corona Crossings</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-edwards-metro-pointe-1007">Costa Mesa - Regal Edwards Metro Pointe</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-davis-holiday-1814">Davis - Regal Davis Holiday</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-hacienda-crossings-0347">Dublin - Regal Hacienda
+            Crossings</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-edwards-eastvale-gateway-1916">Eastvale -
+            Regal Edwards Eastvale Gateway</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-edwards-rancho-san-diego-1049">El Cajon - Regal Edwards Rancho San Diego</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-parkway-plaza-0388">El Cajon - Regal Parkway Plaza</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-el-dorado-hills-1807">El Dorado Hills - Regal El Dorado
+            Hills</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-escondido-1805">Escondido - Regal
+            Escondido</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-edwards-fairfield-1046">Fairfield - Regal
+            Edwards Fairfield</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-marketplace-at-el-paseo-1433">Fresno - Regal Marketplace @ El Paseo</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-fresno-river-park-1033">Fresno - Regal Fresno River
+            Park</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-manchester-fresno-1820">Fresno - Regal
+            Manchester - Fresno</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-garden-grove-0364">Garden Grove
+            - Regal Garden Grove</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-edwards-market-place-1048">Irvine - Regal Edwards Market Place</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-edwards-university-town-center-1025">Irvine - Regal
+            University Town Center</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-edwards-irvine-spectrum-1010">Irvine - Regal Irvine Spectrum</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-ua-la-canada-1270">La Canada - Regal UA La Canada</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-la-habra-0704">La Habra - Regal La Habra</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-edwards-la-verne-1012">La Verne - Regal Edwards La
+            Verne</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-edwards-long-beach-1042">Long Beach - Regal
+            Edwards Long Beach</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-la-live-1484">Los Angeles -
+            Regal LA Live</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-hollywood-merced-1607">Merced - Regal
+            Hollywood - Merced</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-edwards-kaleidoscope-1035">Mission Viejo - Regal Edwards Kaleidoscope</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-modesto-1818">Modesto - Regal Modesto</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-edwards-big-newport-rpx-1024">Newport Beach - Regal
+            Edwards Big Newport</a></div>
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-north-hollywood-1438">North
+            Hollywood - Regal North Hollywood</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-jack-london-1808">Oakland - Regal Jack London</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-mission-marketplace-1470">Oceanside - Regal Mission Marketplace</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-oceanside-0708">Oceanside - Regal Oceanside</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-edwards-ontario-palace-1026">Ontario - Regal Edwards
+            Ontario Palace</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-edwards-ontario-mountain-village-1037">Ontario - Regal Edwards Ontario Mountain
+            Village</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-palm-springs-1802">Palm Springs - Regal
+            Palm Springs</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-paseo-1485">Pasadena - Regal
+            Paseo</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-rancho-mirage-1801">Rancho Mirage - Regal
+            Rancho Mirage</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-riverside-plaza-1806">Riverside -
+            Regal Riverside Plaza</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-promenade-0748">Rolling Hills
+            Est - Regal Promenade</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-ua-olympus-pointe-1285">Roseville - Regal UA Olympus Pointe</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-delta-shores-1413">Sacramento - Regal Delta Shores</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-natomas-marketplace-0774">Sacramento - Regal Natomas
+            Marketplace</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-ua-laguna-village-1286">Sacramento -
+            Regal UA Laguna Village</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-san-bernardino-1799">San
+            Bernardino - Regal San Bernardino</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-edwards-mira-mesa-1043">San Diego - Regal Edwards Mira Mesa</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-stonestown-galleria-1464">San Francisco - Regal
+            Stonestown Galleria</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-san-jacinto-metro-1804">San
+            Jacinto - Regal San Jacinto Metro</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-edwards-san-marcos-1034">San Marcos - Regal Edwards San Marcos</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-edwards-canyon-country-1047">Santa Clarita - Regal
+            Edwards Canyon Country</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-edwards-valencia-1038">Santa
+            Clarita - Regal Edwards Valencia</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-edwards-santa-maria-rpx-1681">Santa Maria - Regal Edwards Santa Maria &amp; RPX</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-sherman-oaks-galleria-1483">Sherman Oaks - Regal Sherman
+            Oaks Galleria</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-simi-valley-civic-center-0391">Simi
+            Valley - Regal Simi Valley Civic Center</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-sonora-1826">Sonora - Regal Sonora</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-edwards-south-gate-1044">South Gate - Regal Edwards South Gate</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-stockton-holiday-cinema-1816">Stockton - Regal Stockton
+            Holiday</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-stockton-city-center-1817">Stockton - Regal
+            Stockton City Center</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-edwards-temecula-1045">Temecula - Regal Edwards Temecula</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-janss-marketplace-1418">Thousand Oaks - Regal Janss
+            Marketplace</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-turlock-1819">Turlock - Regal
+            Turlock</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-ukiah-1813">Ukiah - Regal Ukiah</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-visalia-1821">Visalia - Regal Visalia</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-edwards-west-covina-1030">West Covina - Regal Edwards
+            West Covina</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-yorba-linda-1430">Yorba Linda - Regal
+            Yorba Linda</a></div>
+</div>
+<div class="css-15fgo7p ercq8yr5">
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-tikahtnu-1994">Anchorage -
+            Regal Tikahtnu</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-totem-0918">Anchorage - Regal
+            Totem</a></div>
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-dimond-center-cinemas-0922">Anchorage - Regal Dimond Center</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-goldstream-0601">Fairbanks - Regal Goldstream</a></div>
+</div>
+<div class="css-15fgo7p ercq8yr5">
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-southglenn-1610">Centennial
+            - Regal SouthGlenn</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-interquest-rpx-1609">Colorado
+            Springs - Regal Interquest</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-ua-colorado-center-1308">Denver - Regal UA Colorado Center</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-ua-denver-pavilions-rpx-1315">Denver - Regal UA Denver
+            Pavilions</a></div>
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-canyon-view-0698">Grand
+            Junction - Regal Canyon View</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-ua-colorado-mills-1550">Lakewood - Regal UA Colorado Mills</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-village-at-the-peaks-rpx-1673">Longmont - Regal Village
+            At The Peaks</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-river-point-1943">Sheridan - Regal
+            River Point</a></div>
+</div>
+<div class="css-15fgo7p ercq8yr5">
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-wekiva-riverwalk-1258">Apopka - Regal Wekiva Riverwalk</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-oakmont-0444">Bradenton - Regal Oakmont</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-magnolia-place-0339">Coral Springs - Regal Magnolia
+            Place</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-dania-pointe-1474">Dania Beach - Regal Dania
+            Pointe</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-gulf-coast-0684">Fort Myers - Regal Gulf
+            Coast</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-cypress-creek-station-0529">Ft Lauderdale -
+            Regal Cypress Creek Station</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-belltower-0432">Ft
+            Myers - Regal Belltower</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-celebration-pointe-rpx-1416">Gainesville - Regal Celebration Pointe</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-royal-park-1860">Gainesville - Regal Royal Park</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-butler-town-center-0219">Gainesville - Regal Butler Town
+            Center</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-oakwood-0463">Hollywood - Regal
+            Oakwood</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-citrus-cinemas-0206">Inverness - Regal
+            Citrus Cinemas</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-avenues-4dx-rpx-0241">Jacksonville -
+            Regal Avenues</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-treasure-coast-mall-0731">Jensen
+            Beach - Regal Treasure Coast Mall</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-key-west-0412">Key West - Regal Key West</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-the-loop-0687">Kissimmee - Regal The Loop</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-ua-cinema-90-1214">Lake City - Regal UA Cinema 90</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-eagle-ridge-mall-0466">Lake Wales - Regal Eagle Ridge Mall</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-largo-mall-0446">Largo - Regal Largo Mall</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-santa-rosa-1195">Mary Esther - Regal Santa Rosa</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-ua-falls-1149">Miami - Regal UA Falls</a></div>
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-kendall-village-0996">Miami
+            - Regal Kendall Village</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-southland-mall-0683">Miami
+            - Regal Southland Mall</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-south-beach-0482">Miami
+            Beach - Regal South Beach</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-naples-0465">Naples -
+            Regal Naples</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-hollywood-ocala-0483">Ocala - Regal
+            Hollywood - Ocala</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-pointe-orlando-1938">Orlando -
+            Regal Pointe Orlando</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-waterford-lakes-0734">Orlando
+            - Regal Waterford Lakes</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-oviedo-mall-0380">Oviedo -
+            Regal Oviedo Mall</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-regency-panama-city-1859">Panama
+            City - Regal Regency Panama City</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-westfork-0709">Pembroke Pines - Regal Westfork</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-park-place-rpx-1914">Pinellas Park - Regal Park Place</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-broward-rpx-1762">Plantation - Regal Broward</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-town-center-port-charlotte-0723">Port Charlotte - Regal
+            Town Center - Port Charlotte</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-pavilion-rpx-1613">Port Orange - Regal Pavilion</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-hollywood-port-richey-0418">Port Richey - Regal Hollywood - Port Richey</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-royal-palm-beach-rpx-0351">Royal Palm Beach - Regal Royal
+            Palm Beach</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-hollywood-sarasota-0467">Sarasota -
+            Regal Hollywood - Sarasota</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-sawgrass-0442">Sunrise -
+            Regal Sawgrass</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-governors-square-1857">Tallahassee -
+            Regal Governor's Square</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-winter-park-village-0721">Winter Park - Regal Winter Park Village</a></div>
+</div>
+<div class="css-15fgo7p ercq8yr5">
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-avalon-1694">Alpharetta -
+            Regal Avalon</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-atlantic-station-1346">Atlanta - Regal
+            Atlantic Station</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-perimeter-pointe-1309">Atlanta -
+            Regal Perimeter Pointe</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-augusta-exchange-0724">Augusta - Regal Augusta Exchange</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-mall-of-georgia-0701">Buford - Regal Mall Of
+            Georgia</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-carrollton-1420">Carrollton - Regal
+            Carrollton</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-hollywood-north-i-85-0745">Chamblee -
+            Regal Hollywood @ North I-85</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-hamilton-mill-1535">Dacula - Regal Hamilton Mill</a></div>
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-dawson-1422">Dawsonville -
+            Regal Dawson</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-arbor-place-0392">Douglasville - Regal
+            Arbor Place</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-medlock-crossing-rpx-0354">Duluth -
+            Regal Medlock Crossing</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-hollywood-cinemas-gainesville-1421">Gainesville - Regal Hollywood - Gainesville</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-griffin-1424">Griffin - Regal Griffin</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-mcdonough-1519">McDonough - Regal McDonough</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-georgian-1891">Newnan - Regal Georgian</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-cherokee-1423">Woodstock - Regal Cherokee</a></div>
+</div>
+
+<div class="css-15fgo7p ercq8yr5">
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-auburn-washington-0877">Auburn - Regal Auburn - Washington</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-crossroads-bellevue-0905">Bellevue - Regal Crossroads -
+            Bellevue</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-barkley-village-1671">Bellingham - Regal
+            Barkley Village</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-tall-firs-0330">Bonneylake - Regal
+            Tall Firs</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-everett-rpx-0663">Everett - Regal
+            Everett</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-issaquah-highlands-1942">Issaquah - Regal
+            Issaquah Highlands</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-three-rivers-mall-0599">Kelso -
+            Regal Three Rivers Mall</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-martin-village-0673">Lacey
+            - Regal Martin Village</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-lakewood-rpx-0887">Lakewood
+            - Regal Lakewood</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-alderwood-rpx-0909">Lynnwood -
+            Regal Alderwood</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-marysville-0298">Marysville - Regal
+            Marysville</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-cinebarre-mountlake-1958">Mountlake
+            Terrace - Regal Cinebarre Mountlake</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-poulsbo-0880">Poulsbo - Regal Poulsbo</a></div>
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-south-hill-cinema-0885">Puyallup - Regal South Hill</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-longston-place-0355">Puyallup - Regal Longston Place</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-bella-bottega-0904">Redmond - Regal Bella Bottega</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-the-landing-1935">Renton - Regal The Landing</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-thornton-place-1937">Seattle - Regal Thornton Place</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-meridian-4dx-1931">Seattle - Regal Meridian</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-northtown-mall-0883">Spokane - Regal Northtown Mall</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-spokane-valley-0895">Spokane Valley - Regal Spokane
+            Valley</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-cascade-0845">Vancouver - Regal
+            Cascade</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-vancouver-plaza-0843">Vancouver - Regal
+            Vancouver Plaza</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-city-center-0847">Vancouver - Regal
+            City Center</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-cinema-99-0846">Vancouver - Regal
+            Cinema 99</a></div>
+</div>
+<div class="css-15fgo7p ercq8yr5">
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-kingstowne-rpx-1865">Alexandria - Regal Kingstowne</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-ballston-quarter-0296">Arlington - Regal Ballston Quarter</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-fox-1869">Ashburn - Regal Fox</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-stonefield-1969">Charlottesville - Regal Stonefield</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-new-river-valley-0671">Christianburg - Regal New River
+            Valley</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-southpark-mall-1902">Colonial Heights -
+            Regal Southpark Mall</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-culpeper-1913">Culpeper -
+            Regal Culpeper</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-fairfax-towne-center-1275">Fairfax -
+            Regal Fairfax Towne Center</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-fredericksburg-0712">Fredericksburg - Regal Fredericksburg</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-virginia-gateway-1675">Gainesville - Regal Virginia
+            Gateway</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-virginia-center-0165">Glen Allen - Regal
+            Virginia Center</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-harrisonburg-0735">Harrisonburg -
+            Regal Harrisonburg</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-river-ridge-1995">Lynchburg -
+            Regal River Ridge</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-manassas-1751">Manassas - Regal
+            Manassas</a></div>
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-westchester-commons-1936">Midlothian - Regal Westchester Commons</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-commonwealth-1864">Midlothian - Regal Commonwealth</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-kiln-creek-0161">Newport News - Regal Kiln Creek</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-macarthur-center-rpx-0365">Norfolk - Regal Macarthur
+            Center</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-west-tower-cinemas-1226">Richmond - Regal
+            West Tower</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-short-pump-0730">Richmond - Regal Short
+            Pump</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-valley-view-grande-1867">Roanoke - Regal
+            Valley View Grande</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-springfield-town-center-0595">Springfield - Regal Springfield Town Center</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-dulles-town-center-1672">Sterling - Regal Dulles Town
+            Center</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-harbour-view-grande-1866">Suffolk - Regal
+            Harbour View Grande</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-strawbridge-marketplace-0235">Virginia Beach - Regal Strawbridge Marketplace</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-columbus-0718">Virginia Beach - Regal Columbus</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-new-town-1868">Williamsburg - Regal New Town</a></div>
+</div>
+<div class="css-15fgo7p ercq8yr5">
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-westgate-0953">Austin -
+            Regal Westgate</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-gateway-0949">Austin - Regal
+            Gateway</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-metropolitan-0950">Austin - Regal
+            Metropolitan</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-star-1639">Beaumont - Regal Star</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-ua-galaxy-theatre-dallas-1306">Dallas - Regal UA Galaxy -
+            Dallas</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-heartland-1643">Early - Regal
+            Heartland</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-fossil-creek-1317">Ft Worth - Regal
+            Fossil Creek</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-edwards-greenway-grand-palace-1051">Houston - Regal Edwards Greenway Grand
+            Palace</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-edwards-houston-marqe-1052">Houston - Regal
+            Edwards Houston Marq'E</a></div>
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-killeen-1636">Killeen -
+            Regal Killeen</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-live-oak-rpx-0795">Live Oak - Regal
+            Live Oak</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-cielo-vista-0765">San Antonio - Regal
+            Cielo Vista</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-huebner-oaks-0581">San Antonio - Regal
+            Huebner Oaks</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-alamo-quarry-0939">San Antonio - Regal
+            Alamo Quarry</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-northwoods-0940">San Antonio - Regal
+            Northwoods</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-benders-landing-screenx-1469">Spring -
+            Regal Benders Landing</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-lone-star-1441">Tomball -
+            Regal Lone Star</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-tyler-rose-1635">Tyler - Regal
+            Tyler Rose</a></div>
+</div>
+<div class="css-15fgo7p ercq8yr5">
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-colonie-center-rpx-1923">Albany - Regal Colonie Center</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-crossgates-1737">Albany - Regal Crossgates</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-binghamton-1732">Binghamton - Regal Binghamton</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-ua-sheepshead-bay-1159">Brooklyn - Regal UA Sheepshead
+            Bay</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-elmwood-center-0341">Buffalo - Regal Elmwood
+            Center</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-walden-galleria-rpx-0675">Buffalo - Regal
+            Walden Galleria</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-clifton-park-rpx-1769">Clifton Park
+            - Regal Clifton Park</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-deer-park-0692">Deer Park -
+            Regal Deer Park</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-ua-east-hampton-cinema-1138">East
+            Hampton - Regal UA East Hampton</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-ua-farmingdale-1319">Farmingdale - Regal UA Farmingdale</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-fishkill-1739">Fishkill - Regal Fishkill</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-tangram-4dx-1472">Flushing - Regal Tangram</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-ua-midway-1143">Forest Hills - Regal UA Midway</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-atlas-park-0688">Glendale - Regal Atlas Park</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-ua-hampton-bays-1313">Hampton Bays - Regal UA Hampton
+            Bays</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-arnot-mall-1730">Horseheads - Regal Arnot
+            Mall</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-ithaca-mall-0677">Ithaca - Regal Ithaca
+            Mall</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-ua-kaufman-astoria-rpx-1333">Long Island City
+            - Regal UA Kaufman Astoria</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-lynbrook-rpx-1348">Lynbrook - Regal Lynbrook</a></div>
+    <div class="css-1gtanqs ercq8yr6"><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-ua-cortlandt-town-center-1318">Mohegan Lake - Regal UA Cortlandt Town Center</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-nanuet-rpx-0558">Nanuet - Regal Nanuet</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-new-roc-0297">New Rochelle - Regal New Roc</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-essex-crossing-1412">New York - Regal Essex
+            Crossing</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-times-square-1929">New York - Regal Times
+            Square</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-battery-park-1335">New York - Regal Battery
+            Park</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-union-square-screenx-4dx-1320">New York -
+            Regal Union Square</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-quaker-crossing-0700">Orchard
+            Park - Regal Quaker Crossing</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-champlain-centre-1734">Plattsburgh - Regal Champlain Centre</a><a
+            class="css-1pwsy9t ercq8yr7" href="/theatres/regal-galleria-mall-1740">Poughkeepsie - Regal Galleria
+            Mall</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-aviation-mall-1731">Queensbury - Regal
+            Aviation Mall</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-east-greenbush-1738">Rensselaer -
+            Regal East Greenbush</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-ronkonkoma-0632">Ronkonkoma -
+            Regal Ronkonkoma</a><a class="css-1pwsy9t ercq8yr7" href="/theatres/regal-bricktown-charleston-1419">Staten
+            Island - Regal Bricktown Charleston</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-destiny-usa-1733">Syracuse - Regal Destiny USA</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-eastview-mall-0501">Victor - Regal Eastview Mall</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-salmon-run-1946">Watertown - Regal Salmon Run</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-westbury-1273">Westbury - Regal Westbury</a><a class="css-1pwsy9t ercq8yr7"
+            href="/theatres/regal-transit-center-0294">Williamsville - Regal Transit Center</a></div>
+</div>
