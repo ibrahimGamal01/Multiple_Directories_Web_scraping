@@ -1,0 +1,227 @@
+
+[
+  {
+    "name": "Argo Drive-In Theatre",
+    "address": "Centre, AL 35960",
+    "number": "(205) 467-3434"
+  },
+  {
+    "name": "Apache Drive-In Theatre",
+    "address": "US Highway 60, Globe, AZ 85501",
+    "number": "(520) 425-4511"
+  },
+  {
+    "name": "112 Drive-In",
+    "address": "3352 North Highway 112, Fayetteville, AR 72703",
+    "number": "(501) 442-4542"
+  },
+  {
+    "name": "88 Drive In Theatre",
+    "address": "East 88th Avenue & Rosemary Street, Commerce City, CO 80022",
+    "number": "(303) 287-7717"
+  },
+  {
+    "name": "Mansfield Drive-In Theatre",
+    "address": "228 Stafford Road, Mansfield Center, CT 06250",
+    "number": "(860) 423-4441"
+  },
+  {
+    "name": "Diamond State Drive In Movies",
+    "address": "Route 13, Felton, DE 19943"
+  },
+  {
+    "name": "Joy-LAN Drive-In & Swap Shop",
+    "address": "16414 US Highway 301, Dade City, FL 33525",
+    "number": "(904) 567-5085"
+  },
+  {
+    "name": "Terrace Drive-In Theatre",
+    "address": "3701 South Lake Avenue, Caldwell, ID 83605",
+    "number": "(208) 455-1433"
+  },
+  {
+    "name": "Hi-Lite 30 Drive-In Theatre",
+    "address": "5700 North Belt West, Belleville, IL 62223",
+    "number": "(618) 233-4400"
+  },
+  {
+    "name": "Starlite Drive-In Theatre",
+    "address": "7630 South Old State Road 37, Bloomington, IN 47403",
+    "number": "(812) 824-8036"
+  },
+  {
+    "name": "Council Bluffs Drive-In",
+    "address": "1130 West South Omaha Bridge Road, Council Bluffs, IA 51501",
+    "number": "(712) 366-0422"
+  },
+  {
+    "name": "Star-Vue Drive-In Theatre",
+    "address": "1019 McArtor Road, Dodge City, KS 67801",
+    "number": "(316) 225-4301"
+  },
+  {
+    "name": "Tri City Drive In",
+    "address": "Highway 231 South, Beaver Dam, KY 42320",
+    "number": "(270) 274-3168"
+  },
+  {
+    "name": "Bridgton Drive-In",
+    "address": "Rr 1, Saco, ME 04072",
+    "number": "(207) 647-8666"
+  },
+  {
+    "name": "Leicester Drive In Theater",
+    "address": "1675 Main Street, Leicester, MA 01524",
+    "number": "(508) 892-4400"
+  },
+  {
+    "name": "Bengies Drive-In Theatre",
+    "address": "3417 Eastern Boulevard, Baltimore, MD 21220",
+    "number": "(410) 687-5627"
+  },
+  {
+    "name": "Cottage View Drive In",
+    "address": "9338 East Point Douglas Road South, Cottage Grove, MN 55016",
+    "number": "(651) 458-5965"
+  },
+  {
+    "name": "Guntown Drive In Movie",
+    "address": "124 Rd 773, Guntown, MS 38849",
+    "number": "(601) 348-5767"
+  },
+  {
+    "name": "Sunset Drive-In Theatre",
+    "address": "Rr 2, Cadet, MO 63630",
+    "number": "(417) 678-6609"
+  },
+  {
+    "name": "Silver Bow Twin Drive-In",
+    "address": "Butte, MT 59701",
+    "number": "(406) 782-8095"
+  },
+  {
+    "name": "Sand Hills Drive In Alliance Ne",
+    "address": "End of East 28th Street, Kearney, NE 68847",
+    "number": "(308) 237-2783"
+  },
+  {
+    "name": "Century LasVegas 6 Drive In Theatre",
+    "address": "4158 Smoke Ranch Road, North Las Vegas, NV 89030",
+    "number": "(702) 646-3565"
+  },
+  {
+    "name": "Northfield Drive-In Theatre",
+    "address": "Northfield Road, Hinsdale, NH 03451",
+    "number": "(603) 239-4054"
+  },
+  {
+    "name": "Delsea Drive-In",
+    "address": "Vineland, NJ 08360",
+    "number": "(856) 696-0011"
+  },
+  {
+    "name": "Fiesta Drive-In Theatre",
+    "address": "Farmington, NM 87401",
+    "number": "(505) 855-4126"
+  },
+  {
+    "name": "Bay Drive-In Theatre",
+    "address": "Route 26, Alexandria Bay, NY 13607",
+    "number": "(315) 482-3874"
+  },
+  {
+    "name": "Badin Road Drive In Theatre",
+    "address": "2411 Badin Road, Albemarle, NC 28001",
+    "number": "(704) 983-4882"
+  },
+  {
+    "name": "Lake Park Drive-In Theatre",
+    "address": "AL, Route 26, Alexandria Bay",
+    "number": "(701) 572-9137"
+  },
+  {
+    "name": "Starlite Drive-In Theatre",
+    "address": "2255 Ohio Pike, Amelia, OH 45102",
+    "number": "(513) 734-4001"
+  },
+  {
+    "name": "Chief Drive-In Theatre",
+    "address": "4400 South 4th street, Chickasha, OK 73018",
+    "number": "(405) 224-1515"
+  },
+  {
+    "name": "Frontier Drive In",
+    "address": "28569 Redwood Highway, Cave Junction, OR 97523",
+    "number": "(541) 592-3700"
+  },
+  {
+    "name": "Kane RD Drive-In",
+    "address": "3001 Kane Road, Aliquippa, PA 15001",
+    "number": "(724) 378-1970"
+  },
+  {
+    "name": "Rustic Tri-View Drive In Theatre",
+    "address": "Eddie Dowling Highway, Route 146, North Smithfield, RI 02896",
+    "number": "(401) 769-7601"
+  },
+  {
+    "name": "Plaza 21 Drive-In Theatre",
+    "address": "Highway 21 North, Beaufort, SC 29902",
+    "number": "(803) 846-4500"
+  },
+  {
+    "name": "Midway Drive-In Miller, Sd",
+    "address": "North Highway 37, Mitchell, SD 57301",
+    "number": "(605) 996-4511"
+  },
+  {
+    "name": "Midway Drive-In Theatre",
+    "address": "2133 Highway 30 East, Athens, TN 37303",
+    "number": "(423) 263-2632"
+  },
+  {
+    "name": "Town And Country Drive-in2902 Vogel Ave.",
+    "address": "13800 Montana Ave El Paso, TX 79938-9676",
+    "number": "(915) 677-9899"
+  },
+  {
+    "name": "Basin Drive In Theatre",
+    "address": "680 North State Street, Mount Pleasant, UT 84647",
+    "number": "(801) 462-2712"
+  },
+  {
+    "name": "Randall Drive-in  Rt 12 Bethel, VT   802 234 9398",
+    "address": "Porters Point Road, Colchester, VT 05446",
+    "number": "(802) 862-1800"
+  },
+  {
+    "name": "Moonlite Theatre",
+    "address": "Abingdon, VA 24210",
+    "number": "(540) 628-7881"
+  },
+  {
+    "name": "Valley 6 Outdoor Theaters",
+    "address": "401 49th st.  NE, Auburn Way North, Auburn, WA 98002",
+    "number": "(253) 854-1250"
+  },
+  {
+    "name": "Pipestem Drive-In Theatre",
+    "address": "Route 208 & Route 8, Chester, WV 26034",
+    "number": "(304) 384-7382"
+  },
+  {
+    "name": "Gemini Drive In Theatre    Rr 2, Eau Claire, WI 54703",
+    "address": "Gemini Drive In Theatre    Rr 2, Eau Claire, WI 54703",
+    "number": "(715) 874-5101"
+  },
+  {
+    "name": "Park Drive-In Theater",
+    "address": "2201 South Douglas Highway, Gillette, WY 82718",
+    "number": "(307) 682-9948"
+  },
+  {
+    "name": "StarDust Twin Drive-In Theater",
+    "address": "Route 8, WY 827",
+    "number": "(604) 838-9495"
+  }
+]
