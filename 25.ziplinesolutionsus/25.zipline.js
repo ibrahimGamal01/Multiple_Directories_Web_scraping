@@ -14,14 +14,17 @@ async function extractLocations(url) {
             const website = card.querySelector('.card-block a')?.href;
             const descriptions = Array.from(card.querySelectorAll('.card-block p')).map(p => p.textContent.trim()).filter(text => text);
 
-            let phone = null;
+            let phone = {};
             let address = null;
             let description1 = null;
             let description2 = null;
 
-            descriptions.forEach(desc => {
-                if (desc.startsWith('Phone #:')) {
-                    phone = desc.replace('Phone #:', '').trim();
+            descriptions.forEach((desc, index) => {
+                if (desc.startsWith('Phone #:') || desc.startsWith('Phone #’s:')) {
+                    const phoneNumbers = desc.replace(/Phone #’?s?:/, '').split('<br>').map(phone => phone.trim());
+                    phoneNumbers.forEach((phoneNumber, idx) => {
+                        phone[`phone${idx + 1}`] = phoneNumber;
+                    });
                 } else if (/^[a-zA-Z]+, [a-zA-Z]+$/.test(desc)) {
                     address = desc;
                 } else {

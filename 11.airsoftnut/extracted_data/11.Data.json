@@ -4,1203 +4,1384 @@
     "address": "3071 Co Rd 515, Hanceville, AL 35077",
     "phone": "(256) 339-1601",
     "website": "http://www.mtdoompaintball.com/",
-    "facebook": "https://www.facebook.com/MtDoomPaintballField"
+    "facebook": "https://www.facebook.com/MtDoomPaintballField",
+    "hours": "Hours:, Sa-Su: 10am-6pm"
   },
   {
     "name": "Ridgeline Airsoft",
     "address": "8745 Pine Mountain Rd, Springville, AL 35146",
     "phone": "(205) 467-7433",
     "website": "http://www.ridgelineairsoft.com/",
-    "facebook": "https://www.facebook.com/RidgelineAL/?ref=br_tf"
+    "facebook": "https://www.facebook.com/RidgelineAL/?ref=br_tf",
+    "hours": "Hours:, Sat: 9am-5pm"
   },
   {
     "name": "Interior Alaska Airsoft LLC",
     "address": "2925-, 2999 Repp Rd, North Pole, AK 99705",
     "phone": "(907) 322-2042",
-    "facebook": "https://www.facebook.com/pages/Repp-Rd-Paintball-Field/162924310434771"
+    "facebook": "https://www.facebook.com/pages/Repp-Rd-Paintball-Field/162924310434771",
+    "hours": "Hours:, Sat-Sun: 12pm-8pm"
   },
   {
     "name": "Fightertown Paintball and Airsoft",
     "address": "9825 N 121st Ave, El Mirage, AZ 85335",
     "phone": "(602) 421-7039",
     "website": "http://www.fightertownpaintballpark.com/",
-    "facebook": "https://www.facebook.com/FightertownPaintball/"
+    "facebook": "https://www.facebook.com/FightertownPaintball/",
+    "hours": "Hours:, Sat: 6am–12pm and 6pm–12am Sunday 6am–12pm"
   },
   {
     "name": "Freedom Airsoft",
     "address": "7850 E Valencia Rd, Tucson, AZ 85747",
     "phone": "(520) 704-5798",
     "website": "http://www.freedomairsofttucson.com/",
-    "facebook": "https://www.facebook.com/FreedomAirsoft/"
+    "facebook": "https://www.facebook.com/FreedomAirsoft/",
+    "hours": "Hours:, Friday: 6–10PM, Saturday 8AM–1PM and 4–10:30PM, Sunday 2–6PM"
   },
   {
     "name": "VIP Airsoft",
     "address": "3841 E Baseline Rd., Gilbert, AZ 85234",
     "phone": "(602) 491-9149",
     "website": "http://vipairsoft.net/",
-    "facebook": "https://www.facebook.com/VIPAirsoft/"
+    "facebook": "https://www.facebook.com/VIPAirsoft/",
+    "hours": "Hours:, Fri: 12PM – 8:30PM"
   },
   {
     "name": "Wild West Paintball and Airsoft Park",
     "address": "19283 E Elliot Rd Mesa, Mesa, AZ 85212",
     "phone": "(602) 733-7972",
     "website": "http://www.wwpaintballairsoft.com/",
-    "facebook": "https://www.facebook.com/AZWildWest/"
+    "facebook": "https://www.facebook.com/AZWildWest/",
+    "hours": "Hours:, Sat: 7AM–3PM, Sun: 7–11AM"
   },
   {
     "name": "Airsoft Extreme Arena",
     "address": "3390 Keller St B,, Santa Clara, CA 95054",
     "phone": "(408) 492-9282",
     "website": "http://www.airsoftextreme.com/pages/aex-santa-clara#Arena",
-    "facebook": "https://www.facebook.com/AEXSuperstores/"
+    "facebook": "https://www.facebook.com/AEXSuperstores/",
+    "hours": "Hours:, Tue-Sat 11AM–6PM"
   },
   {
     "name": "Ambush Airsoft Park",
     "address": "8643 Shekell Rd, Moorpark, CA 93021",
     "phone": "(805) 259-3200",
     "website": "http://ambushairsoftpark.com/",
-    "facebook": "https://www.facebook.com/Ambushpaintballpark"
+    "facebook": "https://www.facebook.com/Ambushpaintballpark",
+    "hours": "Hours:, Sat-Sun: 9AM-4PM"
   },
   {
     "name": "Camp Pendeton Airsoft Park",
     "address": "1700 Vandegrift Blvd, Oceanside, CA 92057",
     "phone": "(866) 985-4932",
     "website": "http://thepaintballpark.com/",
-    "facebook": "https://www.facebook.com/ThePaintballParkMiramar/"
+    "facebook": "https://www.facebook.com/ThePaintballParkMiramar/",
+    "hours": "Hours:, Fri-Sun: 8:30AM-5PM"
   },
   {
     "name": "Code Red Airsoft Park",
     "address": "681 E. Ellis Ave, Perris, CA 92570",
     "phone": "(760) 241-9097",
     "website": "http://www.coderedairsoftpark.com/",
-    "facebook": "https://www.facebook.com/coderedairsoft"
+    "facebook": "https://www.facebook.com/coderedairsoft",
+    "hours": "Hours:, Sat-Sun: 8:30AM-4PM"
   },
   {
     "name": "Combat Paintball Park",
     "address": "31050 Charlie Canyon Rd, Castaic, CA 91384",
     "phone": "(800) 289-3199",
     "website": "http://playcpp.com/",
-    "facebook": "https://www.facebook.com/playcpp/"
+    "facebook": "https://www.facebook.com/playcpp/",
+    "hours": "Hours:, Sat-Sun: 9AM-4PM"
   },
   {
     "name": "CQB City",
     "address": "3200 E 8 Mile Rd, Stockton, CA 95212",
     "phone": "(925) 457-4832",
     "website": "http://www.cqbcity.com/",
-    "facebook": "https://www.facebook.com/pg/CQB-City-274299872583009/about/?ref=page_internal"
+    "facebook": "https://www.facebook.com/pg/CQB-City-274299872583009/about/?ref=page_internal",
+    "hours": "Hours:, Fri: 6–11:30PM, Sat: 1–7PM, Sun: 12:30–7PM"
   },
   {
     "name": "DSOC Killhouse",
     "address": "3266 De La Cruz, Santa Clara, CA 95054",
     "phone": "(408) 216-9351",
     "website": "http://www.swatsim.com/",
-    "facebook": "https://www.facebook.com/DSOC-Killhouse-141737456472746/"
+    "facebook": "https://www.facebook.com/DSOC-Killhouse-141737456472746/",
+    "hours": "Hours:, Sun: 9AM-5PM"
   },
   {
     "name": "Fresno Airsoft Arena",
     "address": "2365 S Delno Ave, Fresno, CA 93706",
     "phone": "(559) 307-7895",
     "website": "http://www.airsoftfresno.com/",
-    "facebook": "https://www.facebook.com/FresnoAirsoft/"
+    "facebook": "https://www.facebook.com/FresnoAirsoft/",
+    "hours": "Hours:, Sat-Sun: 9AM-3PM"
   },
   {
     "name": "Gamepod Combat Zone",
     "address": "1400 W 4th St #2, Antioch, CA 94509",
     "phone": "(925) 784-5550",
     "website": "http://www.combatzonecqc.com/",
-    "facebook": "https://www.facebook.com/GPCombatZone"
+    "facebook": "https://www.facebook.com/GPCombatZone",
+    "hours": "Hours:, Wed-Thur: 7–11PM, Fri: 6:30–11PM, Sat: 8:30AM–9PM, Sun: 8:30AM–4PM"
   },
   {
     "name": "Gorilla Airsoft",
     "address": "608 18th St, Bakersfield, CA 93301",
     "phone": "(661) 323-1066",
     "website": "http://www.gorillaairsoft.com/",
-    "facebook": "https://www.facebook.com/GorillaAirsoft?ref=hl"
+    "facebook": "https://www.facebook.com/GorillaAirsoft?ref=hl",
+    "hours": "Hours:, Mon-Fri:11AM–7PM, Sat: 10AM–5PM"
   },
   {
     "name": "Hill 559",
     "address": "11504 Millerton Rd, Clovis, CA 93619",
-    "facebook": "https://www.facebook.com/Hill559"
+    "facebook": "https://www.facebook.com/Hill559",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Jungle Island Airsoft Park",
     "address": "14881 Temescal Canyon Rd, Lake Elsinore, CA 92530",
     "phone": "(951) 775-9316",
-    "facebook": "https://www.facebook.com/jungleislandpb/"
+    "facebook": "https://www.facebook.com/jungleislandpb/",
+    "hours": "Hours:, Sat-Sun: 9AM-4PM"
   },
   {
     "name": "Mr. Paintball USA",
     "address": "25320 Lake Wohlford Rd, Escondido, CA 92027",
     "phone": "(760) 737-8870",
     "website": "http://www.mrpaintballusa.com/",
-    "facebook": "https://www.facebook.com/Mr.Paintball?fref=ts"
+    "facebook": "https://www.facebook.com/Mr.Paintball?fref=ts",
+    "hours": "Hours:, Mon-Tues: Closed Wed-Sun: 9AM-3PM"
   },
   {
     "name": "Playland 707",
     "address": "471 Kenilworth Dr, Petaluma, CA 94952",
     "phone": "(707) 238-5088",
     "website": "http://www.playland707.com/",
-    "facebook": "https://www.facebook.com/pages/category/Paintball-Center/PLAYLAND-213791815300527/"
+    "facebook": "https://www.facebook.com/pages/category/Paintball-Center/PLAYLAND-213791815300527/",
+    "hours": "Hours:, Saturday-Sunday: 10AM–5PM"
   },
   {
     "name": "Sierra AO",
     "address": "",
-    "website": "http://www.combatenterprises.com/"
+    "website": "http://www.combatenterprises.com/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Stryker Paintball and Airsoft",
     "address": "17081 S Mountain Rd, Santa Paula, CA 93060",
     "phone": "(805) 217-4029",
-    "website": "http://www.strykerpa.com/"
+    "website": "http://www.strykerpa.com/",
+    "hours": "Hours:, Fri: 3–7PM, Sat: 9AM–4PM, Sun: 9AM–4PM"
   },
   {
     "name": "Tac City Airsoft",
     "address": "2430 Artesia Ave, Fullerton, CA 92833",
     "phone": "(657) 888-6111",
     "website": "http://www.taccityairsoft.com/",
-    "facebook": "https://www.facebook.com/TacCity/"
+    "facebook": "https://www.facebook.com/TacCity/",
+    "hours": "Hours:, Mon-Fri: 5PM-10PM Sat-Sun: 1PM-10PM"
   },
   {
     "name": "U.S. Airsoft World",
     "address": "4506 Panorama Point Rd, Anderson, CA 96007",
     "phone": "(530) 365-1000",
     "website": "http://usairsoft.com/",
-    "facebook": "https://www.facebook.com/USAirsoftworld/"
+    "facebook": "https://www.facebook.com/USAirsoftworld/",
+    "hours": "Hours:, Wednesday-Friday: 10AM–5PM, Saturday-Sunday: 9AM–4PM"
   },
   {
     "name": "All Patriot Airsoft",
     "address": "12395 East Stockton Blvd, Galt, CA 95632",
     "phone": "(530) 313-3030",
     "website": "http://ukausairsoftfield.wixsite.com/home",
-    "facebook": "https://www.facebook.com/ukausairsoftfield/"
+    "facebook": "https://www.facebook.com/ukausairsoftfield/",
+    "hours": "Hours:, Sat-Sun: 9AM-5PM"
   },
   {
     "name": "Warped Ops",
     "address": "34481 Ridge Rte Rd, Castaic, CA 91384",
     "phone": "(661) 450-9401",
     "website": "http://warpedops.com/",
-    "facebook": "https://www.facebook.com/Warped-Ops-Airsoft-Castaic-CA-117304648328166/"
+    "facebook": "https://www.facebook.com/Warped-Ops-Airsoft-Castaic-CA-117304648328166/",
+    "hours": "Hours:, Sat-Sun: 9AM-4PM"
   },
   {
     "name": "West Coast Adventure Park",
     "address": "7101 Ione Rd, Sloughhouse, CA 95683",
     "phone": "(888) 984-2627",
     "website": "http://www.westcoastadventurepark.com/",
-    "facebook": "https://www.facebook.com/WCAP916/"
+    "facebook": "https://www.facebook.com/WCAP916/",
+    "hours": "Hours:, Sat-Sun: 9AM-4PM"
   },
   {
     "name": "American Paintball Coliseum – Indoor",
     "address": "5095 Peoria St, Denver, CO 80239",
     "phone": "(303) 298-8573",
     "website": "http://www.americanpaintballcoliseum.com/denver-colorado-airsoft-field",
-    "facebook": "https://www.facebook.com/APCpaintball/"
+    "facebook": "https://www.facebook.com/APCpaintball/",
+    "hours": "Hours:, Mon-Fri: 11AM–8PM, Sat: 9AM–8PM, Sun: 11AM–6PM"
   },
   {
     "name": "F.A.F. Flat Acres Farm Airsoft Field",
     "address": "11321 Dransfeldt Rd, Parker, CO 80134",
     "phone": "(888) 316-7816",
-    "facebook": "https://www.facebook.com/FoxAirsoft"
+    "facebook": "https://www.facebook.com/FoxAirsoft",
+    "hours": "Hours:, Saturdays & Sundays 9:00am – 1:00pm, 2:00pm – 6:00pm"
   },
   {
     "name": "Go Airheads",
     "address": "4471 Co Rd 7, Erie, CO 80516",
     "phone": "(303) 495-3233",
     "website": "http://www.goairheads.com/",
-    "facebook": "https://www.facebook.com/GoAirheads"
+    "facebook": "https://www.facebook.com/GoAirheads",
+    "hours": "Hours:, Tue-Thur: 10AM–5PM, Fri: 10AM–11PM, Sat: 10AM–11PM, Sun: 10AM–5PM"
   },
   {
     "name": "Ground Zero Airsoft Field",
     "address": "1254 Wolcott Rd, Wolcott, CT 6716",
     "phone": "(203) 879-7766",
     "website": "http://groundzeroairsoftusa.com/",
-    "facebook": "https://www.facebook.com/Groundzeroairsoftusa"
+    "facebook": "https://www.facebook.com/Groundzeroairsoftusa",
+    "hours": "Hours:, Wed-Fri: 12–6PM, Sat: 10AM–5PM, Sun: 9AM–5PM"
   },
   {
     "name": "Tactical Airsoft",
     "address": "1220 Kennedy Rd, Windsor, CT 6095",
     "phone": "(860) 731-5700",
     "website": "http://www.tacticalairsoftct.com/",
-    "facebook": "https://www.facebook.com/tactairsoftct/"
+    "facebook": "https://www.facebook.com/tactairsoftct/",
+    "hours": "Hours:, Wed-Thurs: 11PM-7PM Fri-Sat: 11AM-10PM Sun: 11AM-8PM"
   },
   {
     "name": "911 Airsoft",
     "address": "14639 St Johnstown Rd, Greenwood, DE 19950",
     "phone": "(302) 381-1491",
     "website": "http://911airsoft.com/index.html",
-    "facebook": "https://www.facebook.com/911airsoft/?fref=ts"
+    "facebook": "https://www.facebook.com/911airsoft/?fref=ts",
+    "hours": "Hours:, Saturday: 9AM-5PM"
   },
   {
     "name": "Battalion Airsoft Arena",
     "address": "2253 Dennis St, Jacksonville, FL 32204",
     "phone": "(904) 355 7770",
     "website": "http://www.battalionairsoftarena.com/",
-    "facebook": "https://www.facebook.com/BattalionAirsoftArena?ref=ts&fref=ts"
+    "facebook": "https://www.facebook.com/BattalionAirsoftArena?ref=ts&fref=ts",
+    "hours": "Hours:, Mon-Thurs: 10AM-6PM Fri-Sat: 10AM-8PM Sun: 10AM-6PM"
   },
   {
     "name": "Black Tiger Airsoft",
     "address": "3399 Gina Trail, Lithia, FL 33547",
     "phone": "(301) 741-1795",
     "website": "http://blacktigerairsoft.com/",
-    "facebook": "https://www.facebook.com/BlackTigerAirsoft/"
+    "facebook": "https://www.facebook.com/BlackTigerAirsoft/",
+    "hours": "Hours:, Saturday: 9:30AM-6PM"
   },
   {
     "name": "Combat Zone Sports",
     "address": "555 Fortenberry Rd, Merritt Island, FL 32952",
     "phone": "(321) 454-2374",
     "website": "http://czpaintball.com/",
-    "facebook": "https://www.facebook.com/americanpride2020/"
+    "facebook": "https://www.facebook.com/americanpride2020/",
+    "hours": "Hours:, Sat-Sun: 10AM-5PM"
   },
   {
     "name": "Doomsday Airsoft / Route 7",
     "address": "",
     "website": "http://www.doomsdayairsoft.com/",
-    "facebook": "https://www.facebook.com/DoomsdayAirsoft/"
+    "facebook": "https://www.facebook.com/DoomsdayAirsoft/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Invincibles Airsoft Park",
     "address": "2221 SW Del Rio Blvd, Port St. Lucie, FL 34953",
     "phone": "(772) 812-0000",
     "website": "http://www.invinciblespaintball.com/",
-    "facebook": "https://www.facebook.com/InVinciblesPaintballPark/"
+    "facebook": "https://www.facebook.com/InVinciblesPaintballPark/",
+    "hours": "Hours:, Sat-Mon: 10AM–10PM, Tue: 10AM–8:15PM, Fri: 5–10PM"
   },
   {
     "name": "Miami Airsoft",
     "address": "7810 NW 98th St, Hialeah, FL 33016",
     "phone": "(305) 972-3198",
     "website": "http://miamiairsoft.com/",
-    "facebook": "https://www.facebook.com/MiamiAirSoft/"
+    "facebook": "https://www.facebook.com/MiamiAirSoft/",
+    "hours": "Hours:, Mon-Fri: 10AM-10PM Sat: 10AM-9PM Sun: 10AM-6PM"
   },
   {
     "name": "Tactical Airsoft Compound (T.A.C.)",
     "address": "2600 Saluda Rd, Lakeland, FL 33801",
     "phone": "(863) 535-5080",
     "website": "http://taclakeland.com/",
-    "facebook": "https://www.facebook.com/tacairsoftcompound/"
+    "facebook": "https://www.facebook.com/tacairsoftcompound/",
+    "hours": "Hours:, Mon-Thurs: 9AM-5PM Fri-Sun: 9AM-11PM"
   },
   {
     "name": "Airsoft Depot",
     "address": "5065 Piney Grove Rd, Cumming, GA 30040",
     "phone": "(678) 208-1234",
-    "facebook": "https://www.facebook.com/AIRSOFTDEPOT"
+    "facebook": "https://www.facebook.com/AIRSOFTDEPOT",
+    "hours": "Hours:, Wed-Fri: 12–5PM, Sat: 11AM–6PM, Sun: 1–6PM"
   },
   {
     "name": "Arkenstone 1 Paintball and Airsoft",
     "address": "3198 Cedarcrest Rd, Acworth, GA 30101",
     "phone": "(770) 974-2535",
-    "website": "http://www.apbfields.com/"
+    "website": "http://www.apbfields.com/",
+    "hours": "Hours:, Saturday: 10am-5pm, Sunday: 12pm-5pm"
   },
   {
     "name": "Elite Ops Airsoft",
     "address": "857 Hickory Flat Hwy, Canton, GA 30115",
     "phone": "(678) 880-8897",
     "website": "http://www.myeliteops.com/",
-    "facebook": "https://www.facebook.com/EliteOpsAirsoftGA/"
+    "facebook": "https://www.facebook.com/EliteOpsAirsoftGA/",
+    "hours": "Hours:, Friday: 5–10PM, Saturday: 12–8PM, Sunday: 1–7PM"
   },
   {
     "name": "Georgia Airsoft",
     "address": "305 Lakeview Dr, Winterville, GA 30683",
     "website": "http://www.georgiaairsoft.com/",
-    "facebook": "https://www.facebook.com/GeorgiaAirsoft/"
+    "facebook": "https://www.facebook.com/GeorgiaAirsoft/",
+    "hours": "Hours:, Tues-Sat: 10AM-6PM"
   },
   {
     "name": "Hoppers Paintball and Airsoft",
     "address": "1579 Grove Point Rd, Savannah, GA 31419",
     "phone": "(912) 844-2883",
     "website": "http://www.hoppersga.com/",
-    "facebook": "https://www.facebook.com/hopperpb/"
+    "facebook": "https://www.facebook.com/hopperpb/",
+    "hours": "Hours:, Tue-Wed: 9AM–5PM, Sat-Sun: 9AM–5PM"
   },
   {
     "name": "Power Ops",
     "address": "2051 GA-138, Conyers, GA 30013",
     "phone": "(47) 035-22076",
-    "facebook": "https://www.facebook.com/airsoftatlanta/app/212104595551052/"
+    "facebook": "https://www.facebook.com/airsoftatlanta/app/212104595551052/",
+    "hours": "Hours:, Sat-Sun: 11AM-6PM"
   },
   {
     "name": "Shanes Hot Shots",
     "address": "100 Ronnie Stewart Dr, McDonough, GA 30253",
     "phone": "(404)797-0850",
-    "website": "http://www.shaneshotshots.com/"
+    "website": "http://www.shaneshotshots.com/",
+    "hours": "Hours:, Sat-Sun: 11AM-5PM"
   },
   {
     "name": "SS Airsoft",
     "address": "4729 Nelson Brogdon Blvd A, Sugar Hill, GA 30518",
     "phone": "(678) 714-6001",
     "website": "http://www.ssairsoft.com/",
-    "facebook": "https://www.facebook.com/SSAIRSOFT/"
+    "facebook": "https://www.facebook.com/SSAIRSOFT/",
+    "hours": "Hours:, Wed & Thu:12–6PM, Fri: 12–9PM, Sat 12–7PM, Sun: 12–6PM"
   },
   {
     "name": "Team Airsoft",
     "address": "33 Old Towne Rd, Dawsonville, GA 30534",
     "phone": "(404) 323 5903",
     "website": "http://www.teamairsoft.com/",
-    "facebook": "https://www.facebook.com/TeamAirsoftGeorgeTown/"
+    "facebook": "https://www.facebook.com/TeamAirsoftGeorgeTown/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Badlandz Paintball",
     "address": "306 W Elms Ct Ln, Crete, IL 60417",
     "phone": "(708) 418-3335",
     "website": "http://www.thebadlandz.com/",
-    "facebook": "https://www.facebook.com/BadlandzPaintballField/"
+    "facebook": "https://www.facebook.com/BadlandzPaintballField/",
+    "hours": "Hours:, Friday: 9AM–4PM, Sat & Sun: 8AM–5PM"
   },
   {
     "name": "Bing Field Paintball and Airsoft",
     "address": "211 E Vandalia St, Edwardsville, IL 62025",
     "phone": "(618) 692-8271",
     "website": "http://bingfield.com/",
-    "facebook": "https://www.facebook.com/bingfield/"
+    "facebook": "https://www.facebook.com/bingfield/",
+    "hours": "Hours:, Sunday: 10AM-4PM Monday-Saturday: 10AM-5PM"
   },
   {
     "name": "CPX Sports",
     "address": "2903 Schweitzer Rd, Joliet, IL 60436",
     "phone": "(815) 726-2800",
     "website": "http://cpxsports.com/root/",
-    "facebook": "https://www.facebook.com/cpxsports/"
+    "facebook": "https://www.facebook.com/cpxsports/",
+    "hours": "Hours:, Sat-Sun: 9AM-5PM"
   },
   {
     "name": "Legacy Paintball and Airsoft Park",
     "address": "2807 Canal St, Lockport, IL 60441",
     "phone": "(779) 279-9838",
     "website": "http://www.legacypaintball.com/",
-    "facebook": "https://www.facebook.com/legacyadventurepark/"
+    "facebook": "https://www.facebook.com/legacyadventurepark/",
+    "hours": "Hours:, Sunday: 10AM-5PM"
   },
   {
     "name": "Saltfork Paintball",
     "address": "2150 County Rd 1600 N, St Joseph, IL 61873",
     "phone": "(217) 778-7743",
     "website": "http://www.saltforkpaintball.com/",
-    "facebook": "https://www.facebook.com/saltforkpaintball/"
+    "facebook": "https://www.facebook.com/saltforkpaintball/",
+    "hours": "Hours:, Sat: 11AM-5PM"
   },
   {
     "name": "Urban Warfare Paintball",
     "address": "10424 E 1400 North Rd, Bloomington, IL 61705",
     "phone": "(309) 261-2596",
     "website": "http://www.paintballurbanwarfare.com/",
-    "facebook": "https://www.facebook.com/UrbanWarfareBloomington/"
+    "facebook": "https://www.facebook.com/UrbanWarfareBloomington/",
+    "hours": "Hours:, Every Day: 9am – 11:00pm"
   },
   {
     "name": "Blast Camp",
     "address": "563 W 600 N, Hobart, IN 46342",
     "phone": "(219) 947-7733",
     "website": "http://www.blastcamp.com/",
-    "facebook": "https://www.facebook.com/blastcamppaintballandairsoft/"
+    "facebook": "https://www.facebook.com/blastcamppaintballandairsoft/",
+    "hours": "Hours:, Wed-Fri: 9AM–4PM, Sat: 9AM–5PM, Sun: 9AM–4PM"
   },
   {
     "name": "Butler Indiana Airsoft",
     "address": "6716 S Shore Dr, Butler, IN 46721",
     "website": "http://bpd35.proboards.com/",
-    "facebook": "https://www.facebook.com/groups/131540327010648/about/"
+    "facebook": "https://www.facebook.com/groups/131540327010648/about/",
+    "hours": "Hours:, Fri-Sun: 9AM-5PM"
   },
   {
     "name": "Paintball Plex",
     "address": "6485 Merchants Dr, Laotto, IN 46763",
     "phone": "(260) 417-5375",
     "website": "http://paintballplex.com/",
-    "facebook": "https://www.facebook.com/paintballplex"
+    "facebook": "https://www.facebook.com/paintballplex",
+    "hours": "Hours:, Sat-Sun 10AM-6PM"
   },
   {
     "name": "Drop Zone Paintball Park",
     "address": "1224 1 Rd, Overbrook, KS 66524",
     "phone": "(785) 841-1884",
     "website": "http://www.dropzonepaintballpark.com/",
-    "facebook": "https://www.facebook.com/DropZonePaintball/"
+    "facebook": "https://www.facebook.com/DropZonePaintball/",
+    "hours": "Hours:, Saturday & Sunday: 10AM–4PM"
   },
   {
     "name": "ACS Airsoft",
     "address": "7400 Old Hwy 60, West Paducah, KY 42086",
     "phone": "(270) 564-4126",
-    "facebook": "https://www.facebook.com/UnrealAirsoft"
+    "facebook": "https://www.facebook.com/UnrealAirsoft",
+    "hours": "Hours:, Wed-Fri: 12PM-5PM Sat: 10AM-5PM"
   },
   {
     "name": "IronSight Airsoft",
     "address": "8289 Elliott Rd, Lake Charles, LA 70605",
     "phone": "(337) 802-7280",
     "website": "http://www.ironsightairsoft.com/",
-    "facebook": "https://www.facebook.com/IronsightAirsoft/"
+    "facebook": "https://www.facebook.com/IronsightAirsoft/",
+    "hours": "Hours:, Sat-Sun: 9:30AM-3:30PM"
   },
   {
     "name": "Harris Farm Airsoft Field",
     "address": "271 Buzzell Rd, Dayton, ME 4005",
-    "facebook": "https://www.facebook.com/HarrisAirsoft"
+    "facebook": "https://www.facebook.com/HarrisAirsoft",
+    "hours": "Hours:, Sat: 9AM-3PM"
   },
   {
     "name": "Warrior Village",
     "address": "14 Hope Springs Dr, Poland, ME 4274",
     "phone": "(207) 576-4322",
-    "facebook": "https://www.facebook.com/pages/Warrior-Village-Airsoft/210376152330669"
+    "facebook": "https://www.facebook.com/pages/Warrior-Village-Airsoft/210376152330669",
+    "hours": "Hours:, Sun: 10AM-1PM"
   },
   {
     "name": "North East Adventure Paintball and Airsoft Field",
     "address": "2235 Pulaski Hwy, North East, MD 21901",
     "phone": "(410) 287-5227",
     "website": "http://neadventurepaintball.com/",
-    "facebook": "https://www.facebook.com/neadventurepaintball/"
+    "facebook": "https://www.facebook.com/neadventurepaintball/",
+    "hours": "Hours:, Sat-Sun: 10AM-5PM"
   },
   {
     "name": "Outdoor Xtreme Chesapeake City",
     "address": "2941 Old Telegraph Rd, Chesapeake City, MD 21915",
     "phone": "(410) 885-5555",
     "website": "http://oxcc.com/",
-    "facebook": "https://www.facebook.com/OXCCpaintball/"
+    "facebook": "https://www.facebook.com/OXCCpaintball/",
+    "hours": "Hours:, Sat-Sun: 9AM-4PM"
   },
   {
     "name": "Paintball-Sportsland",
     "address": "10418 Old Liberty Rd, Frederick, MD 21701",
     "phone": "(301) 898-1100",
     "website": "http://paintball-sportsland.com/",
-    "facebook": "https://www.facebook.com/PBSLINC/"
+    "facebook": "https://www.facebook.com/PBSLINC/",
+    "hours": "Hours:, Sat-Sun: 10AM-4PM"
   },
   {
     "name": "Pasadena Paintball Park (P3) Airsoft",
     "address": "7360 Carbide Rd, Curtis Bay, MD 21226",
     "phone": "(410) 439-0039",
-    "facebook": "https://www.facebook.com/p3paint3all/"
+    "facebook": "https://www.facebook.com/p3paint3all/",
+    "hours": "Hours:, Saturday: 10am-4pm"
   },
   {
     "name": "Replay Airsoft Arena",
     "address": "550 Crain Hwy N #12, Glen Burnie, MD 21061",
     "phone": "(443) 883-3670",
     "website": "http://www.replayairsoft.com/",
-    "facebook": "https://www.facebook.com/ReplayAirsoft/"
+    "facebook": "https://www.facebook.com/ReplayAirsoft/",
+    "hours": "Hours:, Wed-Fri: 6–10PM, Sat: 3–10PM, Sun: 3–7PM"
   },
   {
     "name": "Tactical Airsoft Arena",
     "address": "20 Southlawn Ct B, Rockville, MD 20850",
     "phone": "(301) 838-7474",
     "website": "http://www.tacticalairsoftarena.com/",
-    "facebook": "https://www.facebook.com/tacticalairsoftarena/"
+    "facebook": "https://www.facebook.com/tacticalairsoftarena/",
+    "hours": "Hours:, Fri: 6PM-11PM Sat-Sun:11AM-7PM"
   },
   {
     "name": "AllStarr Paintball and Airsoft",
     "address": "109 Worcester Rd, Webster, MA 1570",
     "phone": "(508) 731-6300",
     "website": "http://allstarrpaintball.com/",
-    "facebook": "https://www.facebook.com/Allstarr-Paintball-109531145736886/"
+    "facebook": "https://www.facebook.com/Allstarr-Paintball-109531145736886/",
+    "hours": "Hours:, Saturday: 11AM – 7PM"
   },
   {
     "name": "PnL Paintball",
     "address": "1221 Bedford St, Bridgewater, MA 2324",
     "phone": "(508) 697-5808",
     "website": "http://www.pnlpaintball.com/airsoft",
-    "facebook": "https://www.facebook.com/PNL-Paintball-272656269446253/"
+    "facebook": "https://www.facebook.com/PNL-Paintball-272656269446253/",
+    "hours": "Hours:, Sun-Sat: 9AM-4PM"
   },
   {
     "name": "Stronghold OPS Airsoft",
     "address": "1437 Bedford St, Abington, MA 2351",
     "phone": "(781) 878-8955",
     "website": "http://strongholdops.com/",
-    "facebook": "https://www.facebook.com/StrongholdOpsAndLaserCombat/"
+    "facebook": "https://www.facebook.com/StrongholdOpsAndLaserCombat/",
+    "hours": "Hours:, Friday: 5pm-10pm Saturday: 12pm-10pm Sunday: 12pm-8pm"
   },
   {
     "name": "Ultimate Battleground",
     "address": "1221 Bedford St, Bridgewater, MA 2324",
     "phone": "(508) 743-5569",
     "website": "http://www.ubgairsoft.com/",
-    "facebook": "https://www.facebook.com/pages/Ultimate-Battlegrounds-LLC/323717154826592"
+    "facebook": "https://www.facebook.com/pages/Ultimate-Battlegrounds-LLC/323717154826592",
+    "hours": "Hours:, Sat-Sun: 10AM-8PM"
   },
   {
     "name": "DarkFire Airsoft",
     "address": "411 N Willowbrook Rd, Coldwater, MI 49036",
     "phone": "(586) 745-4592",
-    "facebook": "https://www.facebook.com/DarkFireAirsoft/"
+    "facebook": "https://www.facebook.com/DarkFireAirsoft/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Hells Survivors Paintball",
     "address": "619 Pearl St, Pinckney, MI 48169",
     "phone": "(734) 878-5656",
     "website": "http://hellsurvivorspaintball.com/",
-    "facebook": "https://www.facebook.com/HellSurvivors/"
+    "facebook": "https://www.facebook.com/HellSurvivors/",
+    "hours": "Hours:, Sat-Sun: 9AM-5PM"
   },
   {
     "name": "Motor City Airsoft",
     "address": "37555 Gratiot Ave, Clinton Twp, MI 48036",
     "phone": "(586) 307-5190",
     "website": "http://www.phoenixtacticalmi.com/",
-    "facebook": "https://www.facebook.com/motorcityairsoft/"
+    "facebook": "https://www.facebook.com/motorcityairsoft/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Big Lake Tactical",
     "address": "22698 191st St, Big Lake, MN 55309",
     "phone": "(763) 257-5792",
-    "facebook": "https://www.facebook.com/pages/Big-Lake-Tactical-Wargames/202023979836313"
+    "facebook": "https://www.facebook.com/pages/Big-Lake-Tactical-Wargames/202023979836313",
+    "hours": "Hours:, Sat-Sun: 9AM-9PM"
   },
   {
     "name": "Crossfire Airsoft MN",
     "address": "1601 195th St E, Clearwater, MN 55320",
     "phone": "(320) 253-5630",
     "website": "http://www.crossfire-airsoft.com/",
-    "facebook": "https://www.facebook.com/CrossfireAirsoftMN"
+    "facebook": "https://www.facebook.com/CrossfireAirsoftMN",
+    "hours": "Hours:, Sat-Sun: 9AM-4:30PM"
   },
   {
     "name": "Champion Valley",
     "address": "22554 Texas Ave, Lakeville, MN 55044",
     "phone": "(952) 892-1540",
     "website": "http://mnpropaintball.com/park/airsoft",
-    "facebook": "https://www.facebook.com/championvalley/"
+    "facebook": "https://www.facebook.com/championvalley/",
+    "hours": "Hours:, Tues-Sun: 11AM-6PM"
   },
   {
     "name": "Bailey’s Battlefield",
     "address": "1300 Kilburn Bridge Rd, Niangua, MO 65713",
     "phone": "(417) 839-9299",
     "website": "http://www.baileysbattlefield.com/",
-    "facebook": "https://www.facebook.com/baileysbattlefield/"
+    "facebook": "https://www.facebook.com/baileysbattlefield/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "So Go Airsoft",
     "address": "3801 N 20th St, Ozark, MO 65721",
     "phone": "(417) 485-2579",
     "website": "http://www.sogoairsoft.com/",
-    "facebook": "https://www.facebook.com/So-Go-Airsoft-291342706293/"
+    "facebook": "https://www.facebook.com/So-Go-Airsoft-291342706293/",
+    "hours": "Hours:, Mon: 2-7 PM, Wed: 2-7 PM, Thur: 2-9 PM, Fri: 12-7 PM, Sat 11 AM-9 PM, Sun: 1-6PM"
   },
   {
     "name": "The Rock Airsoft",
     "address": "4153 S 95th Rd, Bolivar, MO 65613",
     "phone": "(417) 485-2579",
     "website": "http://www.therockairsoft.com/",
-    "facebook": "https://www.facebook.com/The-ROCK-Airsoft-874396195932462/"
+    "facebook": "https://www.facebook.com/The-ROCK-Airsoft-874396195932462/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Feel Good Farm Airsoft",
     "address": "52 Johnson Corner Rd, Lyndeborough, NH 3082",
     "phone": "(603) 654-2001",
     "website": "http://feelgoodfarminc.com/",
-    "facebook": "https://www.facebook.com/FGFAirsoft/"
+    "facebook": "https://www.facebook.com/FGFAirsoft/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "RPC Airsoft",
     "address": "197 Sandown Rd, Fremont, NH 3044",
     "phone": "(603) 760-0393",
     "website": "http://www.rpcairsoft.com/",
-    "facebook": "https://www.facebook.com/rpcairsoftofficial/"
+    "facebook": "https://www.facebook.com/rpcairsoftofficial/",
+    "hours": "Hours:, Sun: 9AM-5PM"
   },
   {
     "name": "Independance Airsoft and Tactical Park",
     "address": "330 US-46, Great Meadows, NJ 7838",
     "phone": "(908) 637-8838",
     "website": "http://cobraonetactical.com/",
-    "facebook": "https://www.facebook.com/CobraOneTactical/"
+    "facebook": "https://www.facebook.com/CobraOneTactical/",
+    "hours": "Hours:, Tues-Sat: 10AM-6PM"
   },
   {
     "name": "New Breed Paintball",
     "address": "7-05 Fair Lawn Ave, Fair Lawn, NJ 7410",
     "phone": "(201) 791-0377",
-    "facebook": "https://www.facebook.com/pg/Newbreedpb/about/?ref=page_internal"
+    "facebook": "https://www.facebook.com/pg/Newbreedpb/about/?ref=page_internal",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Quick Shot Paintball and Airsoft",
     "address": "1231 US-206, Shamong, NJ 8088",
     "phone": "(609) 268-8901",
     "website": "http://www.quickshotpaintball.com/Airsoft/index.php",
-    "facebook": "https://www.facebook.com/quickshot.paintballfield/"
+    "facebook": "https://www.facebook.com/quickshot.paintballfield/",
+    "hours": "Hours:, Monday-Friday: 9AM-5PM Saturday: appointment only"
   },
   {
     "name": "Softair NJ",
     "address": "750 Whiting-New Egypt Rd, Manchester Township, NJ 8759",
     "phone": "(908) 605-6031",
     "website": "http://www.softairnj.com/",
-    "facebook": "https://www.facebook.com/pages/category/Sports---Recreation-Venue/Soft-Air-NJ-145811835485906/"
+    "facebook": "https://www.facebook.com/pages/category/Sports---Recreation-Venue/Soft-Air-NJ-145811835485906/",
+    "hours": "Hours:, Sat: 9:30AM-3:30PM"
   },
   {
     "name": "Stryker Airsoft",
     "address": "13 NJ-57, Hackettstown, NJ 7840",
     "phone": "(908) 269-8965",
     "website": "http://www.strykerairsoftnj.com/",
-    "facebook": "https://www.facebook.com/StrykerAirsoft?ref=aymt_homepage_panel"
+    "facebook": "https://www.facebook.com/StrykerAirsoft?ref=aymt_homepage_panel",
+    "hours": "Hours:, Thurs-Fri: 5PM-10PM Sat: 12PM-10PM Sun: 12PM-8PM"
   },
   {
     "name": "The Airsoft Factory",
     "address": "5W Chimney Rock Rd, Bound Brook, NJ 8805",
     "phone": "(732) 302-0242",
     "website": "http://theairsoftfactory.com/",
-    "facebook": "https://www.facebook.com/theairsoftfactory/"
+    "facebook": "https://www.facebook.com/theairsoftfactory/",
+    "hours": "Hours:, Schedule varies each week, check website"
   },
   {
     "name": "Ruckus paintball and airsoft",
     "address": "16001 Shooting Range Access Rd, Albuquerque, NM 87121",
     "phone": "(505) 999-9299",
     "website": "http://www.ruckusairsoft.com/",
-    "facebook": "https://www.facebook.com/ABQRuckus/"
+    "facebook": "https://www.facebook.com/ABQRuckus/",
+    "hours": "Hours:, Sat: 9AM-4PM"
   },
   {
     "name": "Buffalo Battleground",
     "address": "1888 Niagara Falls Blvd, Tonawanda, NY 14150",
     "phone": "(716) 844-3285",
     "website": "http://www.buffalobattleground.com/",
-    "facebook": "https://www.facebook.com/buffalobattleground/"
+    "facebook": "https://www.facebook.com/buffalobattleground/",
+    "hours": "Hours:, Wed-Fri: 11AM-8PM Sat: 4PM-8PM"
   },
   {
     "name": "Capital Combat Zone",
     "address": "99 Farrell Rd, Troy, NY 12182",
     "phone": "(518) 286-9663",
     "website": "http://capitalcombatzone.com/",
-    "facebook": "https://www.facebook.com/CapitalCombatZone/"
+    "facebook": "https://www.facebook.com/CapitalCombatZone/",
+    "hours": "Hours:, Sat-Sun: 9AM-5PM"
   },
   {
     "name": "Coopers Cave Paintball and Airsoft Field",
     "address": "1607 U.S. 9, Fort Edward, NY 12828",
     "phone": "(844) 752-9518",
-    "facebook": "https://www.facebook.com/cooperscavefield/"
+    "facebook": "https://www.facebook.com/cooperscavefield/",
+    "hours": "Hours:, Sun: 10AM-4PM"
   },
   {
     "name": "Cousins Paintball Riverhead",
     "address": "2727 Arthur Kill Rd, Staten Island, NY 10309",
     "phone": "(631) 698-6230",
-    "facebook": "https://www.facebook.com/pages/category/Paintball-Center/Cousins-Paintball-308679739212723/"
+    "facebook": "https://www.facebook.com/pages/category/Paintball-Center/Cousins-Paintball-308679739212723/",
+    "hours": "Hours:, Sat-Sun: 9AM-5PM"
   },
   {
     "name": "High Velocity Paintball",
     "address": "235 S Fehr Way B, Bay Shore, NY 11706",
     "phone": "(631) 242-2096",
     "website": "http://hvpaintball.com/",
-    "facebook": "https://www.facebook.com/hvpaintball"
+    "facebook": "https://www.facebook.com/hvpaintball",
+    "hours": "Hours:, Sat-Sun: 8AM-8PM"
   },
   {
     "name": "Hudson Valley Airsoft",
     "address": "39 Seminary Hill Rd, Carmel Hamlet, NY 10512",
     "phone": "(845) 350-2664",
     "website": "http://www.hvairsoft.com/",
-    "facebook": "https://www.facebook.com/hvairsoft/"
+    "facebook": "https://www.facebook.com/hvairsoft/",
+    "hours": "Hours:, Sat: 11AM-6PM Sun: 12PM-6PM"
   },
   {
     "name": "Hunters Creek Airsoft",
     "address": "6948-6998 Hunters Creek Rd, South Wales, NY 14139",
     "phone": "(716) 123-1234",
-    "facebook": "https://www.facebook.com/pages/Hunters-Creek-Airsoft/190819794326496?fref=ts"
+    "facebook": "https://www.facebook.com/pages/Hunters-Creek-Airsoft/190819794326496?fref=ts",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "R&M Paintball and Airsoft",
     "address": "445 Miller Beach Rd, Owego, NY 13827",
     "phone": "(607) 972-6249",
     "website": "http://www.randmpaintball.com/home",
-    "facebook": "https://www.facebook.com/RM-Paintball-Airsoft-134137306651828/"
+    "facebook": "https://www.facebook.com/RM-Paintball-Airsoft-134137306651828/",
+    "hours": "Hours:, Select Sundays: 10AM-4PM"
   },
   {
     "name": "River City Airsoft",
     "address": "832 Moscow Rd, Hamlin, NY 14464",
     "phone": "(585) 727-9641",
     "website": "http://www.rivercityairsoft.com/",
-    "facebook": "https://www.facebook.com/River-City-Airsoft-157430624344125/"
+    "facebook": "https://www.facebook.com/River-City-Airsoft-157430624344125/",
+    "hours": "Hours:, Fri-Sat: 12PM-5PM Sun: 12PM-3PM"
   },
   {
     "name": "Strike Force Sports Airsoft",
     "address": "125 Broadhollow Rd, Farmingdale, NY 11735",
     "phone": "(631) 242-1197",
-    "website": "http://www.strikeforcesports.net/"
+    "website": "http://www.strikeforcesports.net/",
+    "hours": "Hours:, Thur: 11AM–9PM, Fri: 11AM–10PM, Sat: 11AM–1AM, Sun: 11AM–5PM"
   },
   {
     "name": "The BrickHouse / The ClubHouse",
     "address": "3041 Hempstead Turnpike, Levittown, NY 11756",
     "phone": "(516) 581-1620",
     "website": "http://www.ricochettactical.com/",
-    "facebook": "https://www.facebook.com/ricochettactical"
+    "facebook": "https://www.facebook.com/ricochettactical",
+    "hours": "Hours:, Friday: 5pm – 8pm, Saturday: 12pm – 3pm, 3pm – 6pm, Sunday: 12pm – 3pm, 3pm – 6pm"
   },
   {
     "name": "The War Zone",
     "address": "6525 Walmore Rd, Niagara Falls, NY 14304",
     "phone": "(716) 525-8583",
     "website": "http://www.thewarzoneairsoft.com/",
-    "facebook": "https://www.facebook.com/TheWarZoneAirsoft/"
+    "facebook": "https://www.facebook.com/TheWarZoneAirsoft/",
+    "hours": "Hours:, Sat-Sun: 9:30AM-4PM"
   },
   {
     "name": "Watertown Airsoft League",
     "address": "1222 Arsenal St, Watertown, NY 13601",
     "phone": "(315) 408-9801",
-    "facebook": "https://www.facebook.com/watertownairsoftleague/"
+    "facebook": "https://www.facebook.com/watertownairsoftleague/",
+    "hours": "Hours:, Wed-Fri 12:00 pm – 8:00 pm, Saturday 10:00 am – 8:00 pm, Sunday 12:00 pm – 6:00 pm"
   },
   {
     "name": "Zulu 24",
     "address": "380 Mt Airy Rd, New Windsor, NY 12553",
     "phone": "(347) 687-9923",
     "website": "http://www.zulu24.com/",
-    "facebook": "https://www.facebook.com/zulu24airsoft"
+    "facebook": "https://www.facebook.com/zulu24airsoft",
+    "hours": "Hours:, Sat-Sun: 9:00AM-4PM"
   },
   {
     "name": "Airsoft Battle Park",
     "address": "202 E Washington St, Mebane, NC 27302",
     "phone": "(336) 525-9144",
     "website": "http://www.archangelairsoft.com/",
-    "facebook": "https://www.facebook.com/ArchangelAirsoftNC/"
+    "facebook": "https://www.facebook.com/ArchangelAirsoftNC/",
+    "hours": "Hours:, Thurs-Fri: 12PM-5PM"
   },
   {
     "name": "Cedar Creek Airsoft",
     "address": "696 Cedar Creek Rd, Mocksville, NC 27028",
     "phone": "(336) 521-1649",
     "website": "http://www.cedarcreekairsoft.com/",
-    "facebook": "https://www.facebook.com/CedarCreekAirsoft/"
+    "facebook": "https://www.facebook.com/CedarCreekAirsoft/",
+    "hours": "Hours:, Sat-Sun: 9AM-5PM"
   },
   {
     "name": "Gunny’s Warfare Center",
     "address": "6009 Old Hwy Rd, Waxhaw, NC 28173",
     "phone": "(704) 352-5656",
-    "facebook": "https://www.facebook.com/GunnysWarfareCenter/"
+    "facebook": "https://www.facebook.com/GunnysWarfareCenter/",
+    "hours": "Hours:, Sat-Sun: 10AM-5PM"
   },
   {
     "name": "PBC Sports Park – Charlotte",
     "address": "1680 E Main St, Rock Hill, NC 29730",
     "phone": "(866) 421-7529",
-    "facebook": "https://www.facebook.com/PaintballCentral"
+    "facebook": "https://www.facebook.com/PaintballCentral",
+    "hours": "Hours:, Saturday 9am – 5pm, Sunday 10am – 5pm"
   },
   {
     "name": "PBC Sports Park – Greensboro",
     "address": "6106 Burlington Rd, Gibsonville, NC 27249",
     "phone": "(336) 449-4406",
-    "facebook": "https://www.facebook.com/PaintballCentral"
+    "facebook": "https://www.facebook.com/PaintballCentral",
+    "hours": "Hours:, Saturday 9am – 5pm, Sunday 10am – 5pm"
   },
   {
     "name": "XtremeKombat",
     "address": "7460 Wake Forest Hwy, Durham, NC 27703",
     "phone": "(919) 646-4140",
-    "facebook": "https://www.facebook.com/xtremekombatpark"
+    "facebook": "https://www.facebook.com/xtremekombatpark",
+    "hours": "Hours:, Saturday & Sunday: 10:00 am – 6:00 pm, Monday – Friday: 10:00 am – 4:00 pm"
   },
   {
     "name": "Assault Airsoft Indoor",
     "address": "346 11th St SE #7140, Massillon, OH 44646",
-    "phone": "(330) 451-6128"
+    "phone": "(330) 451-6128",
+    "hours": "Hours:, Saturday: 10AM–7PM, Sunday: 10AM–6PM"
   },
   {
     "name": "Fallen Warrior Airsoft",
     "address": "6985 Egypt Pike, Chillicothe, OH 45601",
     "phone": "(740) 649-9945",
-    "facebook": "https://www.facebook.com/FallenWarriorsAirsoft/"
+    "facebook": "https://www.facebook.com/FallenWarriorsAirsoft/",
+    "hours": "Hours:, Sat: 8:30AM-6PM"
   },
   {
     "name": "Hidden Spring Ranch",
     "address": "4624 Dayton Springfield Rd, Springfield, OH 45502",
     "phone": "(937) 206-1028",
-    "facebook": "https://www.facebook.com/pages/Hidden-Spring-Ranch-Airsoft/520494664694760"
+    "facebook": "https://www.facebook.com/pages/Hidden-Spring-Ranch-Airsoft/520494664694760",
+    "hours": "Hours:, Sat-Sun: 9AM-7PM"
   },
   {
     "name": "i70 Paintball and Airsoft",
     "address": "E Around Back, 7750 Wildcat Rd, Huber Heights, OH 45424",
     "phone": "(937) 237-7070",
     "website": "http://www.i70paintball.com/",
-    "facebook": "https://www.facebook.com/i70paintball/"
+    "facebook": "https://www.facebook.com/i70paintball/",
+    "hours": "Hours:, Thursday: 12–6PM, Friday: 12–7PM, Saturday: 10AM–6PM, Sunday: 12–6PM"
   },
   {
     "name": "Ohio Indoor Airsoft (OIA)",
     "address": "",
-    "facebook": "https://www.facebook.com/AirsoftOhioIndoor"
+    "facebook": "https://www.facebook.com/AirsoftOhioIndoor",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Ohio Valley Airsoft",
     "address": "2200 Union St, Bellaire, OH 43906",
     "phone": "(740) 325-1172",
     "website": "http://www.ohiovalleyairsoft.com/",
-    "facebook": "https://www.facebook.com/Ohiovalleyairsoft/"
+    "facebook": "https://www.facebook.com/Ohiovalleyairsoft/",
+    "hours": "Hours:, Friday: 5pm-11pm, Saturday: 11am-11pm, Sunday: 2pm-8pm"
   },
   {
     "name": "Splatter Park",
     "address": "5560 County Rd 109, Mt Gilead, OH 43338",
     "phone": "(419) 946-4964",
     "website": "http://www.splatterpark.com/airsoft-info.html",
-    "facebook": "https://www.facebook.com/SplatterPark"
+    "facebook": "https://www.facebook.com/SplatterPark",
+    "hours": "Hours:, Sun: 10AM-5PM"
   },
   {
     "name": "Airsoft Tulsa Indoor Field",
     "address": "6323 E 41st St unit-a, Tulsa, OK 74135",
     "phone": "(539) 525-0883",
     "website": "http://www.airsofttulsa.com/",
-    "facebook": "https://www.facebook.com/TulsaAirsoft/"
+    "facebook": "https://www.facebook.com/TulsaAirsoft/",
+    "hours": "Hours:, Sunday 12–6PM, Monday-Friday: 12–8PM, Saturday: 11AM–8PM"
   },
   {
     "name": "D-Day Adventure Park",
     "address": "66800 E 175 Rd, Wyandotte, OK 74370",
     "phone": "(918) 666-3411",
     "website": "http://www.ddaypark.com/airsoft/",
-    "facebook": "https://www.facebook.com/DDayPark/"
+    "facebook": "https://www.facebook.com/DDayPark/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Action Acres Airsoft",
     "address": "10381 S Mulino Rd, Canby, OR 97013",
     "phone": "(503) 266-5733",
     "website": "http://www.actionacresairsoft.com/",
-    "facebook": "https://www.facebook.com/actionacresairsoft"
+    "facebook": "https://www.facebook.com/actionacresairsoft",
+    "hours": "Hours:, Sat-Sun: 10AM-5PM"
   },
   {
     "name": "Camp R&R",
     "address": "61635 NW Agaard Rd, Gales Creek, OR 97117",
     "phone": "(503) 357-1600",
     "website": "http://www.camprandr.com/",
-    "facebook": "https://www.facebook.com/CampRandR/"
+    "facebook": "https://www.facebook.com/CampRandR/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "CV Paintball and Airsoft Field",
     "address": "13000 Finlay Rd NE, Silverton, OR 97381",
     "phone": "(503) 999-2027",
     "website": "http://cvpaintballfield.wixsite.com/cvpaintballfield",
-    "facebook": "https://www.facebook.com/pg/CVPaintballField/about/?ref=page_internal"
+    "facebook": "https://www.facebook.com/pg/CVPaintballField/about/?ref=page_internal",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Gold Hill Airsoft",
     "address": "9450 Old Stage Rd, Central Point, OR 97502",
     "phone": "(541) 660-7795",
-    "facebook": "https://www.facebook.com/pages/Gold-Hill-Airsoft/248909538548656"
+    "facebook": "https://www.facebook.com/pages/Gold-Hill-Airsoft/248909538548656",
+    "hours": "Hours:, Sat: 9:30AM-4PM"
   },
   {
     "name": "Oregon Airsoft Arena and Tactical Store",
     "address": "1600 NE 25th Ave a, Hillsboro, OR 97124",
     "phone": "(503) 985-8326",
     "website": "http://www.oregon-airsoft.com/",
-    "facebook": "https://www.facebook.com/oregonairsoftarena/"
+    "facebook": "https://www.facebook.com/oregonairsoftarena/",
+    "hours": "Hours:, Tuesday-Saturday: 10:30AM–8:30PM, Sunday 10AM–6PM"
   },
   {
     "name": "Splat Action Paintball",
     "address": "32155 S Grimm Rd, Molalla, OR 97038",
     "phone": "(503) 467-1855",
     "website": "http://www.splataction.com/",
-    "facebook": "https://www.facebook.com/splataction/"
+    "facebook": "https://www.facebook.com/splataction/",
+    "hours": "Hours:, Sun-Sat: 10AM-5PM"
   },
   {
     "name": "The SWAMP Paintball and Airsoft",
     "address": "38488 Shady Oak Ln, Lebanon, OR 97355",
     "phone": "(541) 409-0511",
     "website": "http://www.snfscenarios.com/",
-    "facebook": "https://www.facebook.com/Swamp.PB/"
+    "facebook": "https://www.facebook.com/Swamp.PB/",
+    "hours": "Hours:, Check website for scheduled game days"
   },
   {
     "name": "Ambush Airsoft and Paintball",
     "address": "91 Hilltop Dr, Conestoga, PA 17516",
     "phone": "(717) 989-4519",
-    "facebook": "https://www.facebook.com/AmbushAirsoftandPaintballField/"
+    "facebook": "https://www.facebook.com/AmbushAirsoftandPaintballField/",
+    "hours": "Hours:, Check website for scheduled game days"
   },
   {
     "name": "EAG Combat Simulations",
     "address": "15 Corning St, Lock Haven, PA 17745",
     "phone": "(570) 660-2147",
     "website": "http://eaghq.weebly.com/",
-    "facebook": "https://www.facebook.com/eaghq/"
+    "facebook": "https://www.facebook.com/eaghq/",
+    "hours": "Hours:, Open play every other Sunday afternoon"
   },
   {
     "name": "Linglestown Paintball",
     "address": "1 Iru Lane, Harrisburg, PA 17112",
     "phone": "(717) 541-8323",
-    "facebook": "https://www.facebook.com/lppaintball/"
+    "facebook": "https://www.facebook.com/lppaintball/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Mercer Airsoft Center",
     "address": "1915 Mercer West Middlesex Rd, Mercer, PA 16137",
     "phone": "(724) 981-1277",
     "website": "http://mercerairsoftcenter.com/",
-    "facebook": "https://www.facebook.com/mercerairsoftcenter/"
+    "facebook": "https://www.facebook.com/mercerairsoftcenter/",
+    "hours": "Hours:, Friday: 2–10PM, Saturday-Sunday: 10AM–6:30PM"
   },
   {
     "name": "Poco Loco Paintball Park",
     "address": "134 Kurtz Rd, Schwenksville, PA 19473",
     "phone": "(610) 630-4793",
-    "facebook": "https://www.facebook.com/pocolocoairsoft/"
+    "facebook": "https://www.facebook.com/pocolocoairsoft/",
+    "hours": "Hours:, Sun: 9:30AM-4PM"
   },
   {
     "name": "The Battlegrounds",
     "address": "530 E 8th Ave, Munhall, PA 15120",
     "phone": "(412) 530-2192",
     "website": "http://www.thebattlegroundspa.com/",
-    "facebook": "https://www.facebook.com/battlegroundspittsburgh"
+    "facebook": "https://www.facebook.com/battlegroundspittsburgh",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Three Rivers Paintball and Airsoft Park",
     "address": "282 Rochester Rd, Freedom, PA 15042",
     "phone": "(724) 775-6232",
     "website": "http://www.trpaintball.com/",
-    "facebook": "https://www.facebook.com/threeriverspaintball/"
+    "facebook": "https://www.facebook.com/threeriverspaintball/",
+    "hours": "Hours:, Tuesday-Sunday: 11AM–5PM"
   },
   {
     "name": "Battlegroundz",
     "address": "100 Higginson Ave, Lincoln, RI 2865",
     "phone": "(401) 305-3600",
-    "facebook": "https://www.facebook.com/atBGZ/"
+    "facebook": "https://www.facebook.com/atBGZ/",
+    "hours": "Hours:, Tuesday-Thursday: 2–8PM, Friday: 4PM–9AM, Saturday-Sunday: 2–8PM"
   },
   {
     "name": "Extreme Airsoft",
     "address": "1425 Kingstown Rd, South Kingstown, RI 2879",
     "phone": "(401) 789-1987",
     "website": "http://www.extremeairsoftri.com/",
-    "facebook": "https://www.facebook.com/ExtremeRI/"
+    "facebook": "https://www.facebook.com/ExtremeRI/",
+    "hours": "Hours:, Tuesday-Thursday: 11AM–7PM, Friday: 11AM–10PM, Saturday: 11AM–12AM, Sunday: 11AM–7PM"
   },
   {
     "name": "Rhode Island Paintball and Airsoft",
     "address": "1175 Post Rd, Warwick, RI 2888",
     "phone": "(401) 369-7575",
     "website": "http://www.ripaintball.net/",
-    "facebook": "https://www.facebook.com/pages/category/Paintball-Center/Rhode-Island-Paintball-Airsoft-168205845567/"
+    "facebook": "https://www.facebook.com/pages/category/Paintball-Center/Rhode-Island-Paintball-Airsoft-168205845567/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Warzone Paintball and Airsoft",
     "address": "320 Shermantown Rd, Saunderstown, RI 2874",
     "phone": "(401) 228-6366",
-    "facebook": "https://www.facebook.com/WarzoneRI"
+    "facebook": "https://www.facebook.com/WarzoneRI",
+    "hours": "Hours:, Sat-Sun: 9:30AM-4PM"
   },
   {
     "name": "Battle Cat Sports",
     "address": "102 N Manning St, Anderson, SC 29621",
     "phone": "(864) 964-0167",
     "website": "http://battlecatsports.com/",
-    "facebook": "https://www.facebook.com/battlecatsports"
+    "facebook": "https://www.facebook.com/battlecatsports",
+    "hours": "Hours:, Sat: 2pm- 6pm, Sun: 1pm – 6pm"
   },
   {
     "name": "Black Ops Airsoft – South",
     "address": "1040 W Richardson Ave, Summerville, SC 29483",
     "phone": "(315) 398-9993",
     "website": "http://www.boa-s.com/",
-    "facebook": "https://www.facebook.com/BOASouth/"
+    "facebook": "https://www.facebook.com/BOASouth/",
+    "hours": "Hours:, Saturday: 9AM–4PM, Sunday: 11AM–3PM"
   },
   {
     "name": "SQA aka Escue Airsoft",
     "address": "1205 Founders Rd, Lexington, SC 29073",
     "phone": "(803) 626-2394",
     "website": "http://www.sqairsoft.com/",
-    "facebook": "https://www.facebook.com/EscueAirsoft"
+    "facebook": "https://www.facebook.com/EscueAirsoft",
+    "hours": "Hours:, Check website for game days"
   },
   {
     "name": "Bad Karma Airsoft",
     "address": "1735 Gwynn Rd, Lebanon, TN 37090",
     "phone": "(615) 308-7606",
     "website": "http://www.badkarmaairsoft.net/",
-    "facebook": "https://www.facebook.com/badkarmaairsoft/"
+    "facebook": "https://www.facebook.com/badkarmaairsoft/",
+    "hours": "Hours:, Tuesday-Friday: 11AM–7PM, Saturday: 10AM–3PM"
   },
   {
     "name": "CartCon1",
     "address": "8425 Horton Hwy, College Grove, TN 37046",
     "phone": "(615) 351-2517",
     "website": "http://cartcon1.com/",
-    "facebook": "https://www.facebook.com/CartCon1.Airsoft/"
+    "facebook": "https://www.facebook.com/CartCon1.Airsoft/",
+    "hours": "Hours:, Sat: 9AM-6PM"
   },
   {
     "name": "Hellhounds Airsoft Field",
     "address": "428 Crafton Rd, Portland, TN 37148",
     "phone": "(615) 775-1677",
-    "facebook": "https://www.facebook.com/HHfield"
+    "facebook": "https://www.facebook.com/HHfield",
+    "hours": "Hours:, Sat: 10AM-5PM"
   },
   {
     "name": "Nashville Airsoft",
     "address": "406 Davidson St, Nashville, TN 37213",
     "phone": "(615) 837-0920",
     "website": "http://www.nashvilleairsoft.com/",
-    "facebook": "https://www.facebook.com/NashvilleAirsoft"
+    "facebook": "https://www.facebook.com/NashvilleAirsoft",
+    "hours": "Hours:, Wednesday-Thursday: 12–7PM, Friday: 3–9PM, Saturday: 10AM–9PM, Sunday 1–6PM"
   },
   {
     "name": "Resurrection Airsoft",
     "address": "1200 Miracle Rd, Cookeville, TN 38506",
     "website": "http://resurrectionairsoft.weebly.com/",
-    "facebook": "https://www.facebook.com/resurrectionairsoft/"
+    "facebook": "https://www.facebook.com/resurrectionairsoft/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Springfield Airsoft Field",
     "address": "5540 Lakeview Rd, Springfield, TN 37172",
-    "phone": "(877) 945-2374"
+    "phone": "(877) 945-2374",
+    "hours": "Hours:, Sat-Sun: 10AM-5PM"
   },
   {
     "name": "Balls & Bruises",
     "address": "22340 I-Hwy 45 N, Spring, TX 77373",
     "phone": "(346) 285-2777",
-    "facebook": "https://www.facebook.com/ballsandbruises"
+    "facebook": "https://www.facebook.com/ballsandbruises",
+    "hours": "Hours:, Sat: 9AM-5PM, Sun: 10AM–5PM"
   },
   {
     "name": "878 Airsoft",
     "address": "4020 Farm to Market Rd 878, Waxahachie, TX 75165",
     "phone": "(972) 247-7638",
     "website": "http://www.878airsoft.net/",
-    "facebook": "https://www.facebook.com/878Airsoft/"
+    "facebook": "https://www.facebook.com/878Airsoft/",
+    "hours": "Hours:, Sat-Sun: 9AM-6PM"
   },
   {
     "name": "Airsoft Revolution 15",
     "address": "5415 Bandera Rd #509, San Antonio, TX 78238",
     "phone": "(210) 520-0062",
     "website": "http://www.airsoftrevolution15.com/",
-    "facebook": "https://www.facebook.com/airsoftrevolution15/"
+    "facebook": "https://www.facebook.com/airsoftrevolution15/",
+    "hours": "Hours:, Wednesday-Thursday: 12–8PM, Friday: 12–10PM, Saturday: 10AM–10PM, Sunday: 12–8PM"
   },
   {
     "name": "D14 Airsoft",
     "address": "3433 Cowling Rd, Sanger, TX 76266",
     "phone": "(940) 600-1459",
-    "facebook": "https://www.facebook.com/D14Airsoft/"
+    "facebook": "https://www.facebook.com/D14Airsoft/",
+    "hours": "Hours:, Sat-Sun: 8AM-5PM"
   },
   {
     "name": "Delta Paintball",
     "address": "5605 TX-107, Mission, TX 78573",
     "phone": "(956) 270-2577",
     "website": "http://deltafieldpb.com/",
-    "facebook": "https://www.facebook.com/DeltaFieldPaintball/"
+    "facebook": "https://www.facebook.com/DeltaFieldPaintball/",
+    "hours": "Hours:, Friday: 5–10PM, Saturday-Sunday: 10AM–10PM"
   },
   {
     "name": "DFW Adventure Park",
     "address": "13055 Cleveland Gibbs Rd, Northlake, TX 76262",
     "phone": "(817) 854-0085",
-    "facebook": "https://www.facebook.com/dfwapairsoft/"
+    "facebook": "https://www.facebook.com/dfwapairsoft/",
+    "hours": "Hours:, First and third Saturdays of the month, 9:00 AM – 6:00 PM"
   },
   {
     "name": "Edinburg Paintball Battlegrounds",
     "address": "1207 Tower Rd, Edinburg, TX 78542",
     "phone": "(956) 316-4400",
     "website": "http://www.paintballbattlegrounds.com/",
-    "facebook": "https://www.facebook.com/edinburgpaintballbattlegrounds/"
+    "facebook": "https://www.facebook.com/edinburgpaintballbattlegrounds/",
+    "hours": "Hours:, Friday-Saturday: 11AM–9PM, Sunday: 11AM–8PM"
   },
   {
     "name": "Fun on the Run Field",
     "address": "2621 Roberts Cut Off Rd, Fort Worth, TX 76114",
     "phone": "(817) 238-0297",
     "website": "http://www.paintballfunontherun.com/airsoft",
-    "facebook": "https://www.facebook.com/funontherunpaintball"
+    "facebook": "https://www.facebook.com/funontherunpaintball",
+    "hours": "Hours:, Tues-Sun: 10AM-6PM"
   },
   {
     "name": "High Ground Airsoft – Spring",
     "address": "100 Cypresswood Dr #1302, Spring, TX 77388",
     "phone": "(281) 771-3126",
     "website": "http://www.highgroundairsoft.com/spring/",
-    "facebook": "https://www.facebook.com/pg/EvikeOutpost.HighGround/about/?ref=page_internal"
+    "facebook": "https://www.facebook.com/pg/EvikeOutpost.HighGround/about/?ref=page_internal",
+    "hours": "Hours:, Tues-Fri 11:30AM-7PM, Saturday 10:30AM-9PM"
   },
   {
     "name": "La Vernia Airsoft Field",
     "address": "15875 FM539, La Vernia, TX 78121",
     "phone": "(210) 771-0160",
-    "facebook": "https://www.facebook.com/pages/La-Vernia-Airsoft-Field/153151148132422"
+    "facebook": "https://www.facebook.com/pages/La-Vernia-Airsoft-Field/153151148132422",
+    "hours": "Hours:, Sun: 8AM-5PM"
   },
   {
     "name": "Mission: Airsoft",
     "address": "20360 Pleasanton Rd, San Antonio, TX 78221",
     "phone": "(210) 843-3711",
     "website": "http://missionairsoft.com/",
-    "facebook": "https://www.facebook.com/MissionAirsoft/"
+    "facebook": "https://www.facebook.com/MissionAirsoft/",
+    "hours": "Hours:, Sat: 10AM-5PM"
   },
   {
     "name": "Paintball Zone – North",
     "address": "8311 Farm to Market 1960 Bypass Rd W, Humble, TX 77338",
     "phone": "(281) 660-0663",
-    "facebook": "https://www.facebook.com/Paintball-Zone-205254246185886/"
+    "facebook": "https://www.facebook.com/Paintball-Zone-205254246185886/",
+    "hours": "Hours:, Monday, Thursday, Friday: 11AM–6PM, Saturday: 10AM–7PM, Sunday: 10AM–7PM"
   },
   {
     "name": "Paintball Zone – South",
     "address": "14100 Beamer Rd, Houston, TX 77089",
     "phone": "(281) 660-0663",
     "website": "http://paintballzonehouston.com/index.html",
-    "facebook": "https://www.facebook.com/Paintball-Zone-205254246185886/"
+    "facebook": "https://www.facebook.com/Paintball-Zone-205254246185886/",
+    "hours": "Hours:, Monday, Thursday, Friday: 11AM–6PM, Saturday: 10AM–7PM, Sunday: 10AM–7PM"
   },
   {
     "name": "Play Extreme Sports",
     "address": "2110 TX-286, Corpus Christi, TX 78415",
     "phone": "(361) 814-3830",
     "website": "http://www.playextremesports.com/",
-    "facebook": "https://www.facebook.com/playpestoday/"
+    "facebook": "https://www.facebook.com/playpestoday/",
+    "hours": "Hours:, Sat-Sun: 10AM"
   },
   {
     "name": "Tanks Paintball – Sugarland",
     "address": "22011 Southwest Fwy, Richmond, TX 77469",
     "phone": "(281) 342-5885",
-    "facebook": "https://www.facebook.com/pages/TANKS-Paintball-Park/129453979814"
+    "facebook": "https://www.facebook.com/pages/TANKS-Paintball-Park/129453979814",
+    "hours": "Hours:, Friday: 12–6PM, Saturday: 9AM–5PM, Sunday: 10AM–5PM"
   },
   {
     "name": "Temple Tactical and Airsoft",
     "address": "1163 Berger Rd, Temple, TX 76501",
     "phone": "(254) 535-5490",
     "website": "http://www.templeairsoft.com/",
-    "facebook": "https://www.facebook.com/TempleAirsoft/"
+    "facebook": "https://www.facebook.com/TempleAirsoft/",
+    "hours": "Hours:, Saturday: 9AM-4:30PM, Sunday: 9AM-4PM"
   },
   {
     "name": "MilSim City",
     "address": "18150 West, 800 S, Fairfield, UT 84013",
     "phone": "(801) 821-5555",
     "website": "http://milsimcity.com/",
-    "facebook": "https://www.facebook.com/milsimcity/"
+    "facebook": "https://www.facebook.com/milsimcity/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Augusta Airsoft",
     "address": "160 Johnson Dr, Stuarts Draft, VA 24477",
     "phone": "(540) 470-8713",
-    "facebook": "https://www.facebook.com/AugustaAirsoftSV/"
+    "facebook": "https://www.facebook.com/AugustaAirsoftSV/",
+    "hours": "Hours:, Tuesday: 5:30-7:30PM, Saturday: 12:30–5PM, Sunday: 12:30–5PM"
   },
   {
     "name": "Ballahack Airsoft",
     "address": "2900 Ballahack Rd, Chesapeake, VA 23322",
     "phone": "(757) 685-3356",
     "website": "http://ballahackairsoft.com/",
-    "facebook": "https://www.facebook.com/ballahackairsoft/"
+    "facebook": "https://www.facebook.com/ballahackairsoft/",
+    "hours": "Hours:, Sat-Sun: 9AM-5PM"
   },
   {
     "name": "Bethel Battlefield",
     "address": "123 Saunders Rd, Hampton, VA 23666",
     "phone": "(757) 488-2501",
     "website": "http://www.bethelpaintball.com/airsoft",
-    "facebook": "https://www.facebook.com/Bethel-Battlefield-277176202347465/"
+    "facebook": "https://www.facebook.com/Bethel-Battlefield-277176202347465/",
+    "hours": "Hours:, Saturday- Sunday: 9:30AM–4PM"
   },
   {
     "name": "Pev’s Paintball",
     "address": "39835 New Rd, Aldie, VA 20105",
     "phone": "(703) 947-0901",
-    "facebook": "https://www.facebook.com/Pevs.Paintball/"
+    "facebook": "https://www.facebook.com/Pevs.Paintball/",
+    "hours": "Hours:, Sat-Sun: 10:30AM-5PM"
   },
   {
     "name": "RATAC Battlefield",
     "address": "1020 Service Ave SE, Roanoke, VA 24013",
     "phone": "(540) 685-2726",
-    "facebook": "https://www.facebook.com/RoanokeAirsoftDotCom?fref=ts"
+    "facebook": "https://www.facebook.com/RoanokeAirsoftDotCom?fref=ts",
+    "hours": "Hours:, Fri-Sat: 10AM-6PM"
   },
   {
     "name": "XZone Airsoft",
     "address": "6851 Courthouse Rd, Chesterfield, VA 23832",
     "phone": "(804) 715-3232",
-    "facebook": "https://www.facebook.com/XZoneVA"
+    "facebook": "https://www.facebook.com/XZoneVA",
+    "hours": "Hours:, Sun: 11AM-6PM"
   },
   {
     "name": "Go Big Paintball Park",
     "address": "2149 E Badger Rd, Lynden, WA 98264",
-    "phone": "(360) 318-7637"
+    "phone": "(360) 318-7637",
+    "hours": "Hours:, Sat-Sun: 9AM-6PM"
   },
   {
     "name": "Nitehawk Airsoft",
     "address": "Spring Creek Rd, Ford, WA 99013",
     "phone": "(509) 919-4569",
     "website": "http://nitehawkpaintball.com/",
-    "facebook": "https://www.facebook.com/NitehawkAirsoft/"
+    "facebook": "https://www.facebook.com/NitehawkAirsoft/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Paintball Station",
     "address": "19027 Milltown Rd, Mt Vernon, WA 98273",
     "phone": "(360) 445-2571",
-    "facebook": "https://www.facebook.com/PaintballStation"
+    "facebook": "https://www.facebook.com/PaintballStation",
+    "hours": "Hours:, Sat-Sun: 9AM-4PM"
   },
   {
     "name": "The Airsoft Center",
     "address": "3099 S Sawyer Ave, Tacoma, WA 98409",
     "phone": "(253) 671-7717",
     "website": "http://tacomaairsoftcenter.com/",
-    "facebook": "https://www.facebook.com/theairsoftcenter"
+    "facebook": "https://www.facebook.com/theairsoftcenter",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "M2 Bravo Airsoft Arena",
     "address": "1107 Bill Gross Road, Buckhannon, WV 26201",
     "phone": "(304) 642-6952",
     "website": "http://www.m2bravo.com/",
-    "facebook": "https://www.facebook.com/m2bravo/"
+    "facebook": "https://www.facebook.com/m2bravo/",
+    "hours": "Hours:, Check website for hours"
   },
   {
     "name": "Airsoft Arena",
     "address": "1020 W Historic Mitchell St, Milwaukee, WI 53204",
     "phone": "(414) 763-8556",
     "website": "http://www.theairsoftarena.com/",
-    "facebook": "https://www.facebook.com/AirsoftArenaWi/"
+    "facebook": "https://www.facebook.com/AirsoftArenaWi/",
+    "hours": "Hours:, Fri: 3PM-9PM Sat-Sun: 10AM-7PM"
   },
   {
     "name": "BlackOps Airsoft",
     "address": "8025 128th Ave, Bristol, WI 53104",
     "phone": "(847) 913-5216",
     "website": "http://www.blackops-airsoft.com/",
-    "facebook": "https://www.facebook.com/blackopsbristol/"
+    "facebook": "https://www.facebook.com/blackopsbristol/",
+    "hours": "Hours:, Friday: 3–7PM, Saturday: 9AM–5PM, Sunday: 10AM–5PM"
   },
   {
     "name": "Edge Paintball and Airsoft",
     "address": "5946 US-51, Janesville, WI 53546",
     "phone": "(608) 931-3517",
-    "facebook": "https://www.facebook.com/pg/608PB/about/?ref=page_internal"
+    "facebook": "https://www.facebook.com/pg/608PB/about/?ref=page_internal",
+    "hours": "Hours:, Sat-Sun: 9AM-5PM"
   },
   {
     "name": "The Siege Paintball",
     "address": "W224S10030 Big Bend Dr, Big Bend, WI 53103",
     "phone": "(262) 363-9735",
     "website": "http://siegepb.com/",
-    "facebook": "https://www.facebook.com/SiegePaintball/"
+    "facebook": "https://www.facebook.com/SiegePaintball/",
+    "hours": "Hours:, Check website for scheduled hours"
   },
   {
     "name": "Twin Cities Airsoft",
     "address": "2261 130th Ave, Emerald, WI 54013",
     "phone": "(612) 333-1700",
-    "website": "http://www.twincitiesairsoft.com/"
+    "website": "http://www.twincitiesairsoft.com/",
+    "hours": "Hours:, Sat-Sun: 10AM-5PM"
   }
 ]
