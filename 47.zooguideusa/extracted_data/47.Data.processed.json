@@ -1,0 +1,952 @@
+[
+  {
+    "name": "Kids Country Farm",
+    "address": "15746 Beasley Rd Foley, Alabama 36535-8558",
+    "phone": "334-965-7451"
+  },
+  {
+    "name": "Zooland Animal Park",
+    "address": "1204 Gulf Shores Pkwy Gulf Shores, Alabama 36542-5908",
+    "phone": "334-968-5731"
+  },
+  {
+    "name": "Limestone Zoological",
+    "address": "Park 30193 Nick Davis Rd Harvest, Alabama 35749-7019",
+    "phone": "256-230-0330"
+  },
+  {
+    "name": "Animal House Exotic",
+    "address": "Animals 2056 County Road 161 Moulton, AL 35650-8942",
+    "phone": "256-974-8634"
+  },
+  {
+    "name": "Pet-R-Pets Zoo & Pony",
+    "address": "Rides 25236 Patterson Rd Robertsdale, AL 36567-4324",
+    "phone": "334-960-1446"
+  },
+  {
+    "name": "Grand Oak Wildlife Park",
+    "address": "302 Industrial Pkwy Saraland, AL 36571-3706",
+    "phone": "334-679-5757"
+  },
+  {
+    "name": "Hqh Western World & Zoo",
+    "address": "15161 Ward Rd W Wilmer, AL 36587-4011",
+    "phone": "334-649-1845"
+  },
+  {
+    "name": "Old Mac Donald’s",
+    "address": "Petting Zoo 7826 Us Highway 72 Woodville, AL 35776-6428",
+    "phone": "256-776-4332"
+  },
+  {
+    "name": "Douglas Wildlife Zoo",
+    "address": "4000 N Plantation Rd Douglas, Arizona 85607-6028",
+    "phone": "520-364-2515"
+  },
+  {
+    "name": "Wildlife World Zoo",
+    "address": "16501 W Northern Ave Litchfield Park, Arizona 85340-9466",
+    "phone": "623-935-9453"
+  },
+  {
+    "name": "Payson Exotic Studio",
+    "address": "Animals Lion Springs Payson, Arizona 85541",
+    "phone": "520-474-5435"
+  },
+  {
+    "name": "Heritage Park Zoo",
+    "address": "1403 Heritage Park Rd Prescott, AZ 86301-6001",
+    "phone": "520-778-4242"
+  },
+  {
+    "name": "Out Of Africa Wildlife",
+    "address": "Park 2 N Fort Mcdowell Rd Scottsdale, AZ 85264",
+    "phone": "480-837-7779"
+  },
+  {
+    "name": "Tucson Zoological",
+    "address": "Society 900 5 Randolph Way Tucson, AZ 85716-5834",
+    "phone": "520-881-1078"
+  },
+  {
+    "name": "Puffs Zoo",
+    "address": "1215 E Main St Batesville, Arkansas 72501-3018",
+    "phone": "870-698-0711"
+  },
+  {
+    "name": "Rainforest",
+    "address": "257 Scenic Hill Rd Conway, Arkansas 72032-8605",
+    "phone": "501-470-0999"
+  },
+  {
+    "name": "Crossett City Zoo",
+    "address": "1141 Parkway Dr Crossett, Arkansas 71635-3819",
+    "phone": "870-364-7732"
+  },
+  {
+    "name": "Animal Actors Zoo",
+    "address": "380 Whittington Ave Hot Springs, AR 71901-3402",
+    "phone": "501-623-9695"
+  },
+  {
+    "name": "Kidz N More",
+    "address": "301 Spriggs Rd N Little Rock, AR 72118-2331",
+    "phone": "501-758-0041"
+  },
+  {
+    "name": "Little Rock Zoological",
+    "address": "Garden 1 Jonesboro Dr Little Rock, AR 72205-5403",
+    "phone": "501-663-4733"
+  },
+  {
+    "name": "Little Rock Zoo",
+    "address": "700 Jonesboro Dr Little Rock, AR 72205-5404",
+    "phone": "501-666-2406"
+  },
+  {
+    "name": "California Living",
+    "address": "Museum-Calm 10500 Alfred Harrell Hwy Bakersfield, California 93306-9654",
+    "phone": ""
+  },
+  {
+    "name": "Friends Of Moonridge",
+    "address": "Zoo 43285 Goldmine Dr Big Bear Lake, California 92315 909-584-1 171",
+    "phone": ""
+  },
+  {
+    "name": "Sierra Endangered Cat",
+    "address": "Haven 38257 E Kings Canyon Rd Dunlap, California 93621-9710",
+    "phone": "559-338-3216"
+  },
+  {
+    "name": "San Diego Wild Animal",
+    "address": "Park 15500 San Pasqual Valley Rd Escondido, CA 92027-7017",
+    "phone": "760-747-8702"
+  },
+  {
+    "name": "Herbalina Gardens",
+    "address": "Aromatherapy P0 Box 2378 Grass Valley, CA 95945-2378",
+    "phone": "530-273-1693"
+  },
+  {
+    "name": "Micke Grove Zoological",
+    "address": "Society 11793 N Micke Grove Rd Lodi, CA 95240-9426",
+    "phone": "209-368-8992"
+  },
+  {
+    "name": "Micke Grove Zoo",
+    "address": "11793 N Micke Grove Rd Lodi, CA 95240-9426",
+    "phone": "209-953-8840"
+  },
+  {
+    "name": "Americas Teaching Zoo",
+    "address": "7075 Campus Rd Moorpark, CA 93021-1 605",
+    "phone": "805-378-1441"
+  },
+  {
+    "name": "Oakland Zoo",
+    "address": "9777 Golf Links Rd Oakland, CA 94605-4925",
+    "phone": "510-632-9523"
+  },
+  {
+    "name": "American Wilderness Zoo",
+    "address": "1 Mills Cir Ontario, CA 91764-5207",
+    "phone": "909-481-6604"
+  },
+  {
+    "name": "American Wilderness Zoo",
+    "address": "4557 Mills Cir Ontario, CA 91764-5220",
+    "phone": "909-481-6604"
+  },
+  {
+    "name": "Living Desert",
+    "address": "47900 Portola Ave Palm Desert, CA 92260-6156",
+    "phone": "760-346-5694"
+  },
+  {
+    "name": "San Diego Zoo Balboa",
+    "address": "Park San Diego, CA 92101",
+    "phone": "619-234-3153"
+  },
+  {
+    "name": "Zoological Society",
+    "address": "2920 Zoo Dr San Diego, CA 92101-1646",
+    "phone": "619-685-3291"
+  },
+  {
+    "name": "San Francisco Zoo",
+    "address": "1 Zoo Rd San Francisco, CA 941 32-1 098",
+    "phone": "415-753-7072"
+  },
+  {
+    "name": "Santa Ana Zoo",
+    "address": "1801 E Chestnut Ave Santa Ana, CA 92701-5001",
+    "phone": "714-835-7484"
+  },
+  {
+    "name": "Santa Barbara",
+    "address": "Zoological Gdns 500 Ninos Dr Santa Barbara, CA 931 03-3798",
+    "phone": "805-962-5339"
+  },
+  {
+    "name": "Butterfly Pavilion &",
+    "address": "Insect 6252W 104th Ave Broomfield, Colorado 80020-41 07",
+    "phone": "303-469-5441"
+  },
+  {
+    "name": "Cheyenne Mountain Zoo",
+    "address": "4250 Cheyenne Mountain Zoo Rd Colorado Springs, Colorado 80906-5755",
+    "phone": ""
+  },
+  {
+    "name": "Denver Zoological",
+    "address": "Gardens 2300 Steele St Denver, Colorado 80205-4899",
+    "phone": "303-376-4800"
+  },
+  {
+    "name": "Reptile Reserve Of SW",
+    "address": "Colorado 7900 County Rd 37 Mancos, CO 81328",
+    "phone": "970-533-7532"
+  },
+  {
+    "name": "Rocky Mountain Wildlife",
+    "address": "Park 4821 Highway 84 #A Pagosa Springs, CO 81147-9720",
+    "phone": "970-264-5546"
+  },
+  {
+    "name": "Pueblo Zoo",
+    "address": "3455 Nuckolls Ave Pueblo, CO 81005-1 234",
+    "phone": "719-561-9664"
+  },
+  {
+    "name": "Genesis Zoology Ctr",
+    "address": "747 Howard Rd Auburndale, Florida 33823-9683",
+    "phone": "863-965-8706"
+  },
+  {
+    "name": "Marion Nature Park",
+    "address": "12888 SE Us Highway 441 Belleview, Florida 34420-4566",
+    "phone": "352-347-7800"
+  },
+  {
+    "name": "Steel City Zoo & Pets",
+    "address": "2133 Highway 231 Cottondale, Florida 32431-7625",
+    "phone": "850-579-1044"
+  },
+  {
+    "name": "Sasquatch Zoo Highway",
+    "address": "90 E Crestview, FL 32539",
+    "phone": "850-682-3949"
+  },
+  {
+    "name": "Plantation Critters",
+    "address": "6081 Plantation Ln Crestview, FL 32539-9092",
+    "phone": "850-682-4943"
+  },
+  {
+    "name": "Old Mc Donald’s Farm",
+    "address": "Petting 6941 SW 57th St Davie, FL 33314-7000",
+    "phone": "954-581-3817"
+  },
+  {
+    "name": "Kountry Kritters",
+    "address": "639 Rio Ranchero Rd De Funiak Spgs, FL 32433-6993",
+    "phone": "850-951-0913"
+  },
+  {
+    "name": "Little Farm",
+    "address": "13401 SW 224th St Goulds, FL 33170-4311",
+    "phone": "305-258-3186"
+  },
+  {
+    "name": "Zoo & Botanical Gardens",
+    "address": "5701 Gulf Breeze Pkwy Gulf Breeze, FL 32561-9553",
+    "phone": "850-932-2229"
+  },
+  {
+    "name": "Jacksonville Zoological",
+    "address": "Garden 8605 Zoo Rd Jacksonville, FL 32218-5799",
+    "phone": "904-757-4462"
+  },
+  {
+    "name": "Party Animals",
+    "address": "1439 Simmons Rd Kissimmee, FL 34744-5631",
+    "phone": "407-414-1981"
+  },
+  {
+    "name": "Jungleland",
+    "address": "4580W Irlo Bronson MemI Hwy Kissimmee, FL 34746-5304",
+    "phone": "407-396-1012"
+  },
+  {
+    "name": "Suwannee Valley Zoo",
+    "address": "Mershon Rd Lake City, FL 32055",
+    "phone": "904-755-8933"
+  },
+  {
+    "name": "Jungle Larry’s",
+    "address": "Zoological Park 1590 Goodlette Rd N Naples, FL 34102-5297",
+    "phone": "941-262-5409"
+  },
+  {
+    "name": "Bird Gardens",
+    "address": "1060 Purple Martin Dr Naples, FL 34120-4868",
+    "phone": "941-348-8880"
+  },
+  {
+    "name": "Chimp Farm Inc",
+    "address": "4612 Alt 19 Palm Harbor, FL 34683-1 437",
+    "phone": "727-943-5897"
+  },
+  {
+    "name": "Zoo World",
+    "address": "9008 Front Beach Rd Panama City Bch, FL 32407-4212",
+    "phone": "850-230-1243"
+  },
+  {
+    "name": "Central Florida",
+    "address": "Zoological Pk 3755 NW Us Highway 17 92 Sanford, FL 32771-9641",
+    "phone": ""
+  },
+  {
+    "name": "Sarasota-Bradenton",
+    "address": "Children’s 7512 N Tamiami Trl Sarasota, FL 34243-1805",
+    "phone": "941-360-8315"
+  },
+  {
+    "name": "La Porte Farms Mobile",
+    "address": "Petting 7700 129th St Sebastian, FL 32958-3627",
+    "phone": "561-388-1824"
+  },
+  {
+    "name": "Lowry Park Zoological",
+    "address": "Garden 7530 N Boulevard Tampa, FL 33604-4756",
+    "phone": "813-935-8552"
+  },
+  {
+    "name": "Wildlife On Easy Street",
+    "address": "12802 Easy St Tampa, FL 33625-3702",
+    "phone": "813-920-4130"
+  },
+  {
+    "name": "Palm Beach Zoo",
+    "address": "1301 Summit Blvd West Palm Beach, FL 33405-3035",
+    "phone": "561-547-9453"
+  },
+  {
+    "name": "School Group",
+    "address": "Reservations 800 Cherokee Ave SE Atlanta, Georgia 3031 5-1440",
+    "phone": ""
+  },
+  {
+    "name": "Storyland Village &",
+    "address": "Petting Highway 75 N Cleveland, Georgia 30528",
+    "phone": "706-219-4081"
+  },
+  {
+    "name": "Yellow River Game Ranch",
+    "address": "4525 Hwy 78 Lilburn, Georgia 30047-4527",
+    "phone": "770-972-6643"
+  },
+  {
+    "name": "New York Zoological",
+    "address": "Society 182 Camelia Rd Midway, GA 31320-6731",
+    "phone": "912-884-5006"
+  },
+  {
+    "name": "Critters-To-Go",
+    "address": "110 Brandy Rd Savannah, GA 31419-9562",
+    "phone": "912-961-1240"
+  },
+  {
+    "name": "Wild Adventures",
+    "address": "3766 Old Clyattville Rd Valdosta, GA 31601-1704",
+    "phone": "912-559-1330"
+  },
+  {
+    "name": "Chicago Zoological Park",
+    "address": "8400 31st St Brookfield, Illinois 6051 3-1 064",
+    "phone": "708-485-0263"
+  },
+  {
+    "name": "Brookfield Zoo",
+    "address": "8400 31st St Brookfield, Illinois 60513-1 064",
+    "phone": "708-485-2200"
+  },
+  {
+    "name": "Scales & Tales",
+    "address": "1804 5 Racine Ave Chicago, Illinois 60608-3214",
+    "phone": "312-243-6066"
+  },
+  {
+    "name": "Lincoln Park Zoo",
+    "address": "2200 N Cannon Dr Chicago, IL 60614-3862",
+    "phone": "312-742-2000"
+  },
+  {
+    "name": "Samantha’s Amazing",
+    "address": "Animals 3555 N Milwaukee Ave Chicago, IL 60641-3957",
+    "phone": "773-549-3357"
+  },
+  {
+    "name": "Niabi Zoological",
+    "address": "Society 12908 Niabi Zoo Rd Coal Valley, IL 61240-9467",
+    "phone": "309-799-3482"
+  },
+  {
+    "name": "Niabi Zoo",
+    "address": "13010 Niabi Zoo Rd Coal Valley, IL 61240-9468",
+    "phone": "309-799-5107"
+  },
+  {
+    "name": "Friendly Farms Ltd",
+    "address": "15534 Somonauk Rd De KaIb, IL 60115-9130",
+    "phone": "815-756-7773"
+  },
+  {
+    "name": "Scovill Children’s Zoo",
+    "address": "71 5 Country Club Rd Decatur, IL 62521-4470",
+    "phone": "217-421-7435"
+  },
+  {
+    "name": "Spotted Acres Inc Route",
+    "address": "4 Flora, IL 62839",
+    "phone": "618-662-4902"
+  },
+  {
+    "name": "Serpent Safari",
+    "address": "6170 Grand Ave #807 Gurnee, IL 60031-4553",
+    "phone": "847-855-8800"
+  },
+  {
+    "name": "Peoria Park",
+    "address": "2218 N Prospect Rd Peoria, IL 61603-2193",
+    "phone": "309-686-3365"
+  },
+  {
+    "name": "Tnl Exotic Animals Zoo",
+    "address": "1643 Yale Bridge Rd South Beloit, IL 61 080-9568",
+    "phone": "815-389-3640"
+  },
+  {
+    "name": "Springfield Zoological",
+    "address": "Society 2405 Westchester Blvd Springfield, IL 62704-5426",
+    "phone": "217-546-0063"
+  },
+  {
+    "name": "Black Pine Animal Park",
+    "address": "349 W Albion Rd Albion, Indiana 46701-9785",
+    "phone": "219-636-7383"
+  },
+  {
+    "name": "Fort Wayne Children’s",
+    "address": "Zoo 3411 Sherman Blvd Fort Wayne, Indiana 46808-1 594",
+    "phone": "219-427-6800"
+  },
+  {
+    "name": "Cougar Valley Farms",
+    "address": "10471 E Us Highway 24 Idaville, Indiana 47950-8001",
+    "phone": "219-943-3315"
+  },
+  {
+    "name": "Indianapolis Zoo",
+    "address": "1200W Washington St Indianapolis, IN 46222-4500",
+    "phone": "317-630-2001"
+  },
+  {
+    "name": "Michigan City Zoo Lake",
+    "address": "Front Michigan City, IN 46360",
+    "phone": "219-873-1400"
+  },
+  {
+    "name": "Me’s Zoo Inc",
+    "address": "12441 W 300 S Parker City, IN 47368-9350",
+    "phone": "765-468-8559"
+  },
+  {
+    "name": "Potawatomi Zoological",
+    "address": "Society 500 5 Greenlawn Ave South Bend, IN 4661 5-1 341",
+    "phone": "219-288-4639"
+  },
+  {
+    "name": "Wilderness Kingdom",
+    "address": "23887 125th St Bloomfield, Iowa 52537-6858",
+    "phone": "641-459-2224"
+  },
+  {
+    "name": "Perry’s Wilderness",
+    "address": "Ranch & Zoo 3295 54th Street Trl Center Point, Iowa 52213-9253",
+    "phone": ""
+  },
+  {
+    "name": "Zoo Foundation",
+    "address": "Development Ofc 550 39th St#301C Des Moines, Iowa 50312-3529",
+    "phone": ""
+  },
+  {
+    "name": "Blank Park Zoo",
+    "address": "7401 SW 9th St Des Moines, IA 50315-6667",
+    "phone": "515-285-4722"
+  },
+  {
+    "name": "Millers Country Zoo",
+    "address": "2964 Highway 92 Greenfield, IA 50849-8115",
+    "phone": "641-743-6345"
+  },
+  {
+    "name": "Safari Zoological Park",
+    "address": "RR 1 Caney, Kansas 67333-9801",
+    "phone": "316-879-2885"
+  },
+  {
+    "name": "Brit Spaugh Zoo N Main",
+    "address": "St Great Bend, Kansas 67530",
+    "phone": "316-793-4160"
+  },
+  {
+    "name": "Sunset Zoological Park",
+    "address": "2333 Oak Dr Manhattan, Kansas 66502-3824",
+    "phone": "785-587-2737"
+  },
+  {
+    "name": "Rolling Hills Refuge",
+    "address": "625 N Hedville Rd Salina, KS 67401-9764",
+    "phone": "785-827-9488"
+  },
+  {
+    "name": "Zoo Gage Park",
+    "address": "635 SW Gage Blvd Topeka, KS 66606-2066",
+    "phone": "785-272-7042"
+  },
+  {
+    "name": "Sedgwick County Zoo",
+    "address": "5555W Zoo Blvd Wichita, KS 67212-1 643",
+    "phone": "316-942-2212"
+  },
+  {
+    "name": "Greater Baton Rouge Zoo",
+    "address": "3601 Thomas Rd Baton Rouge, Louisiana 70807-1 672",
+    "phone": "225-775-3877"
+  },
+  {
+    "name": "Friends Of The Baton",
+    "address": "Rouge Zoo 3601 Thomas Rd Baton Rouge, Louisiana 70807-1672",
+    "phone": "225-778-4009"
+  },
+  {
+    "name": "Zoo Of Acadiana",
+    "address": "116 Lakeview Dr Broussard, Louisiana 7051 8-8004",
+    "phone": "337-837-4325"
+  },
+  {
+    "name": "Louisiana Purchase Gdn",
+    "address": "& Zoo 1405 Bernstein Park Rd Monroe, LA 71202-5545",
+    "phone": "318-329-2400"
+  },
+  {
+    "name": "Zoo-Audubon Park",
+    "address": "6500 Magazine St New Orleans, LA 70118-4848",
+    "phone": "504-861-2537"
+  },
+  {
+    "name": "Ross Park Zoo",
+    "address": "185 Park Ave Binghamton, New York 13903-3643",
+    "phone": "607-724-5454"
+  },
+  {
+    "name": "New York Zoological",
+    "address": "Society Bronx River Pkwy Bronx, New York 10460",
+    "phone": "718-367-1010"
+  },
+  {
+    "name": "Wildlife Conservation",
+    "address": "Society 2300 Southern Blvd Bronx, New York 10460-1090",
+    "phone": "718-220-5090"
+  },
+  {
+    "name": "NY Aquarium",
+    "address": "602 Surf Ave Brooklyn, NY 11224-3452",
+    "phone": "718-265-3400"
+  },
+  {
+    "name": "Buffalo Zoological",
+    "address": "Gardens 300 Parkside Ave Buffalo, NY 14214-1 999",
+    "phone": "716-837-3900"
+  },
+  {
+    "name": "Flag Acres Zoo",
+    "address": "4 Rowley Rd Hoosick Falls, NY 12090-4330",
+    "phone": "518-686-3159"
+  },
+  {
+    "name": "Long Island Game Farm",
+    "address": "Park Chapman Blvd Manorville, NY 11949",
+    "phone": "631-878-6644"
+  },
+  {
+    "name": "Petting Zoo",
+    "address": "184 Wading River Rd #A Manorville, NY 11949-3451",
+    "phone": "631-878-1785"
+  },
+  {
+    "name": "Thousand Islands Zoo",
+    "address": "42240 County Route 21 Redwood, NY 13679-3181",
+    "phone": "315-628-5821"
+  },
+  {
+    "name": "Seneca Park Zoo",
+    "address": "2222 Saint Paul St Rochester, NY 14621-1 097",
+    "phone": "716-266-6591"
+  },
+  {
+    "name": "Utica City Zoo",
+    "address": "99 Steele Hill Rd Utica, NY 13501-5017",
+    "phone": "315-738-0472"
+  },
+  {
+    "name": "North Carolina",
+    "address": "Zoological Park 4401 Zoo Pkwy Asheboro, North Carolina 27203-1425",
+    "phone": ""
+  },
+  {
+    "name": "Jambbas Ranch Tours Inc",
+    "address": "RR 2 BOX 326 Fayetteville, North Carolina 28301-9621",
+    "phone": "910-484-4808"
+  },
+  {
+    "name": "Lynnwood Park Zoo",
+    "address": "1071 Wells Rd Jacksonville, North Carolina 28540-5823",
+    "phone": "910-938-5848"
+  },
+  {
+    "name": "Lazy",
+    "address": "5 Ranch 15100 Highway 150 E Mooresville, NC 28115",
+    "phone": "704-663-5100"
+  },
+  {
+    "name": "Charlotte Metro Zoo",
+    "address": "4400 Cook Rd Rockwell, NC 28138-7583",
+    "phone": "704-279-6363"
+  },
+  {
+    "name": "Zoofauna Route",
+    "address": "3 Wake Forest, NC 27587",
+    "phone": "919-562-8899"
+  },
+  {
+    "name": "Erie Zoological Society",
+    "address": "Office 423 W 38th St Erie, Pennsylvania 16508-2701",
+    "phone": "814-864-4091"
+  },
+  {
+    "name": "Erie Zoo Information",
+    "address": "423 W 38th St Erie, Pennsylvania 16508-2701",
+    "phone": "814-864-6272"
+  },
+  {
+    "name": "Lake Tobias Wildlife",
+    "address": "Park 760 Tobias Dr Halifax, Pennsylvania 17032-9474",
+    "phone": "717-362-9126"
+  },
+  {
+    "name": "Living Treasures Animal",
+    "address": "Park Route 711 Jones Mills, PA 15646",
+    "phone": "724-593-8300"
+  },
+  {
+    "name": "Claws ‘N Paws Wild",
+    "address": "Animal Pk Ledgedale Rd Lake Ariel, PA 18436",
+    "phone": "570-698-6154"
+  },
+  {
+    "name": "Living Treasures Animal",
+    "address": "Park Route 422 New Castle, PA 16101",
+    "phone": "724-924-9571"
+  },
+  {
+    "name": "Elmwood Park Zoo",
+    "address": "1661 Harding Blvd Norristown, PA 19401-2974",
+    "phone": "610-277-3825"
+  },
+  {
+    "name": "T & D’s Cats Of The",
+    "address": "World Penns Creek, PA 17862",
+    "phone": "570-837-3377"
+  },
+  {
+    "name": "Philadelphia Zoo",
+    "address": "3400W Girard Ave Philadelphia, PA 19104-1139",
+    "phone": "215-243-1100"
+  },
+  {
+    "name": "Zoological Society Of",
+    "address": "Phila 3400 W Girard Ave Philadelphia, PA 19104-1196",
+    "phone": "215-387-6400"
+  },
+  {
+    "name": "Pittsburgh Zoo",
+    "address": "1 Wild Pl Pittsburgh, PA 15206",
+    "phone": "412-665-3640"
+  },
+  {
+    "name": "National Aviary Ridge",
+    "address": "Ave Pittsburgh, PA 15212",
+    "phone": "412-323-7234"
+  },
+  {
+    "name": "Mountain View Mini Zoo",
+    "address": "Warfordsburg, PA 17267",
+    "phone": "717-294-6298"
+  },
+  {
+    "name": "Animaland Grand Canyon",
+    "address": "Rd Welisboro, PA 16901",
+    "phone": "570-724-4546"
+  },
+  {
+    "name": "Amarillo Zoo Adobe Dr",
+    "address": "Amarillo, Texas 79111",
+    "phone": "806-381-7911"
+  },
+  {
+    "name": "Austin Zoo",
+    "address": "10807 Rawhide Trl Austin, Texas 78736-2716",
+    "phone": "512-288-1490"
+  },
+  {
+    "name": "Bridgeport Nature Ctr",
+    "address": "Fm Rd 2123 Bridgeport, Texas 76426",
+    "phone": "940-683-5034"
+  },
+  {
+    "name": "Gladys Porter Zoo",
+    "address": "500 Ringgold St Brownsville, TX 78520-7998",
+    "phone": "956-546-2177"
+  },
+  {
+    "name": "Kitchen Collection Inc",
+    "address": "1111 League Line Rd #151 Conroe, TX 77303-1451",
+    "phone": "936-760-2553"
+  },
+  {
+    "name": "Corpus Christi Zoo",
+    "address": "County Rd 33 Corpus Christi, TX 78415",
+    "phone": "361-814-8000"
+  },
+  {
+    "name": "Zoological Society Of",
+    "address": "Houston 1513 N Macgregor Dr Houston, TX 77030-1603",
+    "phone": "713-526-5231"
+  },
+  {
+    "name": "Exotic Resort Hc",
+    "address": "3 BOX 340 Johnson City, TX 78636-9779",
+    "phone": "830-868-4357"
+  },
+  {
+    "name": "Llano Estacado Animal",
+    "address": "Park P0 Box 68321 Lubbock, TX 79414-832 1",
+    "phone": "806-766-7852"
+  },
+  {
+    "name": "Ellen Trout Zoo",
+    "address": "402 Zoo Cir Lufkin, TX 75904-1 345",
+    "phone": "936-633-0399"
+  },
+  {
+    "name": "Tiger Missing Link",
+    "address": "Foundation 17544 Fm 14 Tyler, TX 75706-2300",
+    "phone": "903-858-1008"
+  },
+  {
+    "name": "Texas Zoo",
+    "address": "110 Memorial Dr Victoria, TX 77901-6334",
+    "phone": "361-573-7681"
+  },
+  {
+    "name": "Cameron Park Zoo",
+    "address": "1701 N 4th St Waco, TX 76707-2463",
+    "phone": "254-750-8400"
+  },
+  {
+    "name": "Friend Of The Zoo",
+    "address": "1254 E 3rd St Chattanooga, Tennessee 37404-2303",
+    "phone": "423-624-6212"
+  },
+  {
+    "name": "Plateau Exotic Bird",
+    "address": "Ranch 129 Glenwood Dr Crossville, Tennessee 38558-8610",
+    "phone": "931-484-7831"
+  },
+  {
+    "name": "Knoxville Zoological",
+    "address": "Gardens 3333 Woodbine Ave Knoxville, Tennessee 37914-4448",
+    "phone": "865-637-5331"
+  },
+  {
+    "name": "Memphis Zoo",
+    "address": "2000 Galloway Ave Memphis, TN 38112-5033",
+    "phone": "901-276-9453"
+  },
+  {
+    "name": "Associates Commercial",
+    "address": "Corp 2620 Thousand Oaks Blvd #2440 Memphis, TN 38118-2434",
+    "phone": "901-542-4320"
+  },
+  {
+    "name": "Nashville Zoo At",
+    "address": "Grassmere 3777 Nolensville Pike Nashville, TN 37211-3324",
+    "phone": "615-833-1534"
+  },
+  {
+    "name": "Smoky Mountain",
+    "address": "Zoological Park 1039 Caney Creek Rd Pigeon Forge, TN 37863-4719",
+    "phone": ""
+  },
+  {
+    "name": "Deer Farm Pony Rides",
+    "address": "478 Happy Hollow Ln Sevierville, TN 37876-2002",
+    "phone": "865-428-3337"
+  },
+  {
+    "name": "Fantasyland Hobby Horse",
+    "address": "Farm Bedford, Virginia 24523",
+    "phone": "540-586-7465"
+  },
+  {
+    "name": "Reston Animal Park",
+    "address": "19270 James Monroe Hwy Leesburg, Virginia 20175-9047",
+    "phone": "703-759-3636"
+  },
+  {
+    "name": "Ole Mill Petting Farm",
+    "address": "1358 Arnolds Valley Rd Natural Brdg Sta, Virginia 24579-3048",
+    "phone": ""
+  },
+  {
+    "name": "Virginia Safari Park",
+    "address": "68 Woodpecker Ln Natural Bridge, VA 24578",
+    "phone": "540-291-3205"
+  },
+  {
+    "name": "Zoo At Natural Bridge",
+    "address": "RR 1 Natural Bridge, VA 24578-9801",
+    "phone": "540-291-2420"
+  },
+  {
+    "name": "Virginia Zoological",
+    "address": "Park 3500 Granby St Norfolk, VA 23504-1 329",
+    "phone": "757-441-2706"
+  },
+  {
+    "name": "Mill Mountain Zoo PC",
+    "address": "Box 13484 Roanoke, VA 24034",
+    "phone": "540-343-3241"
+  },
+  {
+    "name": "Thompson Valley Exotic",
+    "address": "Animals Route 16 Tazewell, VA 24651",
+    "phone": "540-988-9599"
+  },
+  {
+    "name": "Washington Serpentarium",
+    "address": "119 Croft Ave Gold Bar, Washington 98251",
+    "phone": "360-793-2000"
+  },
+  {
+    "name": "Cougar Mountain",
+    "address": "Zoological Pk 19525 SE 54th St Issaquah, Washington 98027-8676",
+    "phone": ""
+  },
+  {
+    "name": "Cat Tales Zoological",
+    "address": "Park 17020 N Newport Hwy Mead, Washington 99021-9539",
+    "phone": "509-238-4126"
+  },
+  {
+    "name": "Woodlawn Park Zoo",
+    "address": "Society 601 N 59th St Seattle, WA 98103-5858",
+    "phone": "206-789-6000"
+  },
+  {
+    "name": "Woodland Park Zoo",
+    "address": "5500 Phinney Ave N Seattle, WA 98103-5865",
+    "phone": "206-684-4800"
+  },
+  {
+    "name": "Olympic Game Farm",
+    "address": "1423 Ward Rd Sequim, WA 98382-7838",
+    "phone": "360-683-4295"
+  },
+  {
+    "name": "Point Defiance Zoo &",
+    "address": "Aquarium 5400 N Pearl St Tacoma, WA 98407-3224",
+    "phone": "253-591-5337"
+  },
+  {
+    "name": "Jo-Don Farms Inc",
+    "address": "5907 Nicholson Rd Franksville, Wisconsin 53126-9334",
+    "phone": "262-835-2777"
+  },
+  {
+    "name": "Zoo-New",
+    "address": "4418 Reforestation Rd Green Bay, Wisconsin 54313-8514",
+    "phone": "920-448-4466"
+  },
+  {
+    "name": "Wilderness Walk",
+    "address": "Recreational 9503 N State Road 27 Hayward, Wisconsin 54843-2005",
+    "phone": ""
+  },
+  {
+    "name": "Warbonnet Zoo",
+    "address": "5610 Us Highway 51 Hazelhurst, WI 54531-9746",
+    "phone": "715-356-5093"
+  },
+  {
+    "name": "Lake Geneva Horse Park",
+    "address": "N3010 Hwy 67 Lake Geneva, WI 53147-2627",
+    "phone": "262-245-0770"
+  },
+  {
+    "name": "Zoological Society",
+    "address": "Henry Vilas 222 W Washington Ave Madison, WI 53703-2719",
+    "phone": "608-258-1460"
+  },
+  {
+    "name": "Zoological",
+    "address": "Society-Milwaukee 10005W Bluemound Rd Milwaukee, WI 53226-4346",
+    "phone": ""
+  },
+  {
+    "name": "Peck’s Wildwood",
+    "address": "Wildlife Park 10094 State Highway 70 Minocqua, WI 54548-9002",
+    "phone": ""
+  },
+  {
+    "name": "Pickett Fences Farm Inc",
+    "address": "6366 County Rd N Pickett, WI 54964-9533",
+    "phone": "920-589-3102"
+  },
+  {
+    "name": "Vacationland Farm Zoo",
+    "address": "200 Orchard Dr Sister Bay, WI 54234-9394",
+    "phone": "920-854-2525"
+  },
+  {
+    "name": "Bear Den Petting Zoo",
+    "address": "6831 Big Bend Rd Waterford, WI 53185-1801",
+    "phone": "262-895-6430"
+  },
+  {
+    "name": "J Rs Petting Zoo",
+    "address": "1277 W Fulton St Waupaca, WI 54981-8237",
+    "phone": "715-258-9808"
+  },
+  {
+    "name": "Animal Haven Farm Zoo N",
+    "address": "1720 Buchholz Rd Weyauwega, WI 54983-9557",
+    "phone": "920-867-3707"
+  }
+]
