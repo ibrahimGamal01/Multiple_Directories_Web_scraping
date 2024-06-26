@@ -1,0 +1,1211 @@
+[
+  {
+    "name": "Dana Adobe",
+    "address": {
+      "streetAddress": "671 S. Oak Glen Rd.Nipomo, CA 93444",
+      "mailingAddress": null
+    },
+    "phone": "805-929-5679",
+    "website": "mailto:dana@danaadobe.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Dana Point Historical Society Museum",
+    "address": {
+      "streetAddress": "33282 Golden LanternDana Point, CA 92629",
+      "mailingAddress": "34085 Pacific Coast Highway #104Dana Point, CA 92629"
+    },
+    "phone": "949-248-8121",
+    "website": "mailto:dphistorical@hotmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/DanaPointHistorica",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Sa 11-4",
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Davis Arboretum",
+    "address": {
+      "streetAddress": "University Of CaliforniaDavis, CA 95616",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://arboretum.ucdavis.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 8-5",
+    "museumTypes": [
+      "Arboretum"
+    ]
+  },
+  {
+    "name": "de Saisset Museum, Santa Clara University",
+    "address": {
+      "streetAddress": "500 El Camino RealSanta Clara, CA 95053",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.scu.edu/deSaisset",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Su 11-4/no charge",
+    "museumTypes": [
+      "University"
+    ]
+  },
+  {
+    "name": "Death Valley Visitor Center and Museums",
+    "address": {
+      "streetAddress": "death valley museum rd,Death Valley, CA 92328",
+      "mailingAddress": "P.O. Box 579Death Valley, CA 92328"
+    },
+    "phone": null,
+    "website": "https://www.nps.gov/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "24 hours a day",
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Descanso Gardens",
+    "address": {
+      "streetAddress": "1418 Descanso DriveLa Canada Flintridge, CA 91011",
+      "mailingAddress": null
+    },
+    "phone": "818-949-4200",
+    "website": "https://www.descansogardens.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Desert Tortoise Natural Area",
+    "address": {
+      "streetAddress": "4067 Mission Inn AveRiverside, CA 92501",
+      "mailingAddress": null
+    },
+    "phone": "951-683-3872",
+    "website": "mailto:dtpc@pacbell.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Diego Sepulveda Adobe Estancia of Costa Mesa",
+    "address": {
+      "streetAddress": "1900 Adams AvenueCosta Mesa, CA 92626",
+      "mailingAddress": "P.O. Box 1764Costa Mesa, CA 92628"
+    },
+    "phone": null,
+    "website": "https://www.costamesahistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Our hours at our museum are Thursday & Friday from 10:00 a.m. - 3:00 p.m. and otherwise by appointment.",
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Military"
+    ]
+  },
+  {
+    "name": "Discovery Center",
+    "address": {
+      "streetAddress": "1944 North WineryFresno, CA 93703",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.gemworld.com/discoverycenter",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "T-Sa 10-4, Su 12-4",
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Discovery Museum History Center",
+    "address": {
+      "streetAddress": "101 I StreetSacramento, CA 95814",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.thediscovery.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open Tuesday to Sunday and Monday holidays 10:00a.m. to 5:00p.m. (September to June). Open daily 10:00a.m. to 5:00p.m. (July and August)",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Alta Mira Club/Ygnacio Peralta Home",
+    "address": {
+      "streetAddress": "561 Lafayette Ave.San Leandro, CA 94577",
+      "mailingAddress": null
+    },
+    "phone": "510-562-7144",
+    "website": "https://altamiraclubhouse.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Taco Bell Discovery Science Center",
+    "address": {
+      "streetAddress": "2500 North Main StreetSanta Ana, CA 92705",
+      "mailingAddress": null
+    },
+    "phone": "714-542-2823",
+    "website": "mailto:contactus@discoverycube.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Children's",
+      "Science"
+    ]
+  },
+  {
+    "name": "Doctor's House Museum",
+    "address": {
+      "streetAddress": "1601 West Mountain AvenueGlendale, CA 91201",
+      "mailingAddress": "PO Box 4173Glendale, CA 91202"
+    },
+    "phone": "818-242-7447",
+    "website": "mailto:tghs@glendalehistorical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The last tour starts at 3:40 pm",
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Doheny State Beach Interpretive Center",
+    "address": {
+      "streetAddress": "25300 Dana Point Harbor Dr.Dana Point, CA 92629",
+      "mailingAddress": null
+    },
+    "phone": "949-496-6172",
+    "website": "mailto:doheny@parks.ca.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 10-4/Off-Season: Sa & Su 10-4",
+    "museumTypes": [
+      "Aquarium"
+    ]
+  },
+  {
+    "name": "Donner Memorial State Park and Emigrant Trail Museum",
+    "address": {
+      "streetAddress": "12593 Donner Pass RoadTruckee, CA 96161",
+      "mailingAddress": null
+    },
+    "phone": "530-582-7892",
+    "website": "mailto:info@parks.ca.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "daily 9-4",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Downey Museum Of Art",
+    "address": {
+      "streetAddress": "P.O. Box 39566Downey, CA 90241",
+      "mailingAddress": "P.O. Box 39566Downey, CA 90239"
+    },
+    "phone": "562-869-3698",
+    "website": "mailto:info@downeymoa.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/downeymoa",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Thursday - Saturday 1:00 p.m. - 5:00 p.m.",
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Drum Barracks Civil War Museum",
+    "address": {
+      "streetAddress": "1052 Banning Blvd.Wilmington, CA 90744",
+      "mailingAddress": null
+    },
+    "phone": "310-548-7509",
+    "website": "mailto:susan.ogle@lacity.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Duarte Historical Museum",
+    "address": {
+      "streetAddress": "777 Encanto  ParkwayDuarte, CA 91010",
+      "mailingAddress": "P.O. Box 263Duarte, CA 91009"
+    },
+    "phone": "626-357-9419",
+    "website": "mailto:margiloff@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Dudley Herbarium and California Academy of Sciences Herbarium",
+    "address": {
+      "streetAddress": "Golden Gate ParkSan Francisco, CA 94118",
+      "mailingAddress": null
+    },
+    "phone": "415-379-5361",
+    "website": "mailto:botany@calacademy.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Duncan Mills Depot Museum",
+    "address": {
+      "streetAddress": "Hwy 116 and Moscow RdDuncan Mills, CA 95430",
+      "mailingAddress": "P.O. Box 57Duncan Mills, CA 95430"
+    },
+    "phone": "707-865-1424",
+    "website": "https://www.duncansmills.net/dempage.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Dunsmuir House & Gardens",
+    "address": {
+      "streetAddress": "2960 Peralta Oak Ct.Oakland, CA 94605",
+      "mailingAddress": null
+    },
+    "phone": "510-562-0328",
+    "website": "mailto:info@dunsmuir.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Park"
+    ]
+  },
+  {
+    "name": "E. C. Allison Research Center",
+    "address": {
+      "streetAddress": "Dept. Geological Sciences, SDSU5500 Campanile Dr.San Diego, CA 92182",
+      "mailingAddress": null
+    },
+    "phone": "619-594-6978",
+    "website": "mailto:allison.center@geology.sdsu.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Eagle Theatre",
+    "address": {
+      "streetAddress": "925 Front StreetSacramento, CA 95814",
+      "mailingAddress": null
+    },
+    "phone": "916-445-6645",
+    "website": "https://www.csrmf.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-F 10-5, Sa 2pm children's show, Sa & Su performances at 8pm",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Alvarado Adobe & The Blume House",
+    "address": {
+      "streetAddress": "1 Alvarado SquareSan Pablo, CA 94806",
+      "mailingAddress": null
+    },
+    "phone": "415-383-8107",
+    "website": "mailto:alphais@alphais.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Su 12-4",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Earth Planet Museum",
+    "address": {
+      "streetAddress": "401 S. Church St.Grass Valley, CA 95945",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:earth.planet.museum@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Eastern California Museum",
+    "address": {
+      "streetAddress": "155 North Grant St.Independence, CA 93526",
+      "mailingAddress": "P.O. Box 206Independence, CA 93526"
+    },
+    "phone": "760-878-0364",
+    "website": "mailto:ecmuseum@inyocounty.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Eaton Canyon Nature Center",
+    "address": {
+      "streetAddress": "1750 N. Altadena DrivePasadena, CA 91107",
+      "mailingAddress": null
+    },
+    "phone": "626-398-5420",
+    "website": "https://www.ecnca.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Monday-Sunday 9-5\nMuseum is closed on all Mondays except holidays",
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Edward-Dean Museum & Gardens",
+    "address": {
+      "streetAddress": "9401 Oak Glen RoadCherry Valley, CA 92223",
+      "mailingAddress": null
+    },
+    "phone": "951-845-2626",
+    "website": "https://www.edward-deanmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Arboretum",
+      "Art",
+      "Botanical Garden",
+      "Culture",
+      "General",
+      "Library",
+      "Nature Centers",
+      "Park"
+    ]
+  },
+  {
+    "name": "Effie Yeaw Nature Center",
+    "address": {
+      "streetAddress": "Inside Ancil Hoffman Park2850 San Lorenzo WayCarmichael, CA 95609",
+      "mailingAddress": "P.O. Box 579Carmichael, CA 95609"
+    },
+    "phone": null,
+    "website": "https://www.effieyeaw.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "November - February 9:30 a.m. - 4:00 p.m.\nMarch - October 9:00 a.m. - 5:00 p.m.",
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "El Dorado County Historical Museum",
+    "address": {
+      "streetAddress": "104 Placerville DrivePlacerville, CA 95667",
+      "mailingAddress": null
+    },
+    "phone": "530-621-5865",
+    "website": "mailto:museum@edcgov.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "W-Sa 10-4, Su 12-4",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "El Presidio de Santa Barbara State Historic Park",
+    "address": {
+      "streetAddress": "123 East Canon PerdidoSanta Barbara, CA 93102",
+      "mailingAddress": "P.O. Box 388Santa Barbara, CA 93102"
+    },
+    "phone": "805-965-0093",
+    "website": "mailto:anne@sbthp.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 10:30-4:30",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Elkhorn Slough Estuarine Reserve",
+    "address": {
+      "streetAddress": "1700 Elkhorn Rd.Watsonville, CA 95076",
+      "mailingAddress": null
+    },
+    "phone": "831-728-2822",
+    "website": "mailto:info@elkhornslough.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/elkhornslough",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library",
+      "Natural History",
+      "Nature Centers",
+      "Science"
+    ]
+  },
+  {
+    "name": "Elkhorn Slough National Esturine ResearchReserve Visitor Center",
+    "address": {
+      "streetAddress": "1700 Elkhorn Rd.Watsonville, CA 95076",
+      "mailingAddress": "PO Box 267Moss Landing, CA 95039"
+    },
+    "phone": "831-728-2822",
+    "website": "mailto:questionsforus@elkhornslough.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "W-Su 9-5",
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Eloise Pickard Smith Gallery - Cowell College",
+    "address": {
+      "streetAddress": "UCSCSanta Cruz, CA 95064",
+      "mailingAddress": null
+    },
+    "phone": "831-459-2953",
+    "website": "https://cowell.ucsc.edu/smith-gallery/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Elverhoj Museum of History & Art",
+    "address": {
+      "streetAddress": "1624 Elverhoy WaySolvang, CA 93463",
+      "mailingAddress": "P.O. Box 769Solvang, CA 93464"
+    },
+    "phone": "805-686-1211",
+    "website": "mailto:info@elverhoj.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "1 - 4 p.m. Wednesday and ThursdayNoon - 4 p.m. Friday, Saturday, Sunday",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Emma Prusch Farm Park",
+    "address": {
+      "streetAddress": "647 S. King Rd.San Jose, CA 95116",
+      "mailingAddress": null
+    },
+    "phone": "408-794-6262",
+    "website": "mailto:samccray@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Empire Mine State Historic Park",
+    "address": {
+      "streetAddress": "10791 East Empire StreetGrass Valley, CA 95945",
+      "mailingAddress": null
+    },
+    "phone": "530-273-8522",
+    "website": "https://www.empiremine.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Entomology Research Museum",
+    "address": {
+      "streetAddress": "Dept. of Entomology - UCRRiverside, CA 92521",
+      "mailingAddress": null
+    },
+    "phone": "951-827-4315",
+    "website": "mailto:douglas.yanega@ucr.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Environmental Nature Center",
+    "address": {
+      "streetAddress": "1601  16th St.Newport Beach, CA 92663",
+      "mailingAddress": null
+    },
+    "phone": "949-645-8489",
+    "website": "mailto:Bo@encenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Environmental Studies Center at De Anza College",
+    "address": {
+      "streetAddress": "21250 Stevens Creek Blvd.Cupertino, CA 95014",
+      "mailingAddress": null
+    },
+    "phone": "408-864-8628",
+    "website": "mailto:Environmental.Studies@deanza.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Amador/ Whitney",
+    "address": {
+      "streetAddress": "14170 Hwy 49Amador City, CA 95601",
+      "mailingAddress": "P.O. Box 181Amador City, CA 95601"
+    },
+    "phone": "209-267-5250",
+    "website": "https://www.amador-city.com/amador_museum/index.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Escondido Historical Society & Heritage Walk Museum",
+    "address": {
+      "streetAddress": "321 N. BroadwayEscondido, CA 92033",
+      "mailingAddress": "P.O. Box 263Escondido, CA 92025"
+    },
+    "phone": "760-743-8207",
+    "website": "mailto:ehc@escondidohistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Th-Sa 1-4",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Eugene O' Neill National Historic Site",
+    "address": {
+      "streetAddress": "P.O. Box 280Danville, CA 94526",
+      "mailingAddress": null
+    },
+    "phone": "925-228-8860",
+    "website": "https://www.nps.gov/euon/index.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "W-Su 10-4:30",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Euphrat Museum of Art - De Anza College",
+    "address": {
+      "streetAddress": "21250 Stevens Creek Blvd.Cupertino, CA 95014",
+      "mailingAddress": null
+    },
+    "phone": "408-864-5464",
+    "website": "mailto:canternancy@deanza.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Exploratorium",
+    "address": {
+      "streetAddress": "Pier 15San Francisco, CA 94111",
+      "mailingAddress": null
+    },
+    "phone": "415-528-4444",
+    "website": "https://www.exploratorium.edu/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/exploratorium",
+      "twitter": "https://www.twitter.com/exploratorium",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/Exploratorium"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Art",
+      "Children's",
+      "Culture",
+      "History",
+      "Natural History",
+      "Science",
+      "Specialized",
+      "University"
+    ]
+  },
+  {
+    "name": "Explorit Science Center",
+    "address": {
+      "streetAddress": "3141 5th StreetDavis, CA 95616",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://dcn.davis.ca.us/go/explorit",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-F 2-4:30, Sa 11-4:30, Su 1-4:30",
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Exposition Park Rose Garden",
+    "address": {
+      "streetAddress": "701 State Dr.Los Angeles, CA 90037",
+      "mailingAddress": null
+    },
+    "phone": "213-763-0114",
+    "website": "https://www.laparks.org/exporosegarden",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "8:30-sunset",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "LA84 Foundation Sports Library",
+    "address": {
+      "streetAddress": "2141 W. Adams Blvd.Los Angeles, CA 90018",
+      "mailingAddress": null
+    },
+    "phone": "323-730-4600",
+    "website": "mailto:info@LA84foundation.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-F 10-5, W open until 7:30, 1st & Last Sa of the month 10-3",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Fern Cottage",
+    "address": {
+      "streetAddress": "2121 Centerville RoadFerndale, CA 95536",
+      "mailingAddress": "P.O. Box 1286Ferndale, CA 95536"
+    },
+    "phone": "707-786-4835",
+    "website": "mailto:info@ferncottage.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Ferndale Museum",
+    "address": {
+      "streetAddress": "Shaw at 3rd StreetFerndale, CA 95536",
+      "mailingAddress": "P.O. Box 431Ferndale, CA 95536"
+    },
+    "phone": "707-786-4466",
+    "website": "mailto:ferndalemuseum@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#!/pages/The-Ferndale-Museum/120969994593992",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Sa 11-4, Su 1-4",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "FIDM Museum & Library Foundation",
+    "address": {
+      "streetAddress": "919 S. Grand AvenueLos Angeles, CA 90015",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.fidm.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-W 7:30-5, Th 7:30-4:30, F 7:30-3",
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Fillmore Historical Museum",
+    "address": {
+      "streetAddress": "350 Main StreetFillmore, CA 93015",
+      "mailingAddress": "P.O. Box 314Fillmore, CA 93016"
+    },
+    "phone": "805-524-0948",
+    "website": "mailto:fillmore.museum@sbcglobal.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Filoli",
+    "address": {
+      "streetAddress": "86 Canada RoadWoodside, CA 94062",
+      "mailingAddress": null
+    },
+    "phone": "650-364-8300",
+    "website": "mailto:friends@filoli.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Filoli/111865335495998?ref=sgm",
+      "twitter": "https://www.twitter.com/#!/FiloliCenter",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Arboretum",
+      "Art",
+      "Botanical Garden",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "Fine Arts Museums Of San Francisco",
+    "address": {
+      "streetAddress": "233 Post Street, 5th FloorSan Francisco, CA 94108",
+      "mailingAddress": null
+    },
+    "phone": "415-750-3600",
+    "website": "mailto:contact@famsf.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "American Film Institute",
+    "address": {
+      "streetAddress": "2021 N. Western Ave.Los Angeles, CA 90027",
+      "mailingAddress": null
+    },
+    "phone": "323-856-7600",
+    "website": "mailto:information@afi.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Los-Angeles-CA/American-Film-Institute/92215404294",
+      "twitter": "https://www.twitter.com/AmericanFilm",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Firehouse Museum",
+    "address": {
+      "streetAddress": "1572 Columbia StreetSan Diego, CA 92101",
+      "mailingAddress": null
+    },
+    "phone": "619-232-3473",
+    "website": "mailto:sdfirehousemuseum@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Firehouse Number 1",
+    "address": {
+      "streetAddress": "125 Paseo de La PlazaLos Angeles, CA 90012",
+      "mailingAddress": null
+    },
+    "phone": "408-287-6969",
+    "website": "mailto:chris@firehouse1.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/Firehouse1.SanJose",
+      "twitter": "https://www.twitter.com/firehouse1",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "First American Financial Corporation, Historical Collection",
+    "address": {
+      "streetAddress": "1 First American WaySanta Ana, CA 92707",
+      "mailingAddress": null
+    },
+    "phone": "714-250-3000",
+    "website": "mailto:jgates@firstam.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mondays, by appointment only.",
+    "museumTypes": [
+      "History",
+      "Library",
+      "Specialized"
+    ]
+  }
+]

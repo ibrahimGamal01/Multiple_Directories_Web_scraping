@@ -1,0 +1,1274 @@
+[
+  {
+    "name": "Suquamish Museum",
+    "address": {
+      "streetAddress": "6861 NE South St.Suquamish, WA 98392",
+      "mailingAddress": "P. O. Box 498Suquamish, WA 98392"
+    },
+    "phone": "360-394-8499",
+    "website": "mailto:clewis@suquamish.nsn.us",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/SuquamishMuseum/",
+      "twitter": "https://www.twitter.com/SuquamishMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Art",
+      "Children's",
+      "Culture",
+      "History",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "African American Museum",
+    "address": {
+      "streetAddress": "925 Court CTacoma, WA 98402",
+      "mailingAddress": "Tacoma, WA 98402"
+    },
+    "phone": null,
+    "website": "https://www.aamuseumtacoma.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History"
+    ]
+  },
+  {
+    "name": "Children's Museum of Tacoma",
+    "address": {
+      "streetAddress": "1501 Pacific AveTacoma, WA 98402",
+      "mailingAddress": "1501 Pacific AvenueSuite 202Tacoma, WA 98402"
+    },
+    "phone": "253-627-6031",
+    "website": "https://www.playtacoma.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/ChildrensMuseumofTacoma",
+      "twitter": "https://www.twitter.com/#!/CMTacoma",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Fort Nisqually Historic Site",
+    "address": {
+      "streetAddress": "5400 N. Pearl Street #11Tacoma, WA 98407",
+      "mailingAddress": "Tacoma, WA 98407"
+    },
+    "phone": "253-591-5339",
+    "website": "mailto:fortnisqually@tacomaparks.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Handforth Gallery, Tacoma Public Library",
+    "address": {
+      "streetAddress": "1102 Tacoma Avenue SouthTacoma, WA 98402",
+      "mailingAddress": "Tacoma, WA 98402"
+    },
+    "phone": "253-591-5666",
+    "website": "https://www.tpl.lib.wa.us/Default.aspx",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Job Carr Cabin Museum",
+    "address": {
+      "streetAddress": "2350 N 30th StTacoma, WA 98406",
+      "mailingAddress": "P.O. Box 7609Tacoma, WA 98406"
+    },
+    "phone": "253-627-5405",
+    "website": "mailto:mbowlby@jobcarrmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Kittredge Gallery",
+    "address": {
+      "streetAddress": "1500 N. WarnerTacoma, WA 98416",
+      "mailingAddress": "1500 N. Warner Street, #1072Tacoma, WA 98416"
+    },
+    "phone": null,
+    "website": "https://www.pugetsound.edu/about/campus--the-northwest/places-spaces/kittredge-gallery/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Museum of Glass",
+    "address": {
+      "streetAddress": "1801 Dock StreetTacoma, WA 98402",
+      "mailingAddress": null
+    },
+    "phone": "253-284-4750",
+    "website": "mailto:info@museumofglass.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Fall-Winter-Spring Hours",
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "History",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Neely Mansion Association",
+    "address": {
+      "streetAddress": "12303 SE Auburn-Black Diamond RdAuburn, WA 98092",
+      "mailingAddress": "12303 SE Auburn-Black Diamond RdAuburn, WA 98071"
+    },
+    "phone": "253-833-9404",
+    "website": "https://www.neelymansion.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Summer: Sat 1-4. By appointment remainder of year.",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Point Defiance Zoo & Aquarium",
+    "address": {
+      "streetAddress": "5400 North Pearl StreetTacoma, WA 98407",
+      "mailingAddress": "Tacoma, WA 98407"
+    },
+    "phone": "253-591-5337",
+    "website": "mailto:pdzacomments@tacomaparks.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Aquarium"
+    ]
+  },
+  {
+    "name": "Points Northeast Historical Society",
+    "address": {
+      "streetAddress": "6602 Spring Street NETacoma, WA 98422",
+      "mailingAddress": "Tacoma, WA 98422"
+    },
+    "phone": "253-927-2536",
+    "website": "mailto:pointsnortheast@comcast.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Scandinavian Culture Center",
+    "address": {
+      "streetAddress": "122nd & S. Park AveUniversity Center, Room #100 Tacoma,Tacoma, WA 98447",
+      "mailingAddress": "PLUTacoma, WA 98447"
+    },
+    "phone": "253-535-7532",
+    "website": "mailto:scancntr@plu.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sun 1-4, Tue, Wed 11-3.",
+    "museumTypes": [
+      "Culture"
+    ]
+  },
+  {
+    "name": "Tacoma Art Museum",
+    "address": {
+      "streetAddress": "1123 Pacific AvenueTacoma, WA 98402",
+      "mailingAddress": "Tacoma, WA 98402"
+    },
+    "phone": null,
+    "website": "https://www.tacomaartmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tue-Sun  10-5; Thur 10-8.",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Tacoma Historical Society",
+    "address": {
+      "streetAddress": "P.O. Box 1865Tacoma, WA 98401",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.tacomahistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wednesday - Saturday noon - 5:00 pm",
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Washington State History Museum",
+    "address": {
+      "streetAddress": "Washington State History Museum1911 Pacific AvenueTacoma, WA 98402",
+      "mailingAddress": "1911 Pacific AvenueTacoma, WA 98402"
+    },
+    "phone": "888-238-4373",
+    "website": "mailto:receptionist@wshs.wa.gov",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/historymuseum",
+      "twitter": "https://www.twitter.com/historymuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/washingtonhistory"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Thorp Mill Town Historical Preservation Society",
+    "address": {
+      "streetAddress": "11640 N Thorp HwyThorp, WA 98946",
+      "mailingAddress": "P.O. Box 7Thorp, WA 98946"
+    },
+    "phone": "509-964-9640",
+    "website": "mailto:info@thorp.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wed-Sun 1-4, Memorial Day through Sept 30.",
+    "museumTypes": []
+  },
+  {
+    "name": "Yakama Nation Museum",
+    "address": {
+      "streetAddress": "Spiel-yi LoopToppenish, WA 98948",
+      "mailingAddress": "P. O. Box 151Toppenish, WA 98948"
+    },
+    "phone": "509-865-2800",
+    "website": "mailto:pamela@yakama.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Walking distance from Yakama Nation RV and Legends Casino.",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Tukwila Historical Society",
+    "address": {
+      "streetAddress": "14475 59th AveTukwila, WA 98138",
+      "mailingAddress": "P. O. Box 58426Tukwila, WA 98138"
+    },
+    "phone": "206-244-4478",
+    "website": "mailto:tukwilahistsociety@tukwilahistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Hibulb Cultural Center and Natural History Preserve",
+    "address": {
+      "streetAddress": "6410 23rd Ave NETulalip, WA 98271",
+      "mailingAddress": null
+    },
+    "phone": "360-716-2600",
+    "website": "mailto:info@hibulbculturalcenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": "https://www.twitter.com/intent/session?return_to=%2Fintent%2Ftweet%3Fstatus%3DHibulb%2BCultural%2BCenter%2BAnd%2BNatural%2BHistory%2BPre",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Culture",
+      "History",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Crosby House",
+    "address": {
+      "streetAddress": "702 Deschutes Way N.Tumwater, WA 98501",
+      "mailingAddress": "Tumwater, WA 98501"
+    },
+    "phone": "360-754-4217",
+    "website": "https://www.ci.tumwater.wa.us/historicalcrosbyhouse.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Henderson House Museum",
+    "address": {
+      "streetAddress": "602 Deschutes Way SWTumwater, WA 98501",
+      "mailingAddress": "555 Israel Road SWTumwater, WA 98501"
+    },
+    "phone": "360-754-4217",
+    "website": "mailto:museum@ci.tumwater.wa.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Thu, Fri & Sun 1 - 4.",
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Tumwater Historical Association",
+    "address": {
+      "streetAddress": "Tumwater, WA 98501",
+      "mailingAddress": "P. O.  Box 4315Tumwater, WA 98501"
+    },
+    "phone": "360-943-6951",
+    "website": "mailto:dontrosper@q.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Central Washington Agricultural Museum",
+    "address": {
+      "streetAddress": "4508 Main St.Union Gap, WA 98903",
+      "mailingAddress": "P.O. Box 3008Union Gap, WA 98903"
+    },
+    "phone": "509-457-8735",
+    "website": "mailto:info@centralwaagmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Archer Gallery - Clark College",
+    "address": {
+      "streetAddress": "1800 E. Mclaughlin BlvdVancouver, WA 98660",
+      "mailingAddress": "1933 Fort Vancouver Way, FAC 101Vancouver, WA 98663"
+    },
+    "phone": "360-992-2246",
+    "website": "mailto:bshell@clark.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Center for Columbia River History",
+    "address": {
+      "streetAddress": "1109 East 5th StreetVancouver, WA 98661",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.ccrh.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Varied.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Columbia Arts Center",
+    "address": {
+      "streetAddress": "400 W Evergreen BlvdVancouver, WA 98663",
+      "mailingAddress": "6100 Foreland GarthColumbia, MD 21045"
+    },
+    "phone": "410-730-0075",
+    "website": "mailto:art.staff@columbiaassociation.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Only open to the public during a secheduled event.",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Pearson Air Museum",
+    "address": {
+      "streetAddress": "1115 East 5th StreetVancouver, WA 98661",
+      "mailingAddress": "Vancouver, WA 98661"
+    },
+    "phone": "360-694-7026",
+    "website": "mailto:Info@fortvan.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Sun 10-5.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Vancouver National Historic Reserve Trust",
+    "address": {
+      "streetAddress": "750 Anderson StreetVancouver, WA 98661",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.vancouverhistoricreserve.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Ginkgo Petrified Forest Interpretive Center",
+    "address": {
+      "streetAddress": "Wanapum Reservoir on the Columbia RiverVantage, WA 98950",
+      "mailingAddress": "Vantage, WA 98950"
+    },
+    "phone": "509-856-2700",
+    "website": "https://www.parks.wa.gov/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Vashon Allied Arts: Blue Heron Art Ctr",
+    "address": {
+      "streetAddress": "Vashon Island, WA 98070",
+      "mailingAddress": "P. O. Box 576Vashon Island, WA 98070"
+    },
+    "phone": null,
+    "website": "https://www.vashonalliedarts.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Vashon Heritage Association",
+    "address": {
+      "streetAddress": "10105 Bank Road SWVashon Island, WA 98070",
+      "mailingAddress": "P. O. Box 723Vashon Island, WA 98070"
+    },
+    "phone": "206-463-7808",
+    "website": "mailto:admin@vashonheritage.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Key Peninsula Historical Society",
+    "address": {
+      "streetAddress": "Key Peninsula Civic CenterVaughn, WA 98394",
+      "mailingAddress": "P.O. Box 577Vaughn, WA 98394"
+    },
+    "phone": "253-884-3272",
+    "website": "mailto:info@keypeninsulamuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Waitsburg Historical Society / Bruce Museum",
+    "address": {
+      "streetAddress": "318 Main StreetWaitsburg, WA 99361",
+      "mailingAddress": "P.O. Box 441Waitsburg, WA 99361"
+    },
+    "phone": "509-337-6157",
+    "website": "https://www.cityofwaitsburg.com/Attraction_Event/attraction_event.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Fort Walla Walla Museum",
+    "address": {
+      "streetAddress": "755 Myra RoadWalla Walla, WA 99362",
+      "mailingAddress": "Walla Walla, WA 99362"
+    },
+    "phone": "509-525-7703",
+    "website": "mailto:info@fortwallawallamuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Apr 1-Oct 31, Tue-Sun 10-5.",
+    "museumTypes": []
+  },
+  {
+    "name": "Kirkman House Museum",
+    "address": {
+      "streetAddress": "214 N. ColvilleWalla Walla, WA 99362",
+      "mailingAddress": "Walla Walla, WA 99362"
+    },
+    "phone": "509-529-4373",
+    "website": "mailto:khm@kirkmanhousemuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/group.php?gid=30286894862#!/pages/Walla-Walla-WA/Kirkman-House-Museum/50508935968?ref=t",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Year roundWednesday - Saturday 10:00 a.m. - 4:00 p.m.Sunday 1:00 p.m. - 4:00 p.m.",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Whitman Mission National Historic Site",
+    "address": {
+      "streetAddress": "Route 2, Box 247Walla Walla, WA 99362",
+      "mailingAddress": "Walla Walla, WA 99362"
+    },
+    "phone": null,
+    "website": "https://www.nps.gov/whmi",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Two Rivers Heritage Museum",
+    "address": {
+      "streetAddress": "1 Durgan StreetWashougal, WA 98671",
+      "mailingAddress": "PO Box 204Washougal, WA 98671"
+    },
+    "phone": "360-835-8742",
+    "website": "mailto:referenceroom@trhm.comcastbiz.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/2rhmuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Art",
+      "Cemetery",
+      "Culture",
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Douglas County Historical Society",
+    "address": {
+      "streetAddress": "124 W. WalnutWaterville, WA 98858",
+      "mailingAddress": "P.O. Box 63Waterville, WA 98858"
+    },
+    "phone": "509-745-8435",
+    "website": "mailto:info@watervillewashington.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Wenatchee Valley Museum & Cultural Center",
+    "address": {
+      "streetAddress": "127 S. Mission StreetWenatchee, WA 98801",
+      "mailingAddress": "Wenatchee, WA 98801"
+    },
+    "phone": "509-888-6240",
+    "website": "mailto:info@wvmcc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Sat 10-4.  Closed major holidays.",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Ohme Gardens",
+    "address": {
+      "streetAddress": "3327 Ohme RoadWenatchee, WA 98801",
+      "mailingAddress": "Wenatchee, WA 98801"
+    },
+    "phone": "509-662-5785",
+    "website": "mailto:ohmegardens@charter.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Westport Lighthouse Museum",
+    "address": {
+      "streetAddress": "Westport, WA 98595",
+      "mailingAddress": "P. O. Box 1074Westport, WA 98595"
+    },
+    "phone": null,
+    "website": "mailto:kraig@lighthousefriends.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Westport Maritime Museum",
+    "address": {
+      "streetAddress": "Westport, WA 98595",
+      "mailingAddress": "P. O. Box 1074Westport, WA 98595"
+    },
+    "phone": null,
+    "website": "https://www.westportwa.com/museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wed-Sun 12-4 Sept-May; Daily 10-4 Jun-Aug.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Fort Simcoe Interpretive Center",
+    "address": {
+      "streetAddress": "5150 Fort Simcoe RoadWhite Swan, WA 98952",
+      "mailingAddress": "White Swan, WA 98952"
+    },
+    "phone": "509-874-2372",
+    "website": "mailto:infocent@parks.wa.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Big Bend Historical Society",
+    "address": {
+      "streetAddress": "Wilbur, WA 99185",
+      "mailingAddress": "P. O. Box 523Wilbur, WA 99185"
+    },
+    "phone": "509-647-5401",
+    "website": "mailto:bbhs@accima.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Shafer Museum",
+    "address": {
+      "streetAddress": "285 Castle AveWinthrop, WA 98862",
+      "mailingAddress": "P. O. Box 46Winthrop, WA 98862"
+    },
+    "phone": "509-996-2712",
+    "website": "mailto:staff@shafermuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Woodinville Heritage Society",
+    "address": {
+      "streetAddress": "14121 NE 171st StreetWoodinville, WA 98072",
+      "mailingAddress": "P. O. Box 216Woodinville, WA 98072"
+    },
+    "phone": "425-408-1820",
+    "website": "mailto:info@woodinvilleheritage.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The Woodinville Heritage Society holds general meetings at 10:00 am on the 3rd Saturday of January, February, March, April, May, June, September, October and November. The meetings are held at the Woodinville Heritage Musuem at 14121 NE 171st Street, Woodinville, WA 98072.",
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Hulda Klager Lilac Gardens",
+    "address": {
+      "streetAddress": "115 South Pekin RoadWoodland, WA 98674",
+      "mailingAddress": "P. O. Box 828Woodland, WA 98674"
+    },
+    "phone": "360-225-8996",
+    "website": "mailto:gardener@lilacgardens.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Pomeroy Living History Farm",
+    "address": {
+      "streetAddress": "20902 NE Lucia Falls RoadYacolt, WA 98675",
+      "mailingAddress": "Yacolt, WA 98675"
+    },
+    "phone": null,
+    "website": "https://www.pomeroyfarm.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "First full weekend of the month, Jun-Oct Sat 10-4, Sun 1-4. Gift shop/Gardens Daily year-round,  Mon-Sat 10-5, Sun1-4.",
+    "museumTypes": []
+  },
+  {
+    "name": "Allied Arts Council of Yakima Valley  Gallery",
+    "address": {
+      "streetAddress": "5000  West Lincoln AvenueYakima, WA 98908",
+      "mailingAddress": "Yakima, WA 98908"
+    },
+    "phone": "509-966-0930",
+    "website": "https://www.alliedartsyakima.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/allied.arts.yakima",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Larson Gallery",
+    "address": {
+      "streetAddress": "16th Avenue & Nob Hill BoulevardYakima, WA 98907",
+      "mailingAddress": "P.O Box 22520Yakima, WA 98907"
+    },
+    "phone": "509-574-4875",
+    "website": "mailto:gallery@yvcc.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/larsongallery",
+      "twitter": "https://www.twitter.com/LarsonGalleryG",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/LarsonGalleryGuild"
+    },
+    "hours": "Tue- Sat 10-5.",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "University"
+    ]
+  },
+  {
+    "name": "Yakima Area Arboretum & Botanical Garden",
+    "address": {
+      "streetAddress": "1401 Arboretum DriveYakima, WA 98901",
+      "mailingAddress": "Yakima, WA 98901"
+    },
+    "phone": "509-248-7337",
+    "website": "mailto:info@ahtrees.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Fri 9-5, Sat 9-4.",
+    "museumTypes": [
+      "Arboretum"
+    ]
+  },
+  {
+    "name": "Yakima Valley Museum",
+    "address": {
+      "streetAddress": "2105 Tieton DriveYakima, WA 98902",
+      "mailingAddress": null
+    },
+    "phone": "509-248-0747",
+    "website": "mailto:info@yvmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/YakimaValleyMuseum/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "Culture",
+      "History",
+      "Historical Society",
+      "Library",
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Farmington Museum",
+    "address": {
+      "streetAddress": "3041 E. MainFarmington, NM 87402",
+      "mailingAddress": null
+    },
+    "phone": "505-599-1174",
+    "website": "https://www.farmingtonmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Riverside Nature Center",
+    "address": {
+      "streetAddress": "In Animas Park off of Browning ParkwayFarmington, NM 87402",
+      "mailingAddress": "3041 E. MainFarmington, NM 87402"
+    },
+    "phone": null,
+    "website": "https://www.fmtn.org/city_government/parks_recreation_and_cultural_affairs/2977/nature_center.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "New Mexico Museum of Space History",
+    "address": {
+      "streetAddress": "Top of Hwy 2001Alamogordo, NM 88310",
+      "mailingAddress": "P.O. Box 5430Alamogordo, NM 88310-5430"
+    },
+    "phone": null,
+    "website": "https://www.nmspacemuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 9:00 a.m. - 5:00 p.m.",
+    "museumTypes": [
+      "History",
+      "Science"
+    ]
+  },
+  {
+    "name": "Toy Train Depot Museum and Train Ride",
+    "address": {
+      "streetAddress": "1991 N. White Sands Blvd.Alamogordo, NM 88310",
+      "mailingAddress": null
+    },
+    "phone": "888-207-3564",
+    "website": "mailto:railfanewmexico@hotmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Park",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Alamogordo Museum of History",
+    "address": {
+      "streetAddress": "1301 N. White Sands Blvd.Alamogordo, NM 88310",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.alamogordomuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Monday - Friday 10:00 am to 4:00 pmSaturday 10:00 am to 3:00 pmSunday 1:00 pm to 3:00 pm",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Albuquerque Center for Peace & Justice",
+    "address": {
+      "streetAddress": "202 Harvard  SEAlbuquerque, NM 87106",
+      "mailingAddress": "202 Harvard SEAlbuquerque, NM 87106"
+    },
+    "phone": "505-268-9557",
+    "website": "mailto:dtwm@earthlink.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History"
+    ]
+  },
+  {
+    "name": "Chaco Museum Collection, National Park Service",
+    "address": {
+      "streetAddress": "c/o UNM, Dept. of AnthropologyAlbuquerque, NM 87131",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.nps.gov/museum/exhibits/chcu/index1.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Explora Science Center & Children's Museum",
+    "address": {
+      "streetAddress": "1701 Mountain Road NWAlbuquerque, NM 87104",
+      "mailingAddress": null
+    },
+    "phone": "505-224-8300",
+    "website": "mailto:explora@explora.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "General",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Geology Museum",
+    "address": {
+      "streetAddress": "Northrup Hall; University of New MexicoAlbuquerque, NM 87131",
+      "mailingAddress": "Dept. of Geology, Northrup Hall, University of New MexicoAlbuquerque, NM 87131"
+    },
+    "phone": "505-277-0111",
+    "website": "mailto:epsdept@unm.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  }
+]

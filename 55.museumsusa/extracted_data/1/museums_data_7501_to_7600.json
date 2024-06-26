@@ -1,0 +1,1153 @@
+[
+  {
+    "name": "Castine Historical Society",
+    "address": {
+      "streetAddress": "17 School StreetCastine, ME 04421",
+      "mailingAddress": "PO Box 238Castine, ME 04421"
+    },
+    "phone": "207-326-4118",
+    "website": "mailto:info@castinehistoricalsociety.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/CastineHistoricalSociety",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "2021 Season exhibits will be open from Friday, June 11 through Indigenous Peoples’ Day (October 11).",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Park"
+    ]
+  },
+  {
+    "name": "Moosehead Historical Society",
+    "address": {
+      "streetAddress": "Greenville, ME 04441",
+      "mailingAddress": "PO Box 1116Greenville, ME 04441"
+    },
+    "phone": "207-695-2909",
+    "website": "mailto:mooseheadhistory@myfairpoint.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Parsonsfield-Porter Hist Society",
+    "address": {
+      "streetAddress": "27 Danforth LnPorter, ME 04068",
+      "mailingAddress": "P O BOX 250Porter, ME 04047"
+    },
+    "phone": "207-625-8344",
+    "website": "mailto:pphs@parsonsfieldporterhistorical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Rumford Historical Society",
+    "address": {
+      "streetAddress": "145 Congress StRumford, ME 04276",
+      "mailingAddress": null
+    },
+    "phone": "207-364-2540",
+    "website": "mailto:rhs@gwi.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Old Berwick Historical Society",
+    "address": {
+      "streetAddress": "2 Liberty SSouth Berwick, ME 03908",
+      "mailingAddress": "PO Box 296South Berwick, ME 03908"
+    },
+    "phone": "207-384-0000",
+    "website": "mailto:info@oldberwick.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Kennebec Historical Society",
+    "address": {
+      "streetAddress": "107 Winthrop StreetAugusta, ME 04332",
+      "mailingAddress": "PO Box 5582Augusta, ME 04332"
+    },
+    "phone": "207-622-7718",
+    "website": "mailto:mail@kennebechistorical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Westbrook Historical Society",
+    "address": {
+      "streetAddress": "17B Dunn StreetWestbrook, ME 04092",
+      "mailingAddress": null
+    },
+    "phone": "207-854-5588",
+    "website": "https://www.westbrookhistoricalsociety.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday & Saturday 9:00 am - 12:00 pm",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Hampden Historical Society at the Kinsley Home",
+    "address": {
+      "streetAddress": "83 Main Rd SouthHampden, ME 04444",
+      "mailingAddress": "PO Box 456Hampden, ME 04444"
+    },
+    "phone": "207-862-2027",
+    "website": "mailto:jlondon@tds.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Cemetery",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Beals Historical Society",
+    "address": {
+      "streetAddress": "Beals, ME 04611",
+      "mailingAddress": "PO Box 280Beals, ME 04611"
+    },
+    "phone": null,
+    "website": "mailto:bhspresident@moosabec.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Embden Historical Society",
+    "address": {
+      "streetAddress": "North Anson, ME 04958",
+      "mailingAddress": "PO Box 278North Anson, ME 04958"
+    },
+    "phone": null,
+    "website": "mailto:quint@tdstelme.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Anson Historical Society",
+    "address": {
+      "streetAddress": "Main StreetAnson, ME 04911",
+      "mailingAddress": "PO Box 572Anson, ME 04911"
+    },
+    "phone": null,
+    "website": "https://www.rootsweb.com/~meahs/ahsindex.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Cemetery",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Monmouth Museum",
+    "address": {
+      "streetAddress": "751 Main StreetMonmouth, ME 04259",
+      "mailingAddress": "PO Box 352Monmouth, ME 04259"
+    },
+    "phone": "207-933-2287",
+    "website": "mailto:monmouthmuseum@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Saint Albans Historical Society",
+    "address": {
+      "streetAddress": "Saint Albans, ME 04971",
+      "mailingAddress": "PO Box 62Saint Albans, ME 04971"
+    },
+    "phone": "802-527-7933",
+    "website": "https://www.stamuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Gray Historical Society",
+    "address": {
+      "streetAddress": "Shaker and Yarmouth RdGray, ME 04039",
+      "mailingAddress": "PO Box 544Gray, ME 04039"
+    },
+    "phone": "207-657-4783",
+    "website": "https://www.grayhistorical.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The Museum is open on special 'Open House' days or by request.",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "U of Southern Maine Library",
+    "address": {
+      "streetAddress": "Portland, ME 04104",
+      "mailingAddress": "PO Box 9301Portland, ME 04104"
+    },
+    "phone": "800-800-4876",
+    "website": "mailto:libraryadmin@usm.maine.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Woodlawn Museum, Gardens & Park",
+    "address": {
+      "streetAddress": "19 Black House DriveEllsworth, ME 04605",
+      "mailingAddress": "P.O. Box 1478Ellsworth, ME 04605"
+    },
+    "phone": "207-667-8671",
+    "website": "mailto:info@woodlawnmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/Woodlawn-Museum-34514989765/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/channel/UCla73hieTM_ZvlffvnPbOYg"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden",
+      "Culture",
+      "History",
+      "Historic House",
+      "Nature Centers",
+      "Park"
+    ]
+  },
+  {
+    "name": "L. C. Bates Museum",
+    "address": {
+      "streetAddress": "Route 201Hinckley, ME 04944",
+      "mailingAddress": "Rte 201Hinckley, ME 04944"
+    },
+    "phone": "207-238-4250",
+    "website": "mailto:dstaber@gwh.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wednesday - Saturday 10am-4:30pm \nSunday 1pm- 4:30pm",
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Art",
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Library",
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Limerick Historical Society",
+    "address": {
+      "streetAddress": "55 Washington StreetLimerick, ME 04048",
+      "mailingAddress": "PO Box 83Limerick, ME 04048"
+    },
+    "phone": null,
+    "website": "https://www.limerickmaine.com/Community/Historical/historical.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Naples Historical Society",
+    "address": {
+      "streetAddress": "19 Village Green LaneNaples, ME 04055",
+      "mailingAddress": "PO Box 583Naples, ME 04055"
+    },
+    "phone": "207-693-3103",
+    "website": "mailto:naplesmainehistoricalsociety@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/napleshs",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Dunnybrook Historical Foundation, Inc",
+    "address": {
+      "streetAddress": "24 Academy StreetSouth Berwick, ME 03908",
+      "mailingAddress": "P. O. Box 17South Berwick, ME 03908"
+    },
+    "phone": "207-384-2018",
+    "website": "mailto:dunnybrookhistoricalfoundation@myfairpoint.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Collections are open to the public every Sunday afternoon, 2:30 P.M. to 4:30 P.M.",
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Bustins Island Historical Society",
+    "address": {
+      "streetAddress": "2 Homestead LnFalmouth, ME 04105",
+      "mailingAddress": null
+    },
+    "phone": "207-781-4727",
+    "website": "mailto:falmouthhistorical@myfairpoint.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Sebec Historical Society",
+    "address": {
+      "streetAddress": "Dover-Foxcroft, ME 04426",
+      "mailingAddress": "RR 2 Box 130Dover-Foxcroft, ME 04426"
+    },
+    "phone": null,
+    "website": "https://www.sebechistoricalsociety.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Rangeley Lakes Logging Museum",
+    "address": {
+      "streetAddress": "221 Stratton Road  (RT 16)Rangeley, ME 04970",
+      "mailingAddress": "PO Box 154Rangeley, ME 04970"
+    },
+    "phone": "207-864-3939",
+    "website": "mailto:rlrlm.rangeley@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/RangeleyLoggingMuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society",
+      "Natural History",
+      "Park",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Museum and Library of Confederate History",
+    "address": {
+      "streetAddress": "15 Boyce AvenueGreenville, SC 29601",
+      "mailingAddress": null
+    },
+    "phone": "864-421-9039",
+    "website": "mailto:confedmuseum@att.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Library",
+      "Military"
+    ]
+  },
+  {
+    "name": "Agricultural Heritage Center, Inc.",
+    "address": {
+      "streetAddress": "127 Heritage Rd.Blackville, SC 29817",
+      "mailingAddress": "P. O. Box 247Blackville, SC 29817"
+    },
+    "phone": "803-584-7315",
+    "website": "https://www.scagheritage.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Aiken Center for the Arts",
+    "address": {
+      "streetAddress": "122 Laurens StreetAiken, SC 29801",
+      "mailingAddress": null
+    },
+    "phone": "803-641-9094",
+    "website": "mailto:ACAExecDir@bellsouth.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Aiken Thoroughbred Hall of Fame",
+    "address": {
+      "streetAddress": "135 Dupree Pl SwAiken, SC 29801",
+      "mailingAddress": "P.O. Box 1177Aiken, SC 29801"
+    },
+    "phone": "803-642-7650",
+    "website": "https://www.aikenracinghalloffame.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "American Military Museum",
+    "address": {
+      "streetAddress": "360 Concord St. - Suite 9Charleston, SC 29401",
+      "mailingAddress": "Charleston, SC 29401"
+    },
+    "phone": "843-577-7000",
+    "website": "mailto:info@americanmilitarymuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Military"
+    ]
+  },
+  {
+    "name": "Anderson County Arts Center",
+    "address": {
+      "streetAddress": "110 Federal StreetAnderson, SC 29625",
+      "mailingAddress": null
+    },
+    "phone": "864-222-2787",
+    "website": "https://andersonarts.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "History"
+    ]
+  },
+  {
+    "name": "Anderson County Museum",
+    "address": {
+      "streetAddress": "202 E. Greenville St.Anderson, SC 29622",
+      "mailingAddress": "P. O. Box 8002Anderson, SC 29670"
+    },
+    "phone": "864-260-4737",
+    "website": "https://www.andersoncountysc.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday 10:00 am - 7:00 pmWednesday - Saturday 10:00 am - 4:00 pm",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Andrew Jackson State Park",
+    "address": {
+      "streetAddress": "196 Andrew Jackson Park RoadLancaster, SC 29720",
+      "mailingAddress": null
+    },
+    "phone": "803-285-3344",
+    "website": "mailto:andrewjackson@scprt.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Anne Springs Close Greenway",
+    "address": {
+      "streetAddress": "Old Nation Rd./Highway 21Fort Mill, SC 29716",
+      "mailingAddress": "P. O. Box 1209Fort Mill, SC 29716"
+    },
+    "phone": "803-548-7252",
+    "website": "mailto:mike@sciway.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Avery Research Center of African-American History and Culture",
+    "address": {
+      "streetAddress": "College of Charleston66 George Street CharlestonCharleston, SC 29424",
+      "mailingAddress": null
+    },
+    "phone": "843-805-5507",
+    "website": "https://avery.cofc.edu/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Charleston-SC/Avery-Research-Center-for-African-American-History-and-Culture/1223",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture"
+    ]
+  },
+  {
+    "name": "Hobcaw Barony Visitor Center",
+    "address": {
+      "streetAddress": "22 Hobcaw RoadGeorgetown, SC 29440",
+      "mailingAddress": null
+    },
+    "phone": "843-546-4623",
+    "website": "mailto:hobcaw@belle.baruch.sc.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Bob Campbell Geology Museum",
+    "address": {
+      "streetAddress": "140 Discovery LaneClemson, SC 29634",
+      "mailingAddress": "102 Garden TrailClemson, SC 29634"
+    },
+    "phone": null,
+    "website": "https://virtual.clemson.edu/groups/geomuseum/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science",
+      "University"
+    ]
+  },
+  {
+    "name": "Bob Jones University Museum & Gallery",
+    "address": {
+      "streetAddress": "1700 Wade Hampton BoulevardGreenville, SC 29614",
+      "mailingAddress": null
+    },
+    "phone": "864-770-1331",
+    "website": "mailto:contact@bjumg.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "University"
+    ]
+  },
+  {
+    "name": "Brookgreen Gardens",
+    "address": {
+      "streetAddress": "1931 Brookgreen DrMurrells Inlet, SC 29576",
+      "mailingAddress": null
+    },
+    "phone": "843-235-6000",
+    "website": "https://www.brookgreen.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/BrookgreenGardens",
+      "twitter": "https://www.twitter.com/#!/BrookgreenSC",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Botanical Garden",
+      "Natural History",
+      "Zoo"
+    ]
+  },
+  {
+    "name": "The Franklin G. Burroughs-Simeon B. Chapin Art Museum",
+    "address": {
+      "streetAddress": "3100 South Ocean BoulevardMyrtle Beach, SC 29577",
+      "mailingAddress": null
+    },
+    "phone": "843-238-2510",
+    "website": "mailto:artmuseum@sc.rr.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General"
+    ]
+  },
+  {
+    "name": "Burt-Stark Mansion",
+    "address": {
+      "streetAddress": "Abbeville, SC 29620",
+      "mailingAddress": "P. O. Box 164Abbeville, SC 29620"
+    },
+    "phone": "864-366-0166",
+    "website": "mailto:info@burt-stark.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Caesar's Head State Park",
+    "address": {
+      "streetAddress": "8155 Geer HWYCleveland, SC 29635",
+      "mailingAddress": "8155 Geer HighwayCleveland, SC 29635"
+    },
+    "phone": "864-836-6115",
+    "website": "mailto:caesarshead@scprt.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Calhoun County Museum",
+    "address": {
+      "streetAddress": "313 Butler StreetSt. Matthews, SC 29135",
+      "mailingAddress": null
+    },
+    "phone": "803-874-3964",
+    "website": "mailto:Calmus@oburg.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Friday 9:00 am - 4:00 pm",
+    "museumTypes": [
+      "Archaeology",
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "The Calhoun Mansion",
+    "address": {
+      "streetAddress": "16 Meeting StCharleston, SC 29401",
+      "mailingAddress": null
+    },
+    "phone": "843-722-8205",
+    "website": "mailto:calhounmansion@Yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Camden Archives and  Museum",
+    "address": {
+      "streetAddress": "1314 Broad StreetCamden, SC 29020",
+      "mailingAddress": null
+    },
+    "phone": "803-425-6050",
+    "website": "https://www.camdenarchives.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Central Heritage Society ; Central History Museum",
+    "address": {
+      "streetAddress": "416 Church StreetCentral, SC 29630",
+      "mailingAddress": "P. O. Box 1162Central, SC 29630"
+    },
+    "phone": "864-639-2156",
+    "website": "mailto:heritage@innova.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Charles Pinckney National Historic Site",
+    "address": {
+      "streetAddress": "1214 Middle StreetSullivan's Island, SC 29482",
+      "mailingAddress": null
+    },
+    "phone": "843-881-5516",
+    "website": "https://charlespinckney.areaparks.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Charles Towne Landing State Historic Site",
+    "address": {
+      "streetAddress": "1500 Old Towne RoadCharleston, SC 29407",
+      "mailingAddress": null
+    },
+    "phone": "843-852-4200",
+    "website": "mailto:ctlandingsp@scprt.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 9:00 a.m. - 5:00 p.m.",
+    "museumTypes": [
+      "Archaeology",
+      "Culture",
+      "History",
+      "Military",
+      "Park",
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Chicora Foundation, Inc.",
+    "address": {
+      "streetAddress": "861 Arbutus DriveColumbia, SC 29205",
+      "mailingAddress": "P.O. Box 8664Columbia, SC 29202"
+    },
+    "phone": "803-787-6910",
+    "website": "mailto:info@chicora.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Children's Museum of South Carolina",
+    "address": {
+      "streetAddress": "2501 North Kings HwyMyrtle Beach, SC 29578",
+      "mailingAddress": "P.O. Box 1781Myrtle Beach, SC 29578"
+    },
+    "phone": "843-946-9469",
+    "website": "mailto:contactus@cmsckids.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/ChildrensMuseumofSC",
+      "twitter": "https://www.twitter.com/#!/CMSC",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Coastal Discovery Museum",
+    "address": {
+      "streetAddress": "70 Honey Horn DriveHilton Head, SC 29926",
+      "mailingAddress": "Hilton Head, SC 29926"
+    },
+    "phone": "843-689-6767",
+    "website": "mailto:mmarks@coastaldiscovery.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Coastal-Discovery-Museum/113196365416965",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Colleton Museum & Farmers Market",
+    "address": {
+      "streetAddress": "506 E. Washington St.Walterboro, SC 29488",
+      "mailingAddress": null
+    },
+    "phone": "843-549-2303",
+    "website": "mailto:museum@colletoncounty.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Columbia Museum of Art",
+    "address": {
+      "streetAddress": "1515 Main StColumbia, SC 29202",
+      "mailingAddress": "P. O. Box 2068Columbia, SC 29202"
+    },
+    "phone": "803-799-2810",
+    "website": "mailto:kbrosius@columbiamuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Confederate Museum",
+    "address": {
+      "streetAddress": "188 Meeting StreetCharleston, SC 29402",
+      "mailingAddress": null
+    },
+    "phone": "864-421-9039",
+    "website": "mailto:confedmuseum@att.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "York County Culture & Heritage Commission",
+    "address": {
+      "streetAddress": "4621 Mount Gallant RoadRock Hill, SC 29732",
+      "mailingAddress": null
+    },
+    "phone": "803-329-2121",
+    "website": "mailto:scrotts@chmuseums.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture"
+    ]
+  },
+  {
+    "name": "Darlington County Historical Commission",
+    "address": {
+      "streetAddress": "104 Hewit StreetDarlington, SC 29532",
+      "mailingAddress": null
+    },
+    "phone": "843-398-4710",
+    "website": "mailto:DCHC1968J@Juno.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Dillon County Museum",
+    "address": {
+      "streetAddress": "101 South Marion Street,Dillon, SC 29536",
+      "mailingAddress": "P. O. Box 1806Dillon, SC 29536"
+    },
+    "phone": null,
+    "website": "https://www.dillonmuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  }
+]

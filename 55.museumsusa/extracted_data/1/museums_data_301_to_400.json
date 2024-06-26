@@ -1,0 +1,1977 @@
+[
+  {
+    "name": "Orange County Regional History Center",
+    "address": {
+      "streetAddress": "65 East Central Blvd.Orlando, FL 32801",
+      "mailingAddress": null
+    },
+    "phone": "407-836-8500",
+    "website": "mailto:Pamela.Schwartz@ocfl.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Orlando-FL/Orange-County-Regional-History-Center/43469811153?ref=nf",
+      "twitter": "https://www.twitter.com/@HistoryCenterFL",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/ocrhc"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Orlando Science Center",
+    "address": {
+      "streetAddress": "777 East Princeton StreetOrlando, FL 32803",
+      "mailingAddress": null
+    },
+    "phone": "407-514-2000",
+    "website": "mailto:info@osc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Ormond Memorial Art Museum & Gardens",
+    "address": {
+      "streetAddress": "78 E. Granada BoulevardOrmond Beach, FL 32176",
+      "mailingAddress": null
+    },
+    "phone": "386-676-3347",
+    "website": "mailto:smt@ormondartmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Botanical Garden",
+      "Culture",
+      "Military"
+    ]
+  },
+  {
+    "name": "Osceola Center for the Arts",
+    "address": {
+      "streetAddress": "2411 E. Irlo Bronson Memorial Hwy.Kissimmee, FL 34744",
+      "mailingAddress": null
+    },
+    "phone": "407-846-6257",
+    "website": "mailto:emoore@ocfta.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Osceola History",
+    "address": {
+      "streetAddress": "4155 W Vine StreetKissimmee, FL 34741",
+      "mailingAddress": "PO Box 421996Kissimmee, FL 34742"
+    },
+    "phone": "407-396-8644",
+    "website": "mailto:kimberly@osceolahistoy.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Palm Beach Photographic Centre Museum and Gallery",
+    "address": {
+      "streetAddress": "415 Clematis StreetWest Palm Beach, FL 33401",
+      "mailingAddress": null
+    },
+    "phone": "561-253-2600",
+    "website": "mailto:info@workshop.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/PalmBeachPhotographicCentre",
+      "twitter": "https://www.twitter.com/#!/PBPCwpb",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Palm Beach Zoo & Conservation Society",
+    "address": {
+      "streetAddress": "1301 Summit Blvd.West Palm Beach, FL 33405",
+      "mailingAddress": null
+    },
+    "phone": "561-533-0887",
+    "website": "mailto:info@palmbeachzoo.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/palmbeachzoo",
+      "twitter": "https://www.twitter.com/palmbeachzoo",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/palmbeachzoo"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden",
+      "Children's",
+      "Culture",
+      "Nature Centers",
+      "Park",
+      "Science",
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Palm Harbor Museum",
+    "address": {
+      "streetAddress": "2043 Curlew RoadPalm Harbor, FL 34683",
+      "mailingAddress": null
+    },
+    "phone": "727-724-3054",
+    "website": "mailto:palmharbormuseum@outlook.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/palmharbormuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/channel/UCSFgkN2MEYe7_FoUa7qLkvw"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Panhandle Pioneer Settlement",
+    "address": {
+      "streetAddress": "Sam Atkins Park17869 NW Pioneer Settlement RdBlountstown, FL 32424",
+      "mailingAddress": "P. O. Box 215Blountstown, FL 32424"
+    },
+    "phone": "850-674-2777",
+    "website": "mailto:officemanager@panhandlepioneer.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Park"
+    ]
+  },
+  {
+    "name": "Paynes Creek State Historic Site",
+    "address": {
+      "streetAddress": "888 Lake Branch RoadBowling Green, FL 33834",
+      "mailingAddress": null
+    },
+    "phone": "863-375-4717",
+    "website": "https://www.floridastateparks.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "History",
+      "Natural History",
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Woman's Exchange at the Historic Pena-Peck House Museum",
+    "address": {
+      "streetAddress": "143 St. George StreetSaint Augustine, FL 32084",
+      "mailingAddress": null
+    },
+    "phone": "904-829-5064",
+    "website": "mailto:staugustine_exchange@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Pensacola Historical Society, Division of West Florida Historic Preservation, Inc.",
+    "address": {
+      "streetAddress": "110 E. Church StreetPensacola, FL 32502",
+      "mailingAddress": "110 E. Church St.Pensacola, FL 32502"
+    },
+    "phone": "850-595-1559",
+    "website": "mailto:wdavis4@uwf.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Museum is open Tuesday through Saturday from 10:00 am until 4:00 pm. Free admission.",
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Anna Lamar Switzer Center for the Visual Arts",
+    "address": {
+      "streetAddress": "1000 College BoulevardPensacola, FL 32504",
+      "mailingAddress": null
+    },
+    "phone": "850-484-2550",
+    "website": "mailto:mschulte@pensacolastate.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Marine Exploration Center",
+    "address": {
+      "streetAddress": "PO Box 528St. Petersburg, FL 33731",
+      "mailingAddress": null
+    },
+    "phone": "727-209-7115",
+    "website": "https://www.mecstpete.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/MECStPete/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "A community marine education center and private, non-profit aquarium located on the waterfront in downtown St. Petersburg, Florida.\n\nClosed on Christmas Day,Dec. 25.",
+    "museumTypes": [
+      "Aquarium"
+    ]
+  },
+  {
+    "name": "Pioneer Florida Museum",
+    "address": {
+      "streetAddress": "15602 Pioneer Museum RoadDade City, FL 33526",
+      "mailingAddress": "P.O. Box 335Dade City, FL 33526"
+    },
+    "phone": "352-567-0262",
+    "website": "https://www.pioneerfloridamuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Pioneer Heritage Museum",
+    "address": {
+      "streetAddress": "605 North Collins StreetPlant City, FL 33563",
+      "mailingAddress": null
+    },
+    "phone": "813-757-9226",
+    "website": "mailto:info@ehhsoc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Please call 813-757-9226 to set up your appointment to view the museum.  We appreciate 24 hour advance notice for tours.  Appointments are avaliable between 1pm & 4pm on Tuesday-Thursday, evenings and Saturdays avaliable upon request.",
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Pioneer Settlement for the Creative Arts",
+    "address": {
+      "streetAddress": "1776 Lightfoot LaneBarberville, FL 32105",
+      "mailingAddress": "P.O. Box 6Barberville, FL 32105"
+    },
+    "phone": "386-749-2959",
+    "website": "mailto:info@pioneersettlement.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Monday - Friday 9:00 a.m. - 4:00 p.m.Saturday 9:00 a.m. - 2:00 p.m.Sunday 11:00 a.m. - 4:00 p.m. (Oct-Ma",
+    "museumTypes": [
+      "Art",
+      "History"
+    ]
+  },
+  {
+    "name": "Plantation Historical Museum",
+    "address": {
+      "streetAddress": "511 North Fig Tree LanePlantation, FL 33317",
+      "mailingAddress": null
+    },
+    "phone": "954-797-2722",
+    "website": "https://www.plantation.org/museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Polk Community College Art Gallery",
+    "address": {
+      "streetAddress": "999 Avenue H, N.E.Winter Haven, FL 33881",
+      "mailingAddress": null
+    },
+    "phone": "863-297-1050",
+    "website": "https://www.polk.cc.fl.us/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Polk County History Center",
+    "address": {
+      "streetAddress": "100 East Main StreetBartow, FL 33830",
+      "mailingAddress": null
+    },
+    "phone": "863-534-4386",
+    "website": "mailto:museum@polk-county.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Pompano Beach Historical Society Museum",
+    "address": {
+      "streetAddress": "217 NE 4th AvenuePompano Beach, FL 33061",
+      "mailingAddress": "P.O. Box 154Pompano Beach, FL 33061"
+    },
+    "phone": "954-782-3015",
+    "website": "mailto:info@pompanohistory.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Ponce De Leon Inlet Lighthouse",
+    "address": {
+      "streetAddress": "4931 South Peninsula DrivePonce Inlet, FL 32127",
+      "mailingAddress": null
+    },
+    "phone": "386-761-1821",
+    "website": "mailto:lighthouse@ponceinlet.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Lighthouse and Museum open daily from 10:00am to 6:00pm with last admission at 5:00pm. Summer Hours are from Memorial Day through Labor Day 10:00am to 9:00pm with last admission at 8pm.",
+    "museumTypes": [
+      "Archaeology",
+      "Culture",
+      "History",
+      "Historic House",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Powel Crosley Museum of the Entrepreneur",
+    "address": {
+      "streetAddress": "One Seagate Drive8374 N Tamiami TrailBradenton, FL 34206",
+      "mailingAddress": "P.O. Box 1000Bradenton, FL 34206"
+    },
+    "phone": "941-729-9177",
+    "website": "mailto:elliott.falcione@mymanatee.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Call for Tour",
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Railroad Museum of South Florida, Inc.",
+    "address": {
+      "streetAddress": "7330 Gladiolus DriveFort Myers, FL 33908",
+      "mailingAddress": "7330 Gladiolus DrFort Myers, FL 33908"
+    },
+    "phone": "239-267-1905",
+    "website": "mailto:railroadmuseumofsouthflorida@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Railroad-Museum-of-South-Florida/134958085191",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sat:10:00AM to 3:45PM - Sun:12:00AM to 3:45PM",
+    "museumTypes": [
+      "History",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Nielsen Center for Visual Arts at Eckerd College",
+    "address": {
+      "streetAddress": "4200 54th Avenue SouthSaint Petersburg, FL 33733",
+      "mailingAddress": "P.O. Box 12560Saint Petersburg, FL 33733"
+    },
+    "phone": "727-864-8340",
+    "website": "https://www.eckerd.edu/community/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/eckerdcollege",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "Library",
+      "University"
+    ]
+  },
+  {
+    "name": "Ravine State Gardens",
+    "address": {
+      "streetAddress": "1600 Twigg StreetPalatka, FL 32177",
+      "mailingAddress": null
+    },
+    "phone": "386-329-3721",
+    "website": "https://www.floridastateparks.org/ravinegardens",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Natural History",
+      "Nature Centers",
+      "Science"
+    ]
+  },
+  {
+    "name": "The John G. Riley Center/Museum of African American History and Culture",
+    "address": {
+      "streetAddress": "419 East Jefferson StreetTallahassee, FL 32301",
+      "mailingAddress": null
+    },
+    "phone": "850-681-7881",
+    "website": "mailto:staff@rileymuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "History"
+    ]
+  },
+  {
+    "name": "Roy L. Hyatt Environmental Center",
+    "address": {
+      "streetAddress": "215 W. Garden St.Cantonment, FL 32533",
+      "mailingAddress": "1300 Tobias RoadCantonment, FL 32533"
+    },
+    "phone": "850-937-2117",
+    "website": "mailto:moconnor@escambia.k12.fl.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Mount Dora History Museum",
+    "address": {
+      "streetAddress": "450 Royellou LaneMount Dora, FL 32757",
+      "mailingAddress": "P.O. Box 1166Mount Dora, FL 32757"
+    },
+    "phone": "352-383-0006",
+    "website": "mailto:mountdorahistory@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Safety Harbor Museum of Regional History, Inc",
+    "address": {
+      "streetAddress": "329 South Bayshore BoulevardSafety Harbor, FL 34695",
+      "mailingAddress": null
+    },
+    "phone": "727-726-1688",
+    "website": "https://www.safetyharbormuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "San Marcos de Apalache Historic State Park",
+    "address": {
+      "streetAddress": "148 Old Fort Road (off SR 363), St. MarksTallahassee, FL 32301",
+      "mailingAddress": "1022 DeSoto Park Dr.Tallahassee, FL 32301"
+    },
+    "phone": "850-922-6007",
+    "website": "https://www.floridastateparks.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "History",
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Sanford Museum",
+    "address": {
+      "streetAddress": "520 E. First StreetSanford, FL 32772",
+      "mailingAddress": "P.O. Box 1788Sanford, FL 32772"
+    },
+    "phone": "407-688-5198",
+    "website": "https://www.sanfordfl.gov/departments/museum.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Santa Fe College Teaching Zoo",
+    "address": {
+      "streetAddress": "3000 N.W. 83 StreetGainesville, FL 32606",
+      "mailingAddress": null
+    },
+    "phone": "352-395-5633",
+    "website": "mailto:Zoo@sfcollege.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/sfteachingzoo",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/playlist?list=PLeSji7w5CLLEUoOrZicy2Xul8z0m5Gjad"
+    },
+    "hours": "Last entry at 2:30 p.m",
+    "museumTypes": [
+      "Science",
+      "University",
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Seminole County Public Schools Student Museum",
+    "address": {
+      "streetAddress": "301 West 7th StreetSanford, FL 32771",
+      "mailingAddress": null
+    },
+    "phone": "407-320-0525",
+    "website": "https://www.scps.k12.fl.us/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open for student field trips-Call number above for Judy Wiant",
+    "museumTypes": [
+      "Botanical Garden",
+      "Children's",
+      "Culture",
+      "History",
+      "Library",
+      "Science"
+    ]
+  },
+  {
+    "name": "Science Center of Pinellas County Inc",
+    "address": {
+      "streetAddress": "7701 22nd Avenue, NorthSaint Petersburg, FL 33710",
+      "mailingAddress": null
+    },
+    "phone": "727-384-0027",
+    "website": "https://www.sciencecenterofpinellas.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Planetarium",
+      "Science"
+    ]
+  },
+  {
+    "name": "Sebastian Fishing Museum",
+    "address": {
+      "streetAddress": "9700 South A1AMelbourne Beach, FL 32951",
+      "mailingAddress": null
+    },
+    "phone": "561-388-2750",
+    "website": "mailto:seb_inlet@spacey.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "History",
+      "Natural History",
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Ah-Tah-Thi-Ki Museum at Okalee",
+    "address": {
+      "streetAddress": "5710 Seminole Way, Suite 2Fort Lauderdale, FL 33314",
+      "mailingAddress": null
+    },
+    "phone": "954-797-5570",
+    "website": "mailto:museum@semtribe.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Silver River Museum and Environmental Education Center",
+    "address": {
+      "streetAddress": "1445 NE 58th AvenueOcala, FL 34470",
+      "mailingAddress": null
+    },
+    "phone": "352-236-5401",
+    "website": "mailto:scott.mitchell@marion.k12.fl.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "History",
+      "Historic House",
+      "Library",
+      "Natural History",
+      "Nature Centers",
+      "Park"
+    ]
+  },
+  {
+    "name": "The Bishop Museum of Science and Nature",
+    "address": {
+      "streetAddress": "201 10th Street, WestBradenton, FL 34205",
+      "mailingAddress": "P.O. Box 9265201 10th Street WestBradenton, FL 34205"
+    },
+    "phone": "941-746-4131",
+    "website": "mailto:info@bishopscience.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Saturday 10 a.m - 5 p.m.Sunday 12 p.m. - 5 p.m.Monday (January-April & July) 10:00 a.m. - 5:00 p.m.",
+    "museumTypes": [
+      "Anthropology",
+      "Aquarium",
+      "Archaeology",
+      "Children's",
+      "History",
+      "Natural History",
+      "Planetarium",
+      "Science"
+    ]
+  },
+  {
+    "name": "South Florida Railway Museum",
+    "address": {
+      "streetAddress": "1300 West Hillsboro Blvd.Deerfield Beach, FL 33442",
+      "mailingAddress": null
+    },
+    "phone": "954-698-6620",
+    "website": "https://www.sfrm.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Cox Science Center And Aquarium",
+    "address": {
+      "streetAddress": "4801 Dreher Trail NorthWest Palm Beach, FL 33405",
+      "mailingAddress": null
+    },
+    "phone": "561-832-1988",
+    "website": "mailto:media@coxsciencecenter.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/coxsciencecenter",
+      "twitter": "https://www.twitter.com/coxsciencecenter",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/coxsciencecenter"
+    },
+    "hours": "Monday - Friday 9:00 a.m. - 5:00 p.m.Saturday 10:00 a.m. - 6:00 p.m.Sunday 10:00 a.m. - 6:00 p.m.",
+    "museumTypes": [
+      "Anthropology",
+      "Aquarium",
+      "Archaeology",
+      "Children's",
+      "Culture",
+      "Natural History",
+      "Nature Centers",
+      "Park",
+      "Planetarium",
+      "Science"
+    ]
+  },
+  {
+    "name": "St. Augustine Lighthouse & Maritime Museum, Inc.",
+    "address": {
+      "streetAddress": "81 Lighthouse AvenueSaint Augustine, FL 32080",
+      "mailingAddress": null
+    },
+    "phone": "904-829-0745",
+    "website": "mailto:kfleming@staugustinelighthouse.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/staugustinelighthouse",
+      "twitter": "https://www.twitter.com/firstlighthouse",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/StAugustineLH"
+    },
+    "hours": "The museum and historic lighthouse site are open all year, except Thanksgiving, Christmas and the afternoon of Christmas Eve. Extended summer hour may apply in Summer months or during holiday periods. Call ahead for complete information.",
+    "museumTypes": [
+      "Archaeology",
+      "Culture",
+      "History",
+      "Historic House",
+      "Park",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "St. Petersburg Museum of History",
+    "address": {
+      "streetAddress": "335 Second Avenue N.E.Saint Petersburg, FL 33701",
+      "mailingAddress": null
+    },
+    "phone": "727-894-1052",
+    "website": "mailto:rui@spmoh.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Art",
+      "Culture",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "St. Photios Greek Orthodox National Shrine",
+    "address": {
+      "streetAddress": "41 St. George StreetSaint Augustine, FL 32085",
+      "mailingAddress": "P.O. Box 1960Saint Augustine, FL 32084"
+    },
+    "phone": "904-829-8205",
+    "website": "mailto:info@stphotios.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Stephen Foster Folk Culture Center State Park",
+    "address": {
+      "streetAddress": "U. S. 41 NorthWhite Springs, FL 32096",
+      "mailingAddress": "P.O. Drawer GWhite Springs, FL 32096"
+    },
+    "phone": "386-397-2733",
+    "website": "https://www.floridastateparks.org/stephenfoster/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Historic Stranahan House Museum",
+    "address": {
+      "streetAddress": "335 SE 6th AvenueFort Lauderdale, FL 33301",
+      "mailingAddress": null
+    },
+    "phone": "954-524-4736",
+    "website": "mailto:director@stranahanhouse.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/stranahanhouse",
+      "twitter": "https://www.twitter.com/stranahanhoise",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/stranahanhouse"
+    },
+    "hours": "Tours at 1, 2, and 3.",
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Tallahassee Museum",
+    "address": {
+      "streetAddress": "3945 Museum DriveTallahassee, FL 32310",
+      "mailingAddress": null
+    },
+    "phone": "850-575-8684",
+    "website": "https://www.tallahasseemuseum.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/tallahasseemuseum",
+      "twitter": "https://www.twitter.com/tallymus",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Natural History",
+      "Nature Centers",
+      "Science",
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Tampa Bay History Center",
+    "address": {
+      "streetAddress": "801 Old Water StreetTampa, FL 33602",
+      "mailingAddress": null
+    },
+    "phone": "813-228-0097",
+    "website": "mailto:info@tampabayhistorycenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Tampa Police Museum & Memorial",
+    "address": {
+      "streetAddress": "411 North Franklin StreetTampa, FL 33602",
+      "mailingAddress": null
+    },
+    "phone": "813-276-3258",
+    "website": "https://tampapolicememorial.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Tarpon Arts",
+    "address": {
+      "streetAddress": "101 S. Pinellas AvenueTarpon Springs, FL 34689",
+      "mailingAddress": "PO Box 5004Tarpon Springs, FL 34688"
+    },
+    "phone": "727-942-5605",
+    "website": "mailto:info@tarponarts.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Art",
+      "History"
+    ]
+  },
+  {
+    "name": "Thomas Center For the Arts",
+    "address": {
+      "streetAddress": "302 N.E. 6th AvenueGainesville, FL 32602",
+      "mailingAddress": "P.O. Box 490, Station 30Gainesville, FL 32602"
+    },
+    "phone": "352-334-5067",
+    "website": "mailto:friedbereh@ci.gainesville.fl.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Fort Caroline National Memorial",
+    "address": {
+      "streetAddress": "12713 Fort Caroline RoadJacksonville, FL 32225",
+      "mailingAddress": "13165 Mt. Pleasant RoadJacksonville, FL 32225"
+    },
+    "phone": "904-641-7155",
+    "website": "mailto:timu_administration@nps.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Natural History",
+      "Park"
+    ]
+  },
+  {
+    "name": "Torreya State Park/Gregory House",
+    "address": {
+      "streetAddress": "2576 Torreya Park RoadBristol, FL 32321",
+      "mailingAddress": null
+    },
+    "phone": "850-643-2674",
+    "website": "https://www.floridastateparks.org/torreya",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Tree Hill Jacksonville's Nature Center",
+    "address": {
+      "streetAddress": "7152 Lone Star RoadJacksonville, FL 32211",
+      "mailingAddress": null
+    },
+    "phone": "904-724-4646",
+    "website": "mailto:treehill@comcast.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Natural History",
+      "Science"
+    ]
+  },
+  {
+    "name": "Museums and Nature Center of Crane Point",
+    "address": {
+      "streetAddress": "5550 Overseas HighwayMarathon, FL 33050",
+      "mailingAddress": "P.O. Box 500536Marathon, FL 33050"
+    },
+    "phone": "305-743-9100",
+    "website": "mailto:information@sebring.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House",
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "National Navy SEAL Museum",
+    "address": {
+      "streetAddress": "3300 North State Road A1AFort Pierce, FL 34949",
+      "mailingAddress": null
+    },
+    "phone": "772-595-5845",
+    "website": "https://www.navysealmuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "University of Central Florida Art Gallery",
+    "address": {
+      "streetAddress": "University of Central Florida Visual Arts Bldg., VAB 117Orlando, FL 32816",
+      "mailingAddress": "P.O. Box 161342Orlando, FL 32816"
+    },
+    "phone": "407-823-3161",
+    "website": "https://www.art.ucf.edu/main.php?URL=galleryinfo",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "University of Florida University Galleries",
+    "address": {
+      "streetAddress": "University of FloridaGainesville, FL 32611",
+      "mailingAddress": "P.O. Box 115803Gainesville, FL 32611"
+    },
+    "phone": "352-392-0201",
+    "website": "https://www.arts.ufl.edu/galleries",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "University"
+    ]
+  },
+  {
+    "name": "University of South Florida Botanical Garden",
+    "address": {
+      "streetAddress": "4202 E. Fowler Avenue, NES 107Tampa, FL 33620",
+      "mailingAddress": null
+    },
+    "phone": "813-974-2329",
+    "website": "mailto:lwalker@usf.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Scarfone/Hartley Gallery",
+    "address": {
+      "streetAddress": "310 North Blvd.Tampa, FL 33606",
+      "mailingAddress": "401 West KennedyUniversity of TampaTampa, FL 33606"
+    },
+    "phone": "813-253-6217",
+    "website": "mailto:jboigenzahn@ut.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Useppa Island Historical Museum",
+    "address": {
+      "streetAddress": "Bokeelia, FL 33922",
+      "mailingAddress": "P.O. Box 640Bokeelia, FL 33922"
+    },
+    "phone": "239-283-1061",
+    "website": "https://www.useppa.com/society.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Valiant Air Command Varbird Museum & Tico Airshow",
+    "address": {
+      "streetAddress": "Space Coast Regional AirportTitusville, FL 32780",
+      "mailingAddress": "6600 Tico RoadTitusville, FL 32780"
+    },
+    "phone": "407-268-1941",
+    "website": "mailto:warbirds@valiantaircommand.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Military"
+    ]
+  },
+  {
+    "name": "Venice Art Center",
+    "address": {
+      "streetAddress": "390 S. Nokomis AvenueVenice, FL 34285",
+      "mailingAddress": null
+    },
+    "phone": "941-485-7136",
+    "website": "mailto:info@veniceartcenter.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Visual Arts Center of Northwest Florida",
+    "address": {
+      "streetAddress": "19 East 4th StreetPanama City, FL 32401",
+      "mailingAddress": null
+    },
+    "phone": "850-769-4451",
+    "website": "https://www.vac.org.cn/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's"
+    ]
+  },
+  {
+    "name": "Naples Art Association",
+    "address": {
+      "streetAddress": "585 Park StreetNaples, FL 34102",
+      "mailingAddress": "585 Park St.Naples, FL 34102"
+    },
+    "phone": "239-262-6517",
+    "website": "mailto:info@naplesart.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Art Center is closed on Saturdays from June 5th to October 9th",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "Library"
+    ]
+  },
+  {
+    "name": "Water Ski Hall of Fame",
+    "address": {
+      "streetAddress": "1251 Holy Cow RoadPolk City, FL 33868",
+      "mailingAddress": null
+    },
+    "phone": "863-324-2472",
+    "website": "https://www.waterskihalloffame.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "West Pasco Historical Society Museum and Library",
+    "address": {
+      "streetAddress": "6431 Circle BoulevardNew Port Richey, FL 34652",
+      "mailingAddress": null
+    },
+    "phone": "727-847-0680",
+    "website": "mailto:westpascohistoricalsociety@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues & Wed 10:00am to 1:00pm\nFri & Sat 1:00pm to 4:00pm",
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Winter Garden Heritage Foundation, Inc",
+    "address": {
+      "streetAddress": "21 East Plant StreetWinter Garden, FL 34787",
+      "mailingAddress": null
+    },
+    "phone": "407-656-3244",
+    "website": "mailto:museum@wghf.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/winter.heritage/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/@wintergardenheritagefoundation"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Winter Park Historical Association and Museum",
+    "address": {
+      "streetAddress": "200 W. New England Ave.Winter Park, FL 32790",
+      "mailingAddress": "3287 Hickory LaneLongwood, FL 32779"
+    },
+    "phone": "407-647-2330",
+    "website": "mailto:museum@wphistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "The Wolfsonian-Florida International University",
+    "address": {
+      "streetAddress": "1001 Washington AvenueMiami Beach, FL 33139",
+      "mailingAddress": null
+    },
+    "phone": "305-531-1001",
+    "website": "mailto:info@thewolf.fiu.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/wolfsonian",
+      "twitter": "https://www.twitter.com/wolfsonian",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/WolfsonianFIU"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Library",
+      "University"
+    ]
+  },
+  {
+    "name": "World Golf Hall of Fame and Imax Theater",
+    "address": {
+      "streetAddress": "1 World Golf PlaceSaint Augustine, FL 32092",
+      "mailingAddress": null
+    },
+    "phone": "904-940-4000",
+    "website": "mailto:info@wghof.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/GolfHallofFame",
+      "twitter": "https://www.twitter.com/GolfHallofFame",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Ybor City Museum Society",
+    "address": {
+      "streetAddress": "1818 East 9th AvenueTampa, FL 33605",
+      "mailingAddress": "P.O. Box 5421Tampa, FL 33675"
+    },
+    "phone": "813-247-6323",
+    "website": "mailto:APR@YBORMUSEUM.ORG",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Young At Art Museum",
+    "address": {
+      "streetAddress": "751 SW 121st AvenueDavie, FL 33325",
+      "mailingAddress": null
+    },
+    "phone": "954-424-0085",
+    "website": "mailto:mshrago@youngatartmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's"
+    ]
+  },
+  {
+    "name": "Zephyrhills Depot Museum",
+    "address": {
+      "streetAddress": "39110 South AvenueZephyrhills, FL 33542",
+      "mailingAddress": null
+    },
+    "phone": "813-780-0067",
+    "website": "mailto:depot@ci.zephyrhills.fl.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Jewish Museum of Florida - FIU",
+    "address": {
+      "streetAddress": "301 Washington AvenueMiami Beach, FL 33139",
+      "mailingAddress": null
+    },
+    "phone": "305-672-5044",
+    "website": "mailto:sgladsto@fiu.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Zora Neale Hurston National Museum of Fine Arts (The Hurston)",
+    "address": {
+      "streetAddress": "227 E. Kennedy Blvd.Eatonville, FL 32751",
+      "mailingAddress": null
+    },
+    "phone": "407-647-3307",
+    "website": "https://www.zoranealehurstonmuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Knight Foundation",
+    "address": {
+      "streetAddress": "200 S. Biscayne Blvd. Ste. 3300Miami, FL 33131",
+      "mailingAddress": "2 Biscayne Blvd, Suite 3800Miami, FL 33131"
+    },
+    "phone": "305-908-2600",
+    "website": "mailto:web@knightfoundation.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Mattie Kelly Arts Center Galleries at Northwest Florida State College",
+    "address": {
+      "streetAddress": "100 College Blvd.Niceville, FL 32578",
+      "mailingAddress": null
+    },
+    "phone": "850-729-6044",
+    "website": "mailto:arts@nwfsc.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "The Bass Museum of Art",
+    "address": {
+      "streetAddress": "2100 Collins AvenueMiami Beach, FL 33139",
+      "mailingAddress": null
+    },
+    "phone": "305-673-7530",
+    "website": "mailto:info@thebass.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Museum Hours",
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Boca Raton Museum of Art",
+    "address": {
+      "streetAddress": "501 Plaza RealBoca Raton, FL 33432",
+      "mailingAddress": null
+    },
+    "phone": "561-392-2500",
+    "website": "mailto:info@bocamuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/bocamuseum",
+      "twitter": "https://www.twitter.com/bocamuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Foosaner Art Museum, Florida Institute of Technology",
+    "address": {
+      "streetAddress": "1463 Highland AvenueMelbourne, FL 32936",
+      "mailingAddress": null
+    },
+    "phone": "321-242-0737",
+    "website": "mailto:cfunk@fit.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Vero Beach Museum of Art",
+    "address": {
+      "streetAddress": "3001 Riverside Park Dr.Vero Beach, FL 32963",
+      "mailingAddress": null
+    },
+    "phone": "772-231-0707",
+    "website": "mailto:info@verobeachbmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "OfficeWeekdays 9:00 a.m. - 5:00 p.m.GalleriesMonday - Saturday 10:00 a.m. - 4:30 p.m.Sunday 1:00 p.m. - 4:30 p.m.Mondays - Memorial Day-Labor DayClosed",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "The Mennello Museum of American Art",
+    "address": {
+      "streetAddress": "900 E. Princeton StreetOrlando, FL 32803",
+      "mailingAddress": null
+    },
+    "phone": "407-246-4278",
+    "website": "mailto:info@mennellomuseum.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/The-Mennello-Museum-of-American-Art/39245893380",
+      "twitter": "https://www.twitter.com/folkartpeeps",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "Park"
+    ]
+  },
+  {
+    "name": "Cummer Museum of Art & Gardens",
+    "address": {
+      "streetAddress": "829 Riverside AvenueJacksonville, FL 32204",
+      "mailingAddress": null
+    },
+    "phone": "904-356-6857",
+    "website": "mailto:alevine@cummermuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/CummerMuseum",
+      "twitter": "https://www.twitter.com/CummerMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/channel/UCy3Ywm6mfDWpDaUXKqZl1cA"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Botanical Garden",
+      "Children's",
+      "Library"
+    ]
+  },
+  {
+    "name": "Museum of Art - DeLand",
+    "address": {
+      "streetAddress": "600 N. Woodland Blvd.Deland, FL 32720",
+      "mailingAddress": null
+    },
+    "phone": "386-734-4371",
+    "website": "mailto:contact@moartdeland.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/MoArtDeLand",
+      "twitter": "https://www.twitter.com/MoArtDeLand",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "Culture",
+      "General",
+      "History"
+    ]
+  },
+  {
+    "name": "Dunedin Fine Art Center",
+    "address": {
+      "streetAddress": "1143 Michigan BoulevardDunedin, FL 34698",
+      "mailingAddress": "1143 Michigan BlvdDunedin, FL 34698"
+    },
+    "phone": "727-298-3322",
+    "website": "mailto:director@dfac.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's"
+    ]
+  },
+  {
+    "name": "Henry Morrison Flagler Museum",
+    "address": {
+      "streetAddress": "Cocoanut Row and Whitehall WayPalm Beach, FL 33480",
+      "mailingAddress": "P.O. Box 969Palm Beach, FL 33480"
+    },
+    "phone": "561-655-2833",
+    "website": "mailto:mail@flaglermuseum.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Saturday 10:00 a.m. - 5:00 p.m.Sunday 12:00 p.m.- 5:00 p.m.",
+    "museumTypes": [
+      "Art",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Museum of Fine Arts Florida State University",
+    "address": {
+      "streetAddress": "Museum of Fine Arts 250 Fine Arts Building530 West Call StreetTallahassee, FL 32301",
+      "mailingAddress": null
+    },
+    "phone": "850-644-6836",
+    "website": "https://mofa.fsu.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "The John and Mable Ringling Museum of Art",
+    "address": {
+      "streetAddress": "5401 Bay Shore RoadSarasota, FL 34243",
+      "mailingAddress": null
+    },
+    "phone": "941-359-5700",
+    "website": "mailto:ringling@ringling.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "History",
+      "Historic House",
+      "Library",
+      "University"
+    ]
+  },
+  {
+    "name": "Key West Art and Historical Society",
+    "address": {
+      "streetAddress": "281 Front StreetKey West, FL 33040",
+      "mailingAddress": null
+    },
+    "phone": "305-295-6616",
+    "website": "mailto:mgieda@kwahs.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "History"
+    ]
+  },
+  {
+    "name": "Art & History Museums - Maitland",
+    "address": {
+      "streetAddress": "231 West Packwood AvenueMaitland, FL 32751",
+      "mailingAddress": null
+    },
+    "phone": "407-539-2181",
+    "website": "mailto:info@artandhistory.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/ArtandHistoryMuseums.Maitland",
+      "twitter": "https://www.twitter.com/artandhistory",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Historic House"
+    ]
+  }
+]

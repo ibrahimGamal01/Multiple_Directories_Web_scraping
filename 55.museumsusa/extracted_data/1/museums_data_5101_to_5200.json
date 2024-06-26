@@ -1,0 +1,1267 @@
+[
+  {
+    "name": "Sayre Historical Society",
+    "address": {
+      "streetAddress": "103 South Lehigh AvenueSayre, PA 18840",
+      "mailingAddress": "P.O. Box 311Sayre, PA 18840"
+    },
+    "phone": "570-882-8221",
+    "website": "mailto:sayrehistorical@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Schmucker Art Gallery",
+    "address": {
+      "streetAddress": "Gettysburg CollegeGettysburg, PA 17325",
+      "mailingAddress": null
+    },
+    "phone": "717-337-6080",
+    "website": "mailto:gallery@gettysburg.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Shriver House Museum",
+    "address": {
+      "streetAddress": "309 Baltimore StreetGettysburg, PA 17325",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.shriverhouse.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Schuylkill Center for Environmental Education~The",
+    "address": {
+      "streetAddress": "8480 Hagys Mill RoadPhiladelphia, PA 19128",
+      "mailingAddress": null
+    },
+    "phone": "215-482-7300",
+    "website": "mailto:swrc@schuylkillcenter.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/The-Schuylkill-Center-for-Environmental-Education/173443854810?v=wall&ref=ts",
+      "twitter": "https://www.twitter.com/#!/SchuylkillCtr",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Schwenkfelder Library and Museum",
+    "address": {
+      "streetAddress": "105 Seminary StreetPennsburg, PA 18073",
+      "mailingAddress": null
+    },
+    "phone": "215-679-3103",
+    "website": "https://www.schwenkfelder.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Berwick Historical Society",
+    "address": {
+      "streetAddress": "102 E. 2nd St.Berwick, PA 18603",
+      "mailingAddress": "PO Box 301Berwick, PA 18603"
+    },
+    "phone": "570-759-8020",
+    "website": "mailto:mansion.tours@berwickhistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Seminary Ridge Historic Preservation Foundation",
+    "address": {
+      "streetAddress": "61 Seminary RidgeGettysburg, PA 17325",
+      "mailingAddress": null
+    },
+    "phone": "717-338-3030",
+    "website": "mailto:info@seminaryridge.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Sewickley Valley Historical Society",
+    "address": {
+      "streetAddress": "200 Broad StreetSewickley, PA 15134",
+      "mailingAddress": null
+    },
+    "phone": "412-741-5315",
+    "website": "mailto:sewickleyhistory@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Sharpsville Historical Society",
+    "address": {
+      "streetAddress": "203 Shenango AveSharpsville, PA 16150",
+      "mailingAddress": null
+    },
+    "phone": "724-962-2392",
+    "website": "mailto:sharpsvillehistorical@hotmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Shippensburg Historical Society",
+    "address": {
+      "streetAddress": "52 West King StreetShippensburg, PA 17257",
+      "mailingAddress": null
+    },
+    "phone": "717-532-6727",
+    "website": "mailto:info@shippensburghistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Shippensburg University Fashion Archives and Museum",
+    "address": {
+      "streetAddress": "1871 Old Main DriveShippensburg, PA 17257",
+      "mailingAddress": null
+    },
+    "phone": "717-477-1239",
+    "website": "mailto:fasharch@ship.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/fashionarchivesandmuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Specialized",
+      "University"
+    ]
+  },
+  {
+    "name": "Slifer House Museum",
+    "address": {
+      "streetAddress": "80 Magnolia DriveLewisburg, PA 17837",
+      "mailingAddress": null
+    },
+    "phone": "570-524-2245",
+    "website": "mailto:kbalistrieri@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The museum is currently closed for cleaning and reorganization of exhibits and will re-open in March 2010.  Check the museum website for updates.",
+    "museumTypes": [
+      "Church",
+      "General",
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  },
+  {
+    "name": "Slovak Museum & Archives",
+    "address": {
+      "streetAddress": "1011 Rosedale AvenueMiddletown, PA 17057",
+      "mailingAddress": null
+    },
+    "phone": "717-944-2403",
+    "website": "https://www.visitpa.com/slovak-museum-and-archives",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Bethany Public Library Historical Society",
+    "address": {
+      "streetAddress": "RR 3, Box 650Honesdale, PA 18431",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://bethanypubliclibrary.tripod.com/index.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Smicksburg Area Heritage Society",
+    "address": {
+      "streetAddress": "138 East Kittanning StreetSmicksburg, PA 16256",
+      "mailingAddress": null
+    },
+    "phone": "724-463-7505",
+    "website": "https://www.smicksburg.net/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Snyder County Historical Society, Inc.",
+    "address": {
+      "streetAddress": "30 E Market StMiddleburg, PA 17842",
+      "mailingAddress": "P.O. Box 276, 30 E Market StMiddleburg, PA 17842"
+    },
+    "phone": "570-837-6191",
+    "website": "mailto:schs@snydercounty.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Soldiers and Sailors Memorial Hall of Pittsburgh",
+    "address": {
+      "streetAddress": "4141 Fifth AvenuePittsburgh, PA 15213",
+      "mailingAddress": null
+    },
+    "phone": "412-621-4253",
+    "website": "mailto:frontdesk@soldiersandsailorshall.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Pittsburgh-PA/Soldiers-Sailors-Memorial-Hall-Museum-Trust/79888000570?ref=nf#",
+      "twitter": "https://www.twitter.com/SSMHnM",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/SoldiersAndSailors"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Somerset Historical Center",
+    "address": {
+      "streetAddress": "10649 Somerset PikeSomerset, PA 15501",
+      "mailingAddress": null
+    },
+    "phone": "814-445-6077",
+    "website": "mailto:c-sseese@state.gov",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/The-Somerset-Historical-Center/91812729774",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "South Park Historical Society",
+    "address": {
+      "streetAddress": "6425 Pleasant StreetLibrary, PA 15129",
+      "mailingAddress": "PO Box 555Library, PA 15129"
+    },
+    "phone": "412-835-8633",
+    "website": "mailto:jsmarquis@comcast.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Southern Alleghenies Museum of Art",
+    "address": {
+      "streetAddress": "Loretto, PA 15940",
+      "mailingAddress": "P.O. Box 9Loretto, PA 15940"
+    },
+    "phone": "814-472-3920",
+    "website": "mailto:loretto@sama-art.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Southern Alleghenies Museum of Art, Ligonier",
+    "address": {
+      "streetAddress": "1 Boucher LaneLigonier, PA 15658",
+      "mailingAddress": null
+    },
+    "phone": "724-238-6015",
+    "website": "mailto:gmoyer@sama-art.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Bethel Township Historical Society",
+    "address": {
+      "streetAddress": "1369 Naaman's Creek RdBoothwyn, PA 19062",
+      "mailingAddress": null
+    },
+    "phone": "610-459-4183",
+    "website": "https://betheltownshippreservationsociety.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Springs Historical Society & Museum",
+    "address": {
+      "streetAddress": "1317 Springs RdSprings, PA 15562",
+      "mailingAddress": "PO Box 62Springs, PA 15562"
+    },
+    "phone": "814-662-4366",
+    "website": "mailto:jfb@qcol.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The State Museum of Pennsylvania",
+    "address": {
+      "streetAddress": "300 North StreetHarrisburg, PA 17120",
+      "mailingAddress": null
+    },
+    "phone": "717-787-4980",
+    "website": "mailto:ra-phstatemuseum@pa.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Culture",
+      "General",
+      "History",
+      "Library",
+      "Natural History",
+      "Planetarium",
+      "Science"
+    ]
+  },
+  {
+    "name": "Steamtown National Historic Site",
+    "address": {
+      "streetAddress": "Steamtown National Historic SiteLackawanna Ave at Cliff StScranton, PA 18503",
+      "mailingAddress": "150 S Washington AveScranton, PA 18503"
+    },
+    "phone": "570-340-5200",
+    "website": "https://www.nps.gov/stea/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Stenton Museum",
+    "address": {
+      "streetAddress": "4601 N. 18th StreetPhiladelphia, PA 19140",
+      "mailingAddress": null
+    },
+    "phone": "215-329-7312",
+    "website": "mailto:information@stenton.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Stewartstown Historical Society",
+    "address": {
+      "streetAddress": "17 Mill StreetStewartstown, PA 17363",
+      "mailingAddress": "P.O. Box 82Stewartstown, PA 17363"
+    },
+    "phone": "717-993-5003",
+    "website": "mailto:stewhist@yahoo.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/Stewartstown-Area-Historical-Society-121053244572872",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Stoystown Historical Society",
+    "address": {
+      "streetAddress": "Box 11Stoystown, PA 01563",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.pottstownhistory.org/main/default.asp",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Strasburg Heritage Society",
+    "address": {
+      "streetAddress": "Strasburg, PA 17579",
+      "mailingAddress": "P.O. Box 81Strasburg, PA 17579"
+    },
+    "phone": "717-687-3534",
+    "website": "https://www.strasburgheritagepa.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Studio for Creative Inquiry, CMU",
+    "address": {
+      "streetAddress": "College of Fine Arts5000 Forbes Avenue College of Fine Arts Room 111Pittsburgh, PA 15213",
+      "mailingAddress": null
+    },
+    "phone": "412-268-3451",
+    "website": "mailto:studio-info@andrew.cmu.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Sugar Valley Historical Society",
+    "address": {
+      "streetAddress": "State Route 477Loganton, PA 17747",
+      "mailingAddress": "PO Box 62Loganton, PA 17747"
+    },
+    "phone": null,
+    "website": "mailto:info@svhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Sullivan County Historical Society",
+    "address": {
+      "streetAddress": "Box 252Laporte, PA 18626",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.rootsweb.ancestry.com/~pasulliv/SullivanCountyHistoricalSociety/SCHS.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Academy of Natural Sciences",
+    "address": {
+      "streetAddress": "1900 Benjamin Franklin ParkwayPhiladelphia, PA 19103",
+      "mailingAddress": null
+    },
+    "phone": "215-299-1000",
+    "website": "mailto:reservations@ansp.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Library",
+      "Nature Centers",
+      "Science"
+    ]
+  },
+  {
+    "name": "Susquehanna Art Museum",
+    "address": {
+      "streetAddress": "301 Market St, 3rd FlHarrisburg, PA 17101",
+      "mailingAddress": null
+    },
+    "phone": "717-233-8668",
+    "website": "mailto:sbennett@sqart.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Susquehanna Depot Historical Society",
+    "address": {
+      "streetAddress": "Susquehanna, PA 18847",
+      "mailingAddress": "P.O. Box 161Susquehanna, PA 18847"
+    },
+    "phone": null,
+    "website": "mailto:info@susqcohistsoc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Susquehanna Historical Society",
+    "address": {
+      "streetAddress": "18 Monument Sq.Montrose, PA 18801",
+      "mailingAddress": "Montrose, PA 18810"
+    },
+    "phone": null,
+    "website": "mailto:info@susqcohistsoc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Suzanne H. Arnold Art Gallery",
+    "address": {
+      "streetAddress": "10117 College AveAnnville, PA 17003",
+      "mailingAddress": null
+    },
+    "phone": "717-867-6445",
+    "website": "mailto:gallery@lvc.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Swarthmore Historical Society",
+    "address": {
+      "streetAddress": "114 Yale AvenueSwarthmore, PA 19081",
+      "mailingAddress": "Swarthmore, PA 19081"
+    },
+    "phone": "610-544-8558",
+    "website": "https://swarthmorehistoricalsociety.org/default.aspx",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "William E. Swigart, Jr. Automobile Museum",
+    "address": {
+      "streetAddress": "12031 William Penn HighwayHuntingdon, PA 16652",
+      "mailingAddress": "510 Penn StreetHuntingdon, PA 16652"
+    },
+    "phone": "814-643-2024",
+    "website": "mailto:tours@swigartmuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Memorial Day weekend through Oct. 31",
+    "museumTypes": [
+      "General",
+      "History",
+      "Library",
+      "Park",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Swissvale Historical Society",
+    "address": {
+      "streetAddress": "1713 Hays StreetPittsburgh, PA 15218",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://swissvalelibrary.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Switchback Gravity Railroad Foundation",
+    "address": {
+      "streetAddress": "Jim Thorpe, PA 18229",
+      "mailingAddress": "PO Box 73Jim Thorpe, PA 18229"
+    },
+    "phone": "570-325-8255",
+    "website": "https://www.switchbackgravityrr.org/sbfound.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Bible Lands Museum",
+    "address": {
+      "streetAddress": "616 North Highland Ave.Pittsburgh, PA 15206",
+      "mailingAddress": null
+    },
+    "phone": "412-362-5610",
+    "website": "mailto:mlogan@pts.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/PittsburghTheologicalSeminary",
+      "twitter": "https://www.twitter.com/pghseminary",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/pghseminary"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Thomas Eakins House",
+    "address": {
+      "streetAddress": "1729 MT. VERNON ST.Philadelphia, PA 19130",
+      "mailingAddress": null
+    },
+    "phone": "215-685-0750",
+    "website": "https://www.homeandabroad.com/c/25/Site/50091_Thomas_Eakins_House_visit.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Thomas Newcomen Library and Museum",
+    "address": {
+      "streetAddress": "412 NEWCOMEN ROADExton, PA 19341",
+      "mailingAddress": null
+    },
+    "phone": "610-363-6600",
+    "website": "mailto:office@newcomen.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Tripp House",
+    "address": {
+      "streetAddress": "1011 NORTH MAIN AVENUEScranton, PA 18508",
+      "mailingAddress": null
+    },
+    "phone": "570-961-3317",
+    "website": "https://www.tripphouse.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Tulpenhocken Settlement Historical Society",
+    "address": {
+      "streetAddress": "Tulpehocken Settlement Historical Society116 N. Front StreetWomelsdorf, PA 19567",
+      "mailingAddress": "P.O. Box 53Womelsdorf, PA 19567-0053"
+    },
+    "phone": "610-589-2527",
+    "website": "mailto:tshs1970@comcast.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "1-3 every afternoon except Wednesdays.  Closed Saturdays November through April and holidays.",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Tuscarora Township Historical Society",
+    "address": {
+      "streetAddress": "RR 3 Box 3252Laceyville, PA 18623",
+      "mailingAddress": "Laceyville, PA 18623"
+    },
+    "phone": "570-869-2184",
+    "website": "https://www.yelp.com/biz/tuscarora-township-historical-society-laceyville",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Temple Judea Museum of Kneseth Israel",
+    "address": {
+      "streetAddress": "8339 Old York RoadElkins Park, PA 19027",
+      "mailingAddress": null
+    },
+    "phone": "215-887-2027",
+    "website": "mailto:TJMuseum@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "The Andy Warhol Museum",
+    "address": {
+      "streetAddress": "117 Sandusky St.Pittsburgh, PA 15212",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:information@warhol.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "The Center for Anti-Slavery Studies Inc.",
+    "address": {
+      "streetAddress": "2 Maple StreetMontrose, PA 18801",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.antislaverystudies.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "The Daguerreian Society",
+    "address": {
+      "streetAddress": "Cecil, PA 15321",
+      "mailingAddress": "P.O. Box 306Cecil, PA 15321"
+    },
+    "phone": "412-221-0306",
+    "website": "mailto:info@daguerre.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Blair County Genealogical Society",
+    "address": {
+      "streetAddress": "431 Scotch Valley RdHollidaysburg, PA 16648",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:bcgslibrary@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "The National Civil War Museum",
+    "address": {
+      "streetAddress": "One Lincoln Circle at Reservoir ParkHarrisburg, PA 17103",
+      "mailingAddress": "123 Walnut St, Ste 315Harrisburg, PA 17104"
+    },
+    "phone": "717-260-1861",
+    "website": "mailto:info@nationalcivilwarmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "The Philadelphia Art Alliance",
+    "address": {
+      "streetAddress": "251 South 18TH StreetPhiladelphia, PA 19103",
+      "mailingAddress": null
+    },
+    "phone": "215-545-4302",
+    "website": "mailto:mdougherty@philartalliance.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Thornbury Historical Society",
+    "address": {
+      "streetAddress": "Cheyney, PA 19319",
+      "mailingAddress": "P.O. Box 155Cheyney, PA 19319"
+    },
+    "phone": "610-358-3397",
+    "website": "mailto:sneuman@philasd.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Tinicum Township Historical Society",
+    "address": {
+      "streetAddress": "Essington, PA 19029",
+      "mailingAddress": "PO Box 115Essington, PA 19029"
+    },
+    "phone": "610-521-1698",
+    "website": "mailto:info@tinicumtownshipdelco.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Tioga County Historical Society",
+    "address": {
+      "streetAddress": "120 Main St.Wellsboro, PA 16901",
+      "mailingAddress": "P.O. Box 724Wellsboro, PA 16901"
+    },
+    "phone": "570-724-6116",
+    "website": "mailto:tiogachs@epix.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/visitPA/69966110882",
+      "twitter": "https://www.twitter.com/visitPA",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Tioga Point Museum",
+    "address": {
+      "streetAddress": "724 South Main StreetAthens, PA 18840",
+      "mailingAddress": "Athens, PA 18810"
+    },
+    "phone": "570-888-7225",
+    "website": "https://www.tiogapointmuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Titusville Historical Society",
+    "address": {
+      "streetAddress": "417 E Spruce StreetTitusville, PA 16354",
+      "mailingAddress": null
+    },
+    "phone": "814-827-8810",
+    "website": "mailto:rclark7@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Touchstone Center for Crafts",
+    "address": {
+      "streetAddress": "1049 Wharton Furnace RoadFarmington, PA 15437",
+      "mailingAddress": "RD 1 Box 60Farmington, PA 15437"
+    },
+    "phone": "800-721-0177",
+    "website": "mailto:tcc@hhs.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Blair County Historical Society",
+    "address": {
+      "streetAddress": "3419 Oak LaneAltoona, PA 16602",
+      "mailingAddress": null
+    },
+    "phone": "814-942-3916",
+    "website": "mailto:info@blairhistory.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/@blairhistory",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Blair County Historical Society is open through the winter season and can be reached via email at info@blairhistory.org",
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Train Collectors Association",
+    "address": {
+      "streetAddress": "300 Paradise LaneStrasburg, PA 17579",
+      "mailingAddress": "P.O. Box 248Strasburg, PA 17579"
+    },
+    "phone": "717-687-8623",
+    "website": "mailto:tca-office@traincollectors.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  }
+]

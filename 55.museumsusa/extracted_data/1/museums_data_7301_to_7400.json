@@ -1,0 +1,1331 @@
+[
+  {
+    "name": "Bannock County Historical Museum",
+    "address": {
+      "streetAddress": "3000 Ave. of the ChiefsPocatello, ID 83204",
+      "mailingAddress": "P.O. Box 253Pocatello, ID 83204"
+    },
+    "phone": "208-233-0434",
+    "website": "mailto:bancohismus@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Bannock-County-Historical-Museum/270262812498?ref=hl",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Pocatello Zoo",
+    "address": {
+      "streetAddress": "Located 3 blocks off I-15 Exit 67 on 2900 S 2nd Ave.Pocatello, ID 83205",
+      "mailingAddress": "P.O. Box 4169Pocatello, ID 83205"
+    },
+    "phone": "208-234-6264",
+    "website": "mailto:rpatton@pocatello.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open daily, Apr 1-June 15, 9-5; June 16-Labor Day, 10-6; after Labor Day -Oct 1, 10-4.",
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Museum of Rexburg: Home of the Teton Flood Exhibit",
+    "address": {
+      "streetAddress": "51 N CenterRexburg, ID 83440",
+      "mailingAddress": "35 N 1st ERexburg, ID 83440"
+    },
+    "phone": "208-356-3063",
+    "website": "mailto:customerservices@rexburg.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/museumofrexburg/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "See website for current hours. The hours of operation are dependent on the availability of volunteers.",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historical Society",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Sun Valley Center for the Arts",
+    "address": {
+      "streetAddress": "191 East West 5th St., KetchumSun Valley, ID 83353",
+      "mailingAddress": "P.O. Box 656Sun Valley, ID 83353"
+    },
+    "phone": "208-726-9491",
+    "website": "mailto:information@sunvalleycenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open Mon-Fri, 9-5; also Sat, 11-5 in summer.",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Mud Lake Historical Society and Museum",
+    "address": {
+      "streetAddress": "1097 East 1500 NorthTerreton, ID 83450",
+      "mailingAddress": "1551 N 1500 ETerreton, ID 83450"
+    },
+    "phone": "208-243-1942",
+    "website": "mailto:mudlakemuseum@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/groups/mudlakemuseum/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Church",
+      "General",
+      "History",
+      "Historical Society",
+      "Military"
+    ]
+  },
+  {
+    "name": "Smoky Hill Museum",
+    "address": {
+      "streetAddress": "211 West Iron AvenueSalina, KS 67402",
+      "mailingAddress": "P.O. Box 101Salina, KS 67402"
+    },
+    "phone": null,
+    "website": "https://www.smokyhillmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Osawatomie Museum Foundation, Inc.",
+    "address": {
+      "streetAddress": "628 Main StreetOsawatomie, KS 66064",
+      "mailingAddress": null
+    },
+    "phone": "913-755-6781",
+    "website": "https://kansascity.citysearch.com/profile/4150246/osawatomie_ks/osawatomie_museum_foundation.html?publisher=innovectra&reference_",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Wichita-Sedgwick County Historical Museum",
+    "address": {
+      "streetAddress": "204 S. MainWichita, KS 67202",
+      "mailingAddress": null
+    },
+    "phone": "316-265-9314",
+    "website": "mailto:wschm@wichitahistory.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/wichitahistory",
+      "twitter": "https://www.twitter.com/wichitahistory",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/WichitaHistory"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Santa Fe Trail Center",
+    "address": {
+      "streetAddress": "1349 K-156 HwyLarned, KS 67550",
+      "mailingAddress": null
+    },
+    "phone": "620-285-2054",
+    "website": "mailto:museum@santafetrailcenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "WinterTuesday - Sunday 9:00 a.m. - 5:00 p.m.Memorial Day - Labor DayDaily 9:00 a.m. - 5:00 p.m.",
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Barton County Historical Society",
+    "address": {
+      "streetAddress": "85 S. Hwy. 281Great Bend, KS 67530",
+      "mailingAddress": "P.O. Box 1091Great Bend, KS 67530"
+    },
+    "phone": "620-793-5125",
+    "website": "mailto:bchsdirector@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Kansas State Historical Society",
+    "address": {
+      "streetAddress": "6425 SW Sixth AvenueTopeka, KS 66615-1099",
+      "mailingAddress": null
+    },
+    "phone": "785-272-8681",
+    "website": "https://www.kshs.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Lee Richardson Zoo",
+    "address": {
+      "streetAddress": "312 E. Finnup DriveGarden City, KS 67846",
+      "mailingAddress": "P.O. Box 499Garden City, KS 67846"
+    },
+    "phone": "620-276-1250",
+    "website": "mailto:zoo@garden-city.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The zoo is open 7 days a week.",
+    "museumTypes": [
+      "Children's",
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Carnegie Center for the Arts",
+    "address": {
+      "streetAddress": "701 North Second AvenueDodge City, KS 67801",
+      "mailingAddress": "Dodge City, KS 67801"
+    },
+    "phone": "620-225-6388",
+    "website": "mailto:carnegie@dodgecityarts.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Boot Hill Museum & Front Street",
+    "address": {
+      "streetAddress": "500 Front St.Dodge City, KS 67801",
+      "mailingAddress": "Front StreetDodge City, KS 67801"
+    },
+    "phone": "620-227-8188",
+    "website": "mailto:info@boothill.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Topeka Zoological Park",
+    "address": {
+      "streetAddress": "635 SW Gage Blvd.Topeka, KS 66606",
+      "mailingAddress": null
+    },
+    "phone": "785-368-9180",
+    "website": "https://topekazoo.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Riley County Historical Society",
+    "address": {
+      "streetAddress": "2309 Claflin RdManhattan, KS 66502",
+      "mailingAddress": "Manhattan, KS 66502"
+    },
+    "phone": "785-565-6490",
+    "website": "https://www.rileycountyks.gov/index.aspx?nid=328",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Geary County Historical Society & Museum",
+    "address": {
+      "streetAddress": "530 North AdamsJunction City, KS 66441",
+      "mailingAddress": "PO Box 1161Junction City, KS 66441"
+    },
+    "phone": "785-238-1666",
+    "website": "mailto:gearyhistoy@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/GearyHistory",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Cemetery",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Lake Afton Public Observatory",
+    "address": {
+      "streetAddress": "MacArthur Road at 247th Street WestGoddard, KS 67052",
+      "mailingAddress": "1845 FairmountWichita, KS 67260"
+    },
+    "phone": "316-978-7827",
+    "website": "https://www.wichita.edu/lapo",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Varies with the time of sunset.  Call 316-978-7827 or visit www.wichita.edu/lapo for current times.",
+    "museumTypes": [
+      "Planetarium",
+      "Science"
+    ]
+  },
+  {
+    "name": "Meade County Historical Society",
+    "address": {
+      "streetAddress": "P.O. Box 893Meade, KS 67864",
+      "mailingAddress": null
+    },
+    "phone": "620-873-2359",
+    "website": "mailto:meademuseums@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Crispin Antiquarian Foundation",
+    "address": {
+      "streetAddress": "161 E. Lincoln Ave.Lincoln, KS 67455",
+      "mailingAddress": null
+    },
+    "phone": "785-524-5383",
+    "website": "mailto:rxmuseumist@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open by chance or appointment. Call: 785-524-5383 or 785-531-1550. Email: rxmuseumist@yahoo.com or postrockscoutmuseum@yahoo.com",
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Wichita - Sedgwick County Historical Museum",
+    "address": {
+      "streetAddress": "204 S. MainWichita, KS 67202",
+      "mailingAddress": null
+    },
+    "phone": "316-265-9314",
+    "website": "mailto:wschm@wichitahistory.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/wichitahistory",
+      "twitter": "https://www.twitter.com/wichitahistory",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/WichitaHistory"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Coronado Quivira Museum",
+    "address": {
+      "streetAddress": "105 West LyonLyons, KS 67554",
+      "mailingAddress": "105 W. LyonLyons, KS 67554"
+    },
+    "phone": "620-257-3941",
+    "website": "mailto:director@cqmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/CoronadoQuiviraMuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Culture",
+      "General",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Wilson Czech Opera House-+House of Memories+ Museum",
+    "address": {
+      "streetAddress": "415 27th  WilsonWilson, KS 67490",
+      "mailingAddress": "P.O. Box 271Wilson, KS 67490"
+    },
+    "phone": "785-658-3505",
+    "website": "mailto:ecofc@eaglecom.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Riley County Historical Museum",
+    "address": {
+      "streetAddress": "2309 Claflin RoadManhattan, KS 66502",
+      "mailingAddress": null
+    },
+    "phone": "785-565-6490",
+    "website": "https://www.rileycountyks.gov/index.asp?NID=328",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Park"
+    ]
+  },
+  {
+    "name": "Ellis County Histoircal Society",
+    "address": {
+      "streetAddress": "100 West 7th StreetHays, KS 67601",
+      "mailingAddress": "Hays, KS 67601"
+    },
+    "phone": "785-628-2624",
+    "website": "mailto:office@elliscountyhistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Lowell D. Holmes Museum of Anthropology",
+    "address": {
+      "streetAddress": "1845 FairmountWichita, KS 67260",
+      "mailingAddress": "Box 52Wichita, KS 67260"
+    },
+    "phone": "316-978-3195",
+    "website": "mailto:holmes.museum@wichita.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Science",
+      "University"
+    ]
+  },
+  {
+    "name": "Ottawa County Museum",
+    "address": {
+      "streetAddress": "110 S.Concord St.Minneapolis, KS 67467",
+      "mailingAddress": "403 N. OttawaMinneapolis, KS 67467"
+    },
+    "phone": "785-392-3621",
+    "website": "mailto:otcomu@networksplus.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "KU Natural History Museum",
+    "address": {
+      "streetAddress": "Dyche Hall - 1345 Jayhawk Blvd.Lawrence, KS 66045",
+      "mailingAddress": null
+    },
+    "phone": "785-864-4450",
+    "website": "mailto:naturalhistory@ku.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Johnson County Museum",
+    "address": {
+      "streetAddress": "6305  Lackman RoadShawnee, KS 66217",
+      "mailingAddress": null
+    },
+    "phone": "913-715-2550",
+    "website": "mailto:jcmuseum@jocogov.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Stanton County Museum",
+    "address": {
+      "streetAddress": "104 East HighlandJohnson, KS 67855",
+      "mailingAddress": "P.O. Box 806Johnson, KS 67855"
+    },
+    "phone": "620-492-1785",
+    "website": "https://users.pld.com/scmuse/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Legler Barn Museum",
+    "address": {
+      "streetAddress": "14907 W. 87th St. Pkwy.Lenexa, KS 66215",
+      "mailingAddress": null
+    },
+    "phone": "913-492-0038",
+    "website": "mailto:info@LeglerBarn.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/LenexaHistoricalSociety",
+      "twitter": "https://www.twitter.com/#!/spinfest",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden",
+      "Children's",
+      "Culture",
+      "History",
+      "Historical Society",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "Stauth Memorial Museum",
+    "address": {
+      "streetAddress": "111 N. AztecMontezuma, KS 67867",
+      "mailingAddress": "PO Box 396Montezuma, KS 67867"
+    },
+    "phone": "620-846-2527",
+    "website": "mailto:stauthm@ucom.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": "https://www.twitter.com/stauthmemorialmuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": ".",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Grinter Place / KU",
+    "address": {
+      "streetAddress": "1420 South 78th StreetKansas City, KS 66111",
+      "mailingAddress": null
+    },
+    "phone": "913-299-0373",
+    "website": "mailto:grinter@kshs.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Topeka & Shawnee Co. Public Library  - Alice C. Sabatini Gallery",
+    "address": {
+      "streetAddress": "1515 SW 10th Ave.Topeka, KS 66604",
+      "mailingAddress": null
+    },
+    "phone": "785-580-4400",
+    "website": "https://www.tscpl.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Library"
+    ]
+  },
+  {
+    "name": "Riley County Historical Society",
+    "address": {
+      "streetAddress": "2309 Claflin Rd.Manhattan, KS 66502",
+      "mailingAddress": null
+    },
+    "phone": "785-565-6490",
+    "website": "mailto:RCHSinfo@rileychs.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Cloud County Historical Society Museum",
+    "address": {
+      "streetAddress": "635 BroadwayConcordia, KS 66901",
+      "mailingAddress": null
+    },
+    "phone": "785-243-2866",
+    "website": "mailto:museum@cloudcountyks.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Cemetery",
+      "Children's",
+      "Church",
+      "General",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Military",
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Kansas Historical Society",
+    "address": {
+      "streetAddress": "6425 SW 6th AvenueTopeka, KS 66615",
+      "mailingAddress": null
+    },
+    "phone": "785-272-8681",
+    "website": "mailto:information@kshs.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "McPherson County Old Mill Museum",
+    "address": {
+      "streetAddress": "120 Mill StreetLindsborg, KS 67456",
+      "mailingAddress": "P.O. Box 94Lindsborg, KS 67456"
+    },
+    "phone": null,
+    "website": "mailto:oldmillmuseum@hotmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  },
+  {
+    "name": "Finney County Historical Society",
+    "address": {
+      "streetAddress": "403 South 4th St.Garden City, KS 67846",
+      "mailingAddress": "P.O. Box 796Garden City, KS 67846"
+    },
+    "phone": "620-272-3664",
+    "website": "mailto:fico.historical@gcnet.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Reno County Museum",
+    "address": {
+      "streetAddress": "100 South WalnutHutchinson, KS 67501",
+      "mailingAddress": "P.O. Box 664Hutchinson, KS 67504"
+    },
+    "phone": "620-662-1184",
+    "website": "https://www.renocomuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "9:00 a.m. to 5:00 p.m. Tuesday through Saturday; 1:00 p.m. to 5:00 p.m. on Sunday",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Erie County Historical Society",
+    "address": {
+      "streetAddress": "419 State StreetErie, PA 16501",
+      "mailingAddress": null
+    },
+    "phone": "814-454-1813",
+    "website": "mailto:echs@eriecountyhistory.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#!/eriehistory",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Jackson County Historical Society",
+    "address": {
+      "streetAddress": "327 New York AvenueHolton, KS 66436",
+      "mailingAddress": "216 New York Ave.Holton, KS 66436"
+    },
+    "phone": "785-364-4991",
+    "website": "mailto:jacohistsoc@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Republic County Historical Society Museum",
+    "address": {
+      "streetAddress": "615 28th StreetBelleville, KS 66935",
+      "mailingAddress": null
+    },
+    "phone": "785-527-5971",
+    "website": "mailto:repcomuse@nckcn.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Saturday by appointments.",
+    "museumTypes": [
+      "Church",
+      "Culture",
+      "General",
+      "History",
+      "Historical Society",
+      "Library",
+      "Military"
+    ]
+  },
+  {
+    "name": "Kansas Department of Commerce & Housing",
+    "address": {
+      "streetAddress": "1000 S.W. Jackson St. Suite 100Topeka, KS 66612",
+      "mailingAddress": "Topeka, KS 66612"
+    },
+    "phone": "785-296-3481",
+    "website": "https://www.kansascommerce.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Kauffman Museum",
+    "address": {
+      "streetAddress": "2801 N. Main StreetNorth Newton, KS 67117",
+      "mailingAddress": "Bethel CollegeNorth Newton, KS 67117"
+    },
+    "phone": null,
+    "website": "https://www.bethelks.edu/kauffman",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Mid-America All-Indian Center",
+    "address": {
+      "streetAddress": "650 N. SenecaWichita, KS 67202",
+      "mailingAddress": null
+    },
+    "phone": "316-262-5221",
+    "website": "mailto:ascott@wichita.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Art",
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "U.S. Cavalry Museum",
+    "address": {
+      "streetAddress": "Building 205 Custer AveFort Riley, KS 66442",
+      "mailingAddress": "Building 205 CusterFort Riley, KS 66442"
+    },
+    "phone": null,
+    "website": "https://www.riley.army.mil/AboutUs/Museums.aspx",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/FtRileyMuseums",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "It is closed Easter, Thanksgiving, Christmas and New Years Day.",
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Library",
+      "Military",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Old Cowtown Museum",
+    "address": {
+      "streetAddress": "1865 Museum BoulevardWichita, KS 67203",
+      "mailingAddress": null
+    },
+    "phone": "316-778-1751",
+    "website": "https://oldcowtown.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Wichita-KS/Old-Cowtown-Museum/47805314681",
+      "twitter": "https://www.twitter.com/wichitacowtown",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Ulrich Museum of Art - Wichita State University",
+    "address": {
+      "streetAddress": "17th Street and Fairmount AvenueWichita, KS 67260",
+      "mailingAddress": "1845 Fairmount StWichita, KS 67260"
+    },
+    "phone": "316-978-3664",
+    "website": "mailto:ulrich@wichita.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "8 a.m. to 5 p.m.  Monday-Friday;    Gallery hours are 11 a.m. to 5 p.m.  Tuesday-Friday and  1 to 5 p.m. Saturday & Sunday",
+    "museumTypes": [
+      "Art",
+      "University"
+    ]
+  },
+  {
+    "name": "Bridgton Historical Society",
+    "address": {
+      "streetAddress": "5 Gibbs AveBridgton, ME 04009",
+      "mailingAddress": "P.O. Box 44Bridgton, ME 04009"
+    },
+    "phone": "207-647-3699",
+    "website": "mailto:info@bridgtonhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Nylander Museum",
+    "address": {
+      "streetAddress": "657 Main StCaribou, ME 04736",
+      "mailingAddress": "PO Box 1062Caribou, ME 04736"
+    },
+    "phone": "207-493-4209",
+    "website": "mailto:nylander@maine.rr.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Thomaston Historical Society",
+    "address": {
+      "streetAddress": "Thomaston Historical SocietyFoot of Knox StreetThomaston, ME 04861",
+      "mailingAddress": "PO Box 384Thomaston, ME 04861"
+    },
+    "phone": null,
+    "website": "https://thomastonhistoricalsociety.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Patten Lumberman's Museum inc",
+    "address": {
+      "streetAddress": "61 Shin Pond RdPatten, ME 04765",
+      "mailingAddress": "P.O. Box 300Patten, ME 04765"
+    },
+    "phone": "207-528-2650",
+    "website": "https://lumbermensmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Episcopal Diocese of Maine",
+    "address": {
+      "streetAddress": "143 State StPortland, ME 04101",
+      "mailingAddress": null
+    },
+    "phone": "207-772-1953",
+    "website": "mailto:info@episcopalmaine.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Church"
+    ]
+  },
+  {
+    "name": "Waterville Historical Society",
+    "address": {
+      "streetAddress": "62 Silver StWaterville, ME 04901",
+      "mailingAddress": "Waterville, ME 04901"
+    },
+    "phone": "207-872-9439",
+    "website": "https://www.redingtonmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Frontier Heritage Hist Society",
+    "address": {
+      "streetAddress": "Fort Fairfield, ME 04742",
+      "mailingAddress": "PO Box 9Fort Fairfield, ME 04742"
+    },
+    "phone": null,
+    "website": "mailto:wtroicke@mfx.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Belfast Historical Society & Museum",
+    "address": {
+      "streetAddress": "10 Market StreetBelfast, ME 04915",
+      "mailingAddress": null
+    },
+    "phone": "207-338-9229",
+    "website": "mailto:info@belfastmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Summer Hours until Labor DayTuesday - Saturday 11:00 am - 4:00 pmUntil Columbus DayFriday, Saturday 11:00 am - 4:00 pm",
+    "museumTypes": [
+      "Culture",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Nobleboro Historical Society",
+    "address": {
+      "streetAddress": "198 Center StreetNobleboro, ME 04555",
+      "mailingAddress": "P.O. Box 122Nobleboro, ME 04555"
+    },
+    "phone": "207-563-5376",
+    "website": "mailto:sheldon@tidewater.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Warren Historical Society",
+    "address": {
+      "streetAddress": "225 Main StWarren, ME 04864",
+      "mailingAddress": "225 Main St Box 11Warren, ME 04864"
+    },
+    "phone": "207-273-3061",
+    "website": "https://www.warrenmaine.org/Warren_Historical_Society.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Gouldsboro Historical Society",
+    "address": {
+      "streetAddress": "88 Old Route OneGouldsboro, ME 04607",
+      "mailingAddress": "PO Box 94Gouldsboro, ME 04607"
+    },
+    "phone": "207-263-7789",
+    "website": "mailto:gouldsborohistoricalsociety@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/GouldsboroMaine/?ref=bookmarks",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The Society holds monthly meetings on the first Monday of each month, May through October, where speakers present topics of interest concerning early residents, businesses, or specific features of the area.  A listing of this year's programs can be found on our Facebook Page.  In addition, the Society periodically publishes monographs related to Town history as well as an Annual Newsletter  distributed to its members.",
+    "museumTypes": [
+      "Archaeology",
+      "Art",
+      "Cemetery",
+      "Culture",
+      "General",
+      "Historical Society",
+      "Military"
+    ]
+  },
+  {
+    "name": "Paris Hill Historical Society",
+    "address": {
+      "streetAddress": "16 Hannibal Hamlin DriveParis, ME 04281",
+      "mailingAddress": "P O Box 51Paris, ME 04271"
+    },
+    "phone": "207-743-2980",
+    "website": "mailto:museum@hamlin.lib.me.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Border Historical Society",
+    "address": {
+      "streetAddress": "74 Washington St.Eastport, ME 04631",
+      "mailingAddress": "PO Box 95Eastport, ME 04631"
+    },
+    "phone": null,
+    "website": "mailto:borderhistoricalsociety@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Saturday 1:00 pm - 4:00 pm",
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Military"
+    ]
+  }
+]

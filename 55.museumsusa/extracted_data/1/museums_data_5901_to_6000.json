@@ -1,0 +1,938 @@
+[
+  {
+    "name": "Oklahoma City National Memorial",
+    "address": {
+      "streetAddress": "620 N Harvey AveOklahoma City, OK 73101",
+      "mailingAddress": "PO Box 323Oklahoma City, OK 73101"
+    },
+    "phone": "405-235-3313",
+    "website": "https://www.oklahomacitynationalmemorial.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/okcmemorial",
+      "twitter": "https://www.twitter.com/OKCNM",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/okcnm"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Myriad Botanical Gardens",
+    "address": {
+      "streetAddress": "301 W RenoOklahoma City, OK 73102",
+      "mailingAddress": "100 Myriad GardensOklahoma City, OK 73102"
+    },
+    "phone": "405-297-3995",
+    "website": "mailto:mheffernan@myriadgardens.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Gaylord-Pickens Oklahoma Heritage Museum",
+    "address": {
+      "streetAddress": "1400 Classen DriveOklahoma City, OK 73106",
+      "mailingAddress": null
+    },
+    "phone": "888-501-2059",
+    "website": "https://www.oklahomaheritage.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Harn Homestead Museum",
+    "address": {
+      "streetAddress": "1721 N. Lincoln BlvdOklahoma City, OK 73105",
+      "mailingAddress": null
+    },
+    "phone": "405-235-4058",
+    "website": "mailto:info@harnhomestead.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/HarnHomesteadMuseum",
+      "twitter": "https://www.twitter.com/HarnHomestead",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "State Museum of History",
+    "address": {
+      "streetAddress": "2100 N Lincoln BlvdOklahoma City, OK 73105",
+      "mailingAddress": null
+    },
+    "phone": "405-521-2491",
+    "website": "mailto:tzwink@okhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Botanical Garden",
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Historical Society",
+      "Library",
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Oklahoma History Center",
+    "address": {
+      "streetAddress": "800 Nazih Zuhdi DriveOklahoma City, OK 73105",
+      "mailingAddress": null
+    },
+    "phone": "405-522-5248",
+    "website": "mailto:OKHC@OKHistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society",
+      "Military"
+    ]
+  },
+  {
+    "name": "Oklahoma City Museum of Art",
+    "address": {
+      "streetAddress": "415 Couch DriveOklahoma City, OK 73102",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.okcmoa.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Saturday, 10 am - 5 pm; Thursday, 10 am -9pm; Sunday, Noon - 5pm. Closed Mondays, Thanksgiving, Christmas, New Year's Day and July 4.",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "City Arts Center",
+    "address": {
+      "streetAddress": "3000 Pershing BlvdOklahoma City, OK 73107",
+      "mailingAddress": null
+    },
+    "phone": "405-951-0000",
+    "website": "mailto:info@cityartscenter.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/CityArtsCenter",
+      "twitter": "https://www.twitter.com/CityArtsCenter",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/CityArtsCenter?feature=mhsn"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "World Organization of China Painters",
+    "address": {
+      "streetAddress": "2641 NW 10 StreetOklahoma City, OK 73107",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.theshop.net/wocporg",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Muscle Car Ranch",
+    "address": {
+      "streetAddress": "3609 S 16thChickasha, OK 73108",
+      "mailingAddress": null
+    },
+    "phone": "405-224-4910",
+    "website": "mailto:charticus@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Red Earth Museum",
+    "address": {
+      "streetAddress": "6 Santa Fe PlazaOklahoma City, OK 73102",
+      "mailingAddress": "2100 NE 52nd StreetOklahoma City, OK 73111"
+    },
+    "phone": "405-427-5228",
+    "website": "mailto:info@redearth.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Red-Earth/107202875422",
+      "twitter": "https://www.twitter.com/redearthinc",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "45th Infantry Division Museum",
+    "address": {
+      "streetAddress": "2145 NE 36th StreetOklahoma City, OK 73111",
+      "mailingAddress": null
+    },
+    "phone": "405-424-5313",
+    "website": "mailto:curator@45thdivisionmuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Military"
+    ]
+  },
+  {
+    "name": "National Cowboy Hall of Fame",
+    "address": {
+      "streetAddress": "1700 NE 63rd StreetOklahoma City, OK 73111",
+      "mailingAddress": null
+    },
+    "phone": "405-478-2250",
+    "website": "mailto:dmitchell@nationalcowboymuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/ncwhm",
+      "twitter": "https://www.twitter.com/ncwhm",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/NCWHMuseum"
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Omniplex",
+    "address": {
+      "streetAddress": "2100 NE 52nd StreetOklahoma City, OK 73111",
+      "mailingAddress": null
+    },
+    "phone": "405-602-6664",
+    "website": "mailto:communications@sciencemuseumok.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Oklahoma City Zoo",
+    "address": {
+      "streetAddress": "2101 NE 50th StreetOklahoma City, OK 73111",
+      "mailingAddress": null
+    },
+    "phone": "405-424-3344",
+    "website": "https://www.okczoo.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "National Softball Hall of Fame & Museum",
+    "address": {
+      "streetAddress": "2801 NE 50th StreetOklahoma City, OK 73111",
+      "mailingAddress": null
+    },
+    "phone": "405-424-5266",
+    "website": "https://www.asasoftball.com/hall_of_fame/index.asp",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Daystar Foundation and Library",
+    "address": {
+      "streetAddress": "3015 United Founders Blvd.Oklahoma City, OK 73112",
+      "mailingAddress": "Oklahoma City, OK 73112"
+    },
+    "phone": "405-848-2238",
+    "website": "mailto:info@daystarfoundation.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Contemporary Art Gallery",
+    "address": {
+      "streetAddress": "12058 N May AveOklahoma City, OK 73120",
+      "mailingAddress": null
+    },
+    "phone": "405-236-3100",
+    "website": "mailto:info@okcmoa.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Oklahoma State Firefighters Museum",
+    "address": {
+      "streetAddress": "2716 N.E. 50th StreetOklahoma City, OK 73111",
+      "mailingAddress": null
+    },
+    "phone": "800-308-5336",
+    "website": "mailto:osfa@osfa.info",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Historical Society",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Frontier Drugstore Museum",
+    "address": {
+      "streetAddress": "214 West OklahomaGuthrie, OK 73044",
+      "mailingAddress": "PO Box 18731Oklahoma City, OK 73154"
+    },
+    "phone": "405-282-1895",
+    "website": "mailto:drugstoremuseum@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Oklahoma Visual Arts Coalition",
+    "address": {
+      "streetAddress": "730 W. Wilshire Blvd, Suite 104Oklahoma City, OK 73116",
+      "mailingAddress": "Oklahoma City, OK 73116"
+    },
+    "phone": "405-232-6991",
+    "website": "mailto:office@ovac-ok.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/OKart",
+      "twitter": "https://www.twitter.com/ovac",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Classen High School Museum",
+    "address": {
+      "streetAddress": "1901 N. EllisonOklahoma City, OK 73157",
+      "mailingAddress": "PO Box 12773Oklahoma City, OK 73157"
+    },
+    "phone": "405-341-0694",
+    "website": "mailto:brew4ulrl@hotmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The museum will be open, during the summer months, Saturdays from 11 a.m. until 2 p.m. By prior appointment only, at other times.",
+    "museumTypes": [
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Greater Southwest Historical Museum",
+    "address": {
+      "streetAddress": "35 Sunset DriveArdmore, OK 73401",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.gshm.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Greater-Southwest-Historical-Museum/134755586595977",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  },
+  {
+    "name": "Johnston County Historical Society",
+    "address": {
+      "streetAddress": "413 W Main StTishomingo, OK 73460",
+      "mailingAddress": "PO Box 804Tishomingo, OK 73460"
+    },
+    "phone": "580-371-0254",
+    "website": "https://johnstoncounty.8m.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Wilson Historical Museum",
+    "address": {
+      "streetAddress": "1270 8th StreetWilson, OK 73463",
+      "mailingAddress": null
+    },
+    "phone": "580-668-2505",
+    "website": "mailto:WHM@wilsonhistoricalmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Cameron University Art Gallery",
+    "address": {
+      "streetAddress": "2800 Gore Blvd.Lawton, OK 73502",
+      "mailingAddress": null
+    },
+    "phone": "580-581-2211",
+    "website": "mailto:jglover@cameron.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "University"
+    ]
+  },
+  {
+    "name": "Museum of the Great Plains",
+    "address": {
+      "streetAddress": "601 NW Ferris AveLawton, OK 73507",
+      "mailingAddress": null
+    },
+    "phone": "580-581-3460",
+    "website": "mailto:info@discovermgp.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/DiscoverMGP/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Fort Sill National Historic Landmark and Museum",
+    "address": {
+      "streetAddress": "437 Quanah RdFort Sill, OK 73503",
+      "mailingAddress": null
+    },
+    "phone": "580-442-5123",
+    "website": "https://sill-www.army.mil/museum",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Fort-Sill-National-Historic-Landmark-and-Museum/368889589827678",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Photo identification for all persons over the age of 16 must be presented at the Checkpoint upon entering Fort Sill.",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Military"
+    ]
+  },
+  {
+    "name": "US Army Field Artillery Museum",
+    "address": {
+      "streetAddress": "238 Randolph RdFort Sill, OK 73503",
+      "mailingAddress": null
+    },
+    "phone": "580-442-1819",
+    "website": "https://sill-www.army.mil/famuseum/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Library",
+      "Military",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Percussive Arts Museum",
+    "address": {
+      "streetAddress": "110 W. Washington Street, Suite AIndianapolis, IN 46204",
+      "mailingAddress": "Indianapolis, IN 46204"
+    },
+    "phone": "317-974-4488",
+    "website": "mailto:percarts@pas.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Chisholm Trail Heritage Center & Garis Gallery of the American West",
+    "address": {
+      "streetAddress": "1000 Chisholm Trail ParkwayDuncan, OK 73533",
+      "mailingAddress": null
+    },
+    "phone": "580-252-6692",
+    "website": "mailto:info@onthechisholmtrail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/onthechisholmtrail/",
+      "twitter": "https://www.twitter.com/@cthc_duncan",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/channel/UCpOV1iZ7weg-HEmbR8Va7Sw"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Tillman County Historical Society",
+    "address": {
+      "streetAddress": "Frederick, OK 73542",
+      "mailingAddress": "PO Box 833Frederick, OK 73542"
+    },
+    "phone": "580-335-5844",
+    "website": "mailto:tillmanokhistory@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Harmon County Historical Society",
+    "address": {
+      "streetAddress": "102 W BroadwayHollis, OK 73550",
+      "mailingAddress": null
+    },
+    "phone": "580-688-9545",
+    "website": "mailto:harcomuseum@pldi.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Old Greer County Museum & Hall of Fame",
+    "address": {
+      "streetAddress": "222 W Jefferson StreetMangum, OK 73554",
+      "mailingAddress": "PO Box 2Mangum, OK 73554"
+    },
+    "phone": "580-782-2851",
+    "website": "mailto:museum222@att.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Monday - Saturday 9:00am-Noon & 1:00pm - 4:00pm\n\nSpecial tours by appointment",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Chisholm Trail Historical Museum",
+    "address": {
+      "streetAddress": "605 Zellers AvenueKingfisher, OK 73750",
+      "mailingAddress": "PO Box 262Waurika, OK 73573"
+    },
+    "phone": "405-375-5176",
+    "website": "mailto:chisholmtrail@okhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Cheyenne Cultural Center, Inc.",
+    "address": {
+      "streetAddress": "415 Gary BoulevardClinton, OK 73601",
+      "mailingAddress": "P.O. Box 1177Clinton, OK 73601"
+    },
+    "phone": "580-323-0217",
+    "website": "https://www.clintonokla.org/community/entertainment-attractions/cheyenne-cultural-center/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture"
+    ]
+  },
+  {
+    "name": "Roll One Room School",
+    "address": {
+      "streetAddress": "Cheyenne, OK 73628",
+      "mailingAddress": "P.O. Box 34Cheyenne, OK 73628"
+    },
+    "phone": "580-497-3882",
+    "website": "https://www.rogermills.or/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Washita County Museum",
+    "address": {
+      "streetAddress": "Cordell, OK 73632",
+      "mailingAddress": "PO Box 153Cordell, OK 73632"
+    },
+    "phone": "580-832-3681",
+    "website": "https://agritourism.travelok.com/?id=13&co=8",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Metcalfe Museum",
+    "address": {
+      "streetAddress": "Rt 1 Box 25Durham, OK 73642",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.metcalfemuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "100th Meridian Museum",
+    "address": {
+      "streetAddress": "Sheb Wooley Ave & Roger Miller BlvdErick, OK 73645",
+      "mailingAddress": "PO Box 564Erick, OK 73645"
+    },
+    "phone": null,
+    "website": "https://www.blogoklahoma.us/place.asp?id=362",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Western Oklahoma Historical Society",
+    "address": {
+      "streetAddress": "Elk City, OK 73648",
+      "mailingAddress": "PO Box 542Elk City, OK 73648"
+    },
+    "phone": "580-225-2207",
+    "website": "https://wokhs.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Kiowa County Museum",
+    "address": {
+      "streetAddress": "518 S MainHobart, OK 73651",
+      "mailingAddress": null
+    },
+    "phone": "580-726-6202",
+    "website": "https://www.hobartok.com/pages.php?id=105%A7=1",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Shortgrass Country Museum",
+    "address": {
+      "streetAddress": "Sayre, OK 73662",
+      "mailingAddress": "PO Box 260Sayre, OK 73662"
+    },
+    "phone": "800-652-6552",
+    "website": "mailto:info@travelok.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Railroad Museum of Oklahoma",
+    "address": {
+      "streetAddress": "702 N WashingtonEnid, OK 73701",
+      "mailingAddress": null
+    },
+    "phone": "580-233-3051",
+    "website": "mailto:railroad_museum@att.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Leonardo's Discovery Warehouse",
+    "address": {
+      "streetAddress": "Box 348200 E. MapleEnid, OK 73702",
+      "mailingAddress": null
+    },
+    "phone": "580-233-2787",
+    "website": "https://www.leonardos.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  }
+]

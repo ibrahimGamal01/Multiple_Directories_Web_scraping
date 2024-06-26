@@ -1,0 +1,1350 @@
+[
+  {
+    "name": "The Laura Ingalls Wilder Park & Museum",
+    "address": {
+      "streetAddress": "3603  236th  AvenueBurr Oak, IA 52131",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.bluffcountry.com/liwbo.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "May-Oct 31: 9-5",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "The Octagon Center for the Arts",
+    "address": {
+      "streetAddress": "427 Douglas AvenueAmes, IA 50010",
+      "mailingAddress": null
+    },
+    "phone": "515-232-5331",
+    "website": "mailto:gallery@octagonarts.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Sat 10-5, Sun 2-5",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Des Moines County Historical Society: Garret-Phelps House",
+    "address": {
+      "streetAddress": "521 Columbia St.Burlington, IA 52601",
+      "mailingAddress": null
+    },
+    "phone": "319-752-7449",
+    "website": "mailto:dmchs@dmchs.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/DMCHistSoc/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Bremer County Historical Society Museum",
+    "address": {
+      "streetAddress": "402 West Bremer AveWaverly, IA 50677",
+      "mailingAddress": null
+    },
+    "phone": "319-352-1862",
+    "website": "mailto:bremercountyhistoricalsociety@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/bremercountyhistoricalsociety",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Science Center of Iowa",
+    "address": {
+      "streetAddress": "401 W Martin Luther King Jr. ParkwayDes Moines, IA 50309",
+      "mailingAddress": "Des Moines, IA 50312"
+    },
+    "phone": "515-274-6868",
+    "website": "https://www.sciowa.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": "https://www.twitter.com/sciowa",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Sat: 10-5, Sun: noon-5",
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "The Theatre Museum of Repertoire Americana",
+    "address": {
+      "streetAddress": "405 East Threshers RoadMount Pleasant, IA 52641",
+      "mailingAddress": null
+    },
+    "phone": "319-385-9432",
+    "website": "mailto:theatremuseum@iowatelecom.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Please phone.",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Toolesboro Indian Mounds",
+    "address": {
+      "streetAddress": "Wapello, IA 52653",
+      "mailingAddress": "Wapello, IA 52653"
+    },
+    "phone": "319-523-8381",
+    "website": "mailto:lccb@lccb.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mem -Labor Day: 12-4 Sat & Sun, Sept & Oct: 12-4",
+    "museumTypes": [
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Trainland USA",
+    "address": {
+      "streetAddress": "3135 Hwy 117 NColfax, IA 50054",
+      "mailingAddress": null
+    },
+    "phone": "515-674-3813",
+    "website": "mailto:info@trainland-usa.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Memorial Day-Labor Day: 10-6",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "University of Northern Iowa Museum",
+    "address": {
+      "streetAddress": "1227 W 27th StreetCedar Falls, IA 50614",
+      "mailingAddress": null
+    },
+    "phone": "319-273-2188",
+    "website": "https://www.library.uni.edu/museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Fri: 9-4:30, Sat & Sun: 1-4",
+    "museumTypes": [
+      "Archaeology",
+      "Art",
+      "Culture",
+      "History",
+      "Historic House",
+      "Library",
+      "Natural History",
+      "Science",
+      "University"
+    ]
+  },
+  {
+    "name": "University of Iowa Museum of Art",
+    "address": {
+      "streetAddress": "1375 Highway 1 West1840 Studio Arts BuildingIowa City, IA 52242",
+      "mailingAddress": null
+    },
+    "phone": "319-335-1727",
+    "website": "mailto:uima@uiowa.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/UIMuseumofArt",
+      "twitter": "https://www.twitter.com/UIMuseumofArt",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "N/A",
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Midwest Art Conservation Center (MACC)",
+    "address": {
+      "streetAddress": "2400 3rd Avenue SouthMinneapolis, MN 55404",
+      "mailingAddress": null
+    },
+    "phone": "612-870-3120",
+    "website": "mailto:info@preserveart.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/midwestartconservationcenter",
+      "twitter": "https://www.twitter.com/preserveart",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/midwestartconserve"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "General",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Ushers Ferry Historic Village",
+    "address": {
+      "streetAddress": "5925 Seminole Valley Tr. NECedar Rapids, IA 52411",
+      "mailingAddress": null
+    },
+    "phone": "319-286-5763",
+    "website": "mailto:Ambroz@cedar-rapids.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tours available by Appointment.",
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Vesterheim Norwegian-American Museum",
+    "address": {
+      "streetAddress": "523 W. Water St.Decorah, IA 52101",
+      "mailingAddress": null
+    },
+    "phone": "563-382-9681",
+    "website": "mailto:info@vesterheim.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "May 1—October 31 (Includes tours of Open Air Division)",
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "General",
+      "History"
+    ]
+  },
+  {
+    "name": "Brucemore, Inc.",
+    "address": {
+      "streetAddress": "2160 Linden Dr. SECedar Rapids, IA 52403",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.brucemore.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Feb-Dec: Tues-Sat: 10-3",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Waterloo Center for the Arts",
+    "address": {
+      "streetAddress": "225 Commercial St.Waterloo, IA 50701",
+      "mailingAddress": null
+    },
+    "phone": "319-291-4490",
+    "website": "mailto:museum@waterloo-ia.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Western Historic Trails Center",
+    "address": {
+      "streetAddress": "3434 Richard Downing AveCouncil Bluffs, IA 51501",
+      "mailingAddress": null
+    },
+    "phone": "712-366-5085",
+    "website": "mailto:KC.Hummel@iowa.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "May-Sept: 9-6, Oct-May 9-5",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Wilder Memorial Museum",
+    "address": {
+      "streetAddress": "123 West Mission St.Strawberry Point, IA 52076",
+      "mailingAddress": "P.O. Box 206Strawberry Point, IA 52076"
+    },
+    "phone": "563-933-4615",
+    "website": "mailto:wilder_museum@iowatelecom.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open Weekends in May, September, and October",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Military"
+    ]
+  },
+  {
+    "name": "Winfield Historical Society and Museum",
+    "address": {
+      "streetAddress": "114 South Locust StreetWinfield, IA 52659",
+      "mailingAddress": "P. O. Box 184Winfield, IA 52659"
+    },
+    "phone": null,
+    "website": "https://www.winfieldhistoricalsociety.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Monday's 10 a.m. to Noon - tour by appointment",
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Woodland Sculpture Garden",
+    "address": {
+      "streetAddress": "304 West Seerley BoulevardCedar Falls, IA 50613",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.ci.cedar-falls.ia.us/human_leisure/hearst_center/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sunrise to Sunset, May 1 - Oct 1",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Brunnier Art Museum",
+    "address": {
+      "streetAddress": "295 Scheman BuildingAmes, IA 50011",
+      "mailingAddress": "290 Scheman Bldg.Ames, IA 50011"
+    },
+    "phone": "515-231-0324",
+    "website": "mailto:aclone@iastate.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/University-Museums-Iowa-State-University/173013292710522?_rdr=p",
+      "twitter": "https://www.twitter.com/ISU_Museums",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/ISUMuseums"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "University"
+    ]
+  },
+  {
+    "name": "Ackley Heritage Center",
+    "address": {
+      "streetAddress": "737 Main St.Ackley, IA 50601",
+      "mailingAddress": null
+    },
+    "phone": "641-847-2201",
+    "website": "mailto:ackleyhc@mchsi.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "N/A",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Carter House Museum",
+    "address": {
+      "streetAddress": "101 High StreetElkader, IA 52043",
+      "mailingAddress": null
+    },
+    "phone": "563-245-1573",
+    "website": "mailto:carterhousemuseum@alpinecom.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sat & Sun: 4 hours",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Cedar Rapids Museum of Art",
+    "address": {
+      "streetAddress": "410 Third Ave SECedar Rapids, IA 52401",
+      "mailingAddress": null
+    },
+    "phone": "319-366-7503",
+    "website": "mailto:info@crma.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/crmuseumofart",
+      "twitter": "https://www.twitter.com/CRmuseumofART",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Charles H. MacNider Museum",
+    "address": {
+      "streetAddress": "303 2nd St SEMason City, IA 50401",
+      "mailingAddress": null
+    },
+    "phone": "641-421-3666",
+    "website": "mailto:macniderinformation@masoncity.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues & Thurs: 9-9, Wed, Fri & Sat: 9-5, Sun: 1-5",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Coe College Art Galleries",
+    "address": {
+      "streetAddress": "1220 1st Ave NECedar Rapids, IA 52402",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.public.coe.edu/departments/Art/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily: 3-5",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Coe College Permanent Collection",
+    "address": {
+      "streetAddress": "1220 1st Ave NECedar Rapids, IA 52402",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.public.coe.edu/departments/Art/title.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-Th:8-midnight, F: 8-10pm, Sat:9-6, Sun:11am-12am",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Adair County Heritage Museum",
+    "address": {
+      "streetAddress": "Box 214Greenfield, IA 50849",
+      "mailingAddress": null
+    },
+    "phone": "641-743-2232",
+    "website": "https://www.adaircountymuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "N/A",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Communal Agriculture Museum",
+    "address": {
+      "streetAddress": "505 P St.Amana, IA 52203",
+      "mailingAddress": "South Amana, PO Box 81Amana, IA 52203"
+    },
+    "phone": "319-622-3567",
+    "website": "https://www.amanacolonies.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "May-Sept: M-Sat:10-5, Sun:12-5",
+    "museumTypes": [
+      "Culture"
+    ]
+  },
+  {
+    "name": "Communal Kitchen and Coopershop  Museum",
+    "address": {
+      "streetAddress": "1003 26th AvenueMiddle Amana, IA 52203",
+      "mailingAddress": "Middle Amana, PO Box 81Amana, IA 52203"
+    },
+    "phone": null,
+    "website": "https://www.amanacolonies.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "May-Oct: M-Sat: 10-5, Sun: 12-5",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Community Church Museum",
+    "address": {
+      "streetAddress": "4210 V StHomestead, IA 52236",
+      "mailingAddress": "Homestead, PO Box 81Amana, IA 52203"
+    },
+    "phone": null,
+    "website": "https://www.amanacolonies.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "May-Oct: M-Sat: 10-5, Sun:12-5",
+    "museumTypes": [
+      "Church"
+    ]
+  },
+  {
+    "name": "Courthouse Museum",
+    "address": {
+      "streetAddress": "121 Allamakee StreetWaukon, IA 52172",
+      "mailingAddress": "Waukon, IA"
+    },
+    "phone": "563-568-2954",
+    "website": "mailto:info@allamakeehistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "June-Sept, Sundays: 1-4",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Danish Windmill",
+    "address": {
+      "streetAddress": "4038 Main, PO 245Elk Horn, IA 51531",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.danishwindmill.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sum'r: M-S:8-7, Sun: 10-7 Win'r: M-S:9-5, Sun:12-5",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "African American Museum of Iowa",
+    "address": {
+      "streetAddress": "809 8th Avenue SoutheastCedar Rapids, IA 52406",
+      "mailingAddress": "PO Box 2756Cedar Rapids, IA 52406"
+    },
+    "phone": "319-862-2101",
+    "website": "https://www.blackiowa.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/africanamericanmuseumofiowa",
+      "twitter": "https://www.twitter.com/#!/blackiowa",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "N/A",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Des Moines Art Center",
+    "address": {
+      "streetAddress": "4700 Grand AvenueDes Moines, IA 50312",
+      "mailingAddress": null
+    },
+    "phone": "515-277-4405",
+    "website": "https://www.desmoinesartcenter.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Dorothy Pecaut Nature Center",
+    "address": {
+      "streetAddress": "4500 Sioux River RoadSioux City, IA 51109",
+      "mailingAddress": null
+    },
+    "phone": "712-258-0838",
+    "website": "mailto:bschultz@sioux-city.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Natural History",
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Dows Welcome Center",
+    "address": {
+      "streetAddress": "1896 Railroad StreetDows, IA 50071",
+      "mailingAddress": null
+    },
+    "phone": "515-852-3595",
+    "website": "https://www.dowsiowa.com/WelcomeCenter.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House",
+      "Historical Society",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Effigy Mounds National Monument",
+    "address": {
+      "streetAddress": "151 Hwy 76Harpers Ferry, IA 52146",
+      "mailingAddress": null
+    },
+    "phone": "563-873-3491",
+    "website": "https://www.nps.gov/efmo/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily: 8-4:30",
+    "museumTypes": [
+      "Park",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Family Museum of Arts and Science",
+    "address": {
+      "streetAddress": "2900 Learning Campus DriveBettendorf, IA 52722",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.familymuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Farm House Museum",
+    "address": {
+      "streetAddress": "Farm House LaneAmes, IA 50011",
+      "mailingAddress": "290 Scheman BldgAmes, IA 50011"
+    },
+    "phone": "515-294-7426",
+    "website": "mailto:aclone@iastate.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/University-Museums-Iowa-State-University/173013292710522?_rdr=p",
+      "twitter": "https://www.twitter.com/ISU_Museums",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "University"
+    ]
+  },
+  {
+    "name": "American Gothic House",
+    "address": {
+      "streetAddress": "300 American Gothic StEldon, IA 52554",
+      "mailingAddress": "Eldon, IA 52554"
+    },
+    "phone": "641-652-3352",
+    "website": "mailto:theamericangothichouse@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": "https://www.twitter.com/amgothichouse",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open always for a look from street",
+    "museumTypes": [
+      "Art",
+      "History"
+    ]
+  },
+  {
+    "name": "Luther College Fine Arts Collection",
+    "address": {
+      "streetAddress": "700 College DriveDecorah, IA 52101",
+      "mailingAddress": null
+    },
+    "phone": "563-387-1300",
+    "website": "mailto:ellika03@luther.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "We are open during school hours.",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "Library",
+      "University"
+    ]
+  },
+  {
+    "name": "Floyd County Museum",
+    "address": {
+      "streetAddress": "500 Gilbert St.Charles City, IA 50616",
+      "mailingAddress": null
+    },
+    "phone": "641-228-1099",
+    "website": "mailto:fchs@fiai.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Fri: 9-4:30; May-Labor Day: Sat 1-4 also",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Frank G. Ray House",
+    "address": {
+      "streetAddress": "912 1st AvenueVinton, IA 52349",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.rootsweb.com/~iabenton/bchs/ray.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "June-Aug: Sat & Sun: 1-4",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "George M. Verity Riverboat Museum",
+    "address": {
+      "streetAddress": "415 BlondeauKeokuk, IA 52632",
+      "mailingAddress": "P. O. Box 400Keokuk, IA 52632"
+    },
+    "phone": null,
+    "website": "https://www.geomverity.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Park",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "German American Heritage Center",
+    "address": {
+      "streetAddress": "German American Heritage Center712 W. 2nd StreetDavenport, IA 52802",
+      "mailingAddress": "712 W. 2nd StreetDavenport, IA 52802"
+    },
+    "phone": "563-322-8844",
+    "website": "mailto:admin@gahc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Grant Wood Gallery",
+    "address": {
+      "streetAddress": "124 Main St.Anamosa, IA 52205",
+      "mailingAddress": null
+    },
+    "phone": "319-462-4267",
+    "website": "mailto:grantwoodartgallery@grantwoodartgallery.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Sat:10-4, Sun: 1-4",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Greater Shenandoah Historical Society Museum",
+    "address": {
+      "streetAddress": "800 W Sheridan AveShenandoah, IA 51601",
+      "mailingAddress": "PO Box 182Shenandoah, IA 51601"
+    },
+    "phone": "712-246-1669",
+    "website": "https://www.greatershenandoahhs.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Historical Society",
+      "Military",
+      "Science"
+    ]
+  },
+  {
+    "name": "Grout Museum of History & Science",
+    "address": {
+      "streetAddress": "Grout Museum of History & Science503 South St.Waterloo, IA 50701",
+      "mailingAddress": "503 South St.Waterloo, IA 50701"
+    },
+    "phone": "319-234-6357",
+    "website": "https://www.groutmuseumdistrict.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Science"
+    ]
+  },
+  {
+    "name": "Anderson Gallery",
+    "address": {
+      "streetAddress": "2505 Carpenter AvenueDes Moines, IA 50311",
+      "mailingAddress": "25th & Carpenter StreetsDes Moines, IA 50311"
+    },
+    "phone": "515-271-1994",
+    "website": "https://artsci.drake.edu/andersongallery/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Anderson-Gallery-Drake-University/113064978747782?ref=ts",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Aug 30 - May 1, Tues-Sun: noon-4, Thurs:7-9pm",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Harrison Co. Hist.Village/ Iowa Welcome Center",
+    "address": {
+      "streetAddress": "2931 Monroe AvenueMissouri Valley, IA 51555",
+      "mailingAddress": null
+    },
+    "phone": "712-642-2114",
+    "website": "mailto:welcome@harrisoncountyparks.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mid April-Nov: Mon-Sat: 9-5, Sun: 12-5",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Herbert Hoover National Historic Site",
+    "address": {
+      "streetAddress": "110 Parkside Drive,  PO Box 607West Branch, IA 52358",
+      "mailingAddress": null
+    },
+    "phone": "319-643-2541",
+    "website": "https://www.nps.gov/heho",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily: 9-5 closed Thanks, Christmas and New Years",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Herbert Hoover Presidential Library and Museum",
+    "address": {
+      "streetAddress": "210 Parkside Drive, PO Box 488West Branch, IA 52358",
+      "mailingAddress": null
+    },
+    "phone": "319-643-5301",
+    "website": "mailto:hoover.library@nara.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 9-5",
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Historic General Dodge House",
+    "address": {
+      "streetAddress": "605 Third StreetCouncil Bluffs, IA 51503",
+      "mailingAddress": "621 Third StreetCouncil Bluffs, IA 51503"
+    },
+    "phone": null,
+    "website": "https://www.councilbluffsiowa.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Sat: 10-5, Sun: 1-5. Closed January",
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Iowa Gold Star Museum",
+    "address": {
+      "streetAddress": "7105 Northwest 70th AvenueJohnston, IA 50131",
+      "mailingAddress": null
+    },
+    "phone": "515-252-4531",
+    "website": "mailto:GoldStarMuseum@iowa.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Library M-F 8-5:00; Exhibits T-F 1-5:00",
+    "museumTypes": [
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Iowa Great Lakes Maritime Museum",
+    "address": {
+      "streetAddress": "243 West BroadwayArnolds Park, IA 51331",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.okobojimuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Summer: Daily, 9-5  Rest of Year: Mon-Fri: 9-5",
+    "museumTypes": [
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Iowa Historical Building",
+    "address": {
+      "streetAddress": "600 East LocustDes Moines, IA 50319",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:Mary.Cownie@iowa.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Sat 9-4:30, Sun: 12-4:30 Open Mon in summer",
+    "museumTypes": [
+      "History",
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Jackson County Historical Society Museum",
+    "address": {
+      "streetAddress": "1212 Quarry, Pearson Center, Fairgrounds, PO Box 1245Maquoketa, IA 52060",
+      "mailingAddress": null
+    },
+    "phone": "563-652-5020",
+    "website": "mailto:museum@jciahs.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Fri: 10-4, Sat & Sun: 12-4",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "James & Meryl Hearst Center for the Arts",
+    "address": {
+      "streetAddress": "304 West Seerley BoulevardCedar Falls, IA 50613",
+      "mailingAddress": null
+    },
+    "phone": "319-273-8600",
+    "website": "mailto:mary.huber@cedarfalls.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues & Thurs: 8-9, Wed & Fri 8-5, Sat & Sun 1-4",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "Library"
+    ]
+  },
+  {
+    "name": "Jasper County Historical Museum",
+    "address": {
+      "streetAddress": "7118 S 15th Ave WNewton, IA 50208",
+      "mailingAddress": "P.O. Box 834Newton, IA 50208"
+    },
+    "phone": "641-792-9118",
+    "website": "mailto:Director@jaspercountymuseum.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/jaspercountymuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "May 1 - Sept 30: Mon - Sun 1-5",
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Art on Campus",
+    "address": {
+      "streetAddress": "290 SchemanAmes, IA 50011",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.museums.iastate.edu/Tests/AOCTEST.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Outdoor works of art on view 24 hours a day",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "John L. Lewis Mining & Labor Museum",
+    "address": {
+      "streetAddress": "102 Division St., Box 3Lucas, IA 50151",
+      "mailingAddress": null
+    },
+    "phone": "641-766-6831",
+    "website": "https://www.coalmininglabormuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Apr 15 - Oct 15, Tue - Sat: 9-3",
+    "museumTypes": [
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Kellogg Historical Society",
+    "address": {
+      "streetAddress": "218 High St, PO Box 295Kellogg, IA 50135",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.usgennet.org/usa/ia/county/jasper1/museums/kellogg",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Memorial Day-Labor Day, Mon-Fri: 9-4, Sun:1:30-5",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Lakes Art Center",
+    "address": {
+      "streetAddress": "2201 Hwy 71, PO Box 255Okoboji, IA 51355",
+      "mailingAddress": null
+    },
+    "phone": "712-332-7013",
+    "website": "mailto:info@lakesart.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Fri: 10-4, Sat & Sun: 1-4",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Loren D. Callendar Gallery",
+    "address": {
+      "streetAddress": "City Hall, 6th & Douglas StreetsSioux City, IA 51101",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.sioux-city.org/museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Fri: 8-5:30",
+    "museumTypes": [
+      "History"
+    ]
+  }
+]

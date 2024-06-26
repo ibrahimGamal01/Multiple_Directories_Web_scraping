@@ -1,0 +1,1389 @@
+[
+  {
+    "name": "Bennington Battlefield State Historic Site",
+    "address": {
+      "streetAddress": "61 North Long Pond RoadGrafton, NY 12082",
+      "mailingAddress": "P.O. Box 163 Long Pond Rd.Grafton, NY 12082"
+    },
+    "phone": "518-686-7109",
+    "website": "https://nysparks.com/historic-sites/12/details.aspx",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Stone Quarry Hill Art Park",
+    "address": {
+      "streetAddress": "3883 Stone Quarry Rd.Cazenovia, NY 13035",
+      "mailingAddress": null
+    },
+    "phone": "315-655-3196",
+    "website": "mailto:office@stonequarryhillartpark.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Stone-Quarry-Hill-Art-Park/145149988903178",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Storm King Art Center",
+    "address": {
+      "streetAddress": "Old Pleasant Hill RoadMountainville, NY 10953",
+      "mailingAddress": null
+    },
+    "phone": "845-534-3115",
+    "website": "mailto:info@stormkingartcenter.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Storm-King-Art-Center/53313762331",
+      "twitter": "https://www.twitter.com/StormKingArtCtr",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Strong Museum",
+    "address": {
+      "streetAddress": "One Manhattan SquareRochester, NY 14607",
+      "mailingAddress": null
+    },
+    "phone": "585-263-2700",
+    "website": "mailto:info@thestrong.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/StrongNationalMuseumofPlay",
+      "twitter": "https://www.twitter.com/museumofplay",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/MuseumofPlay"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Suffolk County Vanderbilt Museum",
+    "address": {
+      "streetAddress": "180 Little Neck RoadCenterport, NY 11721",
+      "mailingAddress": null
+    },
+    "phone": "631-854-5579",
+    "website": "mailto:info@vanderbiltmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/SCVanderbilt",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "Historic House",
+      "Natural History",
+      "Park",
+      "Planetarium",
+      "Science"
+    ]
+  },
+  {
+    "name": "Sullivan County Historical Society",
+    "address": {
+      "streetAddress": "265 Main StreetHurleyville, NY 12747",
+      "mailingAddress": "PO Box 247Hurleyville, NY 12747"
+    },
+    "phone": "845-434-8044",
+    "website": "mailto:SCHS@SullivanCountyHistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Sunnyside--Washington Irving's Home",
+    "address": {
+      "streetAddress": "Tarrytown, NY 10591",
+      "mailingAddress": "Tarrytown, NY 10591"
+    },
+    "phone": "914-631-8200",
+    "website": "https://www.hudsonvalley.org/historic-sites/washington-irvings-sunnyside",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/hhvalley",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "SUNY Albany",
+    "address": {
+      "streetAddress": "University Art GalleryAlbany, NY 12222",
+      "mailingAddress": null
+    },
+    "phone": "518-442-3300",
+    "website": "mailto:geninfo@uamail.albany.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/universityatalbany",
+      "twitter": "https://www.twitter.com/ualbany",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/universityatalbany"
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Susan B. Anthony House",
+    "address": {
+      "streetAddress": "17 Madison St.Rochester, NY 14608",
+      "mailingAddress": null
+    },
+    "phone": "585-279-7490",
+    "website": "mailto:dhughes@susanbanthonyhouse.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Groups of more than 12 by appointment: (585) 235-6124 extension 19;  Closed on national holidays.",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Syracuse University Art Collection",
+    "address": {
+      "streetAddress": "Sims HallSyracuse, NY 13244",
+      "mailingAddress": null
+    },
+    "phone": "315-443-4097",
+    "website": "mailto:suart@syr.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Tanglewood Nature Center",
+    "address": {
+      "streetAddress": "443 Coleman AvenueElmira, NY 14905",
+      "mailingAddress": "Elmira, NY 14905"
+    },
+    "phone": "607-732-6060",
+    "website": "mailto:elainems@stny.rr.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Tappantown Historical Society",
+    "address": {
+      "streetAddress": "Tappan, NY 10983",
+      "mailingAddress": "P.O. Box 71Tappan, NY 10983"
+    },
+    "phone": null,
+    "website": "https://www.tappantown.org/aboutus.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Terwilliger Museum",
+    "address": {
+      "streetAddress": "31 E. Williams St.Waterloo, NY 13165",
+      "mailingAddress": null
+    },
+    "phone": "315-539-0533",
+    "website": "https://www.waterloony.com/library.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "The Frick Collection",
+    "address": {
+      "streetAddress": "1 East 70th StreetNew York, NY 10021",
+      "mailingAddress": null
+    },
+    "phone": "212-288-0700",
+    "website": "mailto:info@frick.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "The Hudson River Museum",
+    "address": {
+      "streetAddress": "511 Warburton AvenueYonkers, NY 10701",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.hrm.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "The Museum of Modern Art",
+    "address": {
+      "streetAddress": "11 West 53 StreetNew York, NY 10019",
+      "mailingAddress": null
+    },
+    "phone": "212-708-9400",
+    "website": "https://www.moma.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/MuseumofModernArt",
+      "twitter": "https://www.twitter.com/MuseumModernArt",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "The New York Botanical Garden",
+    "address": {
+      "streetAddress": "2900 Southern BoulevardBronx, NY 10458",
+      "mailingAddress": "Bronx, NY 10458"
+    },
+    "phone": "718-817-8779",
+    "website": "https://www.nybg.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Theodore Roosevelt Birthplace NHS",
+    "address": {
+      "streetAddress": "28 East 20th St.New York, NY 10003",
+      "mailingAddress": null
+    },
+    "phone": "212-260-1616",
+    "website": "https://www.nps.gov/thrb/contacts.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Theodore Roosevelt Inaugural National Historic Site",
+    "address": {
+      "streetAddress": "641 Delaware Ave.Buffalo, NY 14202",
+      "mailingAddress": null
+    },
+    "phone": "716-884-0095",
+    "website": "https://www.nps.gov/thri",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Thousand Islands Museum of Clayton",
+    "address": {
+      "streetAddress": "312 James StreetClayton, NY 13624",
+      "mailingAddress": "P.O. Box 27Clayton, NY 13624"
+    },
+    "phone": "315-686-5794",
+    "website": "mailto:info@timuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Three Village Historical Society",
+    "address": {
+      "streetAddress": "93 North Country RoadSetauket, NY 11790",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.tvhs.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Monday - Friday 10:00 am - 3:00 pm",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Ticonderoga Heritage Museum",
+    "address": {
+      "streetAddress": "Montcalm St.Ticonderoga, NY 12883",
+      "mailingAddress": "PO Box 172, Montcalm St.Ticonderoga, NY 12883"
+    },
+    "phone": null,
+    "website": "mailto:unclefvp@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Bethlehem Historical Association",
+    "address": {
+      "streetAddress": "1003 River Rd.Selkirk, NY 12158",
+      "mailingAddress": "P.O. Box 263Selkirk, NY 12158"
+    },
+    "phone": "518-767-9432",
+    "website": "mailto:info@BethlehemHistorical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sunday afternoons in June, July, August & September. And by appointment.",
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Ticonderoga Historical Society",
+    "address": {
+      "streetAddress": "6 Moses CircleTiconderoga, NY 12883",
+      "mailingAddress": "Moses CircleTiconderoga, NY 12883"
+    },
+    "phone": "518-585-7868",
+    "website": "mailto:tihistory@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Tioga County Historical Society",
+    "address": {
+      "streetAddress": "110 Front StreetOwego, NY 13827",
+      "mailingAddress": null
+    },
+    "phone": "607-687-2460",
+    "website": "mailto:museum@tiogahistory.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Tioga-County-Historical-Society/326059436520",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Town of Bethlehem Historical Association",
+    "address": {
+      "streetAddress": "1003 River RoadSelkirk, NY 12158",
+      "mailingAddress": null
+    },
+    "phone": "518-767-9432",
+    "website": "mailto:info@BethlehemHistorical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Town of Lexington Historical Society",
+    "address": {
+      "streetAddress": "18 Church StreetLexington, NY 12452",
+      "mailingAddress": "PO Box 247Lexington, NY 12452"
+    },
+    "phone": "518-989-6484",
+    "website": "mailto:maidawinters@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Trinity Museum of the Parish of Trinity Church",
+    "address": {
+      "streetAddress": "74 Trinity PlaceNew York, NY 10006",
+      "mailingAddress": null
+    },
+    "phone": "212-602-0800",
+    "website": "https://www.trinitywallstreet.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Trinity-Wall-Street/118052555397",
+      "twitter": "https://www.twitter.com/TrinityWallSt",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Church"
+    ]
+  },
+  {
+    "name": "Tyler Art Gallery",
+    "address": {
+      "streetAddress": "126 Tyler Hall, #7Oswego, NY 13126",
+      "mailingAddress": null
+    },
+    "phone": "315-312-2112",
+    "website": "mailto:michael.flanagan@oswego.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Big Springs Museum and Historical Society",
+    "address": {
+      "streetAddress": "3095 Main Street.Caledonia, NY 14423",
+      "mailingAddress": "Caledonia, NY 14423"
+    },
+    "phone": "585-538-9880",
+    "website": "mailto:bigspringshistoricalsociety@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Ukrainian Museum",
+    "address": {
+      "streetAddress": "222 East 6th Streetbtw 2nd and 3rd AvenuesNew York, NY 10003",
+      "mailingAddress": "222 East 6th St.New York, NY 10003"
+    },
+    "phone": "212-228-0110",
+    "website": "mailto:info@ukrainianmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Ulster County Historical Society",
+    "address": {
+      "streetAddress": "2682 Route 209Marbletown, NY 12419",
+      "mailingAddress": "Post Office Box 279Stone Ridge, NY 12484"
+    },
+    "phone": "845-338-5614",
+    "website": "mailto:sitedirector@bevierhousemuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "University Art Gallery/Staller Center for the Arts",
+    "address": {
+      "streetAddress": "SUNY at Stony BrookStony Brook, NY 11794",
+      "mailingAddress": null
+    },
+    "phone": "631-632-7235",
+    "website": "mailto:webmaster@stallercenter.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "University Art Museum, SUNY Albany",
+    "address": {
+      "streetAddress": "1400 Washington AvenueAlbany, NY 12222",
+      "mailingAddress": null
+    },
+    "phone": "518-442-4035",
+    "website": "https://www.albany.edu/museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": "https://www.twitter.com/UAlbany_museum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/universityatalbany"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "University at Buffalo Art Gallery",
+    "address": {
+      "streetAddress": "201A Center for the ArtsBuffalo, NY 14260",
+      "mailingAddress": null
+    },
+    "phone": "716-645-6913",
+    "website": "mailto:sfirmin@buffalo.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Utica Zoological Society",
+    "address": {
+      "streetAddress": "99 Steele Hill RoadUtica, NY 13501",
+      "mailingAddress": null
+    },
+    "phone": "315-738-0472",
+    "website": "mailto:events@uticazoo.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Van Cortlandt House Museum",
+    "address": {
+      "streetAddress": "Broadway & 246th St.Bronx, NY 10471",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.vancortlandthouse.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Van Wyck Homestead Museum",
+    "address": {
+      "streetAddress": "504 Route 9 at I-84Fishkill, NY 12524",
+      "mailingAddress": "P.O. Box 133Fishkill, NY 12524"
+    },
+    "phone": "845-896-9560",
+    "website": "mailto:vanwyckhomestead@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Military"
+    ]
+  },
+  {
+    "name": "Vanderbilt Mansion NHS",
+    "address": {
+      "streetAddress": "4097 Albany Post RdHyde Park, NY 12538",
+      "mailingAddress": null
+    },
+    "phone": "845-229-9115",
+    "website": "https://www.nps.gov/vama/index.htm",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/VAMANHS",
+      "twitter": "https://www.twitter.com/NPS_HydePark",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Planetarium"
+    ]
+  },
+  {
+    "name": "Victor Historical Society",
+    "address": {
+      "streetAddress": "Victor, NY 14564",
+      "mailingAddress": "Box 472Victor, NY 14564"
+    },
+    "phone": "585-924-4170",
+    "website": "mailto:info@valentown.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Walt Whitman Birthplace Museum",
+    "address": {
+      "streetAddress": "246 Old Walt Whitman RoadHuntington Station, NY 11746",
+      "mailingAddress": null
+    },
+    "phone": "631-427-5240",
+    "website": "mailto:director@waltwhitman.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Walter Elwood Museum",
+    "address": {
+      "streetAddress": "300 Guy Park Ave.Amsterdam, NY 12010",
+      "mailingAddress": null
+    },
+    "phone": "518-843-5151",
+    "website": "mailto:info@walterelwoodmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "General",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Wantagh Preservation Society",
+    "address": {
+      "streetAddress": "1700 Wantagh AvenueWantagh, NY 11793",
+      "mailingAddress": "P.O. Box 132Wantagh, NY 11793"
+    },
+    "phone": "516-826-8767",
+    "website": "https://www.wantagh.li/museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Ward o'Hara Agricultural Museum of Cayuga County",
+    "address": {
+      "streetAddress": "6880 East Lake RoadAuburn, NY 13021",
+      "mailingAddress": "East Lake RoadAuburn, NY 13021"
+    },
+    "phone": "315-252-7644",
+    "website": "mailto:countywebmaster@cayugacounty.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Warsaw Historical Museum",
+    "address": {
+      "streetAddress": "15 Perry AvenueWarsaw, NY 14569",
+      "mailingAddress": "Warsaw, NY 14569"
+    },
+    "phone": "585-786-5240",
+    "website": "mailto:gateshouse@basicisp.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Adirondack History Center Museum",
+    "address": {
+      "streetAddress": "7590 Court StreetElizabethtown, NY 12932",
+      "mailingAddress": "PO Box 428Elizabethtown, NY 12932"
+    },
+    "phone": "518-873-6466",
+    "website": "mailto:echs@adkhistorycenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open Memorial Day to Columbus Day \nMonday - Saturday 9am-5pm, Sunday 1-5pm \nResearch Library open by appointment",
+    "museumTypes": [
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Washington County Historical Society",
+    "address": {
+      "streetAddress": "167 BroadwayFort Edward, NY 12828",
+      "mailingAddress": "167 BroadwayFort Edward, NY 12865"
+    },
+    "phone": "518-747-9108",
+    "website": "mailto:wchs@wchs-ny.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Washington's Headquarters State Historic Site",
+    "address": {
+      "streetAddress": "84 Liberty St.Newburg, NY 12551",
+      "mailingAddress": "P.O. box 1783Newburg, NY 12551"
+    },
+    "phone": "845-562-1195",
+    "website": "https://nysparks.com/historic-sites/17/details.aspx",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Water Mill Museum",
+    "address": {
+      "streetAddress": "41 Old MIll RoadWater Mill, NY 11976",
+      "mailingAddress": "P.O. Box 63Water Mill, NY 11976"
+    },
+    "phone": "631-726-4625",
+    "website": "mailto:info@wtermillmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "National Memorial Day Museum",
+    "address": {
+      "streetAddress": "35 East Main StreetWaterloo, NY 13165",
+      "mailingAddress": "31 E. WilliamWaterloo, NY 13165"
+    },
+    "phone": "315-539-9611",
+    "website": "https://www.waterloony.com/mdaymus.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Wave Hill",
+    "address": {
+      "streetAddress": "675 West 252 StreetBronx, NY 10471",
+      "mailingAddress": null
+    },
+    "phone": "718-549-3200",
+    "website": "mailto:information@wavehill.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/WaveHill",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/wavehillvideo"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Wayne County Historical Society",
+    "address": {
+      "streetAddress": "21 Butternut StreetLyons, NY 14489",
+      "mailingAddress": null
+    },
+    "phone": "315-946-4943",
+    "website": "mailto:info@waynehistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Weinberg Nature Center",
+    "address": {
+      "streetAddress": "455 Mamaroneck Rd.Scarsdale, NY 10583",
+      "mailingAddress": null
+    },
+    "phone": "914-722-1289",
+    "website": "mailto:info@weinbergnaturecenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "West Point Museum",
+    "address": {
+      "streetAddress": "2110 New South Post RoadWest Point, NY 10996",
+      "mailingAddress": null
+    },
+    "phone": "845-938-3590",
+    "website": "mailto:usarmy.westpoint.cmh.mbx.west-point-museum@army.mil",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/WestPointMuseum/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Military",
+      "Specialized",
+      "University"
+    ]
+  },
+  {
+    "name": "Bolton Historical Museum",
+    "address": {
+      "streetAddress": "4924 Main StreetBolton Landing, NY 12814",
+      "mailingAddress": "PO Box 441Bolton Landing, NY 12814"
+    },
+    "phone": "518-644-9960",
+    "website": "mailto:info@boltonhistorical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Westchester County Historical Society",
+    "address": {
+      "streetAddress": "2199 Saw Mill River Rd.Elmsford, NY 10523",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.westchesterhistory.com/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Elmsford-NY/Westchester-County-Historical-Society/352806679328?ref=ts&v=wall",
+      "twitter": "https://www.twitter.com/westchesterhist",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Westmoreland Sanctuary",
+    "address": {
+      "streetAddress": "260 Chestnut Ridge Rd.Bedford Corners, NY 10549",
+      "mailingAddress": null
+    },
+    "phone": "914-666-8448",
+    "website": "mailto:westsanc@optonline.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "White Plains Museum Gallery",
+    "address": {
+      "streetAddress": "100 Martine Ave.Second FloorWhite Plains, NY 10601",
+      "mailingAddress": "David Tobey5 Sylvan PlaceNew Rochelle, NY 10801"
+    },
+    "phone": "914-632-8226",
+    "website": "mailto:david@davidobey.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Library"
+    ]
+  },
+  {
+    "name": "Whitney Museum of American Art",
+    "address": {
+      "streetAddress": "945 Madison AvenueNew York, NY 10021",
+      "mailingAddress": null
+    },
+    "phone": "212-570-3600",
+    "website": "mailto:info@whitney.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "William Pryor Letchworth Museum",
+    "address": {
+      "streetAddress": "1 Letchworth State ParkCastile, NY 14427",
+      "mailingAddress": null
+    },
+    "phone": "585-493-3600",
+    "website": "https://www.nysparks.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Boscobel Restoration, Inc.",
+    "address": {
+      "streetAddress": "1601 RT 9DGarrison, NY 10524",
+      "mailingAddress": null
+    },
+    "phone": "845-265-3638",
+    "website": "mailto:info@boscobel.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Greyton H. Taylor Wine Museum",
+    "address": {
+      "streetAddress": "8843 Greyton H. Taylor Memorial Dr.Hammondsport, NY 14840",
+      "mailingAddress": null
+    },
+    "phone": "607-868-3610",
+    "website": "mailto:will.king@bullyhill.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/ghtwinemuseum",
+      "twitter": "https://www.twitter.com/GhtWine",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wine Shop, Tasting Room, Gift Shop",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Park",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Women's Rights National Historical Park",
+    "address": {
+      "streetAddress": "136 Fall St.Seneca Falls, NY 13148",
+      "mailingAddress": null
+    },
+    "phone": "315-568-0024",
+    "website": "https://www.nps.gov/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "World Awareness Children's Museum",
+    "address": {
+      "streetAddress": "89 Warren StreetGlens Falls, NY 12801",
+      "mailingAddress": null
+    },
+    "phone": "518-793-2773",
+    "website": "mailto:admin@worldchildrensmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Yager Museum of Art & Culture",
+    "address": {
+      "streetAddress": "Yager Hall, Hartwick ColegeOne Hartwick DriveOneonta, NY 13820",
+      "mailingAddress": "Hartwick CollegeOne Hartwick CollegeOneonta, NY 13820"
+    },
+    "phone": "607-431-4480",
+    "website": "mailto:kendalld@hartwick.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/yagermuseum/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Hours when the College is in session; other times by appointment.",
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Art",
+      "Culture",
+      "History",
+      "Library",
+      "University"
+    ]
+  },
+  {
+    "name": "Yates County Genealogical and Historical Society",
+    "address": {
+      "streetAddress": "107 Chapel StreetPenn Yan, NY 14527",
+      "mailingAddress": null
+    },
+    "phone": "315-536-7318",
+    "website": "mailto:ycghs@yatespast.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Saturdays by appointment",
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Yeshiva University Museum",
+    "address": {
+      "streetAddress": "15 West 16th StreetNew York, NY 10011",
+      "mailingAddress": null
+    },
+    "phone": "212-294-8330",
+    "website": "mailto:info@yum.cjh.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "University"
+    ]
+  }
+]

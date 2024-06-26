@@ -1,0 +1,1422 @@
+[
+  {
+    "name": "Burtner House Restoration, Inc.",
+    "address": {
+      "streetAddress": "Exit 15 of The Allegheny Valley Expressway (Route 28)Natrona Heights, PA 15065",
+      "mailingAddress": "P.O. Box 292Natrona Heights, PA 15065"
+    },
+    "phone": "724-224-7999",
+    "website": "https://www.akvalley.com/burtner/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Bushy Run Battlefield Heritage Society",
+    "address": {
+      "streetAddress": "1253 Bushy Run RoadJeannette, PA 15644",
+      "mailingAddress": "P.O. Box 468Harrison City, PA 15636"
+    },
+    "phone": "724-527-5584",
+    "website": "mailto:brbhs@winbeam.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open April through October, Wednesday through Sunday from 9AM-5PM. Park grounds open yearround from 9AM-5PM.",
+    "museumTypes": [
+      "Military",
+      "Park"
+    ]
+  },
+  {
+    "name": "Butler County Historical Society",
+    "address": {
+      "streetAddress": "123 West Diamond StreetButler, PA 16001",
+      "mailingAddress": "P.O. Box 414Butler, PA 16003"
+    },
+    "phone": "724-283-8116",
+    "website": "mailto:bchissoc@zoominternet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "California Area Historical Society",
+    "address": {
+      "streetAddress": "429 Wood Street @ 5th St.California, PA 15419",
+      "mailingAddress": "P.O. Box 624California, PA 15419"
+    },
+    "phone": "724-938-3250",
+    "website": "https://freepages.genealogy.rootsweb.ancestry.com/~pamonval/cityboro/files/californiahs.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Albany Township Historical Society",
+    "address": {
+      "streetAddress": "PO Box 95Kempton, PA 19529",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:info@albanyths.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Cambria County Historical Society",
+    "address": {
+      "streetAddress": "615 North Center StreetEbensburg, PA 15931",
+      "mailingAddress": null
+    },
+    "phone": "814-472-6674",
+    "website": "mailto:awbuck@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Cambridge Springs Historical Society",
+    "address": {
+      "streetAddress": "26 Federal StreetCambridge Springs, PA 16403",
+      "mailingAddress": "R D # 2 Gravel Run RdSaegertown, PA 16433"
+    },
+    "phone": "814-398-1827",
+    "website": "https://freepages.genealogy.rootsweb.ancestry.com/~fraber/cambridgehistsoc.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Cameron County Historical Society /The Little Museum",
+    "address": {
+      "streetAddress": "Star RouteEmporium, PA 15834",
+      "mailingAddress": "P.O. Box 433Emporium, PA 15834"
+    },
+    "phone": null,
+    "website": "mailto:Info@thelittlemuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Camp Curtin Historical Society",
+    "address": {
+      "streetAddress": "2221 N. 6th St.Harrisburg, PA 17110",
+      "mailingAddress": "Post Office Box 5601Harrisburg, PA 17110"
+    },
+    "phone": "800-732-0999",
+    "website": "mailto:CampCurtin@Verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Canal Museum",
+    "address": {
+      "streetAddress": "60 Alan Ave.Greenville, PA 16125",
+      "mailingAddress": "PO Box 244Greenville, PA 16125"
+    },
+    "phone": "724-588-7540",
+    "website": "https://www.greenvillecanalmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Canton Area Historical Society, Inc.",
+    "address": {
+      "streetAddress": "20 Crooks TerraceCanton, PA 17724",
+      "mailingAddress": "c/o 20 CROOKS TERRACECanton, PA 17724"
+    },
+    "phone": null,
+    "website": "mailto:cantonhist@comcast.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Carbondale Historical Society and Museum, Inc.",
+    "address": {
+      "streetAddress": "1 N. Main StCarbondale, PA 18407",
+      "mailingAddress": "P.O. Box 151Carbondale, PA 18407"
+    },
+    "phone": "570-282-0385",
+    "website": "https://www.carbondalehistorical.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Alburtis Lockridge Historical Society",
+    "address": {
+      "streetAddress": "407 Franklin StreetAlburtis, PA 18011",
+      "mailingAddress": "PO Box 427Alburtis, PA 18011"
+    },
+    "phone": "484-366-9987",
+    "website": "mailto:alhs18011@aol.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Alburtis-Lockridge-Historical-Society/233346193384244#!/pages/Alburtis-Lockridge-Historical-Society/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "Carnegie Library of Pittsburgh",
+    "address": {
+      "streetAddress": "4400 Forbes AvenuePittsburgh, PA 15213",
+      "mailingAddress": null
+    },
+    "phone": "412-622-3114",
+    "website": "https://www.carnegielibrary.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/home.php?#!/pages/Carnegie-Library-of-Pittsburgh/73877691965",
+      "twitter": "https://www.twitter.com/clp_tweets",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Carnegie Museum of Natural History",
+    "address": {
+      "streetAddress": "4400 Forbes AvenuePittsburgh, PA 15213",
+      "mailingAddress": null
+    },
+    "phone": "412-412-3131",
+    "website": "mailto:cmnhweb@CarnegieMNH.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday–Saturday: 10 a.m. – 5 p.m. \nThursday: 10 a.m. – 8 p.m. \nSunday: 12 p.m. – 5 p.m. \nMonday: Closed \n\n* Open 10–5 on New Year's Eve, Martin Luther King, Jr. Day, President's Day, and Mondays in the summer between 4th of July and Labor Day.",
+    "museumTypes": [
+      "Natural History",
+      "Science"
+    ]
+  },
+  {
+    "name": "Carnegie Science Center~The",
+    "address": {
+      "streetAddress": "One Allegheny Ave.Pittsburgh, PA 15212",
+      "mailingAddress": null
+    },
+    "phone": "412-237-3400",
+    "website": "https://www.carnegiesciencecenter.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Carpenters' Hall",
+    "address": {
+      "streetAddress": "320 Chestnut StreetPhiladelphia, PA 19106",
+      "mailingAddress": null
+    },
+    "phone": "215-925-0167",
+    "website": "mailto:carphall@carpentershall.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Center for Northern Appalachian Studies",
+    "address": {
+      "streetAddress": "300 Fraser Purchase Rd.Latrobe, PA 15601",
+      "mailingAddress": null
+    },
+    "phone": "724-537-4557",
+    "website": "mailto:rwissolik@stvincent.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture"
+    ]
+  },
+  {
+    "name": "Allegheny Arms & Armor Museum",
+    "address": {
+      "streetAddress": "505-1/2 W. Main StreetSmethport, PA 16749",
+      "mailingAddress": null
+    },
+    "phone": "814-558-6112",
+    "website": "mailto:info@armsandarmormuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Military"
+    ]
+  },
+  {
+    "name": "Centre County Genealogical Society & Library",
+    "address": {
+      "streetAddress": "P.O. Box 1135State College, PA 16804",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:gramerec@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Centre County Historical Society",
+    "address": {
+      "streetAddress": "1001 East College AvenueState College, PA 16801",
+      "mailingAddress": null
+    },
+    "phone": "814-234-4779",
+    "website": "https://centrecountyhistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Centre County Library & Historical Museum",
+    "address": {
+      "streetAddress": "203 N. Allegheny StreetBellefonte, PA 16823",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:museum@centrecountylibrary.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  },
+  {
+    "name": "Chadds Ford Historical Society",
+    "address": {
+      "streetAddress": "1736 Creek RoadChadds Ford, PA 19317",
+      "mailingAddress": "P.O. Box 27Chadds Ford, PA 19317"
+    },
+    "phone": "610-388-7376",
+    "website": "mailto:info@chaddsfordhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Charleroi Area Historical Society, Incorporated",
+    "address": {
+      "streetAddress": "807 FallowfieldCharleroi, PA 15022",
+      "mailingAddress": null
+    },
+    "phone": "724-483-4961",
+    "website": "https://charleroi-historical.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "See posted hours and days at website",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Chester County Archives and Records Services",
+    "address": {
+      "streetAddress": "601 Westtown Rd., Suite 080West Chester, PA 19380",
+      "mailingAddress": "West Chester, PA 19382"
+    },
+    "phone": "610-344-6760",
+    "website": "mailto:ccarchives@chesco.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Chester County Historical Society",
+    "address": {
+      "streetAddress": "225 North High StreetWest Chester, PA 19380",
+      "mailingAddress": null
+    },
+    "phone": "610-692-4800",
+    "website": "mailto:cchs@chestercohistorical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Chester Historical Preservation Society",
+    "address": {
+      "streetAddress": "2320 Chestnut StChester, PA 19013",
+      "mailingAddress": null
+    },
+    "phone": "610-876-5355",
+    "website": "https://www.delcohistory.org/chester/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Chestnut Hill Historical Society",
+    "address": {
+      "streetAddress": "8708 Germantown AvenuePhiladelphia, PA 19118",
+      "mailingAddress": null
+    },
+    "phone": "215-247-0417",
+    "website": "mailto:info@chhist.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Appointments are preferred.",
+    "museumTypes": [
+      "Botanical Garden",
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "Chichester/Marcus Hook Historical Society",
+    "address": {
+      "streetAddress": "7 W Second StMarcus Hook, PA 19061",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:Chichesterhistory@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Children's Museum, Inc.",
+    "address": {
+      "streetAddress": "2 West Seventh StreetBloomsburg, PA 17815",
+      "mailingAddress": null
+    },
+    "phone": "570-389-9206",
+    "website": "https://www.the-childrens-museum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Art",
+      "Children's",
+      "Culture",
+      "History",
+      "Natural History",
+      "Nature Centers",
+      "Science"
+    ]
+  },
+  {
+    "name": "Christian C. Sanderson Museum",
+    "address": {
+      "streetAddress": "1755 Creek Road (Old Route 100)Chadds Ford, PA 19317",
+      "mailingAddress": "P.O. Box 153Chadds Ford, PA 19317"
+    },
+    "phone": "610-388-6545",
+    "website": "mailto:info@sandersonmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "History",
+      "Historic House",
+      "Military"
+    ]
+  },
+  {
+    "name": "Civil War and Underground Railroad Museum of Philadelphia",
+    "address": {
+      "streetAddress": "Civil War and Underground Railroad Museum of Philadelphia1805 Pine StreetPhiladelphia, PA 19103",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.cwurmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Thursday - Saturday 11:00 a.m. - 4:30 p.m.",
+    "museumTypes": [
+      "History",
+      "Library",
+      "Military"
+    ]
+  },
+  {
+    "name": "Clarion County Historical Society",
+    "address": {
+      "streetAddress": "Sutton-Ditz House Museum18 Grant StreetClarion, PA 16214",
+      "mailingAddress": "17 S 5th AveClarion, PA 16214"
+    },
+    "phone": "814-226-4450",
+    "website": "mailto:clarionhistory@comcast.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Clarion-County-Historical-Society/109532589829?ref=hl",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Cemetery",
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Clinton County Historical Society",
+    "address": {
+      "streetAddress": "362 East Water StreetLock Haven, PA 17745",
+      "mailingAddress": null
+    },
+    "phone": "570-748-7254",
+    "website": "mailto:execdir@clintoncountyhistory.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#!/group.php?gid=321835561693&ref=ts",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Allegheny College Art Galleries",
+    "address": {
+      "streetAddress": "Box U, Allegheny College520 N. Main StreetMeadville, PA 16335",
+      "mailingAddress": null
+    },
+    "phone": "814-332-3100",
+    "website": "https://www.allegheny.edu/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Meadville-PA/Allegheny-College/13758280430",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Colonial Pennsylvania Plantation",
+    "address": {
+      "streetAddress": "Ridley Creek State ParkMedia, PA 19063",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.colonialplantation.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Columbia Co. Hist. & Gen. Society",
+    "address": {
+      "streetAddress": "225 Main StreetPO Box 360Bloomsburg, PA 17815",
+      "mailingAddress": null
+    },
+    "phone": "570-784-1600",
+    "website": "https://www.colcohist-gensoc.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Columbus Chapel and Boal Mansion Museum",
+    "address": {
+      "streetAddress": "163 Boal Estate DriveBoalsburg, PA 16827",
+      "mailingAddress": "P.O. Box 116Boalsburg, PA 16827-0116"
+    },
+    "phone": null,
+    "website": "mailto:office@boalmuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Historic House",
+      "Military"
+    ]
+  },
+  {
+    "name": "Concord School Association",
+    "address": {
+      "streetAddress": "6309 Germantown AvenuePhiladelphia, PA 19144",
+      "mailingAddress": null
+    },
+    "phone": "215-843-0943",
+    "website": "mailto:info@concordschoolhouse.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/ConcordUBG",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Concord Township Historical Society",
+    "address": {
+      "streetAddress": "Box 152Concordville, PA 19331",
+      "mailingAddress": null
+    },
+    "phone": "610-459-8911",
+    "website": "https://www.delcohistory.org/concord/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Allegheny Foothills Historical Society",
+    "address": {
+      "streetAddress": "445 Center-New Texas RoadPlum, PA 15239",
+      "mailingAddress": "Pittsburgh, PA 15239"
+    },
+    "phone": "412-832-0685",
+    "website": "mailto:plumhistory@yahoo.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#!/pages/Allegheny-Foothills-Historical-Society/192999504072640",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Conneaut Lake Area Historical Society",
+    "address": {
+      "streetAddress": "10498 U.S. Hwy 6Conneaut Lake, PA 16316",
+      "mailingAddress": "P.O. Box 425Conneaut Lake, PA 16316"
+    },
+    "phone": "814-382-6894",
+    "website": "https://www.conneautlakehistory.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Conneaut Valley Area Historical Society",
+    "address": {
+      "streetAddress": "1625 Main St.Conneautville, PA 16406",
+      "mailingAddress": "P. O. Box 266Conneautville, PA 16406"
+    },
+    "phone": "814-587-3782",
+    "website": "mailto:Society@cvahs.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Connellsville Area Historical Society",
+    "address": {
+      "streetAddress": "299 S. Pittsburgh StreetConnellsville, PA 15425",
+      "mailingAddress": null
+    },
+    "phone": "724-628-5640",
+    "website": "mailto:chs@connellsvillehistoricalsociety.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Conrad Weiser Homestead",
+    "address": {
+      "streetAddress": "28 Weiser RoadWomelsdorf, PA 19567",
+      "mailingAddress": null
+    },
+    "phone": "610-589-2934",
+    "website": "mailto:info@conradweiserhomestead.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Conservancy of Montgomery County~The",
+    "address": {
+      "streetAddress": "P.O. Box 28Ambler, PA 19002",
+      "mailingAddress": "PO Box 314Plymouth Meeting, PA 19002"
+    },
+    "phone": "215-283-0383",
+    "website": "mailto:info@conservemontco.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Allegheny Portage Railroad National Historic Site",
+    "address": {
+      "streetAddress": "United States",
+      "mailingAddress": null
+    },
+    "phone": "814-886-6150",
+    "website": "mailto:diane_garcia@nps.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Park hours can change due to holidays and inclement weather. If traveling a great distance you may want to call the park for operating hours.",
+    "museumTypes": [
+      "Archaeology",
+      "Children's",
+      "General",
+      "History",
+      "Historic House",
+      "Natural History",
+      "Nature Centers",
+      "Park",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Coolspring Power Museum",
+    "address": {
+      "streetAddress": "179 Coolspring RoadCoolspring, PA 15730",
+      "mailingAddress": "P.O. Box 19Coolspring, PA 15730"
+    },
+    "phone": "814-849-6883",
+    "website": "mailto:cpm@coolspringpowermuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Science"
+    ]
+  },
+  {
+    "name": "Coopersburg Historical Society",
+    "address": {
+      "streetAddress": "State and Main streetsCoopersburg, PA 18036",
+      "mailingAddress": "P.O. Box 51Coopersburg, PA 18036"
+    },
+    "phone": "610-282-3138",
+    "website": "https://coopersburg.org/HistoricalSociety.cfm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Cornwall Iron Furnace",
+    "address": {
+      "streetAddress": "94 Rexmont RoadCornwall, PA 17016",
+      "mailingAddress": "P.O. Box 251Cornwall, PA 17016"
+    },
+    "phone": "717-272-9711",
+    "website": "https://www.cornwallironfurnace.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Corry Area Historical Society, Inc",
+    "address": {
+      "streetAddress": "945 Mead AvenueCorry, PA 16407",
+      "mailingAddress": "945 Mead AvenueCorry, PA 16407"
+    },
+    "phone": "814-664-4749",
+    "website": "mailto:admin@corryareahistoricalsociety.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/corryareahistoricalsociety/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/@corryareahistoricalsociety3476"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historical Society",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Crafton Historical Society",
+    "address": {
+      "streetAddress": "140 Bradford Ave.Pittsburgh, PA 15205",
+      "mailingAddress": null
+    },
+    "phone": "412-922-6884",
+    "website": "https://www.craftonhistoricalsociety.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Cranberry Township Historical Society",
+    "address": {
+      "streetAddress": "2525 Rochester RoadCranberry Twp, PA 16066",
+      "mailingAddress": "P.O. Box 1931Cranberry Twp, PA 16066"
+    },
+    "phone": null,
+    "website": "https://explorecranberry.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Crary Art Gallery",
+    "address": {
+      "streetAddress": "511 Market StreetWarren, PA 16365",
+      "mailingAddress": null
+    },
+    "phone": "814-723-4523",
+    "website": "mailto:info@crarygallery.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open to the public during scheduled exhibitions or by appointment:",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "1696 Thomas Massey House",
+    "address": {
+      "streetAddress": "Lawrence & Springhouse RoadsBroomall, PA 19008",
+      "mailingAddress": "P.O. Box 18Broomall, PA 19008"
+    },
+    "phone": "610-353-3644",
+    "website": "https://www.thomasmasseyhouse.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "May - OctoberSunday 1:00 p.m. - 4:00 p.m.",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Craven Hall Historical Society, Inc.",
+    "address": {
+      "streetAddress": "599 Newtown RoadWarminster, PA 18974",
+      "mailingAddress": "P.O. Box 2042Warminster, PA 18974"
+    },
+    "phone": null,
+    "website": "https://www.centennialsd.org/wth/sch/CravenHall/index.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "House Tours - 2nd Sunday of the month - 12:00 p.m. - 3:00 p.m.",
+    "museumTypes": [
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Crawford County Historical Society",
+    "address": {
+      "streetAddress": "411 Chestnut StreetMeadville, PA 16335",
+      "mailingAddress": "P.O. Box 411Meadville, PA 16335"
+    },
+    "phone": "814-724-6080",
+    "website": "mailto:crawfordhistorical@zoominternet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Cresson Area Historical Association Inc.",
+    "address": {
+      "streetAddress": "Third St.Cresson, PA 16630",
+      "mailingAddress": "PO box 352Cresson, PA 16630"
+    },
+    "phone": "814-886-7082",
+    "website": "https://www.cahainc.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Cumberland County Historical Society & Hamilton Library",
+    "address": {
+      "streetAddress": "21 N Pitt StreetCarlisle, PA 17013",
+      "mailingAddress": "P.O. Box 626Carlisle, PA 17013"
+    },
+    "phone": "717-249-7610",
+    "website": "mailto:info@historicalsociety.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Curtin Village",
+    "address": {
+      "streetAddress": "BOX 312Bellefonte, PA 16823",
+      "mailingAddress": null
+    },
+    "phone": "814-355-1982",
+    "website": "mailto:curtinvillage@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Daniel Boone Homestead",
+    "address": {
+      "streetAddress": "400 Daniel Boone Rd.Birdsboro, PA 19508",
+      "mailingAddress": null
+    },
+    "phone": "610-582-4900",
+    "website": "mailto:info@danielboonehomestead.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Darby Borough Historical Preservation Society",
+    "address": {
+      "streetAddress": "16 Winthrop RdDarby, PA 19023",
+      "mailingAddress": "PO Box 108Darby, PA 19023"
+    },
+    "phone": "610-583-4386",
+    "website": "https://www.delcohistory.org/darby",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "David Bradford House",
+    "address": {
+      "streetAddress": "175 S Main StWashington, PA 15301",
+      "mailingAddress": "P.O. Box 537Washington, PA 15301"
+    },
+    "phone": "724-222-3604",
+    "website": "mailto:bradfordhouse@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Allegheny-Kiski Valley Historical Society",
+    "address": {
+      "streetAddress": "224 E. 7th AvenueTarentum, PA 15084",
+      "mailingAddress": null
+    },
+    "phone": "724-224-7666",
+    "website": "mailto:akvhs@salsgiver.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Also by appointment.",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society",
+      "Library",
+      "Military"
+    ]
+  },
+  {
+    "name": "Dayton Area Local History Society",
+    "address": {
+      "streetAddress": "Box 15Dayton, PA 16222",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.daytonpa.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "DeBence Antique Music World",
+    "address": {
+      "streetAddress": "1261 Liberty StreetFranklin, PA 16323",
+      "mailingAddress": null
+    },
+    "phone": "814-432-8350",
+    "website": "mailto:debence@debencemusicworld.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Delaware County Institute of Science",
+    "address": {
+      "streetAddress": "11 Veterans SquareMedia, PA 19063",
+      "mailingAddress": null
+    },
+    "phone": "610-566-5126",
+    "website": "https://www.delcohistory.org/dcis/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Demuth Foundation",
+    "address": {
+      "streetAddress": "120 East King StreetLancaster, PA 17602",
+      "mailingAddress": null
+    },
+    "phone": "717-299-9940",
+    "website": "mailto:assistant@demuth.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "General",
+      "History",
+      "Library"
+    ]
+  }
+]

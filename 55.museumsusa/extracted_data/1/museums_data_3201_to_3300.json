@@ -1,0 +1,1280 @@
+[
+  {
+    "name": "Paul W. Bryant Museum",
+    "address": {
+      "streetAddress": "300 Paul W Bryant DrTuscaloosa, AL 35487",
+      "mailingAddress": "Box 870385Tuscaloosa, AL 35487"
+    },
+    "phone": "205-348-4668",
+    "website": "https://bryantmuseum.ua.edu/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/Bryant.Museum",
+      "twitter": "https://www.twitter.com/bryantmuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Performing Arts Center",
+    "address": {
+      "streetAddress": "119 W Laurel AveFoley, AL 36536",
+      "mailingAddress": "P.O. Box 295Foley, AL 36536"
+    },
+    "phone": "805-756-2787",
+    "website": "mailto:rregier@calpoly.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Alabama Sports Hall of Fame",
+    "address": {
+      "streetAddress": "2150 Richard Arrington Jr BlvdBirmingham, AL 35202",
+      "mailingAddress": "P.O. Box 10163Birmingham, AL 35202"
+    },
+    "phone": "205-323-6665",
+    "website": "mailto:info@ashof.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Piedmont Museum",
+    "address": {
+      "streetAddress": "N Center AvePiedmont, AL 36272",
+      "mailingAddress": "208 N Main StPiedmont, AL 36272"
+    },
+    "phone": "256-447-6904",
+    "website": "https://www.alabama.travel/things-to-do/attractions/piedmont_museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Pioneer Museum of Alabama",
+    "address": {
+      "streetAddress": "248 U.S. Highway 231 NorthTroy, AL 36081",
+      "mailingAddress": null
+    },
+    "phone": "334-566-3597",
+    "website": "mailto:pioneer@troycable.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Prattaugan Museum - Autauga County Heritage Center",
+    "address": {
+      "streetAddress": "102 East Main St.Prattville, AL 36067",
+      "mailingAddress": null
+    },
+    "phone": "334-361-0961",
+    "website": "mailto:museum@autaugahistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Military"
+    ]
+  },
+  {
+    "name": "Renaissance Gallery",
+    "address": {
+      "streetAddress": "431 Main AvenueNorthport, AL 35476",
+      "mailingAddress": null
+    },
+    "phone": "205-752-4422",
+    "website": "mailto:Renaissanceartga@bellsouth.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Reynolds Historical Library - UAB",
+    "address": {
+      "streetAddress": "1700 University BoulevardBirmingham, AL 35294",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.uab.edu/reynolds",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Alabama State Capitol",
+    "address": {
+      "streetAddress": "Capitol Operations, P.O. Box 300921Montgomery, AL 36130",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.preserveala.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Richards-DAR House Museum",
+    "address": {
+      "streetAddress": "256 North Joachim StreetMobile, AL 36603",
+      "mailingAddress": null
+    },
+    "phone": "251-402-1776",
+    "website": "mailto:info@richardsdarhouse.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Richards-Dar-House-Museum/116503671708100",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  },
+  {
+    "name": "Rickwood Field",
+    "address": {
+      "streetAddress": "1137 Second Avenue, WestBirmingham, AL",
+      "mailingAddress": "1137 Second Avenue, WestBirmingham, AL"
+    },
+    "phone": "205-458-8161",
+    "website": "mailto:david@rickwood.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Rikard's Mill Museum",
+    "address": {
+      "streetAddress": "31 North Alabama Ave.Monroeville, AL 36460",
+      "mailingAddress": "P.O. Box 1637Monroeville, AL 36461"
+    },
+    "phone": "251-575-7433",
+    "website": "mailto:mchm@frontiernet.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Monroe-County-Heritage-Museum/129443493754991",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Roland Cooper St. Park",
+    "address": {
+      "streetAddress": "285 Deer RunCamden, AL 36726",
+      "mailingAddress": null
+    },
+    "phone": "334-682-4838",
+    "website": "mailto:rolandcooperstatepark@frontiernet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Rosa Parks Museum",
+    "address": {
+      "streetAddress": "Troy UniversityMontgomery, AL 36104",
+      "mailingAddress": "P.O. Box 4419Montgomery, AL 36103"
+    },
+    "phone": "888-357-8843",
+    "website": "https://montgomery.troy.edu/museum/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/TroyUniversity",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/TroyUni"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Ruffner Mountain Nature Center",
+    "address": {
+      "streetAddress": "1214 South 81st StreetBirmingham, AL 35206",
+      "mailingAddress": null
+    },
+    "phone": "205-833-8264",
+    "website": "https://www.ruffnermountain.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Alabama State Council on the Arts",
+    "address": {
+      "streetAddress": "201 Monroe StreetMontgomery, AL 36130",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.arts.state.al.us/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Russell Cave National Monument",
+    "address": {
+      "streetAddress": "3729 County Road 98Bridgeport, AL 35740",
+      "mailingAddress": "Bridgeport, AL 35740"
+    },
+    "phone": "256-495-2672",
+    "website": "https://www.nps.gov/ruca/index.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Sci-Quest",
+    "address": {
+      "streetAddress": "102-D Wynn DriveHuntsville, AL 35805",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.sci-quest.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "General",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Scott & Zelda Fitzgerald Museum",
+    "address": {
+      "streetAddress": "919 Felder AvenueMontgomery, AL 36106",
+      "mailingAddress": "P.O. Box 64Montgomery, AL 36101"
+    },
+    "phone": "334-264-4222",
+    "website": "mailto:Info@FitzgeraldMuseum.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Shelby County Courthouse Museum and Archives",
+    "address": {
+      "streetAddress": "1854 Old Courthouse, P.O. Box 457Columbiana, AL 35051",
+      "mailingAddress": null
+    },
+    "phone": "205-669-3912",
+    "website": "https://www.shelbycountytourism.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Alabama Artist's Gallery",
+    "address": {
+      "streetAddress": "Alabama State Council on the Arts201 Monroe Avenue1 Dexter AveMontgomery, AL 36130",
+      "mailingAddress": "Alabama State Council on the Arts 201 Monroe AvenueMontgomery, AL 36130"
+    },
+    "phone": "334-242-4149",
+    "website": "https://www.arts.state.al.us/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Alabama Travel Council",
+    "address": {
+      "streetAddress": "516 Oliver RoadMontgomery, AL 36121",
+      "mailingAddress": "P.O. Box 210729Montgomery, AL 36121"
+    },
+    "phone": "334-271-0050",
+    "website": "mailto:patticulp@alabamatravel.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Sixteenth Street Baptist Church",
+    "address": {
+      "streetAddress": "1530 Sixth Avenue NorthBirmingham, AL 35203",
+      "mailingAddress": "1530 Sixth Avenue NorthBirmingham, AL"
+    },
+    "phone": "205-251-9402",
+    "website": "https://16thstreetbaptist.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Church"
+    ]
+  },
+  {
+    "name": "Sloss Furnaces",
+    "address": {
+      "streetAddress": "20 32nd StreetBirmingham, AL 35222",
+      "mailingAddress": null
+    },
+    "phone": "205-324-1911",
+    "website": "mailto:info@slossfurnaces.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Smith-Harrison Museum",
+    "address": {
+      "streetAddress": "50 Lester StreetColumbiana, AL 35051",
+      "mailingAddress": null
+    },
+    "phone": "205-669-8767",
+    "website": "mailto:info@washingtonmuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Southern Museum of Flight",
+    "address": {
+      "streetAddress": "4343 North 73rd StreetBirmingham, AL 35206",
+      "mailingAddress": null
+    },
+    "phone": "205-833-8226",
+    "website": "mailto:southernmuseumofflight@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Alabama Constitution Village",
+    "address": {
+      "streetAddress": "109 Gates StreetHuntsville, AL 35801",
+      "mailingAddress": null
+    },
+    "phone": "256-564-8100",
+    "website": "https://www.earlyworks.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture"
+    ]
+  },
+  {
+    "name": "Stevenson Railroad Depot Museum",
+    "address": {
+      "streetAddress": "Stevenson, AL 35772",
+      "mailingAddress": "P.O. Box 973407 East Willow StreetScottsboro, AL 35768"
+    },
+    "phone": "800-259-5508",
+    "website": "mailto:roden@scottsboro.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Sturdivant Hall",
+    "address": {
+      "streetAddress": "Selma, AL 36702",
+      "mailingAddress": "P.O.Box 1205Selma, AL 36702"
+    },
+    "phone": "334-872-5626",
+    "website": "mailto:info@sturdivanthall.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Three Notch Museum",
+    "address": {
+      "streetAddress": "Historic Central St.Andalusia, AL 36420",
+      "mailingAddress": "PO Box 1582Andalusia, AL 36420"
+    },
+    "phone": "334-222-2030",
+    "website": "https://www.alabama.travel/things-to-do/attractions/three_notch_museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Tuscaloosa Arts Council",
+    "address": {
+      "streetAddress": "Tuscaloosa, AL 35403",
+      "mailingAddress": "P.O. Box 1117Tuscaloosa, AL 35403"
+    },
+    "phone": null,
+    "website": "https://www.manifestimagery.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Tuscaloosa Tourism & Visitor's Bureau",
+    "address": {
+      "streetAddress": "1305 Greensboro AvenueTuscaloosa, AL 35401",
+      "mailingAddress": null
+    },
+    "phone": "205-391-9200",
+    "website": "https://www.tcvb.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/home.php#!/pages/Visit-Tuscaloosa/219159341456810",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Tuskegee Multicultural Center",
+    "address": {
+      "streetAddress": "104 South Elm StreetTuskegee, AL 36083",
+      "mailingAddress": "P.O. Box 830768Tuskegee, AL 36083"
+    },
+    "phone": null,
+    "website": "mailto:info@tuskegeecenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "U.S.S. Alabama Battleship Park",
+    "address": {
+      "streetAddress": "2703 Battleship ParkwayMobile, AL 36602",
+      "mailingAddress": "P.O. Box 65Mobile, AL 36601"
+    },
+    "phone": "251-433-2703",
+    "website": "mailto:btunnell@ussalabama.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "U.S. Space & Rocket Center",
+    "address": {
+      "streetAddress": "One Tranquility BaseHuntsville, AL 35805",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.spacecamp.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Military",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "UAB Archives",
+    "address": {
+      "streetAddress": "1700 University BoulevardBirmingham, AL 35294",
+      "mailingAddress": "1530 3rd Avenue SouthBirmingham, AL 35294"
+    },
+    "phone": "205-934-2230",
+    "website": "https://www.uab.edu/historical",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "UAB Historical Collections",
+    "address": {
+      "streetAddress": "1700 University BoulevardBirmingham, AL 35294",
+      "mailingAddress": "1530 3rd Avenue SouthBirmingham, AL 35294"
+    },
+    "phone": "205-934-2230",
+    "website": "https://www.uab.edu/historical",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "University of Alabama Arboretum",
+    "address": {
+      "streetAddress": "Tuscaloosa, AL 35487",
+      "mailingAddress": "P.O. Box 870344Tuscaloosa, AL 35487"
+    },
+    "phone": "205-553-3278",
+    "website": "mailto:arbor@bama.ua.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Arboretum"
+    ]
+  },
+  {
+    "name": "University of South Alabama Archives",
+    "address": {
+      "streetAddress": "Room 0722, USA Spring Hill AvenueMobile, AL 36688",
+      "mailingAddress": "307 University Blvd NMobile, AL 36688"
+    },
+    "phone": "251-460-6101",
+    "website": "https://www.southalabama.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "University"
+    ]
+  },
+  {
+    "name": "Aliceville Museum",
+    "address": {
+      "streetAddress": "104 Broad Street PlazaAliceville, AL 35442",
+      "mailingAddress": null
+    },
+    "phone": "205-373-2363",
+    "website": "mailto:museum@nctv.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/alicevillemuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/channel/UCBOVvIxLLIO0EaQXVEQzZuw"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Military",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "VisionLand",
+    "address": {
+      "streetAddress": "4599 Alabama Adventure ParkwayBessemer, AL",
+      "mailingAddress": "Bessemer, AL"
+    },
+    "phone": "205-481-4750",
+    "website": "mailto:info@alabamaadventure.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Visual Arts Gallery, UAB",
+    "address": {
+      "streetAddress": "900 13TH STREET S.Birmingham, AL 35294",
+      "mailingAddress": "101 Humanities Bld., 900 13th St. So.Birmingham, AL 35294"
+    },
+    "phone": "205-934-4941",
+    "website": "https://www.uab.edu/art/vagallery.php",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Tuscaloosa Museum of Art: Home of the Westervelt Collection",
+    "address": {
+      "streetAddress": "1400 Jack Warner Pkwy NETuscaloosa, AL 35404",
+      "mailingAddress": null
+    },
+    "phone": "205-562-5280",
+    "website": "mailto:museum@westervelt.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/Tuscaloosa%20Museum%20of%20Art:%20Home%20of%20the%20Westervelt%20Collection",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Weeks Bay Research Center",
+    "address": {
+      "streetAddress": "11401 US Highway 98Fairhope, AL 36532",
+      "mailingAddress": "11300 Highway 98Fairhope, AL 36532"
+    },
+    "phone": "251-990-5004",
+    "website": "mailto:marcia@weeksbay.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "West Jefferson Historical Society",
+    "address": {
+      "streetAddress": "190 Young & Vann Bldg.,1731 1st Ave N, Suite 190Birmingham, AL 35203",
+      "mailingAddress": "Birmingham, AL 35203"
+    },
+    "phone": "205-324-0988",
+    "website": "mailto:info@jeffersonhistorical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "West Point Lake",
+    "address": {
+      "streetAddress": "Stateline Rd., CR 212Lanett, AL 36863",
+      "mailingAddress": "Lanett, AL 36863"
+    },
+    "phone": "334-642-0487",
+    "website": "https://www.alabama.travel/things-to-do/attractions/west_point_lake",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Wheeler National Wildlife Refuge",
+    "address": {
+      "streetAddress": "2700 Refuge Headquarters RoadDecatur, AL 35603",
+      "mailingAddress": null
+    },
+    "phone": "256-353-7243",
+    "website": "mailto:wheeler@fws.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Wiregrass Museum of Art",
+    "address": {
+      "streetAddress": "126 Museum Ave.Dothan, AL 36303",
+      "mailingAddress": "P.O. Box 1624Dothan, AL 36302"
+    },
+    "phone": null,
+    "website": "https://www.wiregrassmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Saturday 10:00 am - 5:00 pm",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "American Sport Art Museum & Archives",
+    "address": {
+      "streetAddress": "One Academy DriveDaphne, AL 36526",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.asama.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "American Village",
+    "address": {
+      "streetAddress": "American Village3727 Alabama Highway 119Montevallo, AL 35115",
+      "mailingAddress": "P. O. Box 6Montevallo, AL 35115"
+    },
+    "phone": null,
+    "website": "https://www.americanvillage.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Anniston Museum of Natural History",
+    "address": {
+      "streetAddress": "800 Museum DrAnniston, AL 36202",
+      "mailingAddress": "P.O. Box 1587Anniston, AL 36202"
+    },
+    "phone": "256-237-6766",
+    "website": "mailto:info@annistonmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Arlington Antebellum Home",
+    "address": {
+      "streetAddress": "331 Cotton Avenue SouthwestBirmingham, AL 35211",
+      "mailingAddress": null
+    },
+    "phone": "205-780-5656",
+    "website": "mailto:opi@ci.birmingham.al.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Alabama Bureau of Tourism & Travel",
+    "address": {
+      "streetAddress": "401 Adams Avenue, Suite 126Montgomery, AL 36103",
+      "mailingAddress": "P.O. Box 4927Montgomery, AL 36103"
+    },
+    "phone": "334-242-4169",
+    "website": "mailto:info@tourism.alabama.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Army Aviation Museum",
+    "address": {
+      "streetAddress": "6000 Novosel StFort Rucker, AL 36362",
+      "mailingAddress": "P.O.Box 620610Fort Rucker, AL 36362"
+    },
+    "phone": "334-598-2508",
+    "website": "mailto:giftshopmanager@armyavnmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Military"
+    ]
+  },
+  {
+    "name": "Army Aviation Museum Foundation",
+    "address": {
+      "streetAddress": "6000 Novosel StFort Rucker, AL 36362",
+      "mailingAddress": "P.O.Box 620610Fort Rucker, AL 36362"
+    },
+    "phone": "334-598-2508",
+    "website": "mailto:giftshopmanager@armyavnmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Library",
+      "Military",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Art Galleries at UAH",
+    "address": {
+      "streetAddress": "Department of Art & Art History, UAH, RH313Huntsville, AL 35899",
+      "mailingAddress": null
+    },
+    "phone": "256-824-6114",
+    "website": "mailto:art@uah.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Auburn University Art Museum",
+    "address": {
+      "streetAddress": "317 South College StreetAuburn University, AL 36849",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.julecollinssmithmuseum.com/index.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Autauga County Heritage Association",
+    "address": {
+      "streetAddress": "102 East Main St.Prattville, AL 36067",
+      "mailingAddress": null
+    },
+    "phone": "334-361-0961",
+    "website": "mailto:director@autaugahistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Cemetery",
+      "Church",
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Military"
+    ]
+  },
+  {
+    "name": "Ave Maria Grotto",
+    "address": {
+      "streetAddress": "1600 St. Bernard Drive SECullman, AL 35055",
+      "mailingAddress": null
+    },
+    "phone": "256-734-4110",
+    "website": "https://www.avemariagrotto.com/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/avemariagrotto",
+      "twitter": "https://www.twitter.com/avemariagrotto",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Baldwin County Heritage Museum",
+    "address": {
+      "streetAddress": "25521 U.S. Highway 98 EElberta, AL 36530",
+      "mailingAddress": "P.O. Box 356Elberta, AL 36530"
+    },
+    "phone": null,
+    "website": "https://www.baldwincountyheritagemuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wednesday & Saturday 10:00 a.m. - 4:00 p.m.",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Barber Vintage Motorsports Museum",
+    "address": {
+      "streetAddress": "6030 Barber Motorsports ParkwayLeeds, AL 35094",
+      "mailingAddress": null
+    },
+    "phone": "205-699-7275",
+    "website": "mailto:bvmm@barbermuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "April 1 - September 30: Monday - Saturday  10am - 6pm, Sunday  Noon - 6pm.",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Alabama Cattleman's Association Museum",
+    "address": {
+      "streetAddress": "201 South BainbridgeMontgomery, AL 36104",
+      "mailingAddress": null
+    },
+    "phone": "334-265-1867",
+    "website": "mailto:mdavis@bamabeef.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": "https://www.twitter.com/beeffordinner",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/alabamacattlemen"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Battle-Friedman House",
+    "address": {
+      "streetAddress": "1010 Greensboro AvenueTuscaloosa, AL 35403",
+      "mailingAddress": "P.O. Box 1665Tuscaloosa, AL 35403"
+    },
+    "phone": null,
+    "website": "https://www.historictuscaloosa.org/tours5.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  }
+]

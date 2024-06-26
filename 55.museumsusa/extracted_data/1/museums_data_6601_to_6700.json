@@ -1,0 +1,1322 @@
+[
+  {
+    "name": "Sky Valley Stock & Antique Tractor Club",
+    "address": {
+      "streetAddress": "19524 Tualco Loop RoadMonroe, WA 98272",
+      "mailingAddress": "Monroe, WA 98272"
+    },
+    "phone": "360-568-8035",
+    "website": "mailto:gamages@comcast.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Western Heritage Center",
+    "address": {
+      "streetAddress": "14405 179th Ave SE MonroeMonroe, WA 98272",
+      "mailingAddress": "PMB21519916 Old Owen RoadMonroe, WA 98272"
+    },
+    "phone": "425-232-3493",
+    "website": "mailto:whc@clearwire.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Western-Heritage-Center-Museum-Monroe-WA/189023777812114",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Latah County Historical Society",
+    "address": {
+      "streetAddress": "327 E. Second StreetMoscow, ID 83843",
+      "mailingAddress": "Moscow, ID 83843"
+    },
+    "phone": "208-882-1004",
+    "website": "mailto:dcrandall@latah.id.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Moses Lake Museum & Art Center",
+    "address": {
+      "streetAddress": "401 S. Balsam Moses LakeMoses Lake, WA 98837",
+      "mailingAddress": "P. O. Box 1579Moses Lake, WA 98837"
+    },
+    "phone": "509-764-3830",
+    "website": "mailto:museum@cityofml.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/moseslakemuseum",
+      "twitter": "https://www.twitter.com/molamuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Now open 6 days a week! Gallery receptions 5pm - 8pm as scheduled. Closed most major holidays.",
+    "museumTypes": [
+      "Art",
+      "History"
+    ]
+  },
+  {
+    "name": "Padilla Bay National Estuarine Research Reserve",
+    "address": {
+      "streetAddress": "10441 Bayview-Edison RoadMount Vernon, WA 98273",
+      "mailingAddress": "Mount Vernon, WA 98273"
+    },
+    "phone": "360-428-1070",
+    "website": "mailto:alex@padillabay.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Aquarium",
+      "Library",
+      "Natural History",
+      "Nature Centers",
+      "Science"
+    ]
+  },
+  {
+    "name": "Mukilteo Historical Museum",
+    "address": {
+      "streetAddress": "304 Lincoln #9Mukilteo, WA 98275",
+      "mailingAddress": "Mukilteo, WA 98275"
+    },
+    "phone": null,
+    "website": "mailto:info@mukilteohistorical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Makah Museum",
+    "address": {
+      "streetAddress": "Neah Bay, WA 98357",
+      "mailingAddress": "P. O. Box 160Neah Bay, WA 98357"
+    },
+    "phone": "360-645-2711",
+    "website": "mailto:makahmuseum@centurytel.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Pend Oreille County Historical Society Museum",
+    "address": {
+      "streetAddress": "402 S. Washington AveNewport, WA 99156",
+      "mailingAddress": "P. O. Box 1409Newport, WA 99156"
+    },
+    "phone": "509-447-2770",
+    "website": "https://www.pocmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Spokane House Interpretive Center",
+    "address": {
+      "streetAddress": "96028 W Old Charles RdNine Mile Falls, WA 99026",
+      "mailingAddress": "Nine Mile Falls, WA 99026"
+    },
+    "phone": null,
+    "website": "mailto:hivernant@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Washington State Parks and Recreation Commission",
+    "address": {
+      "streetAddress": "10541 Flagler RoadNordland, WA 98358",
+      "mailingAddress": "Nordland, WA 98358"
+    },
+    "phone": "360-902-8844",
+    "website": "mailto:infocent@parks.wa.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Deception Pass CCC Interpretive Center",
+    "address": {
+      "streetAddress": "41229 State Route 20Oak Harbor, WA 98277",
+      "mailingAddress": "Oak Harbor, WA 98277"
+    },
+    "phone": null,
+    "website": "https://www.parks.wa.gov/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Okanogan County Historical Society & Museum",
+    "address": {
+      "streetAddress": "1410 2nd Avenue NorthOkanogan, WA 98840",
+      "mailingAddress": "P. O. Box 1129Okanogan, WA 98840"
+    },
+    "phone": "509-422-4272",
+    "website": "mailto:ochs@ncidata.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Bigelow House Museum",
+    "address": {
+      "streetAddress": "918 Glass Avenue NEOlympia, WA 98506",
+      "mailingAddress": "P.O. Box 1821Olympia, WA 98507"
+    },
+    "phone": "360-753-1215",
+    "website": "mailto:bigelowhousemuseum@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Memorial Day - Labor DayWeekends 12:00 p.m. - 4:00 p.m.",
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Evergreen The Evergreen State College Galleries",
+    "address": {
+      "streetAddress": "The Evergreen State CollegeOlympia, WA 98505",
+      "mailingAddress": "Olympia, WA 98505"
+    },
+    "phone": "360-867-5125",
+    "website": "https://www.evergreen.edu/gallery/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Hands On Children's Museum",
+    "address": {
+      "streetAddress": "106 11th Ave SWOlympia, WA 98501",
+      "mailingAddress": "106 11th Ave SWOlympia, WA 98507"
+    },
+    "phone": "360-956-0818",
+    "website": "mailto:hocm@hocm.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/handsonchildrensmuseum",
+      "twitter": "https://www.twitter.com/HandsOnMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "General",
+      "History",
+      "Science"
+    ]
+  },
+  {
+    "name": "Local Arts Agencies of Washington State",
+    "address": {
+      "streetAddress": "711 Capitol Way S.Olympia, WA 98501",
+      "mailingAddress": "P. O. Box 42675Olympia, WA 98504"
+    },
+    "phone": "360-753-3860",
+    "website": "mailto:info@arts.wa.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Nisqually Indian Tribe",
+    "address": {
+      "streetAddress": "4820 She-Nah-Num Drive SEOlympia, WA 98513",
+      "mailingAddress": "Olympia, WA 98513"
+    },
+    "phone": "360-456-5221",
+    "website": "mailto:webmaster@nisqually-nsn.gov",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/nisqually",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/NisquallyIndianTribe"
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Nisqually Reach Nature Center",
+    "address": {
+      "streetAddress": "4949 D'Milluhr Road NEOlympia, WA 98516",
+      "mailingAddress": "Olympia, WA 98504"
+    },
+    "phone": "360-459-0387",
+    "website": "mailto:NRNC@NisquallyEstuary.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Nisqually-Reach-Nature-Center/56354847790?v=wall&ref=pde",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Washington State Arts Commission",
+    "address": {
+      "streetAddress": "234 East 8th StreetOlympia, WA 98504",
+      "mailingAddress": "P. O. Box 42675Olympia, WA 98504"
+    },
+    "phone": "360-753-3860",
+    "website": "mailto:info@arts.wa.gov",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/WashingtonArts?ref=tn_tnmn",
+      "twitter": "https://www.twitter.com/#!/ArtsWA",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Washington State Capitol Museum",
+    "address": {
+      "streetAddress": "211 West 21st AvenueOlympia, WA 98501",
+      "mailingAddress": "Olympia, WA 98501"
+    },
+    "phone": "360-753-2580",
+    "website": "https://www.wshs.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tue-Fri 10-4; Sat-Sun 12-4; closed Mon.",
+    "museumTypes": []
+  },
+  {
+    "name": "Sacajawea Interpretive Center",
+    "address": {
+      "streetAddress": "2503 Sacajawea Park RoadPasco, WA 99301",
+      "mailingAddress": "Pasco, WA 99301"
+    },
+    "phone": null,
+    "website": "https://www.parks.wa.gov/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Washington State Railroads Historical Society",
+    "address": {
+      "streetAddress": "122 North Tacoma Ave.Pasco, WA 99301",
+      "mailingAddress": "P. O. Box 552Pasco, WA 99301"
+    },
+    "phone": "509-543-4159",
+    "website": "mailto:email@wsrhs.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Fort Okanogan Center/Alta Lake",
+    "address": {
+      "streetAddress": "191A Alta Lake RoadPateros, WA 98846",
+      "mailingAddress": "Pateros, WA 98846"
+    },
+    "phone": "360-902-8844",
+    "website": "mailto:infocent@parks.wa.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Feiro Marine Life Center",
+    "address": {
+      "streetAddress": "315 N. Lincoln StreetPort Angeles, WA 98362",
+      "mailingAddress": "P.O. Box 625Port Angeles, WA 98362"
+    },
+    "phone": "360-417-6254",
+    "website": "mailto:deborahm@feiromarinelifecenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Museum at the Carnegie",
+    "address": {
+      "streetAddress": "207 S. Lincoln St.Port Angeles, WA 98362",
+      "mailingAddress": "P.O. Box 1327Port Angeles, WA 98362"
+    },
+    "phone": null,
+    "website": "https://www.clallamhistoricalsociety.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wednesday - Saturday 1:00 pm - 4:00 pm",
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Lower Elwha Tribal Center",
+    "address": {
+      "streetAddress": "2851 Lower Elwha RoadPort Angeles, WA 98363",
+      "mailingAddress": "Port Angeles, WA 98363"
+    },
+    "phone": null,
+    "website": "https://www.elwha.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Olympic National Park Visitor Center",
+    "address": {
+      "streetAddress": "3002 Mount Angeles RoadPort Angeles, WA 98362",
+      "mailingAddress": "Port Angeles, WA 98362"
+    },
+    "phone": null,
+    "website": "https://www.nps.gov/olym",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Port Angeles Fine Arts Center",
+    "address": {
+      "streetAddress": "1203 East Lauridsen BoulevardPort Angeles, WA 98362",
+      "mailingAddress": "Port Angeles, WA 98362"
+    },
+    "phone": null,
+    "website": "https://www.pafac.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Thu-Sun 11-5.",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Port Gamble Museum",
+    "address": {
+      "streetAddress": "Port Gamble, WA 98364",
+      "mailingAddress": "P.O. Box 85Port Gamble, WA 98364"
+    },
+    "phone": null,
+    "website": "https://www.ptgamble.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "May 1-Oct 31 10:30-5; other times by appointment.",
+    "museumTypes": []
+  },
+  {
+    "name": "Jefferson County Historical Society",
+    "address": {
+      "streetAddress": "540 Water StreetPort Townsend, WA 98368",
+      "mailingAddress": null
+    },
+    "phone": "360-385-1003",
+    "website": "mailto:BillTennent@jchswa.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  },
+  {
+    "name": "Port Townsend Marine Science Center",
+    "address": {
+      "streetAddress": "532 Battery WayPort Townsend, WA 98368",
+      "mailingAddress": "Port Townsend, WA 98368"
+    },
+    "phone": null,
+    "website": "https://www.olympus.net/ptmsc",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Rothschild House State Park",
+    "address": {
+      "streetAddress": "210 Madison StreetPort Townsend, WA 98368",
+      "mailingAddress": "c/o JCHS MuseumPort Townsend, WA 98368"
+    },
+    "phone": null,
+    "website": "mailto:pao@parks.wa.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Park"
+    ]
+  },
+  {
+    "name": "The Heritage Group -  Fort Worden State Park",
+    "address": {
+      "streetAddress": "200 Battery WayPort Townsend, WA 98368",
+      "mailingAddress": "Port Townsend, WA 98368"
+    },
+    "phone": "360-531-4395",
+    "website": "https://www.centrum.org/fortworden/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "June-Aug 10-5 daily; Mar-May, Sept-Oct Sat & Sun 12-4.",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Poulsbo Marine Science Center",
+    "address": {
+      "streetAddress": "18743 Front St. N.EPoulsbo, WA 98370",
+      "mailingAddress": "P.O. Box 408Poulsbo, WA 98370"
+    },
+    "phone": "360-598-4460",
+    "website": "mailto:info@poulsbomsc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Thursday - Sunday 11:00 am - 4:00 pm",
+    "museumTypes": [
+      "Aquarium",
+      "Nature Centers",
+      "Science"
+    ]
+  },
+  {
+    "name": "Museum of Art",
+    "address": {
+      "streetAddress": "077 Fine Arts BlvdPullman, WA 99164",
+      "mailingAddress": "P.O. Box 647460Pullman, WA 99164"
+    },
+    "phone": "509-335-1910",
+    "website": "https://www.wsu.edu/artmuse",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sept-July Mon-Fri 10-4, Tue 10-10, Sat-Sun 1-5.",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Whitman County Genealogical Society",
+    "address": {
+      "streetAddress": "Pullman, WA 99163",
+      "mailingAddress": "P. O. Box 393Pullman, WA 99163"
+    },
+    "phone": null,
+    "website": "mailto:simonsen@roadrunner.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Ezra Meeker Historical Society",
+    "address": {
+      "streetAddress": "Puyallup, WA 98371",
+      "mailingAddress": "P. O. Box 103Puyallup, WA 98371"
+    },
+    "phone": null,
+    "website": "https://www.meekermansion.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wed-Sun 1-4.",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Paul H. Karshner Memorial Museum",
+    "address": {
+      "streetAddress": "309 4th St. NEPuyallup, WA 98372",
+      "mailingAddress": "Puyallup, WA 98372"
+    },
+    "phone": "253-841-8748",
+    "website": "mailto:curator@karshnermuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Fri 8-5 during school year.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Shanaman Sports Museum of Tacoma & Pierce County",
+    "address": {
+      "streetAddress": "9908 63rd Avenue Ct EPuyallup, WA 98373",
+      "mailingAddress": "Puyallup, WA 98373"
+    },
+    "phone": "253-627-5857",
+    "website": "https://www.tacomasportsmuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Varies according to events at the Dome. No set schedule.",
+    "museumTypes": []
+  },
+  {
+    "name": "Quilcene Historical Museum",
+    "address": {
+      "streetAddress": "151 Columbia StreetQuilcene, WA 98376",
+      "mailingAddress": "P.O. Box 574Quilcene, WA 98376"
+    },
+    "phone": "360-765-4848",
+    "website": "mailto:quilcenemuseum@olypen.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Willapa Seaport Museum",
+    "address": {
+      "streetAddress": "310 Alder StreetRaymond, WA 98577",
+      "mailingAddress": null
+    },
+    "phone": "360-942-4149",
+    "website": "mailto:willapaseaportmuseum@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/willapaseaportmuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Military",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "The Eastside Heritage Center",
+    "address": {
+      "streetAddress": "6046 West Lake Sammamish Parkway NERedmond, WA 98073",
+      "mailingAddress": "P.O. Box 162Redmond, WA 98073"
+    },
+    "phone": "425-450-1049",
+    "website": "mailto:director@eastsideheritagecenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tue-Thu 11-4, Sat-Sun 1-4; in Summer 1-5.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Renton History Museum",
+    "address": {
+      "streetAddress": "235 Mill Avenue SouthRenton, WA 98055",
+      "mailingAddress": null
+    },
+    "phone": "425-255-2330",
+    "website": "mailto:estewart@rentonwa.gov",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Renton-History-Museum/41575839944",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Allied Arts Gallery/Arts Center",
+    "address": {
+      "streetAddress": "89 Lee BoulevardRichland, WA 99352",
+      "mailingAddress": "Richland, WA 99352"
+    },
+    "phone": "509-943-9815",
+    "website": "mailto:president@alliedartsrichland.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "B Reactor Museum Association",
+    "address": {
+      "streetAddress": "Richland, WA 99352",
+      "mailingAddress": "P. O. Box 1531Richland, WA 99352"
+    },
+    "phone": null,
+    "website": "https://www.owt.com/brma/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tours by arrangement.",
+    "museumTypes": []
+  },
+  {
+    "name": "Columbia River Exhibit of History, Science & Technology",
+    "address": {
+      "streetAddress": "95 Lee BlvdRichland, WA 99352",
+      "mailingAddress": "P.O. Box 1890Richland, WA 99352"
+    },
+    "phone": "509-943-9000",
+    "website": "mailto:admin1@crehst.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Sat 10-5; Sun 12-5.",
+    "museumTypes": [
+      "History",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Three River's Children Museum",
+    "address": {
+      "streetAddress": "650 George Washington WayRichland, WA 99352",
+      "mailingAddress": "Richland, WA 99352"
+    },
+    "phone": "509-943-5437",
+    "website": "https://www.artcom.com/Museums/nv/sz/99336-11.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Rockford Historical Society",
+    "address": {
+      "streetAddress": "Rockford, WA 99030",
+      "mailingAddress": "P. O. Box 107Rockford, WA 99030"
+    },
+    "phone": null,
+    "website": "mailto:questions@rockfordhistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Battle Days Museum",
+    "address": {
+      "streetAddress": "110 5th AveRosalia, WA 99170",
+      "mailingAddress": "P.O. Box 277Rosalia, WA 99170"
+    },
+    "phone": "509-523-4390",
+    "website": "mailto:rosaliabattledays@live.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Rosalia-Battle-Days/196830053682612?sk=page_map",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/watch?v=bxH-OHlyI2A"
+    },
+    "hours": "Open 5 days a week and week-ends by request",
+    "museumTypes": [
+      "General",
+      "History"
+    ]
+  },
+  {
+    "name": "Douglas County Museum Of History & Natural History",
+    "address": {
+      "streetAddress": "123 Museum DriveRoseburg, OR 97471",
+      "mailingAddress": "Roseburg, OR 97471"
+    },
+    "phone": "541-957-7007",
+    "website": "https://www.co.douglas.or.us/museum/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Roslyn Historical Museum Society",
+    "address": {
+      "streetAddress": "203 N. Pennsylvania AvenueRoslyn, WA 98941",
+      "mailingAddress": "P. O. Box 281Roslyn, WA 98941"
+    },
+    "phone": "509-649-2355",
+    "website": "mailto:roslynmuseum@inlandnet.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Closed Jan. and Feb.",
+    "museumTypes": [
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Hallie Ford Museum Of Art",
+    "address": {
+      "streetAddress": "Willamette University, 700 State StreetSalem, OR 97301",
+      "mailingAddress": "Willamette University, 900 State StreetSalem, OR 97301"
+    },
+    "phone": "503-370-6855",
+    "website": "mailto:museum-art@willamette.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Highline Historical Society",
+    "address": {
+      "streetAddress": "Seahurst, WA 98062",
+      "mailingAddress": "P. O. Box 317Seahurst, WA 98062"
+    },
+    "phone": null,
+    "website": "https://www.highlinehistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Art Gallery North Seattle Community College",
+    "address": {
+      "streetAddress": "9600 College Way NorthSeattle, WA 98125",
+      "mailingAddress": "Seattle, WA 98125"
+    },
+    "phone": null,
+    "website": "mailto:echriste@sccd.ctc.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Ballard Locks - Hiram Chittenden Locks",
+    "address": {
+      "streetAddress": "3015 NW 54th StreetSeattle, WA 98107",
+      "mailingAddress": null
+    },
+    "phone": "206-783-7059",
+    "website": "https://www.ballardlocks.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pg/ballardlocks100/about/?ref=page_internal",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/playlist?list=PLzm0g19jcPtUjCSwcni0Pq00UH4aw_Z2t"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Military"
+    ]
+  },
+  {
+    "name": "Burien Arts Gallery",
+    "address": {
+      "streetAddress": "421 SW 146th StSeattle, WA 98166",
+      "mailingAddress": "P.O. Box 66574Seattle, WA 98166"
+    },
+    "phone": "206-244-7808",
+    "website": "mailto:info@burienarts.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Sat 12-4",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Burke Museum of Natural History and Culture",
+    "address": {
+      "streetAddress": "17th Ave. NE and NE 45th St.Seattle, WA 98195",
+      "mailingAddress": "Box 353010Seattle, WA 98195"
+    },
+    "phone": "206-543-5590",
+    "website": "mailto:theburke@u.washington.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "On the first Thursday of each month, the museum stays open until 8 pm—and admission is free.",
+    "museumTypes": [
+      "Anthropology",
+      "Children's",
+      "Culture",
+      "History",
+      "Natural History",
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Camp Fire Boys and Girls",
+    "address": {
+      "streetAddress": "8511 15th Avenue NESeattle, WA 98115",
+      "mailingAddress": "Seattle, WA 98115"
+    },
+    "phone": "206-461-8550",
+    "website": "mailto:info@campfire-usa.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/home.php?#!/pages/Camp-Fire-USA-Central-Puget-Sound-Council/117185857874?ref=ts",
+      "twitter": "https://www.twitter.com/CampFireUSACPSC",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "By appointment.",
+    "museumTypes": []
+  },
+  {
+    "name": "Carl S. English Jr. Botanical Garden",
+    "address": {
+      "streetAddress": "3015 NW 54th StreetSeattle, WA 98107",
+      "mailingAddress": null
+    },
+    "phone": "206-783-7059",
+    "website": "https://www.gardenvisit.com/garden/carl_s_english_jr_botanical_garden",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 7:00 am - 9:00 pm",
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Catholic Archdiocese of Seattle Archives",
+    "address": {
+      "streetAddress": "910 Marion StreetSeattle, WA 98104",
+      "mailingAddress": "Seattle, WA 98104"
+    },
+    "phone": null,
+    "website": "https://www.seattlearch.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Coast Guard Museum Northwest",
+    "address": {
+      "streetAddress": "1519 Alaskan Way SouthSeattle, WA 98134",
+      "mailingAddress": "Seattle, WA 98134"
+    },
+    "phone": "206-217-6993",
+    "website": "https://www.rexmwess.com/cgpatchs/cogardmuseum.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "0",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Cornish College of the Arts / Fisher Gallery",
+    "address": {
+      "streetAddress": "1000 Lenora StreetSeattle, WA 98121",
+      "mailingAddress": "Seattle, WA 98102"
+    },
+    "phone": "800-726-2787",
+    "website": "mailto:admission@cornish.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "El Centro De La Raza",
+    "address": {
+      "streetAddress": "2524 16th AvenueSeattle, WA 98144",
+      "mailingAddress": "Seattle, WA 98144"
+    },
+    "phone": "206-957-4634",
+    "website": "mailto:centraloffice@elcentrodelaraza.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Ethnic Heritage Council",
+    "address": {
+      "streetAddress": "305 Harrison St. Suite 304Seattle, WA 98109",
+      "mailingAddress": "Seattle, WA 98109"
+    },
+    "phone": "206-443-1410",
+    "website": "mailto:ehc@seattle.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Experience Music Project",
+    "address": {
+      "streetAddress": "2901 3rd Ave Suite 4000Seattle, WA 98121",
+      "mailingAddress": "Seattle, WA 98121"
+    },
+    "phone": null,
+    "website": "mailto:experience@empmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  }
+]

@@ -1,0 +1,1279 @@
+[
+  {
+    "name": "Holden Arboretum",
+    "address": {
+      "streetAddress": "9500 Sperry Rd.Kirtland, OH 44094",
+      "mailingAddress": null
+    },
+    "phone": "440-946-4400",
+    "website": "https://www.holdenarb.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Arboretum"
+    ]
+  },
+  {
+    "name": "Hopewell Culture Nat'l Historical Park",
+    "address": {
+      "streetAddress": "16062 State Route 104Chillicothe, OH 45601",
+      "mailingAddress": null
+    },
+    "phone": "740-774-1126",
+    "website": "https://www.nps.gov/hocu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture"
+    ]
+  },
+  {
+    "name": "Hower House",
+    "address": {
+      "streetAddress": "The University of Akron 60 Fir HillAkron, OH 44325",
+      "mailingAddress": null
+    },
+    "phone": "330-972-6909",
+    "website": "mailto:sylvia5@uakron.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": "https://www.twitter.com/HowerHouse",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Hudson Galleries/National Collage Society",
+    "address": {
+      "streetAddress": "254 WEST STREETSBORO STREETHudson, OH 44236",
+      "mailingAddress": "Hudson, OH 44236"
+    },
+    "phone": "330-656-3673",
+    "website": "mailto:info@nationalcollage.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Indian Museum of Lake County",
+    "address": {
+      "streetAddress": "391 W. WashingtonPainesville, OH 44077",
+      "mailingAddress": null
+    },
+    "phone": "440-951-3813",
+    "website": "https://www.indianmuseumoflakecounty.org/index2.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Anti-Saloon League Museum",
+    "address": {
+      "streetAddress": "126 S. State St.Westerville, OH 43081",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.wpl.lib.oh.us/AntiSaloon/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Inniswood Metro Gardens",
+    "address": {
+      "streetAddress": "940 S. Hempstead RoadWesterville, OH 43081",
+      "mailingAddress": "3053 Winchester PikeColumbus, OH 43232"
+    },
+    "phone": "614-895-6216",
+    "website": "https://www.inniswood.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "International Women's Air & Space Museum",
+    "address": {
+      "streetAddress": "1501 North Marginal RoadCleveland, OH 44114",
+      "mailingAddress": "Cleveland, OH 44114"
+    },
+    "phone": "216-623-1111",
+    "website": "mailto:sdills@iwasm.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Jack Nicklaus Museum",
+    "address": {
+      "streetAddress": "2355 Olentangy River RoadColumbus, OH 43210",
+      "mailingAddress": "5750 Memorial Dr.Dublin, OH 43017"
+    },
+    "phone": "614-247-5959",
+    "website": "mailto:sauch@buckeyes.ath.ohio-state.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Jack-Nicklaus-Museum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Specialized",
+      "University"
+    ]
+  },
+  {
+    "name": "James A. Garfield Nat'l Hist. Site",
+    "address": {
+      "streetAddress": "8095 Mentor Ave.Mentor, OH 44060",
+      "mailingAddress": null
+    },
+    "phone": "440-255-8722",
+    "website": "mailto:jaga_interpretation@nps.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "John Stark Edwards House",
+    "address": {
+      "streetAddress": "303 Monroe St. NWWarren, OH 44483",
+      "mailingAddress": null
+    },
+    "phone": "330-394-4653",
+    "website": "mailto:museum@trumbullcountyhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Johnson-Humrickhouse Museum",
+    "address": {
+      "streetAddress": "300 N. Whitewoman St.Coshocton, OH 43812",
+      "mailingAddress": null
+    },
+    "phone": "740-622-8710",
+    "website": "https://www.jhmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Kelton House Museum & Garden",
+    "address": {
+      "streetAddress": "586 E. Town St.Columbus, OH 43215",
+      "mailingAddress": null
+    },
+    "phone": "614-464-2717",
+    "website": "mailto:jlcolumbus@sbcglobal.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Kennedy Museum of Art",
+    "address": {
+      "streetAddress": "Ohio University Lin HallAthens, OH 45701",
+      "mailingAddress": null
+    },
+    "phone": "740-593-1304",
+    "website": "mailto:kennedymuseum@ohio.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "The Kent State University Museum",
+    "address": {
+      "streetAddress": "515 Hilltop DriveRockwell HallKent, OH 44242",
+      "mailingAddress": "PO Box 5190Kent, OH 44242"
+    },
+    "phone": "330-672-3450",
+    "website": "mailto:museum@kent.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Kent-OH/Kent-State-University-Museum/96914435300?ref=ts",
+      "twitter": "https://www.twitter.com/KSUMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wednesday-10:00-4:45pm\nThursday-10:00-8:45pm\nFriday-10:00-4:45pm\nSaturday-10:00-4:45pm\nSunday-Noon-4:45pm",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Library",
+      "Specialized",
+      "University"
+    ]
+  },
+  {
+    "name": "Kettering-Moraine Museum & Historical Society",
+    "address": {
+      "streetAddress": "3600 Shroyer Road, KetteringKettering, OH 45439",
+      "mailingAddress": "Kettering, OH 45439"
+    },
+    "phone": "937-296-2400",
+    "website": "mailto:kettweb@ketteringoh.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Kirtland Temple Historic Center",
+    "address": {
+      "streetAddress": "7809 Joseph StreetKirtland, OH 44094",
+      "mailingAddress": "Kirtland, OH 44094"
+    },
+    "phone": "440-256-1830",
+    "website": "mailto:info@kirtlandtemple.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/profile.php?id=66930859350",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Lake Erie Islands Historical Society",
+    "address": {
+      "streetAddress": "441 Catawba AvenuePut-in-Bay, OH 43456",
+      "mailingAddress": "PO Box 25 441 Catawba Ave.Put-in-Bay, OH 43456"
+    },
+    "phone": "9-285-2804",
+    "website": "https://www.leihs.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Lake Erie Nature & Science Center",
+    "address": {
+      "streetAddress": "28728 Wolf Rd.Bay Village, OH 44140",
+      "mailingAddress": null
+    },
+    "phone": "440-871-2900",
+    "website": "mailto:info@lensc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Lake Metroparks",
+    "address": {
+      "streetAddress": "11211 Spear Rd.Concord, OH 44077",
+      "mailingAddress": null
+    },
+    "phone": "440-639-7275",
+    "website": "https://www.lakemetroparks.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Lake View Cemetery",
+    "address": {
+      "streetAddress": "12316 Euclid Ave.Cleveland, OH 44106",
+      "mailingAddress": "12316 Euclid Ave.Cleveland, OH 44022"
+    },
+    "phone": "216-421-2665",
+    "website": "mailto:info@lakeviewcemetery.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Cemetery"
+    ]
+  },
+  {
+    "name": "Lakewood Historical Society",
+    "address": {
+      "streetAddress": "14710 Lake Ave.Lakewood, OH 44107",
+      "mailingAddress": null
+    },
+    "phone": "216-221-7343",
+    "website": "mailto:museum@lakewoodhistory.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Vintage-Lakewood-Ohio/303047936066",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Licking County Art Gallery",
+    "address": {
+      "streetAddress": "38 S. 3rd StreetNewark, OH 43055",
+      "mailingAddress": "Newark, OH 43055"
+    },
+    "phone": "740-349-8031",
+    "website": "mailto:lca@lickingcountyarts.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Lillian E. Jones Museum",
+    "address": {
+      "streetAddress": "75 Broadway StreetJackson, OH 45640",
+      "mailingAddress": "Jackson, OH 45640"
+    },
+    "phone": "740-286-2556",
+    "website": "mailto:lejmuseum@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Living Bible Museum",
+    "address": {
+      "streetAddress": "500 Tingley Ave.Mansfield, OH 44905",
+      "mailingAddress": null
+    },
+    "phone": "419-524-0139",
+    "website": "mailto:lbmjulia@richnet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Local History Resource Center",
+    "address": {
+      "streetAddress": "126 S. State St.Westerville, OH 43081",
+      "mailingAddress": null
+    },
+    "phone": "614-297-2300",
+    "website": "mailto:webmaster@ohiohistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Logan County Historical Society",
+    "address": {
+      "streetAddress": "521 E. Columbus St.Bellefontaine, OH 43311",
+      "mailingAddress": "PO Box 296 521 E. Columbus Ave.Bellefontaine, OH 43311"
+    },
+    "phone": "937-593-7557",
+    "website": "mailto:logancomuseum@embarqmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Lorain County Metroparks",
+    "address": {
+      "streetAddress": "12882 Diagonal Rd.LaGrange, OH 44050",
+      "mailingAddress": null
+    },
+    "phone": "440-458-5121",
+    "website": "mailto:pr@metroparks.cc",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Ariel Cultural & Performance Arts Center",
+    "address": {
+      "streetAddress": "426 Second AveGallipolis, OH 45631",
+      "mailingAddress": "PO Box 424Gallipolis, OH 45631"
+    },
+    "phone": "740-446-2787",
+    "website": "https://arieltheatre.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Ariel-Theatre/129739260439730",
+      "twitter": "https://www.twitter.com/#!/arieltheatre",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Lou Holtz/Upper Ohio Valley Hall of Fame",
+    "address": {
+      "streetAddress": "120 East Fifth StreetEast Liverpool, OH 43920",
+      "mailingAddress": "PO Box 60East Liverpool, OH 43920"
+    },
+    "phone": "330-386-5443",
+    "website": "https://www.louholtzhalloffame.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Wolcott House Museum Complex",
+    "address": {
+      "streetAddress": "1031 River Rd.Maumee, OH 43537",
+      "mailingAddress": null
+    },
+    "phone": "419-893-9602",
+    "website": "mailto:mvhs@buckeye-access.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/maumeehistorical",
+      "twitter": "https://www.twitter.com/maumeehistory",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Lucy Hayes Heritage Center",
+    "address": {
+      "streetAddress": "90 West Sixth StreetChillicothe, OH 45601",
+      "mailingAddress": "P.O. Box 1790Chillicothe, OH 45601"
+    },
+    "phone": "740-775-5829",
+    "website": "mailto:lucy@lucyhayes.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open for Tours  April thru September  Monday: 10am-2pm  Saturday: 1pm-4pm   Other Times by Appointment",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Mad River & NKP Railroad Museum",
+    "address": {
+      "streetAddress": "253 Southwest StreetBellevue, OH 44811",
+      "mailingAddress": "233 York St.Bellevue, OH 44811"
+    },
+    "phone": "419-483-2222",
+    "website": "mailto:madrivernkp@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/madrivernkpmuseum/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Mahler Museum & History Center",
+    "address": {
+      "streetAddress": "118 E. Bridge St. PO Box 173Berea, OH 44017",
+      "mailingAddress": null
+    },
+    "phone": "440-243-2541",
+    "website": "mailto:bereahistory@att.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Mahoning Valley Historical Society",
+    "address": {
+      "streetAddress": "648 Wick Ave.Youngstown, OH 44502",
+      "mailingAddress": null
+    },
+    "phone": "330-743-2589",
+    "website": "mailto:mvhs@mahoninghistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Malabar Farm State Park",
+    "address": {
+      "streetAddress": "4050 Bromfield Rd.Lucas, OH 44843",
+      "mailingAddress": null
+    },
+    "phone": "419-892-2784",
+    "website": "https://www.malabarfarm.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Mansfield Art Center",
+    "address": {
+      "streetAddress": "700 Marion Ave.Mansfield, OH 44906",
+      "mailingAddress": null
+    },
+    "phone": "419-756-1700",
+    "website": "mailto:tracy@mansfieldartcenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Mansfield Fire Museum",
+    "address": {
+      "streetAddress": "1265 W. 4th St.Mansfield, OH 44906",
+      "mailingAddress": null
+    },
+    "phone": "419-529-2573",
+    "website": "mailto:mansfieldfiremuseum@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mid May through Mid October;",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Mansfield Memorial Museum",
+    "address": {
+      "streetAddress": "34 Park Ave. WestMansfield, OH 44902",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.themansfieldmuseum.com/tmm/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Ohio State Reformatory and Mansfield Reformatory Preservation Society",
+    "address": {
+      "streetAddress": "100 Reformatory Rd,Mansfield, OH 44905",
+      "mailingAddress": null
+    },
+    "phone": "419-522-2644",
+    "website": "mailto:info@mrps.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/?ref=home#%21/pages/Mansfield-OH/The-Shawshank-Trail/401002683205",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Please check hours of operation since they do change by season.",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Massillon Museum",
+    "address": {
+      "streetAddress": "121 Lincoln WayMassillon, OH 44646",
+      "mailingAddress": null
+    },
+    "phone": "330-833-4061",
+    "website": "mailto:ancoon@massillonmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "McCook House State Memorial",
+    "address": {
+      "streetAddress": "15 S Lisbon StCarrollton, OH 44615",
+      "mailingAddress": "PO Box 174Carrollton, OH 44615"
+    },
+    "phone": "330-627-3345",
+    "website": "mailto:communications@ohiohistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "McDonough Museum of Art",
+    "address": {
+      "streetAddress": "Youngstown State University525 Wick AvenueYoungstown, OH 44555",
+      "mailingAddress": null
+    },
+    "phone": "330-941-1400",
+    "website": "mailto:labrothers@ysu.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/McDonoughMuseumofArt",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "McKinley Museum/Stark County Historical Society",
+    "address": {
+      "streetAddress": "800 McKinley Monument DriveCanton, OH 44708",
+      "mailingAddress": "PO Box 20070Canton, OH 44701"
+    },
+    "phone": "330-455-7043",
+    "website": "mailto:info@mckinleymuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Meigs County Museum",
+    "address": {
+      "streetAddress": "144 Butternut AvenuePomeroy, OH 45769",
+      "mailingAddress": "PO Box 145Pomeroy, OH 45769"
+    },
+    "phone": "740-992-3810",
+    "website": "mailto:meigscohistorical@frontier.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Mennonite Historical Library",
+    "address": {
+      "streetAddress": "280 W. College Ave.Bluffton, OH 45817",
+      "mailingAddress": null
+    },
+    "phone": "419-358-3365",
+    "website": "https://mhlbluffton.mennonite.net/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Ashland County Historical Society",
+    "address": {
+      "streetAddress": "420 Center St.Ashland, OH 44805",
+      "mailingAddress": "Ashland, OH 44805"
+    },
+    "phone": "419-289-3111",
+    "website": "mailto:ashlandhistory@zoominternet.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/AshlandCountyHistoricalSociety/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The office is located in the Noonan House.",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Science"
+    ]
+  },
+  {
+    "name": "Merry-Go-Round Museum",
+    "address": {
+      "streetAddress": "Sandusky, OH 44870",
+      "mailingAddress": "PO Box 718 301 JacksonSandusky, OH 44870"
+    },
+    "phone": "419-626-6111",
+    "website": "mailto:merrygoround39@peoplepc.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Miami University Art Museum",
+    "address": {
+      "streetAddress": "801 S. Patterson Ave.Oxford, OH 45056",
+      "mailingAddress": "Patterson Ave.Oxford, OH 45056"
+    },
+    "phone": "513-529-2232",
+    "website": "mailto:artmuseum@muohio.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Milan Historical Museum, Inc.",
+    "address": {
+      "streetAddress": "11 South Main St.Milan, OH 44846",
+      "mailingAddress": "PO Box 308 10 Edison Dr.Milan, OH 44846"
+    },
+    "phone": "419-499-2944",
+    "website": "mailto:info@milanohio.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Montgomery County Historical Society",
+    "address": {
+      "streetAddress": "224 North St. Clair StDayton, OH 45402",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.daytonhistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Motorcycle Hall of Fame Museum",
+    "address": {
+      "streetAddress": "13515 Yarmouth Dr.Pickerington, OH 43147",
+      "mailingAddress": null
+    },
+    "phone": "800-262-5646",
+    "website": "https://www.ama-cycle.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/AmericanMotorcyclist",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Motts Military Museum, Inc.",
+    "address": {
+      "streetAddress": "5075 S. Hamilton Rd.Groveport, OH 43125",
+      "mailingAddress": null
+    },
+    "phone": "614-836-1500",
+    "website": "mailto:info@mottsmilitarymuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Newark Earthworks State Memorial - Ohio Historical Society",
+    "address": {
+      "streetAddress": "455 Hebron Rd.Heath, OH 43056",
+      "mailingAddress": null
+    },
+    "phone": "800-589-8224",
+    "website": "https://ohsweb.ohiohistory.org/portal/name-p.shtml",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Ashtabula Arts Center",
+    "address": {
+      "streetAddress": "2928 W. 13th St.Ashtabula, OH 44004",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:aac@ashartscenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Museum of Biological Diversity",
+    "address": {
+      "streetAddress": "1315 Kinnear Rd.Columbus, OH 43212",
+      "mailingAddress": null
+    },
+    "phone": "614-292-7773",
+    "website": "https://www.biosci.ohio-state.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Museum of Ceramics",
+    "address": {
+      "streetAddress": "400 East Fifth StEast Liverpool, OH 43920",
+      "mailingAddress": "400 E. Fifth St.East Liverpool, OH 43920"
+    },
+    "phone": "330-386-6001",
+    "website": "mailto:museumofceramics@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Personalized tours available with advance notice",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Museum of Postal History",
+    "address": {
+      "streetAddress": "339 N. Main StreetDelphos, OH 45833",
+      "mailingAddress": "PO Box 174Delphos, OH 45833"
+    },
+    "phone": "419-303-5482",
+    "website": "mailto:mphdelphos@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Currently being renovated. Please call to make an appointment.",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "National Aviation Hall of Fame",
+    "address": {
+      "streetAddress": "1100 Spaatz StreetDayton, OH 45433",
+      "mailingAddress": "PO Box 31096Dayton, OH 45437"
+    },
+    "phone": "888-383-1903",
+    "website": "mailto:nahf@nationalaviation.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/National.Aviation.Hall.of.Fame?ref=ts",
+      "twitter": "https://www.twitter.com/#!/nahf",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/nahfdayton"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Library",
+      "Military",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "National First Ladies Library",
+    "address": {
+      "streetAddress": "205 Market Avenue S.Canton, OH 44702",
+      "mailingAddress": "331 Market Ave.Canton, OH 44702"
+    },
+    "phone": "330-452-0876",
+    "website": "mailto:canthony@firstladies.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "National Packard Museum",
+    "address": {
+      "streetAddress": "1899 Mahoning Ave NWWarren, OH 44483",
+      "mailingAddress": null
+    },
+    "phone": "330-394-1899",
+    "website": "mailto:national@packardmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Ashtabula County Historical Society",
+    "address": {
+      "streetAddress": "Jefferson, OH 44047",
+      "mailingAddress": "PO Box 36Jefferson, OH 44047"
+    },
+    "phone": "440-466-7337",
+    "website": "https://www.ashtcohs.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "National Underground Railroad Freedom Center",
+    "address": {
+      "streetAddress": "50 East Freedom WayCincinnati, OH 45202",
+      "mailingAddress": "Cincinnati, OH 45202"
+    },
+    "phone": "513-333-7500",
+    "website": "https://www.freedomcenter.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/FreedomCenter",
+      "twitter": "https://www.twitter.com/freedomcenter",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/NURFreedomCenter"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Culture",
+      "History",
+      "Library",
+      "Specialized"
+    ]
+  }
+]

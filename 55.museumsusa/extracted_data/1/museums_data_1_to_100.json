@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Ah-Tah-Thi-Ki Museum",
+    "address": {
+      "streetAddress": "34725 EAST Boundary RoadBig Cypress Seminole Indian ReservationClewiston, FL 33440",
+      "mailingAddress": "30290 Josie Billie HighwayPMB 1003Clewiston, FL 33440"
+    },
+    "phone": "863-902-1113",
+    "website": "mailto:museum@semtribe.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Ah-Tah-Thi-Ki-Seminole-Museum/43650959681",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Air Force Armament Museum",
+    "address": {
+      "streetAddress": "100 Museum DriveEglin Air Force Base, FL 32542",
+      "mailingAddress": null
+    },
+    "phone": "850-651-1808",
+    "website": "mailto:afamf32542@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Monday - Saturday 9:30 a.m. - 4:30 p.m.",
+    "museumTypes": [
+      "History",
+      "Military"
+    ]
+  },
+  {
+    "name": "Air Force Space and Missile Museum",
+    "address": {
+      "streetAddress": "Cape Canaveral Air StationPatrick A F B, FL 32925",
+      "mailingAddress": "191 Museum CirclePatrick A F B, FL 32925"
+    },
+    "phone": "407-853-9171",
+    "website": "mailto:feedback@afspacemuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The 45th Space Wing Public Affairs Office hosts a free historic bus tour for the general public the second Wednesday of each month. The three-hour tour includes visits to the Air Force Space and Missile Museum, historic launch pads and the historic Cape Canaveral Lighthouse.",
+    "museumTypes": [
+      "History",
+      "Library",
+      "Military",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Matheson History Museum",
+    "address": {
+      "streetAddress": "513 E. University AvenueGainesville, FL 32601",
+      "mailingAddress": "513 East University AvenueGainesville, FL 32601"
+    },
+    "phone": "352-378-2280",
+    "website": "mailto:director@mathesonmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/mathesonmuseum",
+      "twitter": "https://www.twitter.com/MathesonMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "Albin Polasek Museum and Sculpture Gardens",
+    "address": {
+      "streetAddress": "633 Osceola AvenueWinter Park, FL 32790",
+      "mailingAddress": "633 Osceola AveWinter Park, FL 32790"
+    },
+    "phone": "407-647-6294",
+    "website": "mailto:info@polasek.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Regular Hours: September 1 - June 30 \nGalleries closed July and August\nGardens open year round",
+    "museumTypes": [
+      "Art",
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Alfred B. Maclay Gardens State Park",
+    "address": {
+      "streetAddress": "3540 Thomasville RoadTallahassee, FL 32309",
+      "mailingAddress": null
+    },
+    "phone": "850-487-4556",
+    "website": "mailto:ginger.nichols@dep.state.fl.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The park is open daily from 8:00 a.m. until sunset year round with the Gardens open from 9:00 a.m. until 5:00 p.m.",
+    "museumTypes": [
+      "Arboretum",
+      "Botanical Garden",
+      "Culture",
+      "History",
+      "Historic House",
+      "Natural History",
+      "Park"
+    ]
+  },
+  {
+    "name": "Amelia Island Museum of History",
+    "address": {
+      "streetAddress": "233 South Third StreetFernandina Beach, FL 32034",
+      "mailingAddress": null
+    },
+    "phone": "904-261-7378",
+    "website": "mailto:info@ameliamuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Culture",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "American Orchid Society",
+    "address": {
+      "streetAddress": "10901 Old Cutler RoadCoral Gables, FL 33156",
+      "mailingAddress": null
+    },
+    "phone": "305-740-2010",
+    "website": "mailto:TheAOS@aos.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden",
+      "History",
+      "Library",
+      "Nature Centers",
+      "Park",
+      "Science"
+    ]
+  },
+  {
+    "name": "American Police Hall of Fame and Museum",
+    "address": {
+      "streetAddress": "6350 Horizon Dr.Titusville, FL 32780",
+      "mailingAddress": null
+    },
+    "phone": "321-264-0911",
+    "website": "mailto:Policeinfo@aphf.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Ancient Spanish Monastery of St. Bernard De Clairvaux Cloisters",
+    "address": {
+      "streetAddress": "16711 West Dixie HighwayNorth Miami Beach, FL 33160",
+      "mailingAddress": null
+    },
+    "phone": "305-945-1461",
+    "website": "https://www.spanishmonastery.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Ann Norton Sculpture Gardens",
+    "address": {
+      "streetAddress": "2051 South Flagler DriveWest Palm Beach, FL 33401",
+      "mailingAddress": null
+    },
+    "phone": "561-835-5328",
+    "website": "mailto:info@ansg.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Botanical Garden",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Anna Maria Island Historical Museum",
+    "address": {
+      "streetAddress": "402 Pine AvenueAnna Maria Island, FL 34216",
+      "mailingAddress": "P.O. Box 4315Anna Maria, FL 34216"
+    },
+    "phone": "941-778-0492",
+    "website": "mailto:sqonami@tampabay.rr.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Appleton Museum of Art at College of Central Florida",
+    "address": {
+      "streetAddress": "4333 E. Silver Springs BlvdOcala, FL 34470",
+      "mailingAddress": "4333 E. Silver Springs Blvd.Ocala, FL 34470"
+    },
+    "phone": "352-291-4455",
+    "website": "mailto:AppletonMuseum@cf.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/AppletonMuseum/",
+      "twitter": "https://www.twitter.com/AppletonMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "University"
+    ]
+  },
+  {
+    "name": "Armory Art Center",
+    "address": {
+      "streetAddress": "1700 Parker AvenueWest Palm Beach, FL 33401",
+      "mailingAddress": null
+    },
+    "phone": "561-832-1776",
+    "website": "https://www.armoryart.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Art and Culture Center of Hollywood",
+    "address": {
+      "streetAddress": "1650 Harrison StreetHollywood, FL 33020",
+      "mailingAddress": null
+    },
+    "phone": "954-921-3274",
+    "website": "mailto:joy@artandculturecenter.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/ArtCenterHollywood",
+      "twitter": "https://www.twitter.com/acch",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  }
+]

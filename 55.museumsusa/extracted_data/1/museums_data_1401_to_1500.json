@@ -1,0 +1,375 @@
+[
+  {
+    "name": "Mercer Museum",
+    "address": {
+      "streetAddress": "84 South Pine StreetDoylestown, PA 18901",
+      "mailingAddress": null
+    },
+    "phone": "215-345-0210",
+    "website": "mailto:info@mercermuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Fonthill Museum",
+    "address": {
+      "streetAddress": "East Court Street & Route 313Doylestown, PA 18901",
+      "mailingAddress": null
+    },
+    "phone": "215-348-9461",
+    "website": "mailto:fhmail@fonthillmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Guided tours only;  Last tour at 4 pm \nReservations are strongly advised!",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Bice-Ferguson Memorial Museum",
+    "address": {
+      "streetAddress": "400 Pike StreetShinnston, WV 26431",
+      "mailingAddress": "c/o City of Shinnston40 Main StreetShinnston, WV 26431"
+    },
+    "phone": "304-592-1942",
+    "website": "mailto:dwitter@iastate.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "International Museum Institute of New York",
+    "address": {
+      "streetAddress": "Syracuse, NY 13203",
+      "mailingAddress": null
+    },
+    "phone": "315-396-0541",
+    "website": "mailto:iminy@twcny.rr.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Charlotte Hawkins Brown Museum",
+    "address": {
+      "streetAddress": "6136 Burlington RdGibsonville, NC 27349",
+      "mailingAddress": "P.O. Box BSedalia, NC 27342"
+    },
+    "phone": "336-449-4846",
+    "website": "mailto:chb@ncdcr.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Hoboken Historical Museum",
+    "address": {
+      "streetAddress": "1301 Hudson StreetHoboken, NJ 07030",
+      "mailingAddress": null
+    },
+    "phone": "201-656-2240",
+    "website": "mailto:rfoster@hobokenmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "General",
+      "History"
+    ]
+  },
+  {
+    "name": "Institute for the Study of the Ancient World",
+    "address": {
+      "streetAddress": "15 East 84th StreetNew York, NY 10028",
+      "mailingAddress": null
+    },
+    "phone": "212-992-7843",
+    "website": "mailto:isaw@nyu.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Art",
+      "Culture",
+      "History",
+      "Library",
+      "Science",
+      "University"
+    ]
+  },
+  {
+    "name": "Our Land Is Our Legacy Museum",
+    "address": {
+      "streetAddress": "32 East Main StreetBerryville, VA 22611",
+      "mailingAddress": "P.O. Box 306Berryville, VA 22611"
+    },
+    "phone": "540-955-2600",
+    "website": "mailto:ccha@visuallink.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "The James Johnston House",
+    "address": {
+      "streetAddress": "Higgins-Purisima RoadHalf Moon Bay, CA 94019",
+      "mailingAddress": "P.O. Box 789Half Moon Bay, CA 94019"
+    },
+    "phone": "650-726-0329",
+    "website": "mailto:questions@johnstonhouse.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "STAR ECO Station",
+    "address": {
+      "streetAddress": "10101 Jefferson BlvdCulver City, CA 90232",
+      "mailingAddress": null
+    },
+    "phone": "310-842-8060",
+    "website": "mailto:saml@starinc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Botanical Garden",
+      "Culture",
+      "History",
+      "Library",
+      "Nature Centers",
+      "Park",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "United States Canada Peace Anniversary Association",
+    "address": {
+      "streetAddress": "Second StreetBlaine, WA 98231",
+      "mailingAddress": "P.O. Box 4564Blaine, WA 98231"
+    },
+    "phone": "360-332-7165",
+    "website": "mailto:exhibit@peacearchpark.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Park",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "wacky wacky wilsons",
+    "address": {
+      "streetAddress": "108 north hoy stBuffalo, OK 73834",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:wackywackywilsons@hotmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Vine Lake Preservation Trust, Inc.",
+    "address": {
+      "streetAddress": "625 Main Street,Medfield, MA 02052",
+      "mailingAddress": "P.O. Box 266Medfield, MA 02052"
+    },
+    "phone": null,
+    "website": "mailto:vinelakepreservationtrust@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Cemetery",
+      "General",
+      "History"
+    ]
+  },
+  {
+    "name": "Shaw Mansion",
+    "address": {
+      "streetAddress": "11 Blinman StNew London, CT 06320",
+      "mailingAddress": "PO Box 411East Haddam, CT 06423"
+    },
+    "phone": null,
+    "website": "mailto:info@ctssar.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Root House",
+    "address": {
+      "streetAddress": "1827 Main StCoventry, CT 06238",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:evan@whoistheoldguy.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Hall of Presidents and First Ladies",
+    "address": {
+      "streetAddress": "789 Baltimore StreetGettysburg, PA 17325",
+      "mailingAddress": null
+    },
+    "phone": "717-334-6296",
+    "website": "mailto:info@gburgtours.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History"
+    ]
+  }
+]

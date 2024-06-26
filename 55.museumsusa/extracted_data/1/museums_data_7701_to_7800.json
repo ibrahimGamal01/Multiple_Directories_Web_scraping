@@ -1,0 +1,1430 @@
+[
+  {
+    "name": "Roper Mountain Science Center",
+    "address": {
+      "streetAddress": "402 Roper Mountain RoadGreenville, SC 29615",
+      "mailingAddress": null
+    },
+    "phone": "864-355-8900",
+    "website": "mailto:education@ropermountain.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "All buildings including the Living History Farm are \nclosed to the public because of student lessons.",
+    "museumTypes": [
+      "Anthropology",
+      "Arboretum",
+      "Archaeology",
+      "Botanical Garden",
+      "Children's",
+      "History",
+      "Library",
+      "Natural History",
+      "Nature Centers",
+      "Park"
+    ]
+  },
+  {
+    "name": "Rose Hill Plantation State Historic Site",
+    "address": {
+      "streetAddress": "2677 Sardis RoadUnion, SC 29379",
+      "mailingAddress": null
+    },
+    "phone": "864-427-5966",
+    "website": "mailto:rosehill@scprt.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Santee National Wildlife Refuge",
+    "address": {
+      "streetAddress": "2125 Fort Watson RoadSummerton, SC 29148",
+      "mailingAddress": null
+    },
+    "phone": "803-478-2217",
+    "website": "mailto:santee@fws.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Arboretum",
+      "Archaeology",
+      "History",
+      "Natural History",
+      "Nature Centers",
+      "Park"
+    ]
+  },
+  {
+    "name": "South Carolina Aquarium",
+    "address": {
+      "streetAddress": "100 Aquarium WharfCharleston, SC 29413",
+      "mailingAddress": "P.O. Box 130001Charleston, SC 29413"
+    },
+    "phone": "843-720-1990",
+    "website": "mailto:guestservices@scaquarium.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Aquarium"
+    ]
+  },
+  {
+    "name": "South Carolina Archives and History Center",
+    "address": {
+      "streetAddress": "8301 Parklane RoadColumbia, SC 29223",
+      "mailingAddress": null
+    },
+    "phone": "803-896-6196",
+    "website": "https://scdah.sc.gov/Pages/default.aspx",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/South-Carolina-Department-of-Archives-and-History/118232443651",
+      "twitter": "https://www.twitter.com/#!/SCArchives",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "South Carolina Cotton Museum Inc.",
+    "address": {
+      "streetAddress": "121 West Cedar LaneBishopville, SC 29010",
+      "mailingAddress": null
+    },
+    "phone": "803-484-4497",
+    "website": "mailto:SCCOTTONMUS@FTC-I.NET",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "South Carolina Hall of Fame",
+    "address": {
+      "streetAddress": "2101 North Oak StreetMyrtle Beach, SC 29578",
+      "mailingAddress": "P. O. Box 2115Myrtle Beach, SC 29578"
+    },
+    "phone": "843-626-7444",
+    "website": "https://theofficialschalloffame.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "South Carolina Humanities Council",
+    "address": {
+      "streetAddress": "2711 Middleburg Drive Suite 203Columbia, SC 29204",
+      "mailingAddress": "PO Box 5287Columbia, SC 29204"
+    },
+    "phone": "803-771-2477",
+    "website": "mailto:info@schumanities.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/The-Humanities-Council-SC/135389839848814?ref=ts&v=wall",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "South Carolina Military Museum",
+    "address": {
+      "streetAddress": "One National Guard RoadColumbia, SC 29201",
+      "mailingAddress": null
+    },
+    "phone": "803-806-4440",
+    "website": "https://scmilitarymuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "South Carolina Railroad Museum",
+    "address": {
+      "streetAddress": "110 Industrial Park RoadWinnsboro, SC 29180",
+      "mailingAddress": "P. O. Box 7246Columbia, SC 29202"
+    },
+    "phone": null,
+    "website": "mailto:info@scrm.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "South Carolina State Museum",
+    "address": {
+      "streetAddress": "301 Gervais St.Columbia, SC 29201",
+      "mailingAddress": "301 Gervais St, Loading Zone DColumbia, SC 29201"
+    },
+    "phone": "803-898-4921",
+    "website": "mailto:webmaster@scmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "History",
+      "Natural History",
+      "Science"
+    ]
+  },
+  {
+    "name": "Spartanburg Art Museum (SAM)",
+    "address": {
+      "streetAddress": "200 E. St. John Street.Spartanburg, SC 29306",
+      "mailingAddress": "385 Spring StreetSpartanburg, SC 29301"
+    },
+    "phone": "864-582-7616",
+    "website": "mailto:museuminfo@spartanburgartmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Spartanburg County Historical Association: Regional Museum",
+    "address": {
+      "streetAddress": "Spartanburg Regional Museum of History200 E. St. John StreetSpartanburg, SC 29306",
+      "mailingAddress": "PO Box 887Spartanburg, SC 29304"
+    },
+    "phone": "864-596-3501",
+    "website": "mailto:regionalmuseum@spartanburghistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Spartanburg Nature-Science Center",
+    "address": {
+      "streetAddress": "385 South Spring StreetSpartanburg, SC 29301",
+      "mailingAddress": null
+    },
+    "phone": "864-583-2777",
+    "website": "mailto:science@spartanburgsciencecenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Summerville-Dorchester Museum",
+    "address": {
+      "streetAddress": "100 East Doty AvenueSummerville, SC 29484",
+      "mailingAddress": "P. O. Box 1873Summerville, SC 29484"
+    },
+    "phone": "843-875-9666",
+    "website": "https://www.summervilledorchestermuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Sumter County Museum",
+    "address": {
+      "streetAddress": "122 North Washington StreetSumter, SC 29151",
+      "mailingAddress": "P. O. Box 1456Sumter, SC 29151"
+    },
+    "phone": "803-775-0908",
+    "website": "mailto:rgood@sumtercountymuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Sumter-County-Museum/118526471506807",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden",
+      "Children's",
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Military",
+      "Nature Centers",
+      "Park"
+    ]
+  },
+  {
+    "name": "Sumter Gallery of Art",
+    "address": {
+      "streetAddress": "200 Hasel StreetSumter, SC 29150",
+      "mailingAddress": "P. O. Box 1316Sumter, SC 29151"
+    },
+    "phone": "803-775-0543",
+    "website": "mailto:scgadirector@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "The Citadel Archives & Museum",
+    "address": {
+      "streetAddress": "171 Moultrie StreetCharleston, SC 29409",
+      "mailingAddress": null
+    },
+    "phone": "843-953-6846",
+    "website": "mailto:archives@citadel.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "The Charleston Museum",
+    "address": {
+      "streetAddress": "360 Meeting StreetCharleston, SC 29403",
+      "mailingAddress": null
+    },
+    "phone": "843-722-2996",
+    "website": "mailto:info@charlestonmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/charlestonmuseum",
+      "twitter": "https://www.twitter.com/chasmuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/charlestonmuseum#p/a"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Union County Historical Society",
+    "address": {
+      "streetAddress": "127 West Main StreetUnion, SC 29379",
+      "mailingAddress": "P. O. Drawer 220Union, SC 29379"
+    },
+    "phone": "864-429-5081",
+    "website": "mailto:uncomus@bellsouth.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Wagener Museum",
+    "address": {
+      "streetAddress": "Wagener, SC 29164",
+      "mailingAddress": "P. O. Box 400Wagener, SC 29164"
+    },
+    "phone": "803-564-3412",
+    "website": "https://www.wagenersc.com/wagener-museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Spartanburg County Historical Association",
+    "address": {
+      "streetAddress": "200 E. St. John St.Spartanburg, SC 29306",
+      "mailingAddress": "P. O. Box 887Spartanburg, SC 29304"
+    },
+    "phone": "864-596-3501",
+    "website": "mailto:scha@spartanburghistory.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/spartanburghistory",
+      "twitter": "https://www.twitter.com/sptbghistory",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Winthrop University Galleries",
+    "address": {
+      "streetAddress": "Winthrop University, College of Visual and Performing Arts126 McLaurin HallRock Hill, SC 29733",
+      "mailingAddress": null
+    },
+    "phone": "803-323-2493",
+    "website": "mailto:derksenk@winthrop.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/home.php#!/winthrop.galleries",
+      "twitter": "https://www.twitter.com/#!/winthropgallery",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "University"
+    ]
+  },
+  {
+    "name": "Woodburn Plantation Home",
+    "address": {
+      "streetAddress": "130 History LanePendleton, SC 29670",
+      "mailingAddress": "P.O. Box 444Pendleton, SC 29670"
+    },
+    "phone": "803-331-0760",
+    "website": "mailto:info@pendletonhistoricfoundation.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Special tours by appointment, please call (864) 646-3782 with minimum notice of 24 hours, and minimum charge of $30.",
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Woodrow Wilson Boyhood Home",
+    "address": {
+      "streetAddress": "1601 Richland StreetColumbia, SC 29201",
+      "mailingAddress": "Columbia, SC 29201"
+    },
+    "phone": "803-252-7742",
+    "website": "https://www.historiccolumbia.org/site/visit/houses/woodrow-wilson-family-home/overview/index",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/HistoricColumbia",
+      "twitter": "https://www.twitter.com/histcolumbia",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/discoverhistory"
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "National Wild Turkey Federation",
+    "address": {
+      "streetAddress": "770 Augusta RoadEdgefield, SC 29824",
+      "mailingAddress": "P.O. Box 530Edgefield, SC 29824"
+    },
+    "phone": "803-637-3106",
+    "website": "mailto:info@nwtf.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/http://www.nwtf.org/contests/rafter_t_ranch_video_contest.html",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Beech Island Historical Society",
+    "address": {
+      "streetAddress": "144 Old Jackson HwyBeech Island, SC 29842",
+      "mailingAddress": "P.O. Box 158Beech Island, SC 29842"
+    },
+    "phone": "803-867-3600",
+    "website": "mailto:bihs@comcast.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Kings Mountain National Military Park",
+    "address": {
+      "streetAddress": "2625 Park RoadBlacksburg, SC 29702",
+      "mailingAddress": null
+    },
+    "phone": "864-936-7921",
+    "website": "https://www.nps.gov/kimo/index.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Congaree National Park Museum",
+    "address": {
+      "streetAddress": "100 National Park RoadHopkins, SC 29061",
+      "mailingAddress": null
+    },
+    "phone": "803-776-4396",
+    "website": "https://www.nps.gov/cong",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 8:30 am - 5:00 pm",
+    "museumTypes": [
+      "Natural History",
+      "Park"
+    ]
+  },
+  {
+    "name": "Ninety-Six National Historic Site",
+    "address": {
+      "streetAddress": "1103 Hwy 248Ninety Six, SC 29666",
+      "mailingAddress": "P.O. Box 418Ninety Six, SC 29666"
+    },
+    "phone": "864-543-4068",
+    "website": "https://www.nps.gov/nisi/index.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "South Carolina Tennis Hall of Fame",
+    "address": {
+      "streetAddress": "100 North Main StreetBelton, SC 29627",
+      "mailingAddress": "P.O. Box 335Belton, SC 29627"
+    },
+    "phone": null,
+    "website": "mailto:beltonmuseum@bellsouth.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Halsey Institute of Contemporary Art",
+    "address": {
+      "streetAddress": "161 Calhoun StreetCharleston, SC 29424",
+      "mailingAddress": null
+    },
+    "phone": "843-953-4422",
+    "website": "mailto:halsey@cofc.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/halseyinstitute/",
+      "twitter": "https://www.twitter.com/HalseyArt",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "University"
+    ]
+  },
+  {
+    "name": "South Carolina Historical Society",
+    "address": {
+      "streetAddress": "100 Meeting StreetCharleston, SC 29401",
+      "mailingAddress": null
+    },
+    "phone": "843-723-3225",
+    "website": "https://www.southcarolinahistoricalsociety.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Rudolph E. Lee Gallery, Clemson University",
+    "address": {
+      "streetAddress": "Clemson University, Lee HallClemson, SC 29634",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.clemson.edu/centers-institutes/cva/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "University"
+    ]
+  },
+  {
+    "name": "U.S. Army Finance Corps Museum",
+    "address": {
+      "streetAddress": "Bldg 4392 Magruder AvenueFort Jackson, SC 29207",
+      "mailingAddress": "U.S. Army Financial Management School10000 Hampton ParkwayFort Jackson, SC 29207"
+    },
+    "phone": "803-751-3771",
+    "website": "mailto:robert.s.mcconnell4.civ@mail.mil",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Military"
+    ]
+  },
+  {
+    "name": "Hampton Plantation State Historic Site",
+    "address": {
+      "streetAddress": "1950 Rutledge RoadMcClellanville, SC 29458",
+      "mailingAddress": null
+    },
+    "phone": "843-546-9361",
+    "website": "mailto:hampton@scprt.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "South Carolina Artisans Center",
+    "address": {
+      "streetAddress": "334 Wichman StreetWalterboro, SC 29488",
+      "mailingAddress": "318 Wichman StWalterboro, SC 29488"
+    },
+    "phone": "843-549-0011",
+    "website": "mailto:info@scartisanscenter.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Spartanburg County Historical Association:  Seay House",
+    "address": {
+      "streetAddress": "106 Darby RoadSpartanburg, SC 29306",
+      "mailingAddress": "P.O. Box 887Spartanburg, SC 29304"
+    },
+    "phone": "864-596-3501",
+    "website": "mailto:scha@spartanburghistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The house is open the THIRD SATURDAY of the month, April through October, except July, from 11am to 5pm.",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Logan Museum of Anthropology",
+    "address": {
+      "streetAddress": "700 College StreetBeloit, WI 53511",
+      "mailingAddress": null
+    },
+    "phone": "608-363-2000",
+    "website": "mailto:webreq@beloit.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Brown Deer Historical Society",
+    "address": {
+      "streetAddress": "4800 West Green Brook DriveBrown Deer, WI 53223",
+      "mailingAddress": null
+    },
+    "phone": "414-354-6453",
+    "website": "mailto:browndeerhistoricalsociety@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Cable Natural History Museum",
+    "address": {
+      "streetAddress": "13470 County Highway M.Cable, WI 54821",
+      "mailingAddress": "P. O. 416Cable, WI 54821"
+    },
+    "phone": "715-798-3890",
+    "website": "mailto:info@cablemuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Cedarburg Cultural Center",
+    "address": {
+      "streetAddress": "W62 N546 Washington AvenueCedarburg, WI 53012",
+      "mailingAddress": null
+    },
+    "phone": "262-375-3676",
+    "website": "mailto:CCCMail@ArtMusicHistory.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#!/pages/Cedarburg-Cultural-Center/274772584957",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Circus World Museum",
+    "address": {
+      "streetAddress": "550 Water St.Baraboo, WI 53913",
+      "mailingAddress": null
+    },
+    "phone": "608-356-8341",
+    "website": "mailto:ringmaster@circusworldmuseum.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Wisconsin-Historic-Sites-Museums/105175346181297?v=wall&ref=ts",
+      "twitter": "https://www.twitter.com/#!/WISitesMuseums",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/WiscHistSociety?feature=mhsn#p/u/0/selHhDXih4Y"
+    },
+    "hours": "Open year-round, 10-4 between Labor Day in September, and summer season opening in mid-May.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Dodge County Historical Society",
+    "address": {
+      "streetAddress": "105 Park Ave.Beaver Dam, WI 53916",
+      "mailingAddress": null
+    },
+    "phone": "920-887-1266",
+    "website": "mailto:dchs@powercom.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Door County Maritime Museum",
+    "address": {
+      "streetAddress": "120 N. Madison Ave.Sturgeon Bay, WI 54235",
+      "mailingAddress": null
+    },
+    "phone": "920-743-5958",
+    "website": "mailto:info@dcmm.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House",
+      "Natural History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Douglas County Historical Society",
+    "address": {
+      "streetAddress": "1101 John AvenueSuperior, WI 54880",
+      "mailingAddress": "Box 1652Superior, WI 54880"
+    },
+    "phone": "715-392-8449",
+    "website": "mailto:dchs@douglashistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Dunn County Historical Society",
+    "address": {
+      "streetAddress": "Menomonie, WI 54751",
+      "mailingAddress": "P. O. Box 437Menomonie, WI 54751"
+    },
+    "phone": "715-232-8685",
+    "website": "mailto:dchs@dunnhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "EAA AirVenture Museum",
+    "address": {
+      "streetAddress": "3000 Poberezny RdOshkosh, WI 54903",
+      "mailingAddress": "PO Box 3086Oshkosh, WI 54903"
+    },
+    "phone": "920-426-4818",
+    "website": "mailto:museum@eaa.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Library",
+      "Military",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Chazen Museum of Art",
+    "address": {
+      "streetAddress": "800 University AveMadison, WI 53706",
+      "mailingAddress": "800 University AvenueMadison, WI 53706"
+    },
+    "phone": null,
+    "website": "https://www.chazen.wisc.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Ephriam Foundation",
+    "address": {
+      "streetAddress": "Ephraim, WI 54211",
+      "mailingAddress": "P. O. Box 165Ephraim, WI 54211"
+    },
+    "phone": "920-854-9688",
+    "website": "mailto:info@ephraim.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Fond du Lac County Historical Society",
+    "address": {
+      "streetAddress": "171 S. Pioneer RoadFond du Lac, WI 54935",
+      "mailingAddress": "Fond du Lac, WI 54935"
+    },
+    "phone": "920-922-0991",
+    "website": "https://www.fdl.com/history/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Gibraltor Historical Association",
+    "address": {
+      "streetAddress": "Corner of Hwy 42 &Main StFish Creek, WI 54212",
+      "mailingAddress": "P. O. Box 323Fish Creek, WI 54212"
+    },
+    "phone": "920-868-2091",
+    "website": "mailto:noblehousefc@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Green Bay Botanical Garden",
+    "address": {
+      "streetAddress": "2600 Larsen RoadGreen Bay, WI 54307",
+      "mailingAddress": "P. O. Box 12644Green Bay, WI 54307"
+    },
+    "phone": "920-490-9457",
+    "website": "mailto:info@gbbg.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "H. H. Bennett Studio & History Center",
+    "address": {
+      "streetAddress": "215 BroadwayWisconsin Dells, WI 53965",
+      "mailingAddress": "P. O. Box 147Wisconsin Dells, WI 53965"
+    },
+    "phone": "608-253-3523",
+    "website": "mailto:hhbennett@wisconsinhistory.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Wisconsin-Historic-Sites-Museums/105175346181297?v=wall&ref=ts",
+      "twitter": "https://www.twitter.com/#!/WISitesMuseums",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Hartford Heritage Auto Museum",
+    "address": {
+      "streetAddress": "147 N. Rural StreetHartford, WI 53027",
+      "mailingAddress": null
+    },
+    "phone": "262-673-7999",
+    "website": "https://wisconsinautomuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Hearthstone Historic House Museum",
+    "address": {
+      "streetAddress": "625 W. ProspectAppleton, WI 54911",
+      "mailingAddress": "625 W. Prospect AvenueAppleton, WI 54911"
+    },
+    "phone": "920-730-8204",
+    "website": "mailto:hearthdirector@att.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Hoard Historical Museum",
+    "address": {
+      "streetAddress": "401 Whitewater AveFort Atkinson, WI 53538",
+      "mailingAddress": "Fort Atkinson, WI 53538"
+    },
+    "phone": "920-563-7769",
+    "website": "mailto:info@hoardmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "John Michael Kohler Arts Center",
+    "address": {
+      "streetAddress": "608 New York AvenueSheboygan, WI 53081",
+      "mailingAddress": "608 New York AvenueSheboygan, WI 53082"
+    },
+    "phone": "920-458-6144",
+    "website": "mailto:rkohler@jmkac.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Kenosha County Historical Society",
+    "address": {
+      "streetAddress": "220 51st PlaceKenosha, WI 53143",
+      "mailingAddress": "Kenosha, WI 53143"
+    },
+    "phone": "262-654-5770",
+    "website": "mailto:tschleif@kenoshahistorycenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Kenosha Public Museum",
+    "address": {
+      "streetAddress": "5500 First AvenueKenosha, WI 53140",
+      "mailingAddress": null
+    },
+    "phone": "262-653-4140",
+    "website": "mailto:pgregorski@kenosha.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/KPMKenosha",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/watch?v=3EPD2CP_fqk"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Library",
+      "Military",
+      "Natural History",
+      "Science"
+    ]
+  },
+  {
+    "name": "Leigh Yawkey Woodson Art Museum",
+    "address": {
+      "streetAddress": "700 North Twelfth StreetFranklin & 12th StreetsWausau, WI 54403",
+      "mailingAddress": null
+    },
+    "phone": "715-845-7010",
+    "website": "mailto:museum@lywam.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Merrill Historical Museum",
+    "address": {
+      "streetAddress": "102 East Third StreetMerrill, WI 54452",
+      "mailingAddress": null
+    },
+    "phone": "715-536-5652",
+    "website": "mailto:merrillhs@frontier.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Military Veteran's Museum, Inc.",
+    "address": {
+      "streetAddress": "Neenah, WI 54956",
+      "mailingAddress": "375 City Center, Suite KP.O. Box 2194Oshkosh, WI 54903"
+    },
+    "phone": "920-426-8615",
+    "website": "mailto:thomas.schultz@mvmwisconsin.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Miller Art Center",
+    "address": {
+      "streetAddress": "107 S. 4th AvenueSturgeon Bay, WI 54235",
+      "mailingAddress": null
+    },
+    "phone": "920-746-0707",
+    "website": "mailto:bmam@dcwis.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Milton Historical Society",
+    "address": {
+      "streetAddress": "18 S Janesville StMilton, WI 53563",
+      "mailingAddress": "Milton House MuseumMilton, WI 53563"
+    },
+    "phone": "608-868-7772",
+    "website": "mailto:miltonhouse@miltonhouse.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Milwaukee Art Museum",
+    "address": {
+      "streetAddress": "700 N. Art Museum DriveMilwaukee, WI 53202",
+      "mailingAddress": null
+    },
+    "phone": "414-224-3200",
+    "website": "mailto:mam@mam.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Milwaukee County Historical Society",
+    "address": {
+      "streetAddress": "910 N. Old World Third St.Milwaukee, WI 53203",
+      "mailingAddress": "910 N. Old World Third StreetMilwaukee, WI 53203"
+    },
+    "phone": "414-273-8288",
+    "website": "https://www.milwaukeecountyhistsoc.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "Milwaukee County Zoo",
+    "address": {
+      "streetAddress": "10001 West Bluemound RoadMilwaukee, WI 53226",
+      "mailingAddress": null
+    },
+    "phone": "414-256-5414",
+    "website": "https://www.milwaukeezoo.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Check the Zoo website for hour changes before you arrive.",
+    "museumTypes": [
+      "Anthropology",
+      "Aquarium",
+      "Arboretum",
+      "Archaeology",
+      "Botanical Garden",
+      "Children's",
+      "History",
+      "Library",
+      "Natural History",
+      "Nature Centers"
+    ]
+  }
+]

@@ -1,0 +1,1067 @@
+[
+  {
+    "name": "Folsom Historical Society/Folsom History Museum",
+    "address": {
+      "streetAddress": "823 Sutter StreetFolsom, CA 95630",
+      "mailingAddress": null
+    },
+    "phone": "916-985-2707",
+    "website": "mailto:info@FolsomHistoryMuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday through Sunday from 11 a.m. to 4 p.m",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Folsom Prison Museum",
+    "address": {
+      "streetAddress": "P.O. Box 214222Sacramento, CA 95821",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:jbrown@folsomprisonmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Fontana Historical Society and Museum",
+    "address": {
+      "streetAddress": "16830 Spring StreetFontana, CA 92335",
+      "mailingAddress": "16830 Spring StreetFontana, CA 92334"
+    },
+    "phone": "909-350-3539",
+    "website": "https://www.fontanahistoricalsociety.com/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/historicalsocietyatfontana",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The Research House located on 16830 Spring Street",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "History Museum of Los Gatos",
+    "address": {
+      "streetAddress": "75 Church StLos Gatos, CA 95030",
+      "mailingAddress": "P.O. Box 1904Los Gatos, CA 95032"
+    },
+    "phone": "408-395-7375",
+    "website": "https://www.losgatosmuseum.org/History/historymuseum.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Ford House Museum",
+    "address": {
+      "streetAddress": "735 Main StreetMendocino, CA 95460",
+      "mailingAddress": "P. O. Box 1387Mendocino, CA 95460"
+    },
+    "phone": "707-937-5397",
+    "website": "mailto:fordhouse@mcn.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Year round:",
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Natural History",
+      "Nature Centers",
+      "Park"
+    ]
+  },
+  {
+    "name": "Foresthill Divide Museum",
+    "address": {
+      "streetAddress": "24600 Main St.Foresthill, CA 95631",
+      "mailingAddress": "P.O. Box 646Foresthill, CA 95631"
+    },
+    "phone": "530-367-2474",
+    "website": "mailto:foresthillchamber@sebastiancorp.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#/group.php?v=wall&gid=109558315285",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Forestiere Underground Gardens",
+    "address": {
+      "streetAddress": "5021 W. ShawFresno, CA 93722",
+      "mailingAddress": null
+    },
+    "phone": "559-271-0734",
+    "website": "mailto:tours@undergroundgardens.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Fort Crooke Historical Museum",
+    "address": {
+      "streetAddress": "43030 Fort Crook Museum Ave.Fall River Mills, CA 96028",
+      "mailingAddress": "Box 397Fall River Mills, CA 96028"
+    },
+    "phone": null,
+    "website": "mailto:fortcrook@frontiernet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Fort Jones Museum",
+    "address": {
+      "streetAddress": "11913 Main StreetFort Jones, CA 96032",
+      "mailingAddress": "P.O. Box 40Fort Jones, CA 96032"
+    },
+    "phone": "530-468-5568",
+    "website": "https://www.fortjonesmuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Fort MacArthur Military Museum",
+    "address": {
+      "streetAddress": "3601 South Gaffey StreetSan Pedro, CA 90731",
+      "mailingAddress": null
+    },
+    "phone": "310-548-2631",
+    "website": "mailto:director@ftmac.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu, Th, Sa & Su 12-5",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Fort Point National Historic Site",
+    "address": {
+      "streetAddress": "Golden Gate National Recreation Area Building 201, Fort MasonPresidio of San Francisco, CA 94129",
+      "mailingAddress": "P.O. Box 29333Presidio of San Francisco, CA 94129"
+    },
+    "phone": "415-556-1693",
+    "website": "https://www.nps.gov/fopo",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "W-Su 10-5",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Fort Tejon State Historic Park - Closed",
+    "address": {
+      "streetAddress": "Lebec, CA 93243",
+      "mailingAddress": "P.O. Box 895Lebec, CA 93243"
+    },
+    "phone": "800-777-0369",
+    "website": "mailto:info@parks.ca.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-Su 8-4:30",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "American Museum of Straw Art",
+    "address": {
+      "streetAddress": "2324 Snowden AvenueLong Beach, CA 90815",
+      "mailingAddress": "2324 Snowden AvenueLong Beach, CA 90813"
+    },
+    "phone": "562-431-3540",
+    "website": "mailto:Curator@strawartmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General"
+    ]
+  },
+  {
+    "name": "Fortuna Depot Museum",
+    "address": {
+      "streetAddress": "1 Park StreetFortuna, CA 95540",
+      "mailingAddress": null
+    },
+    "phone": "707-725-7645",
+    "website": "mailto:fortunamuseum@ci.fortuna.ca.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Frank C. Reilly Museum",
+    "address": {
+      "streetAddress": "Main StreetLa Porte, CA 95981",
+      "mailingAddress": "P.O. Box 189La Porte, CA 95981"
+    },
+    "phone": null,
+    "website": "mailto:frank_c_reilly@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Frederick R. Weisman Museum of Art, Pepperdine Univ.",
+    "address": {
+      "streetAddress": "24255 Pacific Coast HighwayMalibu, CA 90263",
+      "mailingAddress": null
+    },
+    "phone": "310-506-4522",
+    "website": "https://arts.pepperdine.edu/museum/dahesh-collection.htm",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/PepperdineCFA",
+      "twitter": "https://www.twitter.com/SmothersTheatre",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Su 11-5",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Frederick's Lingerie Museum",
+    "address": {
+      "streetAddress": "6751 Hollywood Blvd.Los Angeles, CA 90028",
+      "mailingAddress": "Los Angeles, CA 90028"
+    },
+    "phone": "323-957-5953",
+    "website": "https://www.fredericks.com/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/fredericks",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Fresno Art Museum",
+    "address": {
+      "streetAddress": "2233 North First St.Fresno, CA 93703",
+      "mailingAddress": null
+    },
+    "phone": "559-441-4221",
+    "website": "mailto:eva@fresnoartmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Fresno-Art-Museum/82033314252?sk=info",
+      "twitter": "https://www.twitter.com/#!/fresnofam",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "Culture",
+      "Library"
+    ]
+  },
+  {
+    "name": "Fullerton Arboretum",
+    "address": {
+      "streetAddress": "1900 Associated RoadFullerton, CA 92831",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.arboretum.fullerton.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "8:00 a.m. - 5:00 p.m.",
+    "museumTypes": [
+      "Arboretum"
+    ]
+  },
+  {
+    "name": "Fullerton Museum Center",
+    "address": {
+      "streetAddress": "301 N. PomonaFullerton, CA 92632",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.ci.fullerton.ca.us/museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Gallery Of Historical Figures",
+    "address": {
+      "streetAddress": "171 McNell RdOjai, CA 93024",
+      "mailingAddress": "P.O. Box 508Ojai, CA 93024"
+    },
+    "phone": "805-646-6574",
+    "website": "mailto:info@galleryhistoricalfigures.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Saturdays and Sundays April th 1:00 om - 4:00 pm",
+    "museumTypes": [
+      "Art",
+      "History"
+    ]
+  },
+  {
+    "name": "Rae House Museum",
+    "address": {
+      "streetAddress": "Galt, CA 95632",
+      "mailingAddress": "P.O. Box 782Galt, CA 95632"
+    },
+    "phone": null,
+    "website": "https://galthistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sa hours vary, please call for hours",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Gatekeeper's & Marion Steinbach Museum.",
+    "address": {
+      "streetAddress": "130 West Lake Blvd.Tahoe City, CA 96145",
+      "mailingAddress": "P.O. Box 6141Tahoe City, CA 96145"
+    },
+    "phone": "530-583-1762",
+    "website": "mailto:info@northtahoemuseums.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "May 1-Oct 1 W-Su 11-5, June 15-Labor Day Daily 11-5",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "General Patton Memorial Museum",
+    "address": {
+      "streetAddress": "2 Chiriaco RoadChiriaco Summit, CA 92201",
+      "mailingAddress": null
+    },
+    "phone": "760-227-3483",
+    "website": "mailto:Contact@GeneralPattonMuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "George C. Page Museum of La Brea Discoveries",
+    "address": {
+      "streetAddress": "5801 Wilshire Blvd.Los Angeles, CA 90036",
+      "mailingAddress": null
+    },
+    "phone": "323-857-6300",
+    "website": "https://www.tarpits.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "George White and Anna Gunn Marston House",
+    "address": {
+      "streetAddress": "3525 Seventh AvenueSan Diego, CA 92103",
+      "mailingAddress": "2476 San Diego AvenueSan Diego, CA 92110"
+    },
+    "phone": "619-297-9327",
+    "website": "mailto:sohosandiego@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden",
+      "Culture",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Glendora Historical Society Museum",
+    "address": {
+      "streetAddress": "314 N. Glendora AvenueGlendora, CA 91740",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://glendorahistoricalsociety.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/The-Glendora-Historical-Society/410626231398",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Su 1-4",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Hangtown's Gold Bug Park & Mine",
+    "address": {
+      "streetAddress": "2635 Goldbug LanePlacerville, CA 95667",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.goldbugpark.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "April through October daily 10am-4pm \n\nNovember through March\nweekends 12pm-4pm",
+    "museumTypes": [
+      "History",
+      "Park"
+    ]
+  },
+  {
+    "name": "Gold Country Museum",
+    "address": {
+      "streetAddress": "1273 High St.Auburn, CA 95603",
+      "mailingAddress": null
+    },
+    "phone": "530-889-6500",
+    "website": "https://www.placer.ca.gov/Departments/Facility/Museums/LocalMuseums/goldcountry.aspx",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Gold Nugget Museum",
+    "address": {
+      "streetAddress": "502 Pearson Rd.Paradise, CA 95969",
+      "mailingAddress": "P.O. Box 949Paradise, CA 95967"
+    },
+    "phone": "530-872-8722",
+    "website": "mailto:goldnuggetmuseum@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Golden Drift Historical Society",
+    "address": {
+      "streetAddress": "32820 Main StreetDutch Flat, CA 95714",
+      "mailingAddress": "PO Box 253Dutch Flat, CA 95714"
+    },
+    "phone": null,
+    "website": "https://www.goldendrift.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Golden Gate National Recreational Area",
+    "address": {
+      "streetAddress": "Golden Gate ParkSan Francisco, CA 94123",
+      "mailingAddress": "Building 201, Fort MasonSan Francisco, CA 94123"
+    },
+    "phone": null,
+    "website": "https://www.nps.gov/goga",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "C.N. Gorman Museum",
+    "address": {
+      "streetAddress": "University of California Davis1316 Hart HallDavis, CA 95616",
+      "mailingAddress": "University of CaliforniaOne Shields AvenueDavis, CA 95616"
+    },
+    "phone": "530-752-6567",
+    "website": "mailto:cngorman@ucdavis.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "Specialized",
+      "University"
+    ]
+  },
+  {
+    "name": "Graber Olive House Museum",
+    "address": {
+      "streetAddress": "315 East Fourth StreetOntario, CA 91764",
+      "mailingAddress": "P.O. Box 511Ontario, CA 91764"
+    },
+    "phone": "800-996-5483",
+    "website": "https://graberolives.com/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Graber-Olives/72200248165",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-Sa 9-5:30, Su 9:30-6",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Grace Hudson Museum & Sun House",
+    "address": {
+      "streetAddress": "431 South Main StreetUkiah, CA 95482",
+      "mailingAddress": null
+    },
+    "phone": "707-467-2836",
+    "website": "mailto:info@gracehudsonmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#!/GraceHudsonMuseumandSunHouse",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "W-Su 10-4:30",
+    "museumTypes": [
+      "Anthropology",
+      "Art",
+      "Culture",
+      "History",
+      "Historic House",
+      "Park"
+    ]
+  },
+  {
+    "name": "Granger Music Hall",
+    "address": {
+      "streetAddress": "1615 E 4th StNational City, CA 91951",
+      "mailingAddress": "P.O. Box 1251National City, CA 91951"
+    },
+    "phone": "619-477-3451",
+    "website": "https://www.ci.national-city.ca.us/index.aspx?page=100",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "by appointment only",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Grier-Musser Museum",
+    "address": {
+      "streetAddress": "403 South Bonnie Brae StreetLos Angeles, CA 90057",
+      "mailingAddress": null
+    },
+    "phone": "213-413-1814",
+    "website": "mailto:griermusser@hotmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Anaheim Historical Society",
+    "address": {
+      "streetAddress": "703 N Lemon StreetAnaheim, CA 92815",
+      "mailingAddress": "P.O. Box 927Anaheim, CA 92815"
+    },
+    "phone": "714-778-3301",
+    "website": "https://www.anaheimhistoricalsociety.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Griffith Observatory",
+    "address": {
+      "streetAddress": "2800 East Observatory RoadLos Angeles, CA 90027",
+      "mailingAddress": null
+    },
+    "phone": "213-473-0800",
+    "website": "https://www.griffithobservatory.org/general.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-R 2-10, Sa & Su 12-10",
+    "museumTypes": [
+      "Planetarium"
+    ]
+  },
+  {
+    "name": "Grossmont College Hyde Gallery",
+    "address": {
+      "streetAddress": "8800 Grossmont College Dr.El Cajon, CA 92020",
+      "mailingAddress": null
+    },
+    "phone": "619-644-7000",
+    "website": "https://www.grossmont.edu/artgallery/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M & W 10-6:30, Tu & Th 10-5, F 10-2/no charge",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Guest House Museum",
+    "address": {
+      "streetAddress": "343 N. Main StreetFort Bragg, CA 95437",
+      "mailingAddress": "PO Box 71Fort Bragg, CA 95437"
+    },
+    "phone": null,
+    "website": "mailto:rvtravelog@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Su 10:30-2:30 (closed Tu-Th April-Oct)",
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Gulf Of The Farallones Marine Sanctuary",
+    "address": {
+      "streetAddress": "Fort Mason; Bldg 201San Francisco, CA 94123",
+      "mailingAddress": null
+    },
+    "phone": "415-561-6622",
+    "website": "mailto:farallones@noaa.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Gull Wings Children's Museum",
+    "address": {
+      "streetAddress": "418 W. Fourth StreetOxnard, CA 93030",
+      "mailingAddress": null
+    },
+    "phone": "805-483-3005",
+    "website": "mailto:director@gullwings.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Anaheim Muzeo & Heritage Center",
+    "address": {
+      "streetAddress": "241 S. Anaheim Blvd.Anaheim, CA 92805",
+      "mailingAddress": null
+    },
+    "phone": "714-956-8936",
+    "website": "mailto:info@muzeo.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/MUZEOAnaheim",
+      "twitter": "https://www.twitter.com/muzeo",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/MuzeoAnaheim"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  },
+  {
+    "name": "Gustine Museum",
+    "address": {
+      "streetAddress": "397 Fourth St., Hwy. 33Gustine, CA 95322",
+      "mailingAddress": "Gustine, CA 95322"
+    },
+    "phone": "209-854-2344",
+    "website": "mailto:gustinemuseum@gustinehistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Guy B. Woodward Museum",
+    "address": {
+      "streetAddress": "645 Main StreetRamona, CA 92065",
+      "mailingAddress": "P.O. Box 625Ramona, CA 92065"
+    },
+    "phone": "760-789-7644",
+    "website": "mailto:gwoodward8@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Habitot Childrens Museum",
+    "address": {
+      "streetAddress": "2065 Kittredge St.Berkeley, CA 94704",
+      "mailingAddress": "1563 Solano Avenue #326Berkeley, CA 94707"
+    },
+    "phone": "510-647-1111",
+    "website": "mailto:habitot@lmi.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Fall - Winter Hours (starting Monday ClosedTuesday - Thursday 9:30 am - 1:00 pmFriday, Saturday 9:30 am - 4:30 pmSunday Private parties only",
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "Library",
+      "Science"
+    ]
+  },
+  {
+    "name": "The Haggin Museum",
+    "address": {
+      "streetAddress": "1201 North Pershing AvenueStockton, CA 95203",
+      "mailingAddress": null
+    },
+    "phone": "209-940-6300",
+    "website": "mailto:info@hagginmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "Hall of Health",
+    "address": {
+      "streetAddress": "2230 Shattuck Ave. Lower LevelBerkeley, CA 94704",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.hallofhealth.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Sa 10-4",
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Hancock Memorial Museum",
+    "address": {
+      "streetAddress": "Allan Hancock Foundation Building, USCLos Angeles, CA 90089",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.usc.edu/isd/locations/collections/special/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "by appointment only",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Hanford Carnegie Museum, Inc.",
+    "address": {
+      "streetAddress": "109 East 8th StreetHanford, CA 93230",
+      "mailingAddress": null
+    },
+    "phone": "559-584-1367",
+    "website": "mailto:hanfordcarnegie@att.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History"
+    ]
+  }
+]

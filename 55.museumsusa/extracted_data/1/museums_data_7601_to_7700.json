@@ -1,0 +1,1103 @@
+[
+  {
+    "name": "Drayton Hall",
+    "address": {
+      "streetAddress": "3380 Ashley River RoadCharleston, SC 29414",
+      "mailingAddress": null
+    },
+    "phone": "843-769-2600",
+    "website": "mailto:info@draytonhall.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  },
+  {
+    "name": "Edgefield County Historical Society",
+    "address": {
+      "streetAddress": "Edgefield, SC 29824",
+      "mailingAddress": "P. O. Box 174Edgefield, SC 29824"
+    },
+    "phone": null,
+    "website": "https://www.historicedgefield.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Edisto Island Historic Preservation Society",
+    "address": {
+      "streetAddress": "8123 Chisolm Plantation RoadEdisto Island, SC 29438",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.edistomuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "EdVenture, Inc.",
+    "address": {
+      "streetAddress": "211 Gervais StreetColumbia, SC 29201",
+      "mailingAddress": "P. O. Box 2562Columbia, SC 29202"
+    },
+    "phone": "803-779-3100",
+    "website": "https://www.edventure.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Columbia-SC/EdVenture-Childrens-Museum/43574789050",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Fairfield County Museum",
+    "address": {
+      "streetAddress": "231 South Congress StreetWinnsboro, SC 29180",
+      "mailingAddress": "P.O. Box 6Winnsboro, SC 29180"
+    },
+    "phone": "803-635-9811",
+    "website": "mailto:fairfieldmus@truvista.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Fine Arts Center of Greenville County",
+    "address": {
+      "streetAddress": "102 Pine Knoll DriveGreenville, SC 29609",
+      "mailingAddress": null
+    },
+    "phone": "864-355-2551",
+    "website": "mailto:kcassell@greenville.k12.sc.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Fine Arts Center of Kershaw County",
+    "address": {
+      "streetAddress": "810 Lyttleton StreetCamden, SC 29020",
+      "mailingAddress": "PO Box 1498Camden, SC 29020"
+    },
+    "phone": "803-425-7676",
+    "website": "mailto:kcobb@FineArtsCenter.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/FineArtsCenter",
+      "twitter": "https://www.twitter.com/FACofKC",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Florence Museum of Art, Science and History",
+    "address": {
+      "streetAddress": "558 Spruce StreetFlorence, SC 29501",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.florencemuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Saturday 10:00 am - 5:00 pmSunday 2:00 pm - 5:00 pm",
+    "museumTypes": [
+      "Archaeology",
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Gibbes Museum of Art",
+    "address": {
+      "streetAddress": "135 Meeting StreetCharleston, SC 29401",
+      "mailingAddress": null
+    },
+    "phone": "843-722-2706",
+    "website": "mailto:admack@gibbesmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "South Carolina Governor's Mansion Complex",
+    "address": {
+      "streetAddress": "800 Richland StreetColumbia, SC 29201",
+      "mailingAddress": null
+    },
+    "phone": "803-737-1710",
+    "website": "mailto:emilybrandenburg@gov.sc.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tours at 10:00, 10:30, and 11:00 a.m.(excluding holidays)",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  },
+  {
+    "name": "Greenville County Museum of Art",
+    "address": {
+      "streetAddress": "420 College StreetGreenville, SC 29601",
+      "mailingAddress": null
+    },
+    "phone": "864-271-7570",
+    "website": "mailto:info@greenvillemuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Greenville Cultural Exchange Center",
+    "address": {
+      "streetAddress": "700 Arlington AveGreenville, SC 29606",
+      "mailingAddress": "P. O. Box 5482, Station BGreenville, SC 29606"
+    },
+    "phone": "864-232-9162",
+    "website": "https://www.greenvillesc.gov/Culture/History/CulturalExchangeCenter.aspx",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture"
+    ]
+  },
+  {
+    "name": "Greenville Zoological Park",
+    "address": {
+      "streetAddress": "150 Cleveland ParkGreenville, SC 29601",
+      "mailingAddress": null
+    },
+    "phone": "864-467-4300",
+    "website": "mailto:zooinfo@greenvillesc.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Hagood-Mauldin House and Irma Morris Museum of Arts",
+    "address": {
+      "streetAddress": "104 N Lewis STPickens, SC 29671",
+      "mailingAddress": "P.O. Box 775Pickens, SC 29671"
+    },
+    "phone": "864-608-2834",
+    "website": "mailto:pickenscohistory@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Hampton County Museum",
+    "address": {
+      "streetAddress": "702 First Street WestHampton, SC 29924",
+      "mailingAddress": null
+    },
+    "phone": "803-943-3387",
+    "website": "https://www.hamptoncountysc.org/index.aspx?NID=457",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Hampton Museum and Visitors' Center",
+    "address": {
+      "streetAddress": "15 Elm St. E.Hampton, SC 29924",
+      "mailingAddress": "202 Harriet St.Hampton, SC 29924"
+    },
+    "phone": "803-943-5318",
+    "website": "mailto:hmvc9891@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday, Thursday & Saturday 2:00 pm - 5:00 pmFirst Sunday of the month 3:00 pm - 5:00 pm",
+    "museumTypes": [
+      "General",
+      "History"
+    ]
+  },
+  {
+    "name": "Hartsville Museum",
+    "address": {
+      "streetAddress": "222 N 5th StHartsville, SC 29551",
+      "mailingAddress": "P. O. Box 431Hartsville, SC 29551"
+    },
+    "phone": "843-383-3005",
+    "website": "https://www.hartsvillemuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Historic Beaufort Foundation",
+    "address": {
+      "streetAddress": "801 Bay St,Beaufort, SC 29902",
+      "mailingAddress": "P. O. Box 11Beaufort, SC 29901"
+    },
+    "phone": "843-379-3331",
+    "website": "mailto:info@historicbeaufort.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Historic Brattonsville",
+    "address": {
+      "streetAddress": "4621 Mt. Gallant Rd.Rock Hill, SC 29732",
+      "mailingAddress": "1444 Brattonsville RoadMcConnells, SC 29726"
+    },
+    "phone": "803-329-2121",
+    "website": "mailto:scrotts@chmuseums.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Rock-Hill-SC/Culture-Heritage-Museums/47582007604",
+      "twitter": "https://www.twitter.com/CHMuseums",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/CHMuseums"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Historic Camden Revolutionary War Site",
+    "address": {
+      "streetAddress": "222 Broad StCamden, SC 29020",
+      "mailingAddress": "P. O. Box 710Camden, SC 29020"
+    },
+    "phone": "803-432-9841",
+    "website": "mailto:hiscamden@truvista.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Culture",
+      "History",
+      "Historic House",
+      "Library",
+      "Military"
+    ]
+  },
+  {
+    "name": "Historic Charleston Foundation:  Aiken-Rhett House",
+    "address": {
+      "streetAddress": "48 Elizabeth StreetCharleston, SC 29403",
+      "mailingAddress": "Charleston, SC 29401"
+    },
+    "phone": "843-723-1159",
+    "website": "mailto:krobinson@historiccharleston.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Historic Columbia Foundation",
+    "address": {
+      "streetAddress": "1616 Blanding StreetColumbia, SC 29201",
+      "mailingAddress": "1601 Richland StreetColumbia, SC 29201"
+    },
+    "phone": null,
+    "website": "https://www.historiccolumbia.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Historical Ninety-Six Development Commission: Museum and Visitor Center",
+    "address": {
+      "streetAddress": "120 NW Main StNinety Six, SC 29666",
+      "mailingAddress": "P. O. Box 8Ninety Six, SC 29666"
+    },
+    "phone": "864-543-2200",
+    "website": "mailto:info@townofninetysixsc.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Hopsewee Plantation",
+    "address": {
+      "streetAddress": "494 Hopsewee RoadGeorgetown, SC 29440",
+      "mailingAddress": null
+    },
+    "phone": "843-546-7891",
+    "website": "https://www.hopsewee.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Horry County Museum",
+    "address": {
+      "streetAddress": "428 Main StreetConway, SC 29569",
+      "mailingAddress": "Conway, SC 29569"
+    },
+    "phone": "843-915-5320",
+    "website": "mailto:HCGmuseum@horrycounty.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Hunting Island State Park",
+    "address": {
+      "streetAddress": "2555 Sea Island ParkwaySaint Helena Island, SC 29920",
+      "mailingAddress": null
+    },
+    "phone": "843-838-2011",
+    "website": "mailto:huntingisland@scprt.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Kalmia Gardens",
+    "address": {
+      "streetAddress": "1624 West Carolina AvenueHartsville, SC 29550",
+      "mailingAddress": null
+    },
+    "phone": "843-383-8145",
+    "website": "mailto:kalmia@coker.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Kaminski House Museum",
+    "address": {
+      "streetAddress": "1003 Front StGeorgetown, SC 29442",
+      "mailingAddress": "P. O. Box 939Georgetown, SC 29442"
+    },
+    "phone": "843-546-7706",
+    "website": "https://www.kaminskihousemuseum.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/share.php?u=http://www.kaminskihousemuseum.org",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Kershaw County Historical Society",
+    "address": {
+      "streetAddress": "811 Fair StreetCamden, SC 29020",
+      "mailingAddress": "P. O. Box 501Camden, SC 29020"
+    },
+    "phone": "803-425-1123",
+    "website": "mailto:kchistory@camden.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Kings Mountain State Park",
+    "address": {
+      "streetAddress": "1277 Park RoadBlacksburg, SC 29702",
+      "mailingAddress": null
+    },
+    "phone": "803-222-3209",
+    "website": "https://www.southcarolinaparks.com/kingsmountain/introduction.aspx",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Monsanto Gallery, Lander University",
+    "address": {
+      "streetAddress": "Lander UniversityGreenwood, SC 29646",
+      "mailingAddress": null
+    },
+    "phone": "864-388-8810",
+    "website": "mailto:ewohlfor@lander.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "University"
+    ]
+  },
+  {
+    "name": "Landsford Canal State Park",
+    "address": {
+      "streetAddress": "2051 Park DriveCatawba, SC 29704",
+      "mailingAddress": null
+    },
+    "phone": "803-789-5800",
+    "website": "mailto:landsfordcanal@scprt.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Lexington County Museum",
+    "address": {
+      "streetAddress": "231 Fox StreetLexington, SC 29072",
+      "mailingAddress": "P. O. Box 637Lexington, SC 29071"
+    },
+    "phone": "803-359-8369",
+    "website": "mailto:JRFennell@lex-co.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  },
+  {
+    "name": "Macaulay Museum of Dental History & Waring Historical Library",
+    "address": {
+      "streetAddress": "175 Ashley AvenueCharleston, SC 29425",
+      "mailingAddress": "P.O. Box 250181Charleston, SC 29425"
+    },
+    "phone": null,
+    "website": "https://waring.library.musc.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Monady - Friday 8:30 am to 5:00 pm. Admission is by request at the Waring Historical Library.",
+    "museumTypes": [
+      "History",
+      "Library",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Magnolia Plantation and Gardens",
+    "address": {
+      "streetAddress": "3550 Ashley River RoadCharleston, SC 29414",
+      "mailingAddress": null
+    },
+    "phone": "800-367-3517",
+    "website": "mailto:tours@magnoliaplantation.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Marion County Museum",
+    "address": {
+      "streetAddress": "101 Willcox AVEMarion, SC 29571",
+      "mailingAddress": "P. O. Box 220Marion, SC 29571"
+    },
+    "phone": "843-423-8299",
+    "website": "https://www.marionsc.org/Musem",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "McCelvey Center",
+    "address": {
+      "streetAddress": "212 East Jefferson StreetYork, SC 29745",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.chmuseums.org/calendar/mccelvey.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "McKissick Museum",
+    "address": {
+      "streetAddress": "University of South CarolinaColumbia, SC 29208",
+      "mailingAddress": null
+    },
+    "phone": "803-777-7251",
+    "website": "mailto:mckscal@mailbox.sc.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Middleton Place Foundation",
+    "address": {
+      "streetAddress": "4300  Ashley River RoadCharleston, SC 29414",
+      "mailingAddress": "Charleston, SC 29414"
+    },
+    "phone": "843-556-6020",
+    "website": "mailto:info@middletonplace.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/middletonplacefoundation",
+      "twitter": "https://www.twitter.com/middletonplace",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Mullins Tobacco Museum and Farmer's Market",
+    "address": {
+      "streetAddress": "Mullins, SC 29574",
+      "mailingAddress": "P.O. Box 408Mullins, SC 29574"
+    },
+    "phone": "843-464-8194",
+    "website": "mailto:cityofmullins@mullinssc.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Museum of Education",
+    "address": {
+      "streetAddress": "Wardlaw Hall, University of South CarolinaColumbia, SC 29208",
+      "mailingAddress": null
+    },
+    "phone": "803-777-5741",
+    "website": "mailto:museumofeducation@sc.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Museum of York County",
+    "address": {
+      "streetAddress": "4621 Mount Gallant RoadRock Hill, SC 29732",
+      "mailingAddress": null
+    },
+    "phone": "803-329-2121",
+    "website": "mailto:scrotts@chmuseums.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Oconee State Park",
+    "address": {
+      "streetAddress": "624 State Park RoadMountain Rest, SC 29664",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://oconeecountry.com/oconeestatepark.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Old Edgefield District Archives",
+    "address": {
+      "streetAddress": "Edgefield, SC 29824",
+      "mailingAddress": "P. O. Box 546Edgefield, SC 29824"
+    },
+    "phone": "803-637-4010",
+    "website": "mailto:OEDGS85@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Old Exchange and Provost Dungeon",
+    "address": {
+      "streetAddress": "122 East Bay StreetCharleston, SC 29401",
+      "mailingAddress": null
+    },
+    "phone": "843-727-2165",
+    "website": "mailto:Youmanst@charleston-sc.gov",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/The-Official-Old-Exchange-and-Provost-Dungeon-Page/112202772146166?sk=wall",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Old Santee Canal Park",
+    "address": {
+      "streetAddress": "Moncks Corner, SC 29461",
+      "mailingAddress": "900 Stony Landing RoadMoncks Corner, SC 29461"
+    },
+    "phone": null,
+    "website": "https://www.oldsanteecanalpark.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society",
+      "Natural History",
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Orangeburg County Historical Society",
+    "address": {
+      "streetAddress": "1421 Middleton StOrangeburg, SC 29115",
+      "mailingAddress": "PO Box 1881Orangeburg, SC 29116"
+    },
+    "phone": "803-535-0022",
+    "website": "mailto:ochs@orangeburgh.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": "https://www.twitter.com/#!/ochistorical",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/ochistorical"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Cemetery",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Patriots Point Naval and Maritime Museum",
+    "address": {
+      "streetAddress": "40 Patriots Point RoadMount Pleasant, SC 29464",
+      "mailingAddress": null
+    },
+    "phone": "843-881-5922",
+    "website": "https://www.patriotspoint.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Military"
+    ]
+  },
+  {
+    "name": "Pendleton Historic Foundation",
+    "address": {
+      "streetAddress": "2725 Old Greenville HwyPendleton, SC 29670",
+      "mailingAddress": "P.O. Box 444Pendleton, SC 29670"
+    },
+    "phone": "864-646-7249",
+    "website": "mailto:info@pendletonhistoricfoundation.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Penn Center",
+    "address": {
+      "streetAddress": "Saint Helena Island, SC 29920",
+      "mailingAddress": "P. O. Box 126Saint Helena Island, SC 29920"
+    },
+    "phone": "843-838-2432",
+    "website": "mailto:info@penncenter.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Pickens County Historical Society",
+    "address": {
+      "streetAddress": "Pickens, SC 29671",
+      "mailingAddress": "P. O. Box 775Pickens, SC 29671"
+    },
+    "phone": null,
+    "website": "mailto:pickenscohistory@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Poinsett State Park",
+    "address": {
+      "streetAddress": "6660 Poinsett Park RoadWedgefield, SC 29168",
+      "mailingAddress": null
+    },
+    "phone": "803-494-8177",
+    "website": "mailto:poinsett@scprt.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Richland County Public Library",
+    "address": {
+      "streetAddress": "1431 Assembly StreetColumbia, SC 29201",
+      "mailingAddress": null
+    },
+    "phone": "803-799-9084",
+    "website": "https://www.richland.lib.sc.us/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Riverbanks Zoological Park and Botanical Gardens",
+    "address": {
+      "streetAddress": "Columbia, SC 29202",
+      "mailingAddress": "P. O. Box 1060Columbia, SC 29202"
+    },
+    "phone": null,
+    "website": "https://www.riverbanks.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/riverbankszoo",
+      "twitter": "https://www.twitter.com/#!/riverbankszoo",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/theriverbankszoo"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  }
+]

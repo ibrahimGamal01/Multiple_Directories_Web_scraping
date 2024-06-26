@@ -1,0 +1,1173 @@
+[
+  {
+    "name": "Placer County Museums",
+    "address": {
+      "streetAddress": "101 Maple StreetAuburn, CA 95603",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.placer.ca.gov/museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Placerita Canyon Park & Nature Center",
+    "address": {
+      "streetAddress": "19152 W. Placerita Canyon Rd.Newhall, CA 91321",
+      "mailingAddress": null
+    },
+    "phone": "661-259-7721",
+    "website": "mailto:info@placerita.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 9-5",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Planes of Fame Air Museum",
+    "address": {
+      "streetAddress": "7000 Merrill AveChino, CA 91710",
+      "mailingAddress": null
+    },
+    "phone": "909-597-3722",
+    "website": "https://www.planesoffame.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/andrea.eldridge?ref=profile#!/pages/Chino-CA/Planes-of-Fame-Air-Museum/23688958789?ref=",
+      "twitter": "https://www.twitter.com/PlanesofFame/",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The Museum is open every day of the year, with the exception of Thanksgiving, Christmas, and occasional special events.",
+    "museumTypes": [
+      "History",
+      "Military",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Plaza de la Raza, Inc.",
+    "address": {
+      "streetAddress": "3540 N. Mission Rd.Los Angeles, CA 90031",
+      "mailingAddress": null
+    },
+    "phone": "323-223-2475",
+    "website": "mailto:info@plazadelaraza.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Pleasant Valley Historical Society Museum and Botanical Garden",
+    "address": {
+      "streetAddress": "720 Las Posas RoadCamarillo, CA 93010",
+      "mailingAddress": "PO Box 570Camarillo, CA 93011"
+    },
+    "phone": "805-482-3660",
+    "website": "https://pleasantvalleyhistoricalsociety.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Belvedere-Tiburon Landmarks Society",
+    "address": {
+      "streetAddress": "P.O. Box 1073Tiburon, CA 94920",
+      "mailingAddress": null
+    },
+    "phone": "415-435-1853",
+    "website": "mailto:lmsoffice@sbcglobal.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-W & Su 1-4 (closed M & Tu April-Oct)",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Plumas County Museum",
+    "address": {
+      "streetAddress": "500 Jackson StreetQuincy, CA 95971",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://plumasmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-R 10-4; May 1-Sept 30 Sa & Su 10-4",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Point Arena Lighthouse and Museum",
+    "address": {
+      "streetAddress": "45500 Lighthouse RoadPoint Arena, CA 95468",
+      "mailingAddress": "P.O. Box 11Point Arena, CA 95468"
+    },
+    "phone": "707-882-2809",
+    "website": "mailto:palight@mcn.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Point Reyes Bird Observatory Visitor Center",
+    "address": {
+      "streetAddress": "4990 Shoreline Hwy.Stinson Beach, CA 94970",
+      "mailingAddress": null
+    },
+    "phone": "202-224-3121",
+    "website": "mailto:info@pointreyes.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Point Vicente Interpretive Center",
+    "address": {
+      "streetAddress": "31550 Palos Verdes DriveRancho Palos Verdes, CA 90275",
+      "mailingAddress": "30501 Palos Verdes Drive, WestRancho Palos Verdes, CA 90275"
+    },
+    "phone": "310-541-0334",
+    "website": "https://www.palosverdes.com/pvlight/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Pomona Valley Historical Society",
+    "address": {
+      "streetAddress": "585 East Holt AvenuePomona, CA 91767",
+      "mailingAddress": "Pomona, CA 91768"
+    },
+    "phone": "909-623-2198",
+    "website": "mailto:Pomonahistorical@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Benicia Historical Museum at the Camel Barns",
+    "address": {
+      "streetAddress": "2060 Camel RoadBenicia, CA 94510",
+      "mailingAddress": null
+    },
+    "phone": "707-745-5435",
+    "website": "mailto:info@beniciahistoricalmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Porterville Historical Museum",
+    "address": {
+      "streetAddress": "257 North D. StreetPorterville, CA 93257",
+      "mailingAddress": null
+    },
+    "phone": "559-784-2053",
+    "website": "mailto:phm@pvilleca.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Portola Railroad Museum",
+    "address": {
+      "streetAddress": "700 Western WayPortola, CA 96122",
+      "mailingAddress": "PO Box 608Portola, CA 96122"
+    },
+    "phone": "530-832-4131",
+    "website": "mailto:info@wplives.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 10-5",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Portola State Park Visitor Center",
+    "address": {
+      "streetAddress": "9000 Portola State Park Road Box FLa Honda, CA 94020",
+      "mailingAddress": null
+    },
+    "phone": "650-948-9098",
+    "website": "https://www.parks.ca.gov/?page_id=539",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-Th 10-2, F & Sa 9-10, Su 9-6 closed Dec 1-Mar 1",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Poway Historical & Memorial Museum",
+    "address": {
+      "streetAddress": "1411 MidlandPoway, CA 92074",
+      "mailingAddress": null
+    },
+    "phone": "858-679-8587",
+    "website": "mailto:poway.historical.society@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sa 9-3, Su 11-2",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Presidential Yacht Potomac",
+    "address": {
+      "streetAddress": "540 Water St.Oakland, CA 94607",
+      "mailingAddress": "P.O. Box 2064Oakland, CA 94604"
+    },
+    "phone": "510-627-1215",
+    "website": "mailto:usspotomacnews@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Benicia Capitol State Historic Park",
+    "address": {
+      "streetAddress": "115 W. G St.Benicia, CA 94510",
+      "mailingAddress": null
+    },
+    "phone": "707-745-3385",
+    "website": "mailto:info@parks.ca.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/watch?v=LP6iETlbNiQ"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Park"
+    ]
+  },
+  {
+    "name": "Quail Botanical Gardens",
+    "address": {
+      "streetAddress": "Encinitas, CA 92023",
+      "mailingAddress": "P.O. Box 230005Encinitas, CA 92023"
+    },
+    "phone": "760-436-3036",
+    "website": "https://www.qbgardens.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "9:00 AM to 5:00 PM daily, except Thanksgiving, Christmas, and New Years Day.",
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "R. C. Baker Memorial Museum, Inc.",
+    "address": {
+      "streetAddress": "297 W. Elm St.Coalinga, CA 93210",
+      "mailingAddress": null
+    },
+    "phone": "559-935-1914",
+    "website": "mailto:rcbmuseum@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/groups/1026797817353215/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Railtown 1897 State Historic Park - Closed",
+    "address": {
+      "streetAddress": "18115 5th Ave.Jamestown, CA 95310",
+      "mailingAddress": "Jamestown, CA 95310"
+    },
+    "phone": "209-984-3953",
+    "website": "https://www.railtown1897.org/railtown/default.asp",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Ralph B. Clark Interpretive Center",
+    "address": {
+      "streetAddress": "8800 Rosecrans Ave.Buena Park, CA 90621",
+      "mailingAddress": null
+    },
+    "phone": "714-973-3170",
+    "website": "mailto:clarkpark@ocparks.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-F 12:30-5, Sa & Su 9:30-4",
+    "museumTypes": [
+      "Park",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Glendale Arizona Historical Society",
+    "address": {
+      "streetAddress": "9802 N. 59th Ave.Glendale, AZ 85312",
+      "mailingAddress": "PO Box 5606Glendale, AZ 85312"
+    },
+    "phone": "623-435-0072",
+    "website": "mailto:info@glendalearizonahistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Museum of Contemporary Native Arts",
+    "address": {
+      "streetAddress": "108 Cathedral PlaceSanta Fe, NM 87501",
+      "mailingAddress": null
+    },
+    "phone": "505-983-8900",
+    "website": "mailto:membership@iaia.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "Specialized",
+      "University"
+    ]
+  },
+  {
+    "name": "International Wildlife Museum",
+    "address": {
+      "streetAddress": "4800 W. Gates Pass RdTucson, AZ 85745",
+      "mailingAddress": null
+    },
+    "phone": "520-629-0100",
+    "website": "https://www.thewildlifemuseum.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/WildlifeMuseum?v=wall&ref=ts",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Natural History",
+      "Nature Centers",
+      "Park",
+      "Science",
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Lake Havasu Museum of History and Historical Society",
+    "address": {
+      "streetAddress": "320 London Bridge RoadLake Havasu City, AZ 86403",
+      "mailingAddress": null
+    },
+    "phone": "928-854-4938",
+    "website": "mailto:lhmuseum@npgcable.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Lowell Observatory",
+    "address": {
+      "streetAddress": "1400 W. Mars Hill Rd.Flagstaff, AZ 86001",
+      "mailingAddress": null
+    },
+    "phone": "928-774-3358",
+    "website": "mailto:info@lowell.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Arizona Museum of Natural History",
+    "address": {
+      "streetAddress": "53 North Macdonald St.Mesa, AZ 85201",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.azmnh.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Friday 10:00 am - 5:00 pmSaturday 11:00 am and 5:00 pmSunday 1:00 pm - 5:00 pm",
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Mohave Museum of History & Arts",
+    "address": {
+      "streetAddress": "400 W. Beale  St.Kingman, AZ 86401",
+      "mailingAddress": null
+    },
+    "phone": "928-753-3195",
+    "website": "mailto:mocohist@ctaz.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The research facilities are open to the public from 9 am to 4:30 pm Monday thru Friday.",
+    "museumTypes": [
+      "Art",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Museum of Northern Arizona",
+    "address": {
+      "streetAddress": "3101 N. Fort Valley Rd.Flagstaff, AZ 86001",
+      "mailingAddress": null
+    },
+    "phone": "928-774-5213",
+    "website": "mailto:info@mna.mus.az.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Heard Museum",
+    "address": {
+      "streetAddress": "2301 N. Central Ave.Phoenix, AZ 85004",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.heard.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Navajo Nation Museum",
+    "address": {
+      "streetAddress": "Hwy 264 and Post Office Loop Rd.Window Rock, AZ 86515",
+      "mailingAddress": "P.O. Box 1840Window Rock, AZ 86515"
+    },
+    "phone": "928-871-7941",
+    "website": "mailto:info@navajonationmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/NavajoNationMuseum/about/?ref=page_internal",
+      "twitter": "https://www.twitter.com/NNMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Phippen Museum",
+    "address": {
+      "streetAddress": "4701 N. US Highway 89Prescott, AZ 86301",
+      "mailingAddress": null
+    },
+    "phone": "928-778-1385",
+    "website": "mailto:phippen@phippenartmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The Library is open to the public during Museum hours.",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Phoenix Art Museum",
+    "address": {
+      "streetAddress": "1625 N. Central AvePhoenix, AZ 85004",
+      "mailingAddress": null
+    },
+    "phone": "602-257-1222",
+    "website": "mailto:info@phxart.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Phoenix Zoo",
+    "address": {
+      "streetAddress": "455 N. Galvin ParkwayPhoenix, AZ 85008",
+      "mailingAddress": null
+    },
+    "phone": "602-273-1341",
+    "website": "mailto:lhardwick@thephxzoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Nature Centers",
+      "Park",
+      "Science",
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Phoenix Police Museum",
+    "address": {
+      "streetAddress": "Barrister Place Building101 South Central Avenue, Suite 100Phoenix, AZ 85004",
+      "mailingAddress": "101 S. Central Ave., Ste. #100Phoenix, AZ 85004"
+    },
+    "phone": "602-534-7278",
+    "website": "https://www.phoenixpolicemuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Postal History Foundation",
+    "address": {
+      "streetAddress": "920 North First AvenueTucson, AZ 85719",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:info@phftucson.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Pueblo Grande Museum",
+    "address": {
+      "streetAddress": "4619 E. Washington St.Phoenix, AZ 85034",
+      "mailingAddress": null
+    },
+    "phone": "602-495-0901",
+    "website": "mailto:pueblo.grande.museum@phoenix.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Rim Country Museum",
+    "address": {
+      "streetAddress": "700 Green Valley ParkwayPayson, AZ 85541",
+      "mailingAddress": "PO Box 2532Payson, AZ 85547"
+    },
+    "phone": "520-474-3483",
+    "website": "mailto:ngchs1@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Riordan Mansion State Historic Park",
+    "address": {
+      "streetAddress": "409 W. Riordan RoadFlagstaff, AZ 86001",
+      "mailingAddress": null
+    },
+    "phone": "928-779-4395",
+    "website": "https://azstateparks.com/parks/rima/index.html",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/http://azstateparks.com/find/social.html",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "San Rafael Ranch State Park",
+    "address": {
+      "streetAddress": "2036 Duquesne RoadPatagonia, AZ 85624",
+      "mailingAddress": "HC 2, Box 200Patagonia, AZ 85624"
+    },
+    "phone": "520-394-2447",
+    "website": "https://azstateparks.com/parks/SARA/index.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Scottsdale Museum of Contemporary Art",
+    "address": {
+      "streetAddress": "7374 E. 2nd St.Scottsdale, AZ 85251",
+      "mailingAddress": "7380 E. 2nd St.Scottsdale, AZ 85251"
+    },
+    "phone": "480-874-4665",
+    "website": "mailto:smoca@sccarts.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Sharlot Hall  Museum",
+    "address": {
+      "streetAddress": "415 W. Gurley StreetPrescott, AZ 86301",
+      "mailingAddress": null
+    },
+    "phone": "928-445-3122",
+    "website": "mailto:mike@sharlot.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/SharlotHallMuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Shemer Art Center",
+    "address": {
+      "streetAddress": "5005 E. Camelback Rd.Phoenix, AZ 85018",
+      "mailingAddress": null
+    },
+    "phone": "602-262-4727",
+    "website": "mailto:info@shemerartcenterandmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Smoki Museum of American Indian Art and Culture",
+    "address": {
+      "streetAddress": "147 North Arizona AvenuePrescott, AZ 86301",
+      "mailingAddress": "P O Box 10224Prescott, AZ 86304"
+    },
+    "phone": "928-445-1230",
+    "website": "mailto:director@smokimuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Tempe History Museum",
+    "address": {
+      "streetAddress": "809 East Southern AveTempe, AZ 85282",
+      "mailingAddress": "809 E. Southern AveTempe, AZ 85282"
+    },
+    "phone": "480-350-5100",
+    "website": "mailto:museum@tempe.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  },
+  {
+    "name": "Tohono Chul Park",
+    "address": {
+      "streetAddress": "7366 N. Paseo del NorteTucson, AZ 85704",
+      "mailingAddress": null
+    },
+    "phone": "520-742-6455",
+    "website": "mailto:info@tohonochulpark.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Tohono-Chul-Park/59136301611",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Botanical Garden",
+      "Culture",
+      "Nature Centers",
+      "Park"
+    ]
+  },
+  {
+    "name": "Ak-Chin Him-Dak Eco Museum",
+    "address": {
+      "streetAddress": "47685 N. Eco Museum Rd.Maricopa, AZ 85239",
+      "mailingAddress": null
+    },
+    "phone": "520-568-1350",
+    "website": "mailto:epeters@ak-chin.nsn.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Tubac Center of the Arts",
+    "address": {
+      "streetAddress": "Tubac, AZ 85646",
+      "mailingAddress": "P O Box 1911Tubac, AZ 85646"
+    },
+    "phone": "520-398-2371",
+    "website": "https://www.tubacarts.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Tucson Botanical Gardens",
+    "address": {
+      "streetAddress": "2150 N. Alvernon WayTucson, AZ 85712",
+      "mailingAddress": null
+    },
+    "phone": "520-326-9686",
+    "website": "mailto:info@tucsonbotanical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Tucson Children's Museum",
+    "address": {
+      "streetAddress": "200 S. 6th AvenueTucson, AZ 85701",
+      "mailingAddress": "P.O. Box 2609Tucson, AZ 85702"
+    },
+    "phone": "520-792-9985",
+    "website": "mailto:mluria@tucsonchildrensmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Tucson Museum of Art",
+    "address": {
+      "streetAddress": "140 N. Main Ave.Tucson, AZ 85701",
+      "mailingAddress": null
+    },
+    "phone": "520-624-2333",
+    "website": "mailto:Info@TucsonMuseumofArt.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "University of Arizona Museum of Art",
+    "address": {
+      "streetAddress": "1031 N Olive RdTucson, AZ 85721",
+      "mailingAddress": "P.O. Box 210002Tucson, AZ 85721"
+    },
+    "phone": "520-621-7567",
+    "website": "mailto:vca@email.arizona.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Closed Mondays. Closed University Holidays.",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "University"
+    ]
+  },
+  {
+    "name": "West Valley Art Museum",
+    "address": {
+      "streetAddress": "17425 N. Avenue of the ArtsSurprise, AZ 85374",
+      "mailingAddress": null
+    },
+    "phone": "623-972-0635",
+    "website": "mailto:info@wvam.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Arizona Historical Society-SAD",
+    "address": {
+      "streetAddress": "949 E. Second St.Tucson, AZ 85719",
+      "mailingAddress": null
+    },
+    "phone": "520-628-5774",
+    "website": "mailto:ahstucson@azhs.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Arizona Humane Society",
+    "address": {
+      "streetAddress": "9226 N. 13th Ave.Phoenix, AZ 85021",
+      "mailingAddress": null
+    },
+    "phone": "602-997-7585",
+    "website": "https://www.azhumane.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  }
+]

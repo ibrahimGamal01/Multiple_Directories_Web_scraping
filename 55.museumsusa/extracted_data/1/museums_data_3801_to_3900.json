@@ -1,0 +1,1459 @@
+[
+  {
+    "name": "Lower East Side Tenement Museum",
+    "address": {
+      "streetAddress": "66 Allen StreetNew York, NY 10002",
+      "mailingAddress": null
+    },
+    "phone": "212-431-0233",
+    "website": "mailto:lestm@tenement.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/New-York-NY/Lower-East-Side-Tenement-Museum/114377373747",
+      "twitter": "https://www.twitter.com/tenementmuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Lyndhurst",
+    "address": {
+      "streetAddress": "635 South BroadwayTarrytown, NY 10591",
+      "mailingAddress": null
+    },
+    "phone": "914-631-4481",
+    "website": "mailto:lyndhurst@nthp.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mid - April - October 31  Property open 10 am to 5 pm  First tour: 10:30 am; Last tour 4:15 pm  November 1 - Mid -April  Property open 10 am to 4 pm  First tour 10:30 am;Last tour 3:30 pm",
+    "museumTypes": [
+      "Culture",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Macedon Historical Society",
+    "address": {
+      "streetAddress": "1185 Macedon Center RdMacedon, NY 14502",
+      "mailingAddress": "P.O. Box 303Macedon, NY 14502"
+    },
+    "phone": "315-986-4845",
+    "website": "mailto:macedonacademy@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/Macedon-NY-History-421267940122/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Buffalo Niagara Heritage",
+    "address": {
+      "streetAddress": "3755 Tonawanda Creek RoadAmherst, NY 14228",
+      "mailingAddress": null
+    },
+    "phone": "716-689-1440",
+    "website": "mailto:info@bnhv.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/bnhvillage",
+      "twitter": "https://www.twitter.com/BNHV12",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Madam Brett Homestead",
+    "address": {
+      "streetAddress": "50 Van Nydeck Ave.Beacon, NY 12508",
+      "mailingAddress": null
+    },
+    "phone": "845-831-6533",
+    "website": "mailto:MadamBrettHomestead@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/MadamBrettHomestead/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Second Saturday  1-4pm",
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Madison County Historical Society",
+    "address": {
+      "streetAddress": "435 Main StreetOneida, NY 13421",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.mchs1900.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Manlius Historical Society Museum",
+    "address": {
+      "streetAddress": "101 Scoville St.Manlius, NY 13104",
+      "mailingAddress": "PO Box 28Manlius, NY 13104"
+    },
+    "phone": "315-682-6660",
+    "website": "mailto:manliushistory@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Marcella Sembrich Opera Museum",
+    "address": {
+      "streetAddress": "4800 Lakeshore DriveBolton Landing, NY 12814",
+      "mailingAddress": "P. O. Box 417Bolton Landing, NY 12814"
+    },
+    "phone": "518-644-2431",
+    "website": "https://thesembrich.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/TheSembrich/",
+      "twitter": "https://www.twitter.com/the_sembrich",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Marcellus Historical Society",
+    "address": {
+      "streetAddress": "18 North StreetMarcellus, NY 13108",
+      "mailingAddress": "P.O. Box 165Marcellus, NY 13108"
+    },
+    "phone": "315-673-4839",
+    "website": "mailto:peganolan1@hotmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesdays 7:00 p.m. - 9:00 p.m.",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Martin Van Buren National Historic Site",
+    "address": {
+      "streetAddress": "1013 Old Post RoadKinderhook, NY 12106",
+      "mailingAddress": null
+    },
+    "phone": "518-758-9689",
+    "website": "https://www.nps.gov/MAVA",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Amigos del Museo del Barrio",
+    "address": {
+      "streetAddress": "1230 Fifth Ave.New York, NY 10029",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.elmuseo.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Memorial Art Gallery, U of Rochester",
+    "address": {
+      "streetAddress": "500 University AvenueRochester, NY 14607",
+      "mailingAddress": null
+    },
+    "phone": "585-276-8900",
+    "website": "mailto:cacquilano@mag.rochester.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Mercer Gallery",
+    "address": {
+      "streetAddress": "1000 E. Henrietta Rd.Rochester, NY 14623",
+      "mailingAddress": null
+    },
+    "phone": "585-292-2000",
+    "website": "https://www.monroecc.edu/depts/vapa/mercer/about.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Merchant's House Museum",
+    "address": {
+      "streetAddress": "29 East Fourth StreetNew York, NY 10003",
+      "mailingAddress": null
+    },
+    "phone": "212-777-1089",
+    "website": "mailto:nyc1832@merchantshouse.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/merchantshouse",
+      "twitter": "https://www.twitter.com/MerchantsHouse",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/MerchantsHouse/"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Metropolitan Historic Structures Ass.",
+    "address": {
+      "streetAddress": "232 East 11th StreetNew York, NY 10003",
+      "mailingAddress": "New York, NY 10003"
+    },
+    "phone": "718-343-8830",
+    "website": "mailto:mhsany@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Metropolitan Museum of Art",
+    "address": {
+      "streetAddress": "1000 Fifth AvenueNew York, NY 10028",
+      "mailingAddress": null
+    },
+    "phone": "212-535-7710",
+    "website": "https://www.newyorkpass.com/tickets/The_Metropolitan_Museum_of_Art?aid=34&gclid=CIm8yvKDka4CFQMYzQodGAOOfA",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Michael C. Rockefeller Arts Center Gallery",
+    "address": {
+      "streetAddress": "280 Central Ave.Fredonia, NY 14063",
+      "mailingAddress": "State University CollegeFredonia, NY 14063"
+    },
+    "phone": "716-673-3217",
+    "website": "mailto:arts.center@fredonia.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/sunyfredonia",
+      "twitter": "https://www.twitter.com/sunyfredonia",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Mills Mansion SHS",
+    "address": {
+      "streetAddress": "Old Post Rd.Staatsburg, NY 12580",
+      "mailingAddress": null
+    },
+    "phone": "845-889-8851",
+    "website": "https://www.staatsburgh.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Minisink Valley Historical Society",
+    "address": {
+      "streetAddress": "P.O. Box 659Port Jervis, NY 12771",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:genealogy@minisink.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Miriam and Ira D. Wallach Art Gallery",
+    "address": {
+      "streetAddress": "116th St. and Broadway8th Floor, Schermerhorn HallNew York, NY 10027",
+      "mailingAddress": "826 Schermerhorn HallColumbia UniversityNew York, NY 10027"
+    },
+    "phone": "212-854-7288",
+    "website": "mailto:wallach@columbia.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/group.php?gid=26081059563",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "University"
+    ]
+  },
+  {
+    "name": "Montgomery County Historical Society",
+    "address": {
+      "streetAddress": "2 Mergner RoadCorner of Route 5 and 67Fort Johnson, NY 12070",
+      "mailingAddress": "PO Box 196Fort Johnson, NY 12070"
+    },
+    "phone": "518-843-0300",
+    "website": "mailto:museum@oldfortjohnson.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/oldfortjohnson",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Closed Major Holidays",
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Military"
+    ]
+  },
+  {
+    "name": "Morris-Jumel Mansion",
+    "address": {
+      "streetAddress": "65 Jumel TerraceNew York, NY 10032",
+      "mailingAddress": null
+    },
+    "phone": "212-923-8008",
+    "website": "https://www.morrisjumel.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Morris-Jumel-Mansion/61989517880",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Mount Gulian Historic Site",
+    "address": {
+      "streetAddress": "145 Sterling StreetBeacon, NY 12508",
+      "mailingAddress": null
+    },
+    "phone": "845-831-8172",
+    "website": "mailto:info@mountgulian.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/mountgulian?ref=sgm",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden",
+      "History",
+      "Historic House",
+      "Military"
+    ]
+  },
+  {
+    "name": "Mount Lebanon Shaker Village",
+    "address": {
+      "streetAddress": ".202 Shaker Road NewNew Lebanon, NY 12125",
+      "mailingAddress": "P.O. Box 630New Lebanon, NY 12125"
+    },
+    "phone": "518-794-9100",
+    "website": "mailto:contact@shakerml.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "A Living Memorial to the Holocaust",
+    "address": {
+      "streetAddress": "36 Battery PlaceNew York, NY 10280",
+      "mailingAddress": "One Battery Park PlazaNew York, NY 10004"
+    },
+    "phone": "646-437-4202",
+    "website": "mailto:info@mjhnyc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Antique Boat Museum",
+    "address": {
+      "streetAddress": "750 Mary StreetClayton, NY 13624",
+      "mailingAddress": null
+    },
+    "phone": "315-686-4104",
+    "website": "mailto:michaelfolsom@abm.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/antiqueboatmuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/AntiqueBoatMuseumNY"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Mount Vernon Hotel Museum & Garden",
+    "address": {
+      "streetAddress": "421 East 61st StreetNew York, NY 10065",
+      "mailingAddress": null
+    },
+    "phone": "212-838-6878",
+    "website": "mailto:info@mvhm.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Mountain Top Historical Society",
+    "address": {
+      "streetAddress": "51 Railroad Station RD 0Haines Falls, NY 12436",
+      "mailingAddress": "Haines Falls, NY 12436"
+    },
+    "phone": "518-589-6657",
+    "website": "https://www.mths.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Mountain-Top-Historical-Society-Haines-Falls-NY/264715510207734?sk=wall",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Mulford House & Farm",
+    "address": {
+      "streetAddress": "10 James LaneEast Hampton, NY 11937",
+      "mailingAddress": "P. O. Box 1263Wainscott, NY 11975"
+    },
+    "phone": null,
+    "website": "https://www.easthampton.com/history/mulford.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Municipal Arts Society",
+    "address": {
+      "streetAddress": "111 W. 57th Street (between 6th and 7th avenues)New York, NY 10022",
+      "mailingAddress": "New York, NY 10022"
+    },
+    "phone": "212-935-3960",
+    "website": "mailto:info@mas.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Munson-Williams-Proctor Institute",
+    "address": {
+      "streetAddress": "310 Genesee StreetUtica, NY 13502",
+      "mailingAddress": null
+    },
+    "phone": "315-797-0000",
+    "website": "https://www.mwpi.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Museum for African Art",
+    "address": {
+      "streetAddress": "36-01 43rd AvenueLong Island City, NY 11101",
+      "mailingAddress": null
+    },
+    "phone": "718-784-7700",
+    "website": "mailto:info@africanart.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/museumforafricanart",
+      "twitter": "https://www.twitter.com/africanart",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Museum of American Financial History",
+    "address": {
+      "streetAddress": "26 BroadwayNew York, NY 10004",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.financialhistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "American Folk Art Museum",
+    "address": {
+      "streetAddress": "555 W. 57th Street, Suite 1300New York, NY 10019",
+      "mailingAddress": null
+    },
+    "phone": "212-265-1040",
+    "website": "mailto:info@folkartmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Aquarium of Niagara",
+    "address": {
+      "streetAddress": "701 Whirlpool StreetNiagara Falls, NY 14301",
+      "mailingAddress": null
+    },
+    "phone": "716-285-3575",
+    "website": "mailto:AquariumNF@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Aquarium",
+      "Children's",
+      "Science"
+    ]
+  },
+  {
+    "name": "Museum of Chinese in the Americas",
+    "address": {
+      "streetAddress": "70 Mulberry Street, 2nd FloorNew York, NY 10013",
+      "mailingAddress": null
+    },
+    "phone": "212-619-4785",
+    "website": "https://www.ny.com/museums/chinatown.history.museum.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Museum of Jewish Heritage - A Living Memorial to the Holocaust",
+    "address": {
+      "streetAddress": "36 Battery PlaceNew York, NY 10280",
+      "mailingAddress": null
+    },
+    "phone": "646-437-4202",
+    "website": "mailto:info@mjhnyc.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/MuseumofJewishHeritage",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/MuseumJewishHeritage"
+    },
+    "hours": "Sunday, Monday, Tuesday, Thursday 10 am - 5:45 pm \nWednesday 10 am - 8 pm \nFriday 10 am - 5 pm (April-October) \n10 am - 3 pm (November-March) \nThe eve of Jewish holidays 10 am - 3 pm \nThe museum is closed on Saturday, Jewish holidays, and Thanksgiving",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Museum of Long Island Natural Sciences",
+    "address": {
+      "streetAddress": "Earth Space Science Bldg.SUNY at Stoney BrookStony Brook, NY 11794",
+      "mailingAddress": null
+    },
+    "phone": "516-627-9400",
+    "website": "mailto:melissa@smli.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Museum of Modern Art",
+    "address": {
+      "streetAddress": "11 West 53rd StreetNew York, NY 10019",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.moma.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Museum of Science & Technology",
+    "address": {
+      "streetAddress": "500 South Franklin StreetSyracuse, NY 13202",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.most.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Museum of the City of New York",
+    "address": {
+      "streetAddress": "1220 Fifth AvenueNew York, NY 10029",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.mcny.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Arcade Historical Society",
+    "address": {
+      "streetAddress": "331 W. Main St.Arcade, NY 14009",
+      "mailingAddress": "P.O. Box 237Arcade, NY 14009"
+    },
+    "phone": "585-492-4466",
+    "website": "mailto:office@arcadehistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Museum of the Fashion Institute of Technology",
+    "address": {
+      "streetAddress": "Seventh Ave. at 27thNew York, NY 10001",
+      "mailingAddress": null
+    },
+    "phone": "212-217-7999",
+    "website": "https://fitnyc.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Hudson Highlands Nature Museum",
+    "address": {
+      "streetAddress": "100 Muser DriveCornwall, NY 12518",
+      "mailingAddress": "PO Box 451Cornwall, NY 12518"
+    },
+    "phone": "845-534-5506",
+    "website": "mailto:hhnm@hhnaturemuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Hudson-Highlands-Nature-Museum/120500354635102?ref=ts",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open year round",
+    "museumTypes": [
+      "Children's",
+      "Natural History",
+      "Nature Centers",
+      "Science"
+    ]
+  },
+  {
+    "name": "Museum Village in Orange County",
+    "address": {
+      "streetAddress": "1010 Route 17MMonroe, NY 10950",
+      "mailingAddress": null
+    },
+    "phone": "845-782-8248",
+    "website": "https://www.museumvillage.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Please call to check on hours.",
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "History",
+      "Historic House",
+      "Park"
+    ]
+  },
+  {
+    "name": "Museums at Stony Brook",
+    "address": {
+      "streetAddress": "1208 Route 25AStony Brook, NY 11790",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.museumsatstonybrook.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Nassau County Museum of Art",
+    "address": {
+      "streetAddress": "One Museum DriveRoslyn Harbor, NY 11576",
+      "mailingAddress": null
+    },
+    "phone": "516-484-9337",
+    "website": "https://www.nassaumuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Botanical Garden",
+      "Children's",
+      "Culture"
+    ]
+  },
+  {
+    "name": "National Arts Club",
+    "address": {
+      "streetAddress": "15 Gramercy Park SouthNew York, NY 10003",
+      "mailingAddress": null
+    },
+    "phone": "212-475-3424",
+    "website": "https://nationalartsclub.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "National Audubon Society",
+    "address": {
+      "streetAddress": "225 Varick StreetNew York, NY 10014",
+      "mailingAddress": "New York, NY 10014"
+    },
+    "phone": "212-979-3000",
+    "website": "mailto:boardservice@audubon.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/NationalAudubonSociety",
+      "twitter": "https://www.twitter.com/audubonsociety",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "National Baseball Hall of Fame & Museum",
+    "address": {
+      "streetAddress": "25 Main StreetCooperstown, NY 13326",
+      "mailingAddress": "PO Box 590Cooperstown, NY 13326"
+    },
+    "phone": "607-547-7200",
+    "website": "https://baseballhall.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/baseballhall",
+      "twitter": "https://www.twitter.com/Baseballhall",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "National Bottle Museum",
+    "address": {
+      "streetAddress": "76 Milton AvenueBallston Spa, NY 12020",
+      "mailingAddress": null
+    },
+    "phone": "518-885-7589",
+    "website": "mailto:nbottlemuseum@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "National Museum of Catholic Art and History",
+    "address": {
+      "streetAddress": "443 East 115th StreetNew York, NY 10029",
+      "mailingAddress": null
+    },
+    "phone": "212-828-5209",
+    "website": "mailto:info@nmach.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "National Museum of Racing",
+    "address": {
+      "streetAddress": "191 Union AvenueSaratoga Springs, NY 12866",
+      "mailingAddress": null
+    },
+    "phone": "518-584-0400",
+    "website": "mailto:nmrmedia@racingmuseum.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/National-Museum-of-Racing-and-Hall-of-Fame/351769105314",
+      "twitter": "https://www.twitter.com/nmrhof",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "National Museum of the American Indian",
+    "address": {
+      "streetAddress": "George Gustav Heye CenterOne Bowling GreenNew York, NY 10004",
+      "mailingAddress": null
+    },
+    "phone": "800-242-6624",
+    "website": "mailto:NIN@si.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/New-York-NY/National-Museum-of-the-American-Indian-in-New-York/48000054112",
+      "twitter": "https://www.twitter.com/AmerIndianNYC",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "National Soccer Hall of Fame",
+    "address": {
+      "streetAddress": "5-11 Ford Ave.Oneonta, NY 13820",
+      "mailingAddress": null
+    },
+    "phone": "312-808-1300",
+    "website": "https://www.ussoccer.com/about/history/hall-of-fame.aspx",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "National Women's Hall of Fame",
+    "address": {
+      "streetAddress": "P.O. Box 335Seneca Falls, NY 13148",
+      "mailingAddress": null
+    },
+    "phone": "315-568-8060",
+    "website": "mailto:cmoulton@greatwomen.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#!/pages/National-Womens-Hall-of-Fame/261621292542",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/http://www.greatwomen.org/images/stories/synd_22.png"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Arnot Art Museum",
+    "address": {
+      "streetAddress": "235 Lake St.Elmira, NY 14901",
+      "mailingAddress": null
+    },
+    "phone": "607-734-3697",
+    "website": "mailto:rick@arnotartmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Neuberger Museum of Art, Purchase College",
+    "address": {
+      "streetAddress": "735 Anderson Hill RoadPurchase, NY 10577",
+      "mailingAddress": null
+    },
+    "phone": "914-251-6100",
+    "website": "https://www.neuberger.org/index.php",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "The Neustadt Collection of Tiffany Glass",
+    "address": {
+      "streetAddress": "Flushing Meadows Corona Park11101 Corona AveFlushing, NY 11368",
+      "mailingAddress": "Administrative Office5-26 46th AvenueLong Island City, NY 11101"
+    },
+    "phone": "718-361-8489",
+    "website": "mailto:info@neustadtcollection.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Office Hours",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "New Castle Historical Society",
+    "address": {
+      "streetAddress": "100 King Street, Box 55Chappaqua, NY 10514",
+      "mailingAddress": null
+    },
+    "phone": "914-238-4666",
+    "website": "mailto:director@newcastlehs.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "New Museum of Contemporary Art",
+    "address": {
+      "streetAddress": "235 BoweryNew York, NY 10002",
+      "mailingAddress": null
+    },
+    "phone": "212-219-1222",
+    "website": "mailto:info@newmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "New Windsor Cantonment State Historic Site",
+    "address": {
+      "streetAddress": "374 Temple Hill RoadVails Gate, NY 12584",
+      "mailingAddress": "Box 207Vails Gate, NY 12584"
+    },
+    "phone": "845-561-1765",
+    "website": "mailto:nwc@orn.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Closed holidays except Memorial Day, Independence Day, Veterans Day and Presidents Day.",
+    "museumTypes": [
+      "Children's",
+      "History",
+      "Library",
+      "Military",
+      "Park"
+    ]
+  },
+  {
+    "name": "New World Art Center/TF Chen Cultural Center",
+    "address": {
+      "streetAddress": "250 Lafayette St.New York, NY 10012",
+      "mailingAddress": null
+    },
+    "phone": "212-966-4363",
+    "website": "mailto:chen@tfchen.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "New York Aquarium",
+    "address": {
+      "streetAddress": "Boardwalk & West 8th StreetBrooklyn, NY 11224",
+      "mailingAddress": null
+    },
+    "phone": "718-265-3474",
+    "website": "mailto:guestrelations@wcs.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/nyaquarium",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Aquarium"
+    ]
+  },
+  {
+    "name": "New York Botanical Garden",
+    "address": {
+      "streetAddress": "2900 Southern BoulevardBronx, NY 10458",
+      "mailingAddress": "200th Street &Kazimiroff BoulevardBronx, NY 10458"
+    },
+    "phone": null,
+    "website": "https://www.nybg.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Bronx-NY/The-New-York-Botanical-Garden/14800539662",
+      "twitter": "https://www.twitter.com/http://nybg.tumblr.com/",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Art Gallery,  Marist College",
+    "address": {
+      "streetAddress": "3399 North Rd.Poughkeepsie, NY 12601",
+      "mailingAddress": "Poughkeepsie, NY 12601"
+    },
+    "phone": "845-575-3000",
+    "website": "mailto:publicaffairs@marist.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "New York City Fire Museum",
+    "address": {
+      "streetAddress": "278 Spring StreetNew York, NY 10013",
+      "mailingAddress": null
+    },
+    "phone": "212-691-1303",
+    "website": "mailto:events@nycfiremuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/nycfiremuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "We are open 7 days a week.",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "New York City Police Academy Museum",
+    "address": {
+      "streetAddress": "100 Old SlipNew York, NY 10005",
+      "mailingAddress": "New York, NY 10005"
+    },
+    "phone": "212-480-3100",
+    "website": "mailto:info@nycpm.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/http://twitter.com/nycpolicemuseum",
+      "twitter": "https://www.twitter.com/#!/http://www.facebook.com/home.php?#!/pages/New-York-NY/The-New-York-City-Police-Museum/301626516789",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/nycpolicemuseum"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "New York Hall of Science",
+    "address": {
+      "streetAddress": "47-01 111 StreetCorona, NY 11368",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.nyhallsci.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "New York Library Association",
+    "address": {
+      "streetAddress": "6021 State Farm RoadGuilderland, NY 12084",
+      "mailingAddress": "252 Hudson AvenueAlbany, NY 12210"
+    },
+    "phone": "518-432-6952",
+    "website": "mailto:info@nyla.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "New York Museum of Transportation",
+    "address": {
+      "streetAddress": "6393 E River RdWest Henrietta, NY 14586",
+      "mailingAddress": "P.O. Box 136West Henrietta, NY 14586"
+    },
+    "phone": "585-533-1113",
+    "website": "mailto:info@nymtmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  }
+]

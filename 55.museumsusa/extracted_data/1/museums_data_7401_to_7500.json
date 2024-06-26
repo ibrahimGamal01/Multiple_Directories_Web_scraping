@@ -1,0 +1,981 @@
+[
+  {
+    "name": "Georgetown Historical Society",
+    "address": {
+      "streetAddress": "20 Bay Point RoadGeorgetown, ME 04548",
+      "mailingAddress": "PO ox 441Georgetown, ME 04548"
+    },
+    "phone": "207-371-9200",
+    "website": "mailto:info@georgetownhistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Davinci Experience",
+    "address": {
+      "streetAddress": "150 Brook RdFalmouth, ME 04105",
+      "mailingAddress": null
+    },
+    "phone": "207-878-7760",
+    "website": "mailto:davinci@maine.rr.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Waterborough Historical Soc",
+    "address": {
+      "streetAddress": "East Waterboro, ME 04030",
+      "mailingAddress": "P.O. Box 498North Waterboro, ME 04061"
+    },
+    "phone": "207-247-5878",
+    "website": "mailto:carllj@sacoriver.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Scarborough Historical Society",
+    "address": {
+      "streetAddress": "649A U.S. Route OneScarborough, ME 04074",
+      "mailingAddress": "PO Box 156Scarborough, ME 04074"
+    },
+    "phone": null,
+    "website": "mailto:crbcc@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Boothbay Region Historical Society",
+    "address": {
+      "streetAddress": "72 Oak St.Boothbay Harbor, ME 04538",
+      "mailingAddress": "PO Box 272Boothbay Harbor, ME 04538"
+    },
+    "phone": "207-633-0820",
+    "website": "mailto:brhs@gwi.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Presque Isle Historical Soc",
+    "address": {
+      "streetAddress": "16 Third StPresque Isle, ME 04769",
+      "mailingAddress": "PO Box 285Presque Isle, ME 04769"
+    },
+    "phone": null,
+    "website": "mailto:rrand6@maine.rr.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Caribou Historical Center & Museum",
+    "address": {
+      "streetAddress": "1033 Presque Isle RdCaribou, ME 04736",
+      "mailingAddress": "PO Box 861Caribou, ME 04736"
+    },
+    "phone": "207-498-2556",
+    "website": "mailto:carhistsoc@ne.twcbc.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society",
+      "Military",
+      "Park"
+    ]
+  },
+  {
+    "name": "Dixfield Historical Society",
+    "address": {
+      "streetAddress": "63 Main StDixfield, ME 04224",
+      "mailingAddress": "PO Box 182Dixfield, ME 04224"
+    },
+    "phone": "207-562-1100",
+    "website": "mailto:perusto@msn.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Falmouth Historical Society",
+    "address": {
+      "streetAddress": "2 Homestead LaneFalmouth, ME 04105",
+      "mailingAddress": "PMB 367, 190 US Route 1Falmouth, ME 04105"
+    },
+    "phone": "207-781-4727",
+    "website": "mailto:falmouthhistorical@myfairpoint.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The Office and Genealogy Room in the Whipple Farm House is open Tuesdays from 9:15am to Noon.",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Rangeley Lakes Region Hist Soc",
+    "address": {
+      "streetAddress": "Rangeley, ME 04970",
+      "mailingAddress": "Box 521Rangeley, ME 04970"
+    },
+    "phone": "207-864-3091",
+    "website": "mailto:info@rangeleyoutdoormuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Union Historical Society",
+    "address": {
+      "streetAddress": "343 Common RoadUnion, ME 04862",
+      "mailingAddress": "PO Box 154Union, ME 04862"
+    },
+    "phone": "207-785-5444",
+    "website": "mailto:unionhis@midcoast.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Fifth Maine Regiment Museum",
+    "address": {
+      "streetAddress": "45 Seashore Ave.Peaks Island, ME 04108",
+      "mailingAddress": "P.O. Box 41Peaks Island, ME 04108"
+    },
+    "phone": "207-766-3330",
+    "website": "mailto:fifthmaine@juno.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Memorial Day thru July 1: week-ends, 11 am to 4 pm.  \nJuly 1 thru Labor Day: week-days, 1 to 4 pm; week-ends, 11 am to 4 pm\nLabor Day thru Columbus Day: week-ends, 11 am to 4 pm.",
+    "museumTypes": [
+      "Military"
+    ]
+  },
+  {
+    "name": "Old Orchard Beach Hist Society",
+    "address": {
+      "streetAddress": "4 Portland AvenueOld Orchard Beach, ME 04064",
+      "mailingAddress": "PO Box 464Old Orchard Beach, ME 04064"
+    },
+    "phone": "207-934-9319",
+    "website": "mailto:info@harmonmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Sagadahoc History & Genealogy",
+    "address": {
+      "streetAddress": "33 Summer StBath, ME 04530",
+      "mailingAddress": null
+    },
+    "phone": "207-443-5141",
+    "website": "mailto:history@patten.lib.me.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Davistown Museum",
+    "address": {
+      "streetAddress": "58 Main Street #4Liberty, ME 04949",
+      "mailingAddress": "P.O. Box 144Hulls Cove, ME 04644"
+    },
+    "phone": "207-288-5126",
+    "website": "mailto:curator@davistownmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Friends of the Alfred Shaker Mus",
+    "address": {
+      "streetAddress": "118 Shaker Hill RdAlfred, ME 04002",
+      "mailingAddress": "Alfred, ME 04002"
+    },
+    "phone": null,
+    "website": "mailto:info@alfredshakermuseum.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Alfred-Shaker-Museum/124124194279334",
+      "twitter": "https://www.twitter.com/alfredshaker",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Lincoln County Historical Assn",
+    "address": {
+      "streetAddress": "133 Federal StWiscasset, ME 04578",
+      "mailingAddress": "PO Box 61Wiscasset, ME 04578"
+    },
+    "phone": "207-882-6817",
+    "website": "https://www.lincolncountyhistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Alexander-Crawford Hist Soc",
+    "address": {
+      "streetAddress": "216 Pokey RdAlexander, ME 04694",
+      "mailingAddress": null
+    },
+    "phone": "207-454-7476",
+    "website": "https://www.mainething.com/alexander/achs.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Lovell Historical Society",
+    "address": {
+      "streetAddress": "Route 5Lovell, ME 04051",
+      "mailingAddress": "P.O. Box 166Lovell, ME 04051"
+    },
+    "phone": "207-925-3234",
+    "website": "mailto:lovellhist@fairpoint.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Bar Harbor Historical Society",
+    "address": {
+      "streetAddress": "33 Ledgelawn AveBar Harbor, ME 04609",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:bhhistorical@gwi.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Baxter Museum",
+    "address": {
+      "streetAddress": "71 South St.Gorham, ME 04038",
+      "mailingAddress": "71 South StGorham, ME 04038"
+    },
+    "phone": "207-222-1190",
+    "website": "https://www.baxter-memorial.lib.me.us/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "New England Museum of Telephone",
+    "address": {
+      "streetAddress": "166 Winkumpaugh RoadEllsworth, ME 04605",
+      "mailingAddress": "PO Box 1377Ellsworth, ME 04605"
+    },
+    "phone": "207-667-9491",
+    "website": "mailto:switchboard@downeast.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Eliot Historical Society",
+    "address": {
+      "streetAddress": "John F. Hill GrangeEliot, ME 03903",
+      "mailingAddress": "PO Box 3Eliot, ME 03903"
+    },
+    "phone": null,
+    "website": "mailto:info@eliothistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Camden-Rockport Hist Society",
+    "address": {
+      "streetAddress": "Rockport, ME 04856",
+      "mailingAddress": "PO Box 747Rockport, ME 04856"
+    },
+    "phone": "207-236-2257",
+    "website": "mailto:info@conwayhousemuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Chebeague Island Historical Society",
+    "address": {
+      "streetAddress": "District 9 SchoolhouseChebeague Island, ME 04017",
+      "mailingAddress": "PO Box 28Chebeague Island, ME 04017"
+    },
+    "phone": "207-846-5237",
+    "website": "mailto:bjohnson@chebeague.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Brownfield Historical Society",
+    "address": {
+      "streetAddress": "257 Main StreetBrownfield, ME 04010",
+      "mailingAddress": "PO Box 264Brownfield, ME 04010"
+    },
+    "phone": "207-935-4392",
+    "website": "mailto:brownfieldhistory@fairpoint.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/Pequawket/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Hope Historical Society",
+    "address": {
+      "streetAddress": "374 Camden RoadHope, ME 04847",
+      "mailingAddress": null
+    },
+    "phone": "207-763-3576",
+    "website": "mailto:wijones@tidewater.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Vinalhaven Hist Society Inc",
+    "address": {
+      "streetAddress": "Vinalhaven, ME 04863",
+      "mailingAddress": "PO Box 339Vinalhaven, ME 04863"
+    },
+    "phone": "207-863-4410",
+    "website": "mailto:vhhissoc@myfairpoint.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Brewer Historical Society",
+    "address": {
+      "streetAddress": "80 North Main StreetBrewer, ME 04412",
+      "mailingAddress": null
+    },
+    "phone": "207-989-5013",
+    "website": "https://www.brewerme.org/HistoricalSociety/historical_society.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Milbridge Historical Society",
+    "address": {
+      "streetAddress": "Milbridge, ME 04658",
+      "mailingAddress": "PO Box 194Milbridge, ME 04658"
+    },
+    "phone": "207-546-4471",
+    "website": "mailto:info@milbridgehistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/milbhist%20"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Machiasport Historical Society, Gates House Museum",
+    "address": {
+      "streetAddress": "344 Port RoadMachiasport, ME 04655",
+      "mailingAddress": "PO Box 301Machiasport, ME 04655"
+    },
+    "phone": "207-255-8461",
+    "website": "mailto:info@mahciashistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Woolwich Historical Society",
+    "address": {
+      "streetAddress": "Route 1 to Nequasset RoadWoolwich, ME 04579",
+      "mailingAddress": "PO Box 98Woolwich, ME 04579"
+    },
+    "phone": "207-443-4833",
+    "website": "mailto:whs@gwi.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Cumberland Historical Society",
+    "address": {
+      "streetAddress": "4A Blanchard RoadCumberland Center, ME 04021",
+      "mailingAddress": "PO Box 82Cumberland Center, ME 04021"
+    },
+    "phone": "207-200-8006",
+    "website": "https://www.cumberlandmehistory.com/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/cumberlandhistoricalsociety",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/CumberlandMeHistory"
+    },
+    "hours": "By appointment",
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Friends of Fort Edgecomb",
+    "address": {
+      "streetAddress": "Edgecomb, ME 04556",
+      "mailingAddress": "PO Box 48Edgecomb, ME 04556"
+    },
+    "phone": null,
+    "website": "mailto:edgefofe@edgecombhistorical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Univ of Me @ Presque Isle",
+    "address": {
+      "streetAddress": "181 Main StreetPresque Isle, ME 04769",
+      "mailingAddress": "PO Box 526Presque Isle, ME 04769"
+    },
+    "phone": "207-768-9400",
+    "website": "mailto:admissions@umpi.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Blue Hill Historical Society",
+    "address": {
+      "streetAddress": "51 State St.Blue Hill, ME 04614",
+      "mailingAddress": "P.O. Box 710Blue Hill, ME 04614"
+    },
+    "phone": null,
+    "website": "mailto:info@bluehillhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Summer Hours:Tuesday & Friday 1:00 p.m. - 4:00 p.m.Saturday 11:00 a.m. - 2:00 p.m.",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Jonathan Fisher Memorial Inc",
+    "address": {
+      "streetAddress": "44 Mines RoadBlue Hill, ME 04614",
+      "mailingAddress": "PO Box 537Blue Hill, ME 04614"
+    },
+    "phone": null,
+    "website": "mailto:info@jonathanfisherhouse.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "July - Mid OctoberThursday - Saturday 1:00 p.m. - 4:00 p.m.Mid October - JuneWednesday open for research 9:00 a.m. - 12:00 p.m.",
+    "museumTypes": [
+      "Culture",
+      "Historic House",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Androscoggin Historical Society",
+    "address": {
+      "streetAddress": "2 Turner StreetAuburn, ME 04210",
+      "mailingAddress": "County Building, 2 Turner StreetAuburn, ME 04210"
+    },
+    "phone": "207-784-0586",
+    "website": "mailto:androhs@myfairpoint.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Lubec Historical Society",
+    "address": {
+      "streetAddress": "135 Main StreetLubec, ME 04652",
+      "mailingAddress": "c/o 155 Main StreetLubec, ME 04562"
+    },
+    "phone": "207-733-2994",
+    "website": "mailto:lubechistoricalsociety@yahoo.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Lubec-Historical-Society/1667307990180845",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Ski Museum of Maine",
+    "address": {
+      "streetAddress": "Stratton, ME 04982",
+      "mailingAddress": "PO Box 464Stratton, ME 04982"
+    },
+    "phone": null,
+    "website": "mailto:info@skimuseumofmaine.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Ski-Museum-of-Maine/170890842959962",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Fairfield Historical Society",
+    "address": {
+      "streetAddress": "42 High StreetFairfield, ME 04937",
+      "mailingAddress": null
+    },
+    "phone": "207-453-2998",
+    "website": "mailto:fhs2@myfairpoint.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Kittery Hist & Naval Museum",
+    "address": {
+      "streetAddress": "200 Rogers RoadKittery, ME 03904",
+      "mailingAddress": "PO Box 453Kittery, ME 03904"
+    },
+    "phone": "207-439-3080",
+    "website": "mailto:kitterymuseum@netzero.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Military"
+    ]
+  },
+  {
+    "name": "Gorham Historical Society",
+    "address": {
+      "streetAddress": "28 School StreetGorham, ME 04038",
+      "mailingAddress": "P.O. Box 141Gorham, ME 04038"
+    },
+    "phone": null,
+    "website": "mailto:Society@gorhamhistorical.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Hamlin Memorial Library and Museum",
+    "address": {
+      "streetAddress": "16 Hannibal Hamlin DriveSouth Paris, ME 04281",
+      "mailingAddress": "P.O. Box 43Paris, ME 04271"
+    },
+    "phone": "207-743-2980",
+    "website": "mailto:hamlinstaff@hamlin.lib.me.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Matthews Museum of Maine Herit",
+    "address": {
+      "streetAddress": "695 Middle RdUnion, ME 04862",
+      "mailingAddress": "P. O. Box 582Union, ME 04862"
+    },
+    "phone": "207-542-2379",
+    "website": "mailto:matthewsmuseum@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/?ref=home#%21/pages/%20%20%20Matthews-Museum-of-Maine-Heritage/123641767679341",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Milo Historical Society",
+    "address": {
+      "streetAddress": "12 High StreetMilo, ME 04463",
+      "mailingAddress": "Milo, ME 04463"
+    },
+    "phone": "207-943-2167",
+    "website": "mailto:society@milohistorical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Lincolnville Historical Soc",
+    "address": {
+      "streetAddress": "33 Beach RdLincolnville Ctr, ME 04850",
+      "mailingAddress": "PO Box 211Lincolnville Ctr, ME 04850"
+    },
+    "phone": "207-789-5445",
+    "website": "https://sites.google.com/site/lincolnvillehistoricalsociety/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Lincolnville-Historical-Society-Schoolhouse-Museum/137521586278043?ref=ts",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Old Town Museum",
+    "address": {
+      "streetAddress": "138 Main StOld Town, ME 04468",
+      "mailingAddress": "PO Box 375Old Town, ME 04468"
+    },
+    "phone": "207-827-7256",
+    "website": "mailto:oldtownmuseum@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  }
+]

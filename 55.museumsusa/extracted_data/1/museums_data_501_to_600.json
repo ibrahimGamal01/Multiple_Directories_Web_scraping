@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Webber Center Gallery, College of Central Florida",
+    "address": {
+      "streetAddress": "3001 SW College RoadOcala, FL 34474",
+      "mailingAddress": null
+    },
+    "phone": "352-873-5809",
+    "website": "https://www.cf.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Apalachicola Maritime Museum",
+    "address": {
+      "streetAddress": "103 Water StreetApalachicola, FL 32320",
+      "mailingAddress": null
+    },
+    "phone": "850-653-2500",
+    "website": "https://www.ammfl.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Library",
+      "Military",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Baker Block Museum",
+    "address": {
+      "streetAddress": "1307 Georgia AvenueBaker, FL",
+      "mailingAddress": "PO Box 186Baker, FL 32531"
+    },
+    "phone": "850-537-5714",
+    "website": "mailto:bakermuseum@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Florida Museum of Photographic Arts",
+    "address": {
+      "streetAddress": "400 North Ashley DriveCube 200Tampa, FL 33602",
+      "mailingAddress": "400 N Ashley DriveCube 200Tampa, FL 33602"
+    },
+    "phone": "813-221-2222",
+    "website": "mailto:info@fmopa.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  }
+]

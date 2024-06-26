@@ -1,0 +1,1105 @@
+[
+  {
+    "name": "Bolton Hall Museum",
+    "address": {
+      "streetAddress": "10110 Commerce Ave.Tujunga, CA 91042",
+      "mailingAddress": "P.O.Box 203Tujunga, CA 91043"
+    },
+    "phone": "818-951-1041",
+    "website": "https://www.verdugo-online.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History"
+    ]
+  },
+  {
+    "name": "Tucker Wildlife Sanctuary",
+    "address": {
+      "streetAddress": "29322 Modjeska Canyon RoadModjeska, CA 92676",
+      "mailingAddress": null
+    },
+    "phone": "657-278-3896",
+    "website": "mailto:kcornell@exchange.fullerton.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Tulare Historical Museum",
+    "address": {
+      "streetAddress": "444 West Tulare AvenueTulare, CA 93274",
+      "mailingAddress": "P. O. Box 248Tulare, CA 93275"
+    },
+    "phone": "559-686-2074",
+    "website": "mailto:lthullen@tularehistoricalmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Tulare-Historical-Museum/130492753687040",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Tuolumne City Memorial Museum, Inc.",
+    "address": {
+      "streetAddress": "18663 Carter Street at Bay AvenueTuolumne, CA 95379",
+      "mailingAddress": "P.O. Box 1174Tuolumne, CA 95379"
+    },
+    "phone": "209-928-3515",
+    "website": "https://www.tuolumnemuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Saturday & Sunday 1:00 p.m. - 4:00 p.m.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Tuolumne County Museum & History Center",
+    "address": {
+      "streetAddress": "158 W. Bradford Av.Sonora, CA 95370",
+      "mailingAddress": "P.O. Box 695Sonora, CA 95370"
+    },
+    "phone": "209-532-1317",
+    "website": "mailto:info@tchistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-Su 10-4",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Turtle Bay Exploration Park",
+    "address": {
+      "streetAddress": "800 Auditorium DriveRedding, CA 96001",
+      "mailingAddress": "1335 Arboretum DriveSuite ARedding, CA 96003"
+    },
+    "phone": "530-243-8850",
+    "website": "https://www.turtlebay.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Summer Hours (March – October)",
+    "museumTypes": [
+      "Aquarium",
+      "Children's",
+      "Natural History",
+      "Nature Centers",
+      "Park",
+      "Science",
+      "University"
+    ]
+  },
+  {
+    "name": "Twenty Mule Team Museum",
+    "address": {
+      "streetAddress": "26962 Twenty Mule Team RoadBoron, CA 93516",
+      "mailingAddress": null
+    },
+    "phone": "760-762-5810",
+    "website": "mailto:director@20muleteammuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "U. C. Botanical Garden",
+    "address": {
+      "streetAddress": "200 Centennial DriveBerkeley, CA 94720",
+      "mailingAddress": null
+    },
+    "phone": "510-643-2755",
+    "website": "mailto:garden@berkeley.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Fowler Museum at UCLA",
+    "address": {
+      "streetAddress": "Los Angeles, CA 90095",
+      "mailingAddress": "Box 951549Los Angeles, CA 90025"
+    },
+    "phone": "310-825-4361",
+    "website": "https://www.fowler.ucla.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "University"
+    ]
+  },
+  {
+    "name": "Borax Museum",
+    "address": {
+      "streetAddress": "Furnace Creek ResortState Route 190Death Valley, CA 92328",
+      "mailingAddress": "P.O. Box 1Death Valley, CA 92328"
+    },
+    "phone": null,
+    "website": "https://www.letsgoseeit.com/index/county/inyo/death_valley/loc03/museum.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Santa Monica Pier Aquarium",
+    "address": {
+      "streetAddress": "1600 Ocean Front WalkSanta Monica, CA 90401",
+      "mailingAddress": null
+    },
+    "phone": "310-393-6149",
+    "website": "https://healthebay.org/smpa/default.asp",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Aquarium",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "UCR / CA Museum Of Photography",
+    "address": {
+      "streetAddress": "3824 Main StreetRiverside, CA 92501",
+      "mailingAddress": null
+    },
+    "phone": "951-827-4787",
+    "website": "https://www.cmp.ucr.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "UCSC Arboretum",
+    "address": {
+      "streetAddress": "1156 High StreetSanta Cruz, CA 95064",
+      "mailingAddress": null
+    },
+    "phone": "831-427-2998",
+    "website": "https://www2.ucsc.edu/arboretum",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/group.php?v=wall&gid=146236564503",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 9-5",
+    "museumTypes": [
+      "Arboretum"
+    ]
+  },
+  {
+    "name": "Underground Gold Miners Museum",
+    "address": {
+      "streetAddress": "Alleghany, CA 95910",
+      "mailingAddress": "P.O. Box 907Alleghany, CA 95910"
+    },
+    "phone": null,
+    "website": "https://www.origsix.com/ugmm.asp?d=2",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "University Art Gallery UCSD",
+    "address": {
+      "streetAddress": "9500 Gilman DriveLa Jolla, CA 92093",
+      "mailingAddress": "SDSU School of Art, Design & Art Hist., 5500 Campanile DriveSan Diego, CA 92182"
+    },
+    "phone": "858-534-0419",
+    "website": "mailto:uag@ucsd.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "University Art Gallery, CSUDH",
+    "address": {
+      "streetAddress": "1000 E. Victoria St.Carson, CA 90747",
+      "mailingAddress": null
+    },
+    "phone": "310-243-3696",
+    "website": "https://www.csudh.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "University Art Gallery, UCSD",
+    "address": {
+      "streetAddress": "9500 Gilman Dr.La Jolla, CA 92093",
+      "mailingAddress": null
+    },
+    "phone": "858-534-2860",
+    "website": "https://visarts.ucsd.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "University Art Museum, CSULB",
+    "address": {
+      "streetAddress": "1250 Bellflower Blvd.Long Beach, CA 90840",
+      "mailingAddress": null
+    },
+    "phone": "562-985-5761",
+    "website": "mailto:uam@csulb.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/uam.fans",
+      "twitter": "https://www.twitter.com/uamcsulb",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/UAMcsulb"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "University Art Museum, UCSB",
+    "address": {
+      "streetAddress": "University Of CaliforniaSanta Barbara, CA 93106",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.uam.ucsb.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "T-Sa 10-4, Su 1-5",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Vacaville Museum",
+    "address": {
+      "streetAddress": "213 Buck Ave.Vacaville, CA 95688",
+      "mailingAddress": null
+    },
+    "phone": "707-447-4513",
+    "website": "mailto:vminfo@vacavillemuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wednesday - Sunday • 1pm to 4:30 pm",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Vallejo Naval and Historical Museum",
+    "address": {
+      "streetAddress": "734 Marin StreetVallejo, CA 94590",
+      "mailingAddress": null
+    },
+    "phone": "707-643-0077",
+    "website": "mailto:valmuse@pacbell.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Vallejo-Naval-and-Historical-Museum/128869639437?ref=hl",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Library",
+      "Military",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Valley Art Center",
+    "address": {
+      "streetAddress": "1661 Botello Dr.Walnut Creek, CA 94596",
+      "mailingAddress": null
+    },
+    "phone": "925-935-4311",
+    "website": "mailto:valleyart@valleyartgallery.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Botanical Building",
+    "address": {
+      "streetAddress": "1549 El PradoSan Diego, CA 92101",
+      "mailingAddress": "1620 Pan American PlazaSan Diego, CA 92101"
+    },
+    "phone": "619-239-0512",
+    "website": "https://www.balboapark.org/in-the-park/botanical-building",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Ventura County Discovery Center",
+    "address": {
+      "streetAddress": "43 W. Thousand Oaks BlvdThousand Oaks, CA 91362",
+      "mailingAddress": "5655 Lindero Canyon Road, Suite 422Thousand Oaks, CA 91360"
+    },
+    "phone": "818-879-2021",
+    "website": "mailto:volunteers@discoverycntr.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Channel Islands Maritime Museum",
+    "address": {
+      "streetAddress": "3900 Bluefin CircleOxnard, CA 93035",
+      "mailingAddress": null
+    },
+    "phone": "805-984-6260",
+    "website": "mailto:vcmmarts@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 11:00 AM-5:00 PM",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Ventura County Museum, History & Art",
+    "address": {
+      "streetAddress": "100 East Main StreetVentura, CA 93001",
+      "mailingAddress": null
+    },
+    "phone": "805-653-0323",
+    "website": "https://venturamuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Victorian Farmhouse",
+    "address": {
+      "streetAddress": "Wilder Ranch State ParkAptos, CA 95003",
+      "mailingAddress": null
+    },
+    "phone": "707-937-0697",
+    "website": "mailto:innkeeper@victorianfarmhouse.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Villa Montezuma Museum/Jesse Shepard House",
+    "address": {
+      "streetAddress": "1925 K StreetSan Diego, CA 92102",
+      "mailingAddress": "San Diego, CA 92102"
+    },
+    "phone": null,
+    "website": "mailto:Friends@VillaMontezuma.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/VillaMontezuma",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Virginia Robinson Gardens",
+    "address": {
+      "streetAddress": "1008 Elden WayBeverly Hills, CA 90210",
+      "mailingAddress": null
+    },
+    "phone": "310-550-2068",
+    "website": "mailto:info@robinsongardens.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Botanical Garden-CSU Northridge",
+    "address": {
+      "streetAddress": "18111 Nordhoff St.Northridge, CA 91330",
+      "mailingAddress": null
+    },
+    "phone": "818-677-3496",
+    "website": "mailto:botanicgarden@csun.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-F 8-5",
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Wassama Roundhouse State Historic Park",
+    "address": {
+      "streetAddress": "Road 628Ahwahnee, CA 93602",
+      "mailingAddress": null
+    },
+    "phone": "209-742-7625",
+    "website": "https://www.parks.ca.gov/Default.asp?page_id=586",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Culture",
+      "General",
+      "History",
+      "Natural History",
+      "Nature Centers",
+      "Park",
+      "Science"
+    ]
+  },
+  {
+    "name": "Watts Towers Arts Center",
+    "address": {
+      "streetAddress": "1727 E. 107th St.Los Angeles, CA 90002",
+      "mailingAddress": null
+    },
+    "phone": "213-847-4646",
+    "website": "mailto:cadwattsctr@earthlink.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Wells Fargo History Museum",
+    "address": {
+      "streetAddress": "420 Montgomery StreetSan Francisco, CA 94163",
+      "mailingAddress": "420 Montgomery Street / MAC A0101-026San Francisco, CA 94163"
+    },
+    "phone": "415-396-2619",
+    "website": "https://www.wellsfargohistory.com/museums/sfmuseum.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Bothe-Napa Valley State Park Visitor Center - Closed",
+    "address": {
+      "streetAddress": "3801 St. Helena Hwy., NorthNorth Calistoga, CA 94515",
+      "mailingAddress": null
+    },
+    "phone": "707-942-4575",
+    "website": "https://www.parks.ca.gov/?page_id=477",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Wells Fargo History Museum",
+    "address": {
+      "streetAddress": "333 S. Grand Ave.Los Angeles, CA 90071",
+      "mailingAddress": "420 Montgomery Street (A0101-106)San Francisco, CA 94163"
+    },
+    "phone": "213-253-7166",
+    "website": "https://www.wellsfargohistory.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon - Fri  9am - 5pm",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "West Kern Oil Museum",
+    "address": {
+      "streetAddress": "1168 Wood StreetTaft, CA 93268",
+      "mailingAddress": "P.O. Box 491Taft, CA 93268"
+    },
+    "phone": "661-765-6664",
+    "website": "https://www.westkern-oilmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Sa 10-4, Su 1-4",
+    "museumTypes": [
+      "General",
+      "History",
+      "Library",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Western Aerospace Museum",
+    "address": {
+      "streetAddress": "Oakland, CA 94614",
+      "mailingAddress": "P.O. Box 14264Oakland, CA 94614"
+    },
+    "phone": "310-336-5000",
+    "website": "https://www.aerospace.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wednesday-Sunday, 10:00- 4:00",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Western Railway Museum",
+    "address": {
+      "streetAddress": "5848 State Highway 12Suisun City, CA 94585",
+      "mailingAddress": null
+    },
+    "phone": "707-374-2978",
+    "website": "https://www.wrm.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Saturdays and Sundays year round.  Wednesday - sunday in June, July and August.  Always 10:30 am - 5:00 pm",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Western Skisport Museum",
+    "address": {
+      "streetAddress": "19749 Boreal Ridge RdSoda Springs, CA 95728",
+      "mailingAddress": "P.O. Box 829Soda Springs, CA 95728"
+    },
+    "phone": "530-426-3313",
+    "website": "mailto:m.mccay-moran@assoc.auburnskiclub.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "San Lorenzo Valley Museum",
+    "address": {
+      "streetAddress": "San Lorenzo Valley Museum12547 Highway 9Boulder Creek, CA 95006",
+      "mailingAddress": "P. O. Box 576Boulder Creek, CA 95006"
+    },
+    "phone": "831-338-8382",
+    "website": "mailto:slvmuseum@sbcglobal.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Whaler's Cabin Museum at Pt. Lobos",
+    "address": {
+      "streetAddress": "Rte. 1  Box 62Carmel, CA 93923",
+      "mailingAddress": null
+    },
+    "phone": "866-338-7227",
+    "website": "https://www.pointlobos.org/education/teachers/whalers-cabin",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Point-Lobos-Foundation/115691978490949?ref=ts",
+      "twitter": "https://www.twitter.com/Point_Lobos",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "hours vary",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Whittier Historical Society & Museum",
+    "address": {
+      "streetAddress": "6755 Newlin AvenueWhittier, CA 90601",
+      "mailingAddress": null
+    },
+    "phone": "562-945-3871",
+    "website": "mailto:info@whittiermuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Wignall Museum of Contemporary Art",
+    "address": {
+      "streetAddress": "5885 Haven AvenueRancho Cucamonga, CA 91737",
+      "mailingAddress": null
+    },
+    "phone": "909-652-6492",
+    "website": "mailto:wignall.staff@chaffey.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#!/group.php?gid=39071133317",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Wildlife Waystation",
+    "address": {
+      "streetAddress": "14831 Little Tujunga Canyon Rd.Angeles National Forest, CA 91342",
+      "mailingAddress": null
+    },
+    "phone": "818-899-5201",
+    "website": "https://wildlifewaystation.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "1st & 3rd Su of the month",
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Bowers Kidseum",
+    "address": {
+      "streetAddress": "2002 North Main StreetSanta Ana, CA 92706",
+      "mailingAddress": "2002 N. Main St.Santa Ana, CA 92706"
+    },
+    "phone": "714-567-3600",
+    "website": "https://www.bowers.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/home.php#/pages/Santa-Ana-CA/Bowers-Museum/101778233870",
+      "twitter": "https://www.twitter.com/bowersmuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/bowersmuseum"
+    },
+    "hours": "Saturdays and Sundays (except Christmas and New Year’s Day): 11am-4pmHoliday Hours:Spring Break: 12-4pm April 11-14 and 18-21 Summer Hours: June 12, 2006 - July 30, 2006 See renovation dates.Tuesdays - Fridays, 12 - 4 pm",
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "William B. Ide Adobe State Historic Park",
+    "address": {
+      "streetAddress": "21659 Adobe RoadRed Bluff, CA 96080",
+      "mailingAddress": null
+    },
+    "phone": "530-529-8599",
+    "website": "https://www.ideadobe.tehama.k12.ca.us/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Park"
+    ]
+  },
+  {
+    "name": "William S. Hart Museum",
+    "address": {
+      "streetAddress": "24151 San Fernando RoadNewhall, CA 91321",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.nhm.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "W-Su 11-4",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Willow Creek-China Flat Museum",
+    "address": {
+      "streetAddress": "Hwy 299 & Hwy 96Willow Creek, CA 95573",
+      "mailingAddress": "P.O. Box 102Willow Creek, CA 95573"
+    },
+    "phone": "530-629-2653",
+    "website": "https://bigfootcountry.net/home/bigfoot_collection",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Wings of History California Antique Aircraft Museum",
+    "address": {
+      "streetAddress": "12777 Murphy AvenueSan Martin, CA 95046",
+      "mailingAddress": null
+    },
+    "phone": "408-683-2290",
+    "website": "mailto:inquiry@wingsofhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Saturday and Sunday: 11am to 4pm",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "International Museums of Women",
+    "address": {
+      "streetAddress": "235 Montgomery Street, 12th FloorSan Francisco, CA 94164",
+      "mailingAddress": "P.O.Box 190038San Francisco, CA 94119"
+    },
+    "phone": "415-543-4669",
+    "website": "mailto:info@imow.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Woodland Opera House State Historic Park",
+    "address": {
+      "streetAddress": "340  Second St.Woodland, CA 95695",
+      "mailingAddress": "P.O. Box 1425Woodland, CA 95695"
+    },
+    "phone": "530-666-9617",
+    "website": "mailto:operahouse@afes.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M, W, Th, F 10-5/Tu 1-4/Sa 12-4",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Bowers Museum",
+    "address": {
+      "streetAddress": "2002 N. Main St.Santa Ana, CA 92706",
+      "mailingAddress": null
+    },
+    "phone": "714-567-3600",
+    "website": "mailto:info@bowers.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Sunday: 10:00 am - 4:00 pm",
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Art",
+      "Children's",
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Workman & Temple Family Homestead Museum",
+    "address": {
+      "streetAddress": "15415 E. Don Julian Rd.City Of Industry, CA 91745",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.homesteadmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "W-Su 1-4, M & Tu 9-4 by appointment only/no charge",
+    "museumTypes": [
+      "Historic House"
+    ]
+  }
+]

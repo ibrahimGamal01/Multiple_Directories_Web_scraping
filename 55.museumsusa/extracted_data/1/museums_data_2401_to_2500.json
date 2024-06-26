@@ -1,0 +1,1287 @@
+[
+  {
+    "name": "Happy Hollow Park & Zoo",
+    "address": {
+      "streetAddress": "1300 Senter Rd.San Jose, CA 95112",
+      "mailingAddress": null
+    },
+    "phone": "408-794-6400",
+    "website": "mailto:HHguestservices@sanjoseca.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 10-5",
+    "museumTypes": [
+      "Arboretum",
+      "Botanical Garden",
+      "Children's",
+      "Library",
+      "Natural History",
+      "Nature Centers",
+      "Park",
+      "Science",
+      "Specialized",
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Adan E. Treganza Anthropology Museum",
+    "address": {
+      "streetAddress": "1600 Holloway AvenueSan Francisco, CA 94132",
+      "mailingAddress": null
+    },
+    "phone": "415-338-2046",
+    "website": "mailto:anthro@sfsu.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-F 10-4 in the Hohenthaler Gallery only when school is in session",
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Anderson Valley Historical Museum",
+    "address": {
+      "streetAddress": "12340 Highway 128Boonville, CA 95415",
+      "mailingAddress": "P.O. Box 676Boonville, CA 95415"
+    },
+    "phone": "707-895-3207",
+    "website": "mailto:sheri@camprancheria.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Hays Antique Truck Museum",
+    "address": {
+      "streetAddress": "1962 Hays LnWoodland, CA 95776",
+      "mailingAddress": "P.O. Box 2347Woodland, CA 95776"
+    },
+    "phone": "530-666-1044",
+    "website": "https://www.truck-museum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Hayward Shoreline Interpretive Center",
+    "address": {
+      "streetAddress": "4901 Breakwater AvenueHayward, CA 94545",
+      "mailingAddress": null
+    },
+    "phone": "510-670-7270",
+    "website": "mailto:shoreline@haywardrec.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The center is open to the public every weekend.",
+    "museumTypes": [
+      "Nature Centers",
+      "Park"
+    ]
+  },
+  {
+    "name": "Healdsburg Museum",
+    "address": {
+      "streetAddress": "221 Matheson StreetHealdsburg, CA 95448",
+      "mailingAddress": "P.O. Box 952Healdsburg, CA 95448"
+    },
+    "phone": "707-431-3325",
+    "website": "mailto:info@healdsburgmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Su 11-4",
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Andres Pico Adobe",
+    "address": {
+      "streetAddress": "10940 Sepulveda Blvd.Mission Hills, CA 91346",
+      "mailingAddress": null
+    },
+    "phone": "818-365-7810",
+    "website": "mailto:sfvhs@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Saint Mary's College Museum of Art",
+    "address": {
+      "streetAddress": "1928 Saint Mary's RoadMoraga, CA 94556",
+      "mailingAddress": "1928 St. Mary's Rd.Moraga, CA 94556"
+    },
+    "phone": "925-631-4379",
+    "website": "mailto:hdonner@stmarys-ca.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fshar.es%2FgypXy&t=Contact+Us",
+      "twitter": "https://www.twitter.com/intent/tweet?text=Contact%20Us&url=http://shar.es/gypbj&source=sharethiscom&related=sharethis",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wednesday through Sunday: 11 a.m to 4:30 p.m.",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "Library",
+      "University"
+    ]
+  },
+  {
+    "name": "Hearst San Simeon State Historical Monument",
+    "address": {
+      "streetAddress": "750 Hearst Castle RoadSan Simeon, CA 93452",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.hearstcastle.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 8-5",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Held Poage Home & Library",
+    "address": {
+      "streetAddress": "603 West Perkins StreetUkiah, CA 95482",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:mchs@pacific.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu, Th, Sa 2-4/M, W, F mornings by appt.",
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Hemet Area Museum",
+    "address": {
+      "streetAddress": "100 State St.Hemet, CA 92346",
+      "mailingAddress": "P.O. Bpx 2521Hemet, CA 92345"
+    },
+    "phone": null,
+    "website": "https://www.hemetmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Heritage Hill Historical Park",
+    "address": {
+      "streetAddress": "25151 Serrano RoadLake Forest, CA 92630",
+      "mailingAddress": null
+    },
+    "phone": "949-923-2230",
+    "website": "mailto:heritagehill@ocparks.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Guided Tours: Tuesdays-Thursdays: 10:15 a.m., 11:15 a.m., 1:15 p.m., 2:15 p.m. Self-Guided Tours: Friday-Sunday: 10 a.m. - 4:30 pm.; Friday-Saturday: 12:00 p.m. - 4:30 pm Sundays CLOSED MONDAY",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Angels Attic Museum",
+    "address": {
+      "streetAddress": "516 Colorado Ave.Santa Monica, CA 90401",
+      "mailingAddress": null
+    },
+    "phone": "310-394-8331",
+    "website": "https://www.angelsattic.com/museum.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Heritage Orange County, Inc.",
+    "address": {
+      "streetAddress": "3101 West Harvard StreetSanta Ana, CA 92701",
+      "mailingAddress": "Santa Ana, CA 92701"
+    },
+    "phone": "714-540-0404",
+    "website": "mailto:info@heritagemuseumoc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Heritage Society of Pacific Grove",
+    "address": {
+      "streetAddress": "605 Laurel AvePacific Grove, CA 93950",
+      "mailingAddress": "P.O. Box 1007Pacific Grove, CA 93950"
+    },
+    "phone": "831-372-2898",
+    "website": "mailto:info@pacificgroveheritage.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sa 1-4",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Heritage Square",
+    "address": {
+      "streetAddress": "715 S. A StreetOxnard, CA 93030",
+      "mailingAddress": null
+    },
+    "phone": "805-483-7960",
+    "website": "mailto:hsdocentcoord@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Heritage Square Museum",
+    "address": {
+      "streetAddress": "3800 Homer StreetLos Angeles, CA 90031",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.heritagesquare.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Friday - Sunday 12:00 pm - 4:30 pm",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Hermosa Beach Historical Museum",
+    "address": {
+      "streetAddress": "710 Pier Ave.Hermosa Beach, CA 90254",
+      "mailingAddress": null
+    },
+    "phone": "310-318-9421",
+    "website": "https://www.hermosabeachhistoricalsociety.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Angels Camp Museum",
+    "address": {
+      "streetAddress": "584 S.Main St.Angels Camp, CA 95222",
+      "mailingAddress": "PO Box 667Angels Camp, CA 95222"
+    },
+    "phone": "209-736-2181",
+    "website": "mailto:coa@angelscamp.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Natural History",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Hi-Desert Nature Museum",
+    "address": {
+      "streetAddress": "57116 Twentynine Palms HighwayYucca Valley, CA 92284",
+      "mailingAddress": null
+    },
+    "phone": "760-369-7212",
+    "website": "https://www.yucca-valley.org/departments/museum.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Sunday 10:00 am - 5:00 pm",
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Highlands Art Center",
+    "address": {
+      "streetAddress": "691 Main St0Weaverville, CA 96093",
+      "mailingAddress": "P.O. Box 1270Weaverville, CA 96093"
+    },
+    "phone": "530-623-5111",
+    "website": "mailto:info@highlandartcenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Historical Glass Museum",
+    "address": {
+      "streetAddress": "1157 N. Orange StreetRedlands, CA 92373",
+      "mailingAddress": "Post Office Box 921Redlands, CA 92373"
+    },
+    "phone": "909-798-0868",
+    "website": "mailto:historicalglassmuseum@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/watch?v=WKacI5GiVsU"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "History San Jose",
+    "address": {
+      "streetAddress": "1650 Senter RoadSan Jose, CA 95112",
+      "mailingAddress": null
+    },
+    "phone": "408-287-2290",
+    "website": "mailto:jilla@thearnonegroup.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Sunday 12 noon to 5 p.m.",
+    "museumTypes": [
+      "Art",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "Hollyhock House",
+    "address": {
+      "streetAddress": "4808 Hollywood Blvd.Los Angeles, CA 90027",
+      "mailingAddress": null
+    },
+    "phone": "323-644-6269",
+    "website": "mailto:Jeffrey.Herr@lacity.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Hollywood Bowl Museum",
+    "address": {
+      "streetAddress": "2301 N. Highland Ave.Los Angeles, CA 90078",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.hollywoodbowl.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Summer: Tu-Sa 10-8:30, Off Season Tu-Sa 10-4:30",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Hollywood Guinness World of Records Museum",
+    "address": {
+      "streetAddress": "6767 Hollywood Blvd.Los Angeles, CA 90028",
+      "mailingAddress": null
+    },
+    "phone": "323-463-6433",
+    "website": "mailto:lon@hollywoodwax.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/guinnessmuseumhollywood",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Hollywood Heritage Museum",
+    "address": {
+      "streetAddress": "1737 N. Whitley Ave.  Ste. 300Los Angeles, CA 90028",
+      "mailingAddress": null
+    },
+    "phone": "323-874-2276",
+    "website": "https://www.hollywoodheritage.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Angels Gate Cultural Center",
+    "address": {
+      "streetAddress": "3601 S. Gaffey StreetSan Pedro, CA 90731",
+      "mailingAddress": null
+    },
+    "phone": "310-519-0936",
+    "website": "mailto:info@angelsgateart.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Hollywood Wax Museum",
+    "address": {
+      "streetAddress": "6767 Hollywood Blvd.Los Angeles, CA 90028",
+      "mailingAddress": null
+    },
+    "phone": "323-462-5991",
+    "website": "mailto:lon@hollywoodwax.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "University of the Pacific Library, Holt-Atherton Special Collections",
+    "address": {
+      "streetAddress": "University of the Pacific Library3601 Pacific AvenueStockton, CA 95211",
+      "mailingAddress": null
+    },
+    "phone": "209-946-2404",
+    "website": "https://www.pacific.edu/Library/Find/Holt-Atherton-Special-Collections.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-F 10-5",
+    "museumTypes": [
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Homestead Acre and the Hill-Palmer House",
+    "address": {
+      "streetAddress": "10385 Shadow Oak Dr.Chatsworth, CA 91311",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.laparks.org/dos/historic/homestead.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Hoover Institution on War, Revolution and Peace Library and Archives",
+    "address": {
+      "streetAddress": "Stanford University434 Galvez MallStanford, CA 94305",
+      "mailingAddress": null
+    },
+    "phone": "650-723-1754",
+    "website": "mailto:schieron@stanford.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "House of Pacific Relations",
+    "address": {
+      "streetAddress": "2191 West Pan American RoadSan Diego, CA 92101",
+      "mailingAddress": "2125 PARK BOULEVARDSan Diego, CA 92101"
+    },
+    "phone": "619-234-0739",
+    "website": "mailto:info@sdhpr.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Humboldt Bay Maritime Museum",
+    "address": {
+      "streetAddress": "77 Cookhouse Rd  (next to the famous Samoa Cookhouse)Samoa, CA 95564",
+      "mailingAddress": "P.O. Box 282Samoa, CA 95564"
+    },
+    "phone": "707-444-9440",
+    "website": "mailto:dzerlang@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Ano Nuevo State Reserve Visitor Center and Interpretive Center",
+    "address": {
+      "streetAddress": "New Year's Creek Dr.Pescadero, CA 94060",
+      "mailingAddress": null
+    },
+    "phone": "650-879-2025",
+    "website": "mailto:info@parks.ca.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Humboldt County Historical Society",
+    "address": {
+      "streetAddress": "703 8th StreetEureka, CA 95502",
+      "mailingAddress": "P.O. Box 8000Eureka, CA 95502"
+    },
+    "phone": "707-445-4342",
+    "website": "mailto:hchs@humboldthistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Humboldt Redwoods State Park Visitors Center",
+    "address": {
+      "streetAddress": "Humboldt Redwoods StWeott, CA 95571",
+      "mailingAddress": "P.O. Box 276Weott, CA 95571"
+    },
+    "phone": "707-946-2409?",
+    "website": "https://www.parks.ca.gov/?page_id=425",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-Su 9-5",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Humboldt State University Marine Laboratory",
+    "address": {
+      "streetAddress": "570 EwingTrinidad, CA 95570",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.humboldt.edu/~marinelb/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-F 9-5, Sa-Su 10-5",
+    "museumTypes": [
+      "University"
+    ]
+  },
+  {
+    "name": "Humboldt State University Natural History Museum",
+    "address": {
+      "streetAddress": "1315 ' G ' StreetArcata, CA 95521",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.humboldt.edu/~natmus/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Sa 10-4",
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Huntington Beach Art Center",
+    "address": {
+      "streetAddress": "538 Main StreetHuntington Beach, CA 92648",
+      "mailingAddress": "Huntington Beach, CA 92648"
+    },
+    "phone": "714-374-1650",
+    "website": "https://www.huntingtonbeachca.gov/visitors/art_center/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Huntington Beach Historical Society",
+    "address": {
+      "streetAddress": "19820 Beach Blvd.Huntington Beach, CA 92648",
+      "mailingAddress": null
+    },
+    "phone": "714-962-5777",
+    "website": "https://www.hbnews.us/nwhouse.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Huntington Beach International Surfing Museum",
+    "address": {
+      "streetAddress": "411 olive avenueHuntington Beach, CA 92648",
+      "mailingAddress": "P.O. Box 782Huntington Beach, CA 92648"
+    },
+    "phone": "714-960-3483",
+    "website": "mailto:info@surfingmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Huntington Library",
+    "address": {
+      "streetAddress": "1151 Oxford RoadSan Marino, CA 91108",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.huntington.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Imperial Valley Desert Museum",
+    "address": {
+      "streetAddress": "11 Frontage RoadOcotillo, CA 92259",
+      "mailingAddress": "P.O. Box 430Ocotillo, CA 92259"
+    },
+    "phone": "760-358-7016",
+    "website": "mailto:ivdmuseum@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/IVDMuseum",
+      "twitter": "https://www.twitter.com/@IVDesertMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Art",
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Natural History",
+      "Science"
+    ]
+  },
+  {
+    "name": "Indian Valley Museum",
+    "address": {
+      "streetAddress": "4288 Cemetery RdTaylorsville, CA 95983",
+      "mailingAddress": "P.O. Box 165Taylorsville, CA 95983"
+    },
+    "phone": "530-284-7785",
+    "website": "mailto:IVM@frontiernet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sa 10-4, Su 1-4",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Iris & B. Gerald Cantor Center for Visual Arts",
+    "address": {
+      "streetAddress": "328 Lomita DriveStanford, CA 94305",
+      "mailingAddress": "Stanford UniversityStanford, CA 94305"
+    },
+    "phone": null,
+    "website": "https://www.stanford.edu/dept/ccva",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "W-Su 11-5",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Irvine Historical Society & Museum",
+    "address": {
+      "streetAddress": "5 San JoaquinIrvine, CA 92712",
+      "mailingAddress": null
+    },
+    "phone": "949-786-4112",
+    "website": "mailto:info@irvinehistory.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/category/Nonprofit-Organization/Irvine-Historical-Society-104929636216414/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Ansel Adams Gallery",
+    "address": {
+      "streetAddress": "685 Cannery Row,Gonzales, CA 93926",
+      "mailingAddress": "P.O. Box 780Gonzales, CA 93926"
+    },
+    "phone": "831-375-7215",
+    "website": "mailto:sales@anseladams.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Yosemite-Village-CA/The-Ansel-Adams-Gallery/69158596573?ref=nf",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/watch?v=IoDY9j7UoWI"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Irvine Museum",
+    "address": {
+      "streetAddress": "18881 Von Karman Avenue, Suite 100Irvine, CA 92612",
+      "mailingAddress": "Irvine, CA 92612"
+    },
+    "phone": "949-476-0294",
+    "website": "mailto:info@irvinemuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Sa 11-5 (closed on Tu after M holidays)/no charge",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "J. Paul Getty Museum",
+    "address": {
+      "streetAddress": "1200 Getty Center DriveLos Angeles, CA 90049",
+      "mailingAddress": "1200 Getty Center Drive, Suite 1000Los Angeles, CA 90049"
+    },
+    "phone": null,
+    "website": "https://www.getty.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-W 11-7, Th-F 11-9, Sa-Su 10-6",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Jack London State Historic Park - Closed",
+    "address": {
+      "streetAddress": "2400 London Ranch Rd.Glen Ellen, CA 95442",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.jacklondonpark.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 10-5",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Janet Turner Print Museum",
+    "address": {
+      "streetAddress": "California State University, Chico 400 W. 1st St.Chico, CA 95929",
+      "mailingAddress": null
+    },
+    "phone": "530-898-4476",
+    "website": "https://www.janetturner.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-F 11-4/no charge",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Japanese American National Museum",
+    "address": {
+      "streetAddress": "369 East First StreetLos Angeles, CA 90012",
+      "mailingAddress": "100 N. Central AveLos Angeles, CA 90012"
+    },
+    "phone": "213-625-0414",
+    "website": "mailto:groupvisits@janm.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/janmdotorg"
+    },
+    "hours": "Mon closedTue, Wed, Fri, Sat, Sun 11:00 AM - 5:00 PMThu 11:00 AM - 8:00 PM",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Japanese Garden",
+    "address": {
+      "streetAddress": "6100 Woodley Ave.Van Nuys, CA 91406",
+      "mailingAddress": null
+    },
+    "phone": "818-756-8166",
+    "website": "mailto:betty.ethridge@lacity.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-F 9-1, by appointment only",
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "SRJC Museum",
+    "address": {
+      "streetAddress": "1501 Mendocino Ave.Santa Rosa, CA 95401",
+      "mailingAddress": null
+    },
+    "phone": "707-524-4479",
+    "website": "mailto:museum@santarosa.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Art",
+      "Culture",
+      "History",
+      "Specialized",
+      "University"
+    ]
+  },
+  {
+    "name": "Jet Propulsion Laboratory",
+    "address": {
+      "streetAddress": "4800 Oak Grove Dr.Pasadena, CA 91109",
+      "mailingAddress": null
+    },
+    "phone": "818-354-4321",
+    "website": "https://www.jpl.nasa.gov/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/NASAJPL",
+      "twitter": "https://www.twitter.com/NASAJPL",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/JPLnews"
+    },
+    "hours": "by appointment only",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Jewish Museum San Francisco",
+    "address": {
+      "streetAddress": "736 Mission Street (btwn. 3rd and 4th Streets)San Francisco, CA 94103",
+      "mailingAddress": "166 Geary Street, Suite 1500San Francisco, CA 94108"
+    },
+    "phone": "415-655-7800",
+    "website": "mailto:info@thecjm.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "John Muir National Historic Site",
+    "address": {
+      "streetAddress": "4202 Alhambra Ave.Martinez, CA 94553",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.nps.gov/jomu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wednesday - Sunday 10:00 a.m. to 5:00 p.m. Closed Thanksgiving, Christmas, and New Year",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Antelope Valley California Poppy Reserve",
+    "address": {
+      "streetAddress": "15101 Lancaster RdLancaster, CA 93536",
+      "mailingAddress": "P.O. Box 942896Sacramento, CA 94296"
+    },
+    "phone": "916-653-6995",
+    "website": "mailto:info@parks.ca.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The park is open from sunrise to sunset daily year-round.",
+    "museumTypes": [
+      "Archaeology",
+      "Botanical Garden",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Natural History",
+      "Nature Centers",
+      "Park",
+      "Science"
+    ]
+  },
+  {
+    "name": "Jonathan Bailey Home",
+    "address": {
+      "streetAddress": "13421 E. Camilia St.Whittier, CA 90601",
+      "mailingAddress": null
+    },
+    "phone": "562-945-3871",
+    "website": "mailto:info@whittiermuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Joshua Tree National Monument",
+    "address": {
+      "streetAddress": "74485 National Monument DriveTwentynine Palms, CA 92277",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.joshua.tree.national-park.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 8-5/Visitors Center free",
+    "museumTypes": [
+      "Natural History"
+    ]
+  }
+]

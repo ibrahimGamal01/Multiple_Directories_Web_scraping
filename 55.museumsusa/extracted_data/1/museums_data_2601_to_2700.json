@@ -1,0 +1,1266 @@
+[
+  {
+    "name": "Los Angeles Municipal Art Gallery",
+    "address": {
+      "streetAddress": "433 S. Spring St.Los Angeles, CA 90013",
+      "mailingAddress": null
+    },
+    "phone": "323-644-6269",
+    "website": "https://www.ci.la.ca.us/cad/lamag/Home.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Los Angeles Museum of the Holocaust",
+    "address": {
+      "streetAddress": "6435 Wilshire BoulevardLos Angeles, CA 90048",
+      "mailingAddress": null
+    },
+    "phone": "323-651-3704",
+    "website": "https://www.lamoth.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-Th 10-4, F 10-2, Sun 12-4 \nClosed on National and Jewish Holidays",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Los Angeles Valley College Historical Museum",
+    "address": {
+      "streetAddress": "5800 Fulton Ave.Van Nuys, CA 91401",
+      "mailingAddress": null
+    },
+    "phone": "818-947-2373",
+    "website": "mailto:carpenb@lavc.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-F 1-4",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Los Angeles Zoo",
+    "address": {
+      "streetAddress": "5333 Zoo DriveLos Angeles, CA 90027",
+      "mailingAddress": null
+    },
+    "phone": "323-644-4200",
+    "website": "https://www.lazoo.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "10 a.m. to 5 p.m. every day of the year except December 25",
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Los Encinos State Historic Park Museum",
+    "address": {
+      "streetAddress": "16756 Moorpark St.Encino, CA 91436",
+      "mailingAddress": null
+    },
+    "phone": "818-784-4849",
+    "website": "mailto:LosEncinos@parks.ca.gov",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/LosEncinosSHP",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Park"
+    ]
+  },
+  {
+    "name": "Los Gatos Museum",
+    "address": {
+      "streetAddress": "4 Tait AvenueLos Gatos, CA 95030",
+      "mailingAddress": "P.O. Box 1904Los Gatos, CA 95031"
+    },
+    "phone": "408-354-2646",
+    "website": "mailto:operations@museumsoflosgatos.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/The-Museums-of-Los-Gatos/240641145985107?ref=tn_tnmn",
+      "twitter": "https://www.twitter.com/#!/MuseumsLosGatos",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/TheMuseumsOfLosGatos"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "C. F. Lott Home in Sank Park",
+    "address": {
+      "streetAddress": "1067 Montgomery StreetOroville, CA 95965",
+      "mailingAddress": null
+    },
+    "phone": "530-538-2497",
+    "website": "mailto:museums@cityoforoville.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Lotusland Foundation",
+    "address": {
+      "streetAddress": "695 Ashley RoadSanta Barbara, CA 93108",
+      "mailingAddress": null
+    },
+    "phone": "805-969-3767",
+    "website": "mailto:reservation@lotusland.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden",
+      "Nature Centers",
+      "Science"
+    ]
+  },
+  {
+    "name": "Luther Burbank Home & Garden",
+    "address": {
+      "streetAddress": "204 Santa Rosa AveSanta Rosa, CA 95404",
+      "mailingAddress": "100 Santa Rosa Ave, RM 10Santa Rosa, CA 95404"
+    },
+    "phone": "707-524-5445",
+    "website": "mailto:burbankhome@lutherburbank.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Adobe De Palomares",
+    "address": {
+      "streetAddress": "1569 N. Park Ave.Pomona, CA 91768",
+      "mailingAddress": null
+    },
+    "phone": "909-620-0264",
+    "website": "https://pomonahistorical.org/palomares/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Ardenwood Historic Farm",
+    "address": {
+      "streetAddress": "34600 Ardenwood Blvd.Fremont, CA 94555",
+      "mailingAddress": null
+    },
+    "phone": "510-544-2797",
+    "website": "https://www.ebparks.org/parks/ardenwood",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Park"
+    ]
+  },
+  {
+    "name": "M C R D Command Museum",
+    "address": {
+      "streetAddress": "1600 Henderson Avenue, Bldg. 26, Suite 212San Diego, CA 92140",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.sdo.usmc.mil/museum.nsf",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-F 8-4, Sa 10-2",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Malibu Creek State Park Visitor Center",
+    "address": {
+      "streetAddress": "28754 Mulholland Hwy.Agoura Hills, CA 91301",
+      "mailingAddress": null
+    },
+    "phone": "818-880-0367",
+    "website": "https://www.parks.ca.gov/?page_id=614",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Malibu Lagoon Museum and Historic Adamson House",
+    "address": {
+      "streetAddress": "23200 Pacific Coast HighwayMalibu, CA 90265",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.adamsonhouse.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "W-Sa 11-3",
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Malki Museum",
+    "address": {
+      "streetAddress": "11-795 Fields Rd.Banning, CA 92220",
+      "mailingAddress": "P.O. Box 578Banning, CA 92220"
+    },
+    "phone": "951-849-7289",
+    "website": "mailto:MalkiMuseumMail@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Armstrong Redwoods State Reserve Visitors Center",
+    "address": {
+      "streetAddress": "1700 Armstrong Woods Rd.Guerneville, CA 95446",
+      "mailingAddress": null
+    },
+    "phone": "707-869-2015",
+    "website": "https://www.parks.sonoma.net/Armstrng.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 9-4",
+    "museumTypes": [
+      "Nature Centers",
+      "Park"
+    ]
+  },
+  {
+    "name": "Manhattan Beach Historical Society",
+    "address": {
+      "streetAddress": "1601 Manhattan Beach BoulevardManhattan Beach, CA 90266",
+      "mailingAddress": "Post Office Box 3355Manhattan Beach, CA 90266"
+    },
+    "phone": "310-374-7575",
+    "website": "mailto:historian@ManhattanBeachHistorical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "See http://history90266.org. Monthly meetings in addition to weekend openings.",
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Mann's Chinese Theater",
+    "address": {
+      "streetAddress": "6925 Hollywood Blvd.Hollywood, CA 90078",
+      "mailingAddress": null
+    },
+    "phone": "323-461-3331",
+    "website": "mailto:manager@chinesetheatres.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "March Field Air Museum",
+    "address": {
+      "streetAddress": "22550 Van Buren AveRiverside, CA 92518",
+      "mailingAddress": "P.O. Box 6463March ARB, CA 92518"
+    },
+    "phone": "951-902-5949",
+    "website": "mailto:greg@marchfield.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "9am - 4pm daily. Closed Thanksgiving, Christmas, New Years and Easter Day.",
+    "museumTypes": [
+      "General",
+      "History",
+      "Military",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Marin County Historical Museum and Society",
+    "address": {
+      "streetAddress": "1125 B StreetSan Rafael, CA 94901",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.marinhistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "WildCare",
+    "address": {
+      "streetAddress": "76 Albert Park LaneSan Rafael, CA 94901",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.wildcarebayarea.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 9:00 am - 5:00 pm",
+    "museumTypes": [
+      "Children's",
+      "General",
+      "Natural History",
+      "Nature Centers",
+      "Science",
+      "Specialized",
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Marin Museum Of The American Indian",
+    "address": {
+      "streetAddress": "2200 Novato Blvd.Novato, CA 94948",
+      "mailingAddress": "P.O. Box 864Novato, CA 94948"
+    },
+    "phone": "415-897-4064",
+    "website": "mailto:office@marinindian.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Marine Mammal Center",
+    "address": {
+      "streetAddress": "Golden Gate National Recreation AreaSausalito, CA 94965",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.tmmc.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 10-4",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Art Center College of Design Galleries",
+    "address": {
+      "streetAddress": "1700 Lida St.Pasadena, CA 91103",
+      "mailingAddress": "1700 Lida St.Pasadena, CA 91101"
+    },
+    "phone": "626-396-2200",
+    "website": "mailto:swing.reception@artcenter.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "University"
+    ]
+  },
+  {
+    "name": "Mariposa County Courthouse",
+    "address": {
+      "streetAddress": "5088 Bullion StreetMariposa, CA 95338",
+      "mailingAddress": "P.O. Box 28Mariposa, CA 95338"
+    },
+    "phone": "209-966-2005",
+    "website": "https://mariposacourt.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Mariposa Museum & History Center",
+    "address": {
+      "streetAddress": "5119 Jessie StreetMariposa, CA 95338",
+      "mailingAddress": "P.O. Box 606Mariposa, CA 95338"
+    },
+    "phone": "209-966-2924",
+    "website": "mailto:mmhc@sti.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Museum of Monterey (MOM)",
+    "address": {
+      "streetAddress": "5 Custom House PlazaMonterey, CA 93940",
+      "mailingAddress": null
+    },
+    "phone": "831-372-2608",
+    "website": "mailto:info@montereyhistory.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/MuseumMonterey",
+      "twitter": "https://www.twitter.com/MuseumMonterey",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/themuseumofmonterey/"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Marshall Gold Discovery Museum and Historic Park",
+    "address": {
+      "streetAddress": "Coloma, CA 95613",
+      "mailingAddress": "P.O. Box 598Coloma, CA 95613"
+    },
+    "phone": null,
+    "website": "https://www.parks.ca.gov/?page_id=484",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Martinez Museum",
+    "address": {
+      "streetAddress": "P1005 Escobar St.Martinez, CA 94553",
+      "mailingAddress": "P.O. Box 14Martinez, CA 94553"
+    },
+    "phone": "925-228-8160",
+    "website": "mailto:webmaster@martinezhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Mary Aaron Memorial Museum at Warren P. Miller House",
+    "address": {
+      "streetAddress": "704 D StreetMarysville, CA 95901",
+      "mailingAddress": null
+    },
+    "phone": "530-743-1004",
+    "website": "https://www.maryaaronmuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Also open by appointment; a more accessible schedule will begin in late October 2011 after upstairs renovations are completed.",
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Maturango Museum",
+    "address": {
+      "streetAddress": "100 East Las Flores AvenueRidgecrest, CA 93555",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.ridgecrest.ca.us/~matmus",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "10 a.m. to 5 p.m. EVERY DAY",
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Art Gallery, CSUN",
+    "address": {
+      "streetAddress": "18111 Nordhoff St.Northridge, CA 91330",
+      "mailingAddress": null
+    },
+    "phone": "818-677-1200",
+    "website": "https://www.csun.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M & Sa 12-4, Tu-F 10-4",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Mc Henry Museum",
+    "address": {
+      "streetAddress": "1402 I StreetModesto, CA 95354",
+      "mailingAddress": null
+    },
+    "phone": "209-491-4347",
+    "website": "mailto:museum@mchenrymuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "McClellan Aviation Museum",
+    "address": {
+      "streetAddress": "3204 Palm Ave.McClellan AFB, CA 95660",
+      "mailingAddress": null
+    },
+    "phone": "916-643-3192",
+    "website": "https://www.aerospacemuseumofcalifornia.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-R 9-3, Sa 9-4, Su 12-4",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "McCloud Historical Center",
+    "address": {
+      "streetAddress": "P.O. Box 604McCloud, CA 96057",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:info@mcleodhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "McHenry Mansion",
+    "address": {
+      "streetAddress": "906 15th St.Modesto, CA 95353",
+      "mailingAddress": null
+    },
+    "phone": "209-491-4347",
+    "website": "mailto:museum@mchenrymuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Memorial Union Art Gallery",
+    "address": {
+      "streetAddress": "4th Floor, M.U. - Univ. Calif.Davis, CA 95616",
+      "mailingAddress": null
+    },
+    "phone": "530-752-2885",
+    "website": "https://www.ucdavis.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Art Museum of Santa Cruz County",
+    "address": {
+      "streetAddress": "705 Front StreetSanta Cruz, CA 95061",
+      "mailingAddress": "P.O. Box 8407Santa Cruz, CA 95061"
+    },
+    "phone": "831-429-1964",
+    "website": "https://www.santacruzmah.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Mendocino Coast Botanic Garden",
+    "address": {
+      "streetAddress": "18220 N. Hwy 1Fort Bragg, CA 95437",
+      "mailingAddress": null
+    },
+    "phone": "707-964-4352",
+    "website": "mailto:info@gardenbythesea.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Merced County Courthouse Museum",
+    "address": {
+      "streetAddress": "21st. And N StreetsMerced, CA 95340",
+      "mailingAddress": null
+    },
+    "phone": "209-723-2401",
+    "website": "mailto:info@mercedmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Meux Home Museum",
+    "address": {
+      "streetAddress": "1007 R. St.Fresno, CA 93721",
+      "mailingAddress": "P.O. Box 70Fresno, CA 93721"
+    },
+    "phone": "559-233-8007",
+    "website": "https://www.meux.mus.ca.us/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Mexican Museum",
+    "address": {
+      "streetAddress": "2 Marina BoulevardSan Francisco, CA 94123",
+      "mailingAddress": "Fort Mason Center, Building DSan Francisco, CA 94123"
+    },
+    "phone": "415-202-9700",
+    "website": "mailto:info@mexicanmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/TheMexicanMuseum",
+      "twitter": "https://www.twitter.com/sfmexicanmuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/themexicanmuseum"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Library",
+      "Nature Centers",
+      "Park",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Mildred Mathias Botanical Garden",
+    "address": {
+      "streetAddress": "707 S. Thiverton AvenueLos Angeles, CA 90095",
+      "mailingAddress": "Department of Biology Box 951606Los Angeles, CA 90095"
+    },
+    "phone": "310-825-1260",
+    "website": "https://www.botgard.ucla.edu/bg-home.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-F 8-5, Sa & Su 8-4/no charge",
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Millbrae Museum",
+    "address": {
+      "streetAddress": "621 Magnolia AvenueMillbrae, CA 94030",
+      "mailingAddress": "P.O. Box 511Millbrae, CA 94030"
+    },
+    "phone": "650-259-2334",
+    "website": "https://www.ci.millbrae.ca.us/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Mills College Art Museum",
+    "address": {
+      "streetAddress": "5000 Mac Arthur Blvd.Oakland, CA 94613",
+      "mailingAddress": null
+    },
+    "phone": "510-430-2005",
+    "website": "mailto:helpdesk@mills.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "T-Sa 11-4, Su 12-4",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Mingei International Museum",
+    "address": {
+      "streetAddress": "1439 El PradoSan Diego, CA 92102",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:mingei@mingei.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Su 10-4",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Asian Art Museum of San Francisco",
+    "address": {
+      "streetAddress": "200 Larkin StreetSan Francisco, CA 94102",
+      "mailingAddress": null
+    },
+    "phone": "415-581-3500",
+    "website": "mailto:pr@asianart.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/AsianArtMuseum",
+      "twitter": "https://www.twitter.com/asianartmuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/AsianArtMuseum"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Minolta Planetarium",
+    "address": {
+      "streetAddress": "21250 Stevens Creek Blvd.Cupertino, CA 95014",
+      "mailingAddress": null
+    },
+    "phone": "408-864-8814",
+    "website": "mailto:hawthornmargarita@deanza.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Planetarium"
+    ]
+  },
+  {
+    "name": "Minter Field Air Museum",
+    "address": {
+      "streetAddress": "401 Vultee Ave.Shafter, CA 93263",
+      "mailingAddress": "P.O. Box 445Shafter, CA 93263"
+    },
+    "phone": "661-393-0291",
+    "website": "mailto:mfam@minterfieldairmuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Mission Inn Museum",
+    "address": {
+      "streetAddress": "3696 Main StreetRiverside, CA 92501",
+      "mailingAddress": null
+    },
+    "phone": "951-788-9556",
+    "website": "mailto:info@missioninnmuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Mission San Antonio de Padua",
+    "address": {
+      "streetAddress": "P.O. Box 803Jolon, CA 93928",
+      "mailingAddress": null
+    },
+    "phone": "831-385-4478",
+    "website": "https://missiontour.org/sanantonio/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Mission San Antonio de Pala",
+    "address": {
+      "streetAddress": "Pala Mission RoadPala, CA 92059",
+      "mailingAddress": null
+    },
+    "phone": "760-742-3317",
+    "website": "https://www.missionsanantonio.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 10-4",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "San Buenaventura Mission",
+    "address": {
+      "streetAddress": "211 E. Main St.Ventura, CA 93001",
+      "mailingAddress": null
+    },
+    "phone": "805-643-4318",
+    "website": "mailto:parishoffice@sanbuenaventuramission.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Church",
+      "Culture",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Mission San Carlos Borromeo Del Rio Carmelo",
+    "address": {
+      "streetAddress": "3080 Rio RoadCarmel, CA 93923",
+      "mailingAddress": null
+    },
+    "phone": "831-624-1271",
+    "website": "https://www.carmelmission.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Carmel-CA/Carmel-Mission-Basilica/270571714028",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Mission San Fernando Rey de Espana Museum",
+    "address": {
+      "streetAddress": "15151 San Fernando Mission Blvd.Mission Hills, CA 93145",
+      "mailingAddress": "15151 San Fernando Mission Blvd.Mission Hills, CA 91345"
+    },
+    "phone": "818-361-0186",
+    "website": "https://www.athanasius.com/camission/fernando.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Mission San Francisco de Asis (Mission Dolores)",
+    "address": {
+      "streetAddress": "3321  16th St.San Francisco, CA 94114",
+      "mailingAddress": null
+    },
+    "phone": "415-621-8203",
+    "website": "mailto:parish@missiondolores.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open daily 9am-4pm. Closed Thanksgiving and Christmas day.",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Mission San Francisco Solano",
+    "address": {
+      "streetAddress": "20 East Spain StreetSonoma, CA 95476",
+      "mailingAddress": null
+    },
+    "phone": "707-938-1519",
+    "website": "https://www.athanasius.com/camission/sonoma.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Mission San Jose and Museum",
+    "address": {
+      "streetAddress": "P.O. Box 3159Fremont, CA 94539",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.museumoflocalhistory.org/msj_home/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Mission San Juan Bautista Museum",
+    "address": {
+      "streetAddress": "406 Second StreetSan Juan Bautista, CA 95045",
+      "mailingAddress": "P.O. Box 410San Juan Bautista, CA 95045"
+    },
+    "phone": "831-623-2127",
+    "website": "mailto:ann@oldmissionsjb.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Mission San Luis Obispo",
+    "address": {
+      "streetAddress": "751 Palm StreetSan Luis Obispo, CA 93401",
+      "mailingAddress": null
+    },
+    "phone": "805-781-8220",
+    "website": "mailto:office@oldmissionslo.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Mission San Luis Rey Museum",
+    "address": {
+      "streetAddress": "4040 Mission Ave.San Luis Rey, CA 92068",
+      "mailingAddress": "4050 Mission Ave.San Luis Rey, CA 92068"
+    },
+    "phone": "760-757-3651",
+    "website": "https://www.sanluisrey.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  }
+]

@@ -1,0 +1,1204 @@
+[
+  {
+    "name": "Fort Ligonier Association",
+    "address": {
+      "streetAddress": "200 South Market StreetLigonier, PA 15658",
+      "mailingAddress": "Ligonier, PA 15658"
+    },
+    "phone": "724-238-9701",
+    "website": "https://fortligonier.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Fort Loudoun",
+    "address": {
+      "streetAddress": "P.O. BOX 181Fort Loudon, PA 17224",
+      "mailingAddress": null
+    },
+    "phone": "717-369-3318",
+    "website": "mailto:secretary@fortloudoun-pa.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "American Helicopter Museum and Learning Center",
+    "address": {
+      "streetAddress": "1220 American Blvd.West Chester, PA 19380",
+      "mailingAddress": null
+    },
+    "phone": "610-436-9600",
+    "website": "mailto:info@helicoptermuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Fort Mifflin on the Delaware",
+    "address": {
+      "streetAddress": "1 Fort Mifflin & Hog Island RoadsPhiladelphia, PA 19153",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:donahue.irby@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "March 1st - December 1stOpen to the Public Wednesday - Sunday",
+    "museumTypes": [
+      "Archaeology",
+      "Children's",
+      "History",
+      "Historic House",
+      "Military"
+    ]
+  },
+  {
+    "name": "Fort Necessity National Battlefield",
+    "address": {
+      "streetAddress": "1 Washington ParkwayFarmington, PA 15437",
+      "mailingAddress": null
+    },
+    "phone": "724-329-5512",
+    "website": "https://www.nps.gov/fone/index.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Fort Roberdeau Historic Site",
+    "address": {
+      "streetAddress": "383 Fort Roberdeau RdAltoona, PA 16601",
+      "mailingAddress": "RD 3, Box 391Altoona, PA 16601"
+    },
+    "phone": "814-946-0048",
+    "website": "https://fortroberdeau.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Franklin Institute Science Museum",
+    "address": {
+      "streetAddress": "222 North 20th StreetPhiladelphia, PA 19103",
+      "mailingAddress": "Philadelphia, PA 19103"
+    },
+    "phone": "215-448-1200",
+    "website": "mailto:webteam@www.fi.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/search/?q=franklin+institute&init=quick#/TheFranklinInstitute?ref=search&sid=671735097.",
+      "twitter": "https://www.twitter.com/thefranklin",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Free Library of Philadelphia",
+    "address": {
+      "streetAddress": "1901 Vine St.Philadelphia, PA 19103",
+      "mailingAddress": null
+    },
+    "phone": "215-686-5322",
+    "website": "https://libwww.freelibrary.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Philadelphia-PA/Free-Library-of-Philadelphia/20680169865",
+      "twitter": "https://www.twitter.com/FreeLibrary",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/freelibraryofphilly"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "French Azilum",
+    "address": {
+      "streetAddress": "469 Queen's WayTowanda, PA 18848",
+      "mailingAddress": "RR #2, Box 266Towanda, PA 18848"
+    },
+    "phone": "570-265-3376",
+    "website": "mailto:frenchazilum@epix.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "French Azilum, Inc.",
+    "address": {
+      "streetAddress": "469 Queen's WayTowanda, PA 18848",
+      "mailingAddress": "RR 2 Box 266Towanda, PA 18848"
+    },
+    "phone": "570-265-3376",
+    "website": "mailto:frenchazilum@epix.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "French and Pickering Creek Conservation Trust",
+    "address": {
+      "streetAddress": "511 Kimberton RoadPhoenixville, PA 19460",
+      "mailingAddress": "Coventryville, PA 19460"
+    },
+    "phone": "610-933-7577",
+    "website": "mailto:office@frenchandpickering.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Frick Art & Historical Center",
+    "address": {
+      "streetAddress": "7227 Reynolds St.Pittsburgh, PA 15208",
+      "mailingAddress": null
+    },
+    "phone": "412-371-0600",
+    "website": "mailto:info@TheFrickPittsburgh.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Nature Centers",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Friends of Independence National Park",
+    "address": {
+      "streetAddress": "143 S 3rd St.Philadelphia, PA 19106",
+      "mailingAddress": "313 Walnut St.Philadelphia, PA 19106"
+    },
+    "phone": "215-861-4971",
+    "website": "https://www.friendsofindependence.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "American Philosophical Society",
+    "address": {
+      "streetAddress": "104 South Fifth StreetPhiladelphia, PA 19106",
+      "mailingAddress": "431 Chestnut StreetPhiladelphia, PA 19106"
+    },
+    "phone": null,
+    "website": "https://www.amphilsoc.org/exhibitions",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "History",
+      "Natural History",
+      "Science"
+    ]
+  },
+  {
+    "name": "Friends of the East Broad Top",
+    "address": {
+      "streetAddress": "570 South Main StRobertsdale, PA 16674",
+      "mailingAddress": "PO Box 68Robertsdale, PA 16674"
+    },
+    "phone": "814-635-2388",
+    "website": "mailto:info@febt.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/FriendsOfTheEBT",
+      "twitter": "https://www.twitter.com/febt",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/@FriendsoftheEastBroadTop"
+    },
+    "hours": "plus during special events.",
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Friends of the Robesonia Furnace",
+    "address": {
+      "streetAddress": "424 South Freeman StRobesonia, PA 19551",
+      "mailingAddress": "PO Box 162Robesonia, PA 19551"
+    },
+    "phone": "484-955-7381",
+    "website": "mailto:rgartner30@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/friendsoffurnace/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Hours by appoinment only. Call 484-955-7381 to tour the musuem.",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Park",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Fulton County Historical Society, Inc.",
+    "address": {
+      "streetAddress": "McConnellsburg, PA 17233",
+      "mailingAddress": "P.O. Box 115McConnellsburg, PA 17233"
+    },
+    "phone": null,
+    "website": "https://www.fultonhistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Goschenhoppen Folklife Library and Museum",
+    "address": {
+      "streetAddress": "116 Gravel PikeRed Men's HallGreen Lane, PA 18054",
+      "mailingAddress": "P.O. BOX 476Green Lane, PA 18054"
+    },
+    "phone": "215-234-8953",
+    "website": "mailto:redmens_hall@goschenhoppen.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Gratz Historical Society",
+    "address": {
+      "streetAddress": "8 West Market StreetGratz, PA 17030",
+      "mailingAddress": "P.O. BOX 507Gratz, PA 17030"
+    },
+    "phone": null,
+    "website": "mailto:society@gratzpa.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Military"
+    ]
+  },
+  {
+    "name": "Graystone Society, Inc.",
+    "address": {
+      "streetAddress": "76 SOUTH FIRST AVENUECoatesville, PA 19320",
+      "mailingAddress": null
+    },
+    "phone": "610-384-9282",
+    "website": "mailto:graystone@lukensnhd.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "American Swedish Historical Museum",
+    "address": {
+      "streetAddress": "1900 Pattison AvenuePhiladelphia, PA 19145",
+      "mailingAddress": null
+    },
+    "phone": "215-389-1776",
+    "website": "mailto:info@americanswedish.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Greek Catholic Union of the USA",
+    "address": {
+      "streetAddress": "5400 TUSCARAWAS RD.Beaver, PA 15009",
+      "mailingAddress": null
+    },
+    "phone": "800-722-4428",
+    "website": "mailto:info@gcuusa.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Genealogical Society of Pennsylvania",
+    "address": {
+      "streetAddress": "1305 Locust StreetThird FloorPhiladelphia, PA 19107",
+      "mailingAddress": null
+    },
+    "phone": "215-545-0391",
+    "website": "mailto:ExecDir@GenPa.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "German Society of Pennsylvania",
+    "address": {
+      "streetAddress": "611 Spring Garden StreetPhiladelphia, PA 19123",
+      "mailingAddress": null
+    },
+    "phone": "215-627-2332",
+    "website": "mailto:info@germansociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Germantown Historical Society",
+    "address": {
+      "streetAddress": "5501 Germantown AvenuePhiladelphia, PA 19144",
+      "mailingAddress": null
+    },
+    "phone": "215-844-1683",
+    "website": "mailto:info@germantownhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Germantown Mennonite Historic Trust",
+    "address": {
+      "streetAddress": "6133 Germantown AvenuePhiladelphia, PA 19144",
+      "mailingAddress": null
+    },
+    "phone": "215-843-0943",
+    "website": "mailto:gmht@meetinghouse.info",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "by appointment",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Gettysburg National Military Park",
+    "address": {
+      "streetAddress": "1195 Baltimore PikeSuite 100Gettysburg, PA 17325",
+      "mailingAddress": "P.O. Box 2804Gettysburg, PA 17325"
+    },
+    "phone": "717-334-0909",
+    "website": "https://www.nps.gov/PWR/sendmail.htm?o=%3B3%28%23%2FKZ%2B%20NJR1J1JA%5B1%2AEJ4%2E34J%5D2II%5F16%21%22X%0A&r=/gett/contacts.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Gilman Museum",
+    "address": {
+      "streetAddress": "726 Durham StreetHellertown, PA 18055",
+      "mailingAddress": "P.O. Box MHellertown, PA 18055"
+    },
+    "phone": "610-838-8767",
+    "website": "https://www.lostcave.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Glen Foerd on the Delaware",
+    "address": {
+      "streetAddress": "5001 Grant AvenuePhiladelphia, PA 19114",
+      "mailingAddress": null
+    },
+    "phone": "215-632-5330",
+    "website": "mailto:info@glenfoerd.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Glencairn Museum, Academy of the New Church",
+    "address": {
+      "streetAddress": "1001 Cathedral RoadBryn Athyn, PA 19009",
+      "mailingAddress": "BOX 757Bryn Athyn, PA 19009"
+    },
+    "phone": "267-502-2600",
+    "website": "mailto:info@glencairnmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Church"
+    ]
+  },
+  {
+    "name": "Governor Wolf Historical Society",
+    "address": {
+      "streetAddress": "6600 Jacksonville RdBath, PA 18014",
+      "mailingAddress": "PO Box 134Bath, PA 18014"
+    },
+    "phone": "610-837-9015",
+    "website": "mailto:govwolf@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Graeme Park",
+    "address": {
+      "streetAddress": "859 County Line RoadHorsham, PA 19044",
+      "mailingAddress": null
+    },
+    "phone": "215-343-0965",
+    "website": "https://www.ushistory.org/graeme",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Grand Army of the Republic Civil War Museum and Library",
+    "address": {
+      "streetAddress": "4278 Griscom StreetPhiladelphia, PA 19124",
+      "mailingAddress": null
+    },
+    "phone": "215-289-6484",
+    "website": "mailto:garmuslib@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Americana Museum of Bird-in-Hand",
+    "address": {
+      "streetAddress": "2709 Old Philadelphia PikeBird-in-Hand, PA 17505",
+      "mailingAddress": "P O Box 401Bird-in-Hand, PA 17505"
+    },
+    "phone": "717-391-9780",
+    "website": "https://bird-in-hand.com/americanamuseum/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Greene County Historical Society",
+    "address": {
+      "streetAddress": "918 Rolling Meadows RoadWaynesburg, PA 15370",
+      "mailingAddress": "P.O. Box 127Waynesburg, PA 15370"
+    },
+    "phone": "724-627-3204",
+    "website": "mailto:gchsmuseum@windstream.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Greenfield Township Historical Society",
+    "address": {
+      "streetAddress": "423 Hickory Ridge RdGreenfield, PA 18407",
+      "mailingAddress": null
+    },
+    "phone": "570-282-2768",
+    "website": "https://www.greenfieldtownship.org/Historical%20Society/Historical%20Society%20Merchandise.pdf",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Greenville Area Historical Society",
+    "address": {
+      "streetAddress": "23 West Main StreetGreenville, PA 16125",
+      "mailingAddress": "P.O. Box 25Greenville, PA 16125"
+    },
+    "phone": "724-588-3230",
+    "website": "mailto:homerpj@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Grove City Area Historical Society",
+    "address": {
+      "streetAddress": "111 College AvenueGrove City, PA 16127",
+      "mailingAddress": "P.O. Box 764Grove City, PA 16125"
+    },
+    "phone": "724-458-1798",
+    "website": "mailto:gcahs@zoominternet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Grundy Foundation",
+    "address": {
+      "streetAddress": "610 Radcliffe St., PO Box 701Bristol, PA 19007",
+      "mailingAddress": null
+    },
+    "phone": "215-788-7891",
+    "website": "mailto:dm@grundymuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "H C Fry Glass Society of Beaver County",
+    "address": {
+      "streetAddress": "PO Box 41Beaver, PA 15009",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:hcfgs1@comcast.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Hanover Area Historical Society",
+    "address": {
+      "streetAddress": "105 High StreetHanover, PA 17331",
+      "mailingAddress": "P. O. Box 305Hanover, PA 17331"
+    },
+    "phone": null,
+    "website": "mailto:office@hanoverareahistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Harriton House",
+    "address": {
+      "streetAddress": "500 Harriton RdBryn Mawr, PA 19010",
+      "mailingAddress": "P.O. BOX 1364Bryn Mawr, PA 19010"
+    },
+    "phone": "610-525-0201",
+    "website": "mailto:info@harritonhouse.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Hatboro Historical Society",
+    "address": {
+      "streetAddress": "BOX 1776Hatboro, PA 19040",
+      "mailingAddress": null
+    },
+    "phone": "215-597-1877",
+    "website": "https://www.hatboro-pa.com/hathist.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Hay Creek Historical Society",
+    "address": {
+      "streetAddress": "P.O. BOX 36Geigertown, PA 19523",
+      "mailingAddress": null
+    },
+    "phone": "610-286-0388",
+    "website": "mailto:info@haycreek.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Heritage Conservancy~The",
+    "address": {
+      "streetAddress": "85 OLD DUBLIN PIKEDoylestown, PA 18901",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.nature.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Angora Gardens, Mon Yough Community Services",
+    "address": {
+      "streetAddress": "3 Muse LaneWhite Oak, PA 15131",
+      "mailingAddress": null
+    },
+    "phone": "412-675-8556",
+    "website": "mailto:elroda@mycs.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House",
+      "Park"
+    ]
+  },
+  {
+    "name": "Historic Catasauqua Preservation Association",
+    "address": {
+      "streetAddress": "616 2ND ST.Catasauqua, PA 18032",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:rsmicker@hcpa.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Historic Gettysburg-Adams County, Inc.",
+    "address": {
+      "streetAddress": "12 LINCOLN SQUAREGettysburg, PA 17325",
+      "mailingAddress": "HGAC, Inc. PO Box 4611Gettysburg, PA 17325"
+    },
+    "phone": "717-334-7854",
+    "website": "mailto:bwk@gmail..com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Historic Landmarks of Richland",
+    "address": {
+      "streetAddress": "BOX 179Bakerstown, PA 15007",
+      "mailingAddress": null
+    },
+    "phone": "724-443-2481",
+    "website": "https://www.manta.com/c/mt441p5/richland-history-landmarks",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Historic Langhorne Association",
+    "address": {
+      "streetAddress": "160 WEST MAPLE AVENUELanghorne, PA 19047",
+      "mailingAddress": null
+    },
+    "phone": "215-757-1888",
+    "website": "https://hla.buxcom.net/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Historic Preservation Society of Luzerne County",
+    "address": {
+      "streetAddress": "69 S. FRANKLIN ST.Wilkes-Barre, PA 18701",
+      "mailingAddress": "Wilkes-Barre, PA 18701"
+    },
+    "phone": "570-822-1727",
+    "website": "https://luzernehistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Historic St. George's United Methodist Church",
+    "address": {
+      "streetAddress": "235 NORTH FOURTH STREETPhiladelphia, PA 19106",
+      "mailingAddress": null
+    },
+    "phone": "215-925-7788",
+    "website": "mailto:pastor@historicstgeorges.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Church"
+    ]
+  },
+  {
+    "name": "Historic Sugartown, Inc.",
+    "address": {
+      "streetAddress": "690 Sugartown RoadMalvern, PA 19355",
+      "mailingAddress": "19 MONUMENT AVENUEMalvern, PA 19355"
+    },
+    "phone": "610-640-2667",
+    "website": "mailto:info@HistoricSugartown.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Historic Three Arches",
+    "address": {
+      "streetAddress": "335 Trenton Rd.Fairless Hills, PA 19030",
+      "mailingAddress": "27 PLEASANT LANELevittown, PA 19054"
+    },
+    "phone": "215-547-7823",
+    "website": "https://www.threearches.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Historical Farm Association",
+    "address": {
+      "streetAddress": "347 Quiet Valley RoadStroudsburg, PA 18360",
+      "mailingAddress": "Stroudsburg, PA 18360"
+    },
+    "phone": "570-992-6161",
+    "website": "mailto:farm@quietvalley.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Historical Society of Bensalem Township",
+    "address": {
+      "streetAddress": "3211 Knights RoadBensalem, PA 19020",
+      "mailingAddress": "P.O. BOX 1101Bensalem, PA 19020"
+    },
+    "phone": "215-639-6575",
+    "website": "mailto:svansant@thsbt.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Historical Society of Fort Washington",
+    "address": {
+      "streetAddress": "473 BETHLEHEM PIKEFort Washington, PA 19034",
+      "mailingAddress": null
+    },
+    "phone": "215-646-6065",
+    "website": "https://www.amblerhistory.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Historical Society of Frankford",
+    "address": {
+      "streetAddress": "1507 ORTHODOX STREETPhiladelphia, PA 19124",
+      "mailingAddress": null
+    },
+    "phone": "215-743-6030",
+    "website": "mailto:info@frankfordhistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Historical Society of Hilltown Township",
+    "address": {
+      "streetAddress": "13 West Creamery RoadHilltown, PA 18927",
+      "mailingAddress": "P.O. Box 260Hilltown, PA 18927"
+    },
+    "phone": "215-453-6000",
+    "website": "mailto:info@hilltown.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Historical Society of Whitpain",
+    "address": {
+      "streetAddress": "Franklinville School1701 Morris RoadBlue Bell, PA 19422",
+      "mailingAddress": "P.O. Box 311Blue Bell, PA 19422"
+    },
+    "phone": "215-646-7315",
+    "website": "mailto:hermoni@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The Frankinville school is open to visitors on the third Sunday of the month, May through October from 1-3 PM. Visits can also be arranged by appointment.",
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  }
+]

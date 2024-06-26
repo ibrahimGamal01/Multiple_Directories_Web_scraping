@@ -1,0 +1,1263 @@
+[
+  {
+    "name": "Century Village",
+    "address": {
+      "streetAddress": "14653 E.Park St.Burton, OH 44021",
+      "mailingAddress": null
+    },
+    "phone": "440-834-1492",
+    "website": "mailto:info@geaugahistorical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Children's Museum of Cleveland",
+    "address": {
+      "streetAddress": "10730 Euclid AveCleveland, OH 44106",
+      "mailingAddress": "10730 Euclid Ave.Cleveland, OH 44106"
+    },
+    "phone": "216-791-7114",
+    "website": "https://www.clevelandchildrensmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sunday through Saturday 10:00 a.m. to 5 p.m. \n(Exhibits close at 4:45 p.m.)",
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Akron Art Museum",
+    "address": {
+      "streetAddress": "70 E. Market St.Akron, OH 44308",
+      "mailingAddress": null
+    },
+    "phone": "330-376-9185",
+    "website": "mailto:cAlexander@akronartmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Chippewa-Rogues' Hollow Historical Society",
+    "address": {
+      "streetAddress": "17500 Gale House Rd.,Doylestown, OH 44230",
+      "mailingAddress": "PO Box 283Doylestown, OH 44230"
+    },
+    "phone": "330-289-7252",
+    "website": "mailto:marymertic@juno.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Art",
+      "Children's",
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Park"
+    ]
+  },
+  {
+    "name": "Cincinnati Art Galleries",
+    "address": {
+      "streetAddress": "225 East Sixth StreetCincinnati, OH 45202",
+      "mailingAddress": "Cincinnati, OH 45202"
+    },
+    "phone": "513-381-2128",
+    "website": "mailto:sandlers@cincinnatiartgalleries.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Cincinnati Art Museum",
+    "address": {
+      "streetAddress": "953 Eden Park Dr.Cincinnati, OH 45202",
+      "mailingAddress": null
+    },
+    "phone": "513-721-2787",
+    "website": "mailto:information@cincyart.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/cincinnatiartmuseum",
+      "twitter": "https://www.twitter.com/cincyartmuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/cincinnatiartmuseum"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Cincinnati Arts Association",
+    "address": {
+      "streetAddress": "Alice F./ Harris K. Weston Art Gallery 650 Walnut St.Cincinnati, OH 45202",
+      "mailingAddress": null
+    },
+    "phone": "513-621-2787",
+    "website": "https://www.cincinnatiarts.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Cincinnati Fire Museum Association",
+    "address": {
+      "streetAddress": "315 W. Court St.Cincinnati, OH 45202",
+      "mailingAddress": null
+    },
+    "phone": "513-621-5553",
+    "website": "mailto:barbara.hammond@cincyfiremuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Cincinnati Museum Center",
+    "address": {
+      "streetAddress": "1301 Western Ave.Cincinnati, OH 45203",
+      "mailingAddress": null
+    },
+    "phone": "513-287-7000",
+    "website": "mailto:information@cincymuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Clark State Performing Arts Center",
+    "address": {
+      "streetAddress": "300 S. Fountain Ave. PO Box 570Springfield, OH 45501",
+      "mailingAddress": null
+    },
+    "phone": "937-325-8100",
+    "website": "mailto:info@springfieldsym.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Akron Zoological Park",
+    "address": {
+      "streetAddress": "500 Edgewood  Ave.Akron, OH 44307",
+      "mailingAddress": null
+    },
+    "phone": "330-375-2550",
+    "website": "mailto:info@akronzoo.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Cleo Redd Fisher Museum",
+    "address": {
+      "streetAddress": "203 E MainLoudonville, OH 44842",
+      "mailingAddress": "203 E. Main St.Loudonville, OH 44842"
+    },
+    "phone": "419-994-4050",
+    "website": "mailto:mohicanhistoricalsociety@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/loudonvillelibrary",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  },
+  {
+    "name": "Clermont County Park District",
+    "address": {
+      "streetAddress": "521 County Park RoadChilo, OH 45112",
+      "mailingAddress": "P.O. Box 106Chilo, OH 45112"
+    },
+    "phone": "513-732-2977",
+    "website": "mailto:parkdistrict@clermontcountyohio.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The Chilo Lock 34 Visitor Center and Museum is open weekends from 12-5 pm year round. Weekday hours vary by season.",
+    "museumTypes": [
+      "Culture",
+      "Natural History",
+      "Nature Centers",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Cleveland Botanical Garden",
+    "address": {
+      "streetAddress": "11030 East Blvd.Cleveland, OH 44106",
+      "mailingAddress": null
+    },
+    "phone": "216-721-1600",
+    "website": "mailto:info@cbgarden.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Cleveland Center for Contemporary Art",
+    "address": {
+      "streetAddress": "8501 Carnegie Ave.Cleveland, OH 44106",
+      "mailingAddress": null
+    },
+    "phone": "216-421-8671",
+    "website": "https://www.contemporaryart.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Cleveland-OH/Museum-of-Contemporary-Art-Cleveland-MOCA/29511738187",
+      "twitter": "https://www.twitter.com/mocacleveland",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Cleveland Cinematheque",
+    "address": {
+      "streetAddress": "1141 East Blvd.Cleveland, OH 44106",
+      "mailingAddress": null
+    },
+    "phone": "800-223-4700",
+    "website": "mailto:rborden@cia.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/ciacollege",
+      "twitter": "https://www.twitter.com/cleinstituteart",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Cleveland Hungarian Heritage Society",
+    "address": {
+      "streetAddress": "1301 E 9th StCleveland, OH 44124",
+      "mailingAddress": "PO Box 24134Cleveland, OH 44124"
+    },
+    "phone": "216-523-3900",
+    "website": "mailto:magyarmuzeum@hotmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture"
+    ]
+  },
+  {
+    "name": "Cleveland Institute of Art",
+    "address": {
+      "streetAddress": "11141 East Blvd.Cleveland, OH 44106",
+      "mailingAddress": null
+    },
+    "phone": "800-223-4700",
+    "website": "https://www.cia.edu/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/ciacollege",
+      "twitter": "https://www.twitter.com/cleinstituteart",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "DE Agricultural Museum and Village",
+    "address": {
+      "streetAddress": "866 North DuPont HighwayDover, DE 19901",
+      "mailingAddress": null
+    },
+    "phone": "302-734-1618",
+    "website": "mailto:damv@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "DE Museum of Natural History",
+    "address": {
+      "streetAddress": "4840 Kennett PikeWilmington, DE 19807",
+      "mailingAddress": "P.O. Box 39374840 Kennett PikeWilmington, DE 19807"
+    },
+    "phone": "302-658-9111",
+    "website": "https://www.delmnh.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Air Mobility Command Museum",
+    "address": {
+      "streetAddress": "1301 Heritage RoadDover AFB, DE 19902-5301",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.amcmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Sunday 9:00 a.m. - 4:00 p.m.",
+    "museumTypes": [
+      "Military"
+    ]
+  },
+  {
+    "name": "Greenbank Mill",
+    "address": {
+      "streetAddress": "500 Greenbank RoadWilmington, DE 19808",
+      "mailingAddress": null
+    },
+    "phone": "302-999-9001",
+    "website": "mailto:greenbankmills@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Delaware History Center and Museums",
+    "address": {
+      "streetAddress": "505 N. Market StreetWilmington, DE 19801",
+      "mailingAddress": null
+    },
+    "phone": "302-656-0637",
+    "website": "mailto:deinfo@dehistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Iron Hill Museum",
+    "address": {
+      "streetAddress": "1355 Old Baltimore PikeNewark, DE 19702",
+      "mailingAddress": null
+    },
+    "phone": "302-368-5703",
+    "website": "mailto:info@ironhill-museum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Kalmar Nyckel Found.& Shipyard",
+    "address": {
+      "streetAddress": "1124 East 7th StreetWilmington, DE 19801",
+      "mailingAddress": null
+    },
+    "phone": "302-429-7447",
+    "website": "mailto:info@kalmarnyckel.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Science"
+    ]
+  },
+  {
+    "name": "The Lewes Historical Society",
+    "address": {
+      "streetAddress": "110 Shipcarpenter StreetLewes, DE 19958",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.historiclewes.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Monday - Friday 9:00 am - 5:00 pm",
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Nanticoke Indian Museum",
+    "address": {
+      "streetAddress": "P.O. Box 107AMillsboro, DE 19966",
+      "mailingAddress": null
+    },
+    "phone": "302-945-3400",
+    "website": "https://www.nanticokeindians.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/nanticokeindians",
+      "twitter": "https://www.twitter.com/nanticokeindian",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "New Castle Historical Society",
+    "address": {
+      "streetAddress": "2 East Fourth StreetNew Castle, DE 19720",
+      "mailingAddress": "New Castle, DE 19720"
+    },
+    "phone": "302-322-2794",
+    "website": "mailto:nchistorical@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Biggs Museum of American Art",
+    "address": {
+      "streetAddress": "406 Federal StreetDover, DE 19901",
+      "mailingAddress": "P.O. Box 711Dover, DE 19903"
+    },
+    "phone": "302-674-2111",
+    "website": "mailto:admin@biggsmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "History"
+    ]
+  },
+  {
+    "name": "Governor Ross Mansion and Plantation",
+    "address": {
+      "streetAddress": "23669 Ross Station RdSeaford, DE 19973",
+      "mailingAddress": "203 High StSeaford, DE 19973"
+    },
+    "phone": "302-628-9828",
+    "website": "https://www.seafordhistoricalsociety.com/visit/gov-ross-plantation/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/watch?v=b1otX3Qfyk0"
+    },
+    "hours": "Guided tours only. Tour time 1-2 hours. No tours begin after 3:30.",
+    "museumTypes": [
+      "Archaeology",
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Park"
+    ]
+  },
+  {
+    "name": "Hendrickson House",
+    "address": {
+      "streetAddress": "606 Church StreetWilmington, DE 19801",
+      "mailingAddress": null
+    },
+    "phone": "302-652-5629",
+    "website": "mailto:admin@oldswedes.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tours:",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Nemours Mansion & Gardens",
+    "address": {
+      "streetAddress": "1600 Rockland RoadWilmington, DE 19803",
+      "mailingAddress": null
+    },
+    "phone": "800-651-6912",
+    "website": "mailto:tours@nemours.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Robinson House",
+    "address": {
+      "streetAddress": "1 Naamans RoadClaymont, DE 19703",
+      "mailingAddress": null
+    },
+    "phone": "302-792-0285",
+    "website": "https://www.robinsonhousede.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Treasures of the Sea Exhibit",
+    "address": {
+      "streetAddress": "Georgetown, DE 19947",
+      "mailingAddress": "P.O. Box 610Rt. 18, DE Tech and Community CollegeGeorgetown, DE 19947"
+    },
+    "phone": "302-856-5700",
+    "website": "mailto:treasures@dtcc.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Hale Byrnes House",
+    "address": {
+      "streetAddress": "606 Stanton/Christina RoadNewark, DE 19711",
+      "mailingAddress": null
+    },
+    "phone": "302-998-3792",
+    "website": "mailto:info@halebyrnes.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Mikes' Famous Museum",
+    "address": {
+      "streetAddress": "2160 New Castle AvenueNew Castle, DE 19720",
+      "mailingAddress": null
+    },
+    "phone": "302-658-8800",
+    "website": "https://www.mikesfamous.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "DE Ctr. For the Contemporary Arts",
+    "address": {
+      "streetAddress": "200 South Madison StreetWilmington, DE 19801",
+      "mailingAddress": null
+    },
+    "phone": "302-656-6466",
+    "website": "mailto:info@thedcca.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "DE State Police Museum, Inc.",
+    "address": {
+      "streetAddress": "1425 North DuPont HighwayDover, DE 19903",
+      "mailingAddress": "PO Box 430Dover, DE 19903"
+    },
+    "phone": "302-739-7700",
+    "website": "https://www.delawaretrooper.com/museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Zwaanendael Museum",
+    "address": {
+      "streetAddress": "102 Kings HighwayLewes, DE 19958",
+      "mailingAddress": null
+    },
+    "phone": "302-645-1148",
+    "website": "mailto:bridget.warner@state.de.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Brandywine Creek Nature Ctr.",
+    "address": {
+      "streetAddress": "41 Adams Dam Rd.Wilmington, DE 19807",
+      "mailingAddress": "P.O. Box 3782Wilmington, DE 19807"
+    },
+    "phone": "302-577-3534",
+    "website": "https://www.destateparks.com/bcsp/bcsp.asp",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Abbott's Mill Nature Center",
+    "address": {
+      "streetAddress": "15411 Abbott's Pond RoadMilford, DE 19963",
+      "mailingAddress": "RD 4, Box 207Milford, DE 19963"
+    },
+    "phone": "302-422-0847",
+    "website": "mailto:dnsinfo@delawarenaturesociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Ashland Nature Center",
+    "address": {
+      "streetAddress": "Brackenville & Barley Mill RoadsHockessin, DE 19707",
+      "mailingAddress": "PO Box 700Hockessin, DE 19707"
+    },
+    "phone": "302-239-2334",
+    "website": "mailto:dnsinfo@delawarenaturesociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Natural History",
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Rockwood Park & Museum",
+    "address": {
+      "streetAddress": "4651 Washington Street ExtensionWilmington, DE 19802",
+      "mailingAddress": "New Castle County Government Center87 Read’s WayNew Castle, DE 19720"
+    },
+    "phone": "302-761-4340",
+    "website": "mailto:rockwood@nccde.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Botanical Garden",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "Bombay Hook National Wildlife Refuge",
+    "address": {
+      "streetAddress": "2591 Whitehall Neck RoadSmyrna, DE 19977",
+      "mailingAddress": "RFD#1, Box 1472591 Whitehall Neck RoadSmyrna, DE 19977"
+    },
+    "phone": "302-653-9345",
+    "website": "mailto:fw5rw_bhnwr@fws.gov",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/bombayhookwildliferefuge",
+      "twitter": "https://www.twitter.com/usfwsnortheast",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/usfws"
+    },
+    "hours": "The wildlife drive is open from sunrise to sunset daily. The visitor center is open weekdays from 8:00 a.m. to 4:00 p.m.",
+    "museumTypes": [
+      "Anthropology",
+      "History",
+      "Natural History",
+      "Nature Centers",
+      "Park",
+      "Science"
+    ]
+  },
+  {
+    "name": "Read House & Gardens",
+    "address": {
+      "streetAddress": "42 The StrandNew Castle, DE 19720",
+      "mailingAddress": null
+    },
+    "phone": "302-322-8411",
+    "website": "mailto:hsd@hsd.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Hagley Museum & Library",
+    "address": {
+      "streetAddress": "298 Buck Road EastWilmington, DE 19807-0630",
+      "mailingAddress": "Hagley Museum and LibraryPO Box 3630Wilmington, DE 19807-0630"
+    },
+    "phone": "302-658-2400",
+    "website": "mailto:info@hagley.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Delaware Art Museum",
+    "address": {
+      "streetAddress": "2301 Kentmere ParkwayWilmington, DE 19806",
+      "mailingAddress": null
+    },
+    "phone": "302-571-9590",
+    "website": "https://www.delart.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Winterthur Museum & Library",
+    "address": {
+      "streetAddress": "5105 Kennett PikeWinterthur, DE 19735",
+      "mailingAddress": "Route 52Winterthur, DE 19735"
+    },
+    "phone": "800-448-3883",
+    "website": "mailto:tourinfo@winterthur.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Arboretum",
+      "Botanical Garden",
+      "Culture",
+      "History",
+      "Historic House",
+      "Library",
+      "Nature Centers",
+      "Park",
+      "Science"
+    ]
+  },
+  {
+    "name": "The Delaware Children's Theatre",
+    "address": {
+      "streetAddress": "1014 Delaware Ave.Wilmington, DE 19806",
+      "mailingAddress": null
+    },
+    "phone": "302-655-1014",
+    "website": "mailto:info@dechildrenstheatre.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "Culture",
+      "General",
+      "Historic House",
+      "Science"
+    ]
+  },
+  {
+    "name": "Rehoboth Beach Hist. Soc.",
+    "address": {
+      "streetAddress": "511 Rehoboth AvenueRehoboth Beach, DE 19971",
+      "mailingAddress": "Rehoboth Beach, DE 19971"
+    },
+    "phone": "302-227-7310",
+    "website": "mailto:rbhistoricalsociety@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Fort Delaware Society",
+    "address": {
+      "streetAddress": "33 Staff LaneDelaware City, DE 19706",
+      "mailingAddress": "P.O. Box 553Delaware City, DE 19706"
+    },
+    "phone": "302-834-1630",
+    "website": "mailto:society@fortdelaware.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Grand Opera House",
+    "address": {
+      "streetAddress": "818 Market Street MallWilmington, DE 19899",
+      "mailingAddress": null
+    },
+    "phone": "302-658-7897",
+    "website": "mailto:grandopera@grandopera.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/thegrandwilmington",
+      "twitter": "https://www.twitter.com/TheGrandWilm",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "DE Theatre Co.",
+    "address": {
+      "streetAddress": "200 Water StreetWilmington, DE 19899",
+      "mailingAddress": null
+    },
+    "phone": "302-594-1100",
+    "website": "mailto:MAEhlshlager@delawaretheatre.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Wilmington Drama League",
+    "address": {
+      "streetAddress": "10 W. Lea Blvd.Wilmington, DE 19802",
+      "mailingAddress": "10 W. Lea Blvd.Wilmington, DE 19899"
+    },
+    "phone": "302-764-1172",
+    "website": "https://wilmingtondramaleague.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Preservation Delaware",
+    "address": {
+      "streetAddress": "1405 Greenhill Ave.Wilmington, DE 19806",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.preservationde.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "sun up to sun down every day of the year",
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Lums Pond State Park",
+    "address": {
+      "streetAddress": "1068 Howell School RdBear, DE 19701",
+      "mailingAddress": null
+    },
+    "phone": "302-368-6989",
+    "website": "https://www.destateparks.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "New Castle Presbyterian Church",
+    "address": {
+      "streetAddress": "25 E. Second St.New Castle, DE 19720",
+      "mailingAddress": null
+    },
+    "phone": "302-328-3279",
+    "website": "mailto:ncpc1651@verizon.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/New-Castle-Presbyterian-Church/119666821376996",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Church",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Dover Art League",
+    "address": {
+      "streetAddress": "21 W. Loockerman St.Dover, DE 19904",
+      "mailingAddress": null
+    },
+    "phone": "302-674-0402",
+    "website": "mailto:doverartleague@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Milton Hist. Soc.",
+    "address": {
+      "streetAddress": "210-212 Union StMilton, DE 19968",
+      "mailingAddress": "Post Office Box 112Milton, DE 19968"
+    },
+    "phone": "302-684-1010",
+    "website": "mailto:info@historicmilton.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Brandywine Zoo",
+    "address": {
+      "streetAddress": "1001 N. Park DriveWilmington, DE 19802",
+      "mailingAddress": null
+    },
+    "phone": "302-571-7747",
+    "website": "https://www.brandywinezoo.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "John Dickinson Plantation",
+    "address": {
+      "streetAddress": "Kitts Hummock Road (County Road 68)Dover, DE 19901",
+      "mailingAddress": "The Delaware State Museums in Dover406 Federal StreetDover, DE 19901"
+    },
+    "phone": "302-739-3277",
+    "website": "https://www.dovermuseums.org/museums/dickinson.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  }
+]

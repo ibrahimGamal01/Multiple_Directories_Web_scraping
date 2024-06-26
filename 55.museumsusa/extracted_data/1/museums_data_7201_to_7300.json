@@ -1,0 +1,1228 @@
+[
+  {
+    "name": "Range Riders, Inc.",
+    "address": {
+      "streetAddress": "West Main StreetMiles City, MT 59301",
+      "mailingAddress": null
+    },
+    "phone": "406-232-6146",
+    "website": "https://rangeridersmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society",
+      "Military"
+    ]
+  },
+  {
+    "name": "Rocky Mountain Museum of Military History",
+    "address": {
+      "streetAddress": "Building 30, Fort Missoula RoadMissoula, MT 59804",
+      "mailingAddress": "P.O. Box 7263Missoula, MT 59807"
+    },
+    "phone": "406-549-5346",
+    "website": "https://www.nrhc.org/rmmmh/rmmmh.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Rudyard Historical Society",
+    "address": {
+      "streetAddress": "Rudyard, MT 59540",
+      "mailingAddress": "Box 44Rudyard, MT 59540"
+    },
+    "phone": "406-355-4322",
+    "website": "mailto:1oldsorehead@rudyardmuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Schoolhouse History and Art Center",
+    "address": {
+      "streetAddress": "400 Woodrose StreetColstrip, MT 59323",
+      "mailingAddress": "P.O. Box 430Colstrip, MT 50323"
+    },
+    "phone": "406-748-4822",
+    "website": "mailto:shac400@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  },
+  {
+    "name": "Sheridan County Museum",
+    "address": {
+      "streetAddress": "100 W Laurel Ave -Plentywood, MT 59254",
+      "mailingAddress": "P.O. Box 1153Plentywood, MT 59254"
+    },
+    "phone": "406-765-2420",
+    "website": "https://www.co.sheridan.mt.us/index.php?museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Stevensville Historical Museum",
+    "address": {
+      "streetAddress": "517 Main StreetStevensville, MT 59870",
+      "mailingAddress": "P O Box 750Stevensville, MT 59870"
+    },
+    "phone": "406-777-1007",
+    "website": "mailto:stevensvillemuseum@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Stillwater Historical Society, Museum of the Beartooths",
+    "address": {
+      "streetAddress": "Columbus, MT 59019",
+      "mailingAddress": "P.O. Box 1Columbus, MT 59019"
+    },
+    "phone": null,
+    "website": "https://museumofthebeartooths.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Stumptown Historical Society",
+    "address": {
+      "streetAddress": "500 Depot Street, Room 101Whitefish, MT 59837",
+      "mailingAddress": null
+    },
+    "phone": "406-862-0067",
+    "website": "mailto:info@stumptownhistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Swan Ecosystem Center",
+    "address": {
+      "streetAddress": "MT Highway 83 Mile Marker 42.5Condon, MT 59826",
+      "mailingAddress": "U.S. Forest Service Condon Work Center6887 MT Highway 83Condon, MT 59826"
+    },
+    "phone": "406-754-3137",
+    "website": "mailto:info@swanecosystemcenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "History",
+      "Library",
+      "Natural History",
+      "Nature Centers",
+      "Park",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Sweet Grass County Museum Society, Crazy Mountain Museum",
+    "address": {
+      "streetAddress": "Big Timber, MT 59011",
+      "mailingAddress": "P.O. Box 83Big Timber, MT 59011"
+    },
+    "phone": null,
+    "website": "https://sweetgrass.mtgenweb.org/museum.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "The Country Grain Elevator Historical Society",
+    "address": {
+      "streetAddress": "155 Prospector TrailBozeman, MT 59718",
+      "mailingAddress": "P.O. Box 338Bozeman, MT 59771"
+    },
+    "phone": "406-388-9282",
+    "website": "mailto:bselyem@country-grain-elevator-historical-society.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Tobacco Valley Board of History",
+    "address": {
+      "streetAddress": "1 Dewey AveEureka, MT 59917",
+      "mailingAddress": "Box 1452Eureka, MT 59917"
+    },
+    "phone": "406-889-3492",
+    "website": "mailto:llyoung@interbel.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "University of Montana, Department of Anthropology",
+    "address": {
+      "streetAddress": "University of MontanaMissoula, MT 59812",
+      "mailingAddress": null
+    },
+    "phone": "406-243-2693",
+    "website": "mailto:john.douglas@umontana.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Ursuline Centre",
+    "address": {
+      "streetAddress": "2300 Central AvenueGreat Falls, MT 59401",
+      "mailingAddress": null
+    },
+    "phone": "406-452-8585",
+    "website": "mailto:ursuline@in-tch.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Valley County Historical Society, Pioneer Museum",
+    "address": {
+      "streetAddress": "816 Hwy 2Glasgow, MT 59230",
+      "mailingAddress": "P.O. Box 44Glasgow, MT 59230"
+    },
+    "phone": "406-228-8692",
+    "website": "mailto:vcmuseum@nemont.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Valley County Pioneer Museum",
+    "address": {
+      "streetAddress": "816 Hwy 2Glasgow, MT 59230",
+      "mailingAddress": "Box 44Glasgow, MT 59230"
+    },
+    "phone": "406-228-8692",
+    "website": "mailto:vcmuseum@nemont.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Victor Heritage Museum",
+    "address": {
+      "streetAddress": "Victor, MT 59875",
+      "mailingAddress": "P.O. Box 610Victor, MT 59875"
+    },
+    "phone": "406-642-3997",
+    "website": "mailto:victormuseum@cybernet1.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Western Heritage Center",
+    "address": {
+      "streetAddress": "2822 Montana AvenueBillings, MT 59101",
+      "mailingAddress": null
+    },
+    "phone": "406-256-6809",
+    "website": "mailto:jdial@ywhc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "World Museum of Mining",
+    "address": {
+      "streetAddress": "Butte, MT 59703",
+      "mailingAddress": "Box 33Butte, MT 59703"
+    },
+    "phone": "406-723-7211",
+    "website": "mailto:info@miningmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Yellowstone Art Museum",
+    "address": {
+      "streetAddress": "401 N. 27th StreetBillings, MT 59101",
+      "mailingAddress": null
+    },
+    "phone": "406-256-6804",
+    "website": "mailto:artinfo@artmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Yellowstone Historic Center",
+    "address": {
+      "streetAddress": "104 Yellowstone AvenueWest Yellowstone, MT 59758",
+      "mailingAddress": "P.O. Box 1299West Yellowstone, MT 59758"
+    },
+    "phone": "406-646-7461",
+    "website": "mailto:info@yellowstonehistoriccenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Museum of North Idaho",
+    "address": {
+      "streetAddress": "115 N.W. Blvd.Coeur d'Alene, ID 83816",
+      "mailingAddress": "P.O. Box 812Coeur d'Alene, ID 83816"
+    },
+    "phone": null,
+    "website": "mailto:museum@museumni.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Apr-Oct, Tues-Sat, 11-5",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Fort Sherman Museum - CLOSED",
+    "address": {
+      "streetAddress": "North Idaho College campusCoeur d'Alene, ID 83816",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.museumni.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Historical Museum at St. Gertrude",
+    "address": {
+      "streetAddress": "465 Keuterville RoadCottonwood, ID 83522",
+      "mailingAddress": "465 Keuterville Rd.Cottonwood, ID 83522"
+    },
+    "phone": "208-962-2050",
+    "website": "mailto:cwilkins@stgertrudes.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Church",
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Bicentennial Historical Museum",
+    "address": {
+      "streetAddress": "Hwy 95 at Pine StreetGrangeville, ID 83530",
+      "mailingAddress": "P.O. Box 212Grangeville, ID 83530"
+    },
+    "phone": "208-983-0460",
+    "website": "https://www.grangevilleidaho.com/todo/historical_museum.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "June 1 - Oct 1, Wed & Fri 1-5; or by appt.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Crane Historical Society",
+    "address": {
+      "streetAddress": "Located in the first house built in Harrison201 Coeur d’Alene AvenueHarrison, ID 83833",
+      "mailingAddress": "P.O. Box 152Harrison, ID 83833"
+    },
+    "phone": null,
+    "website": "https://www.idahoheritage.org/assets/popups/north/n_craneharrison.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Memorial Day-Labor Day, Sat-Sun, 12-4; also by appt.",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Nez Perce County Museum",
+    "address": {
+      "streetAddress": "0306 3rd StreetLewiston, ID 83501",
+      "mailingAddress": null
+    },
+    "phone": "208-743-2535",
+    "website": "https://www.npchistsoc.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "March - DecemberTuesday - Saturday 10:00 am - 4:00 pm",
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Cemetery",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Appaloosa Museum",
+    "address": {
+      "streetAddress": "2720 W. Pullman RoadMoscow, ID 83843",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.appaloosamuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Captain John Mullan Museum",
+    "address": {
+      "streetAddress": "229 Earle StreetMullan, ID 83846",
+      "mailingAddress": "P.O. Box 675Mullan, ID 83846"
+    },
+    "phone": "208-744-1461",
+    "website": "https://www.visitidaho.org/thingstodo/museums/captain-john-mullan-museum.aspx",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Clearwater Historical Museum",
+    "address": {
+      "streetAddress": "315 College AvenueOrofino, ID 83544",
+      "mailingAddress": "P.O. Box 1454Orofino, ID 83544"
+    },
+    "phone": "208-476-5033",
+    "website": "mailto:info@clearwatermuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Sat, 1:30-4:30, closed  holidays.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Bonner County Historical Society Museum",
+    "address": {
+      "streetAddress": "611 South Ella AveSandpoint, ID 83864",
+      "mailingAddress": "611 South Ella Ave.Sandpoint, ID 83864"
+    },
+    "phone": "208-263-2344",
+    "website": "mailto:bchs@frontier.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Apr-Oct, Tues-Sat, 10-4; Nov-March, Thurs 10-4; closed holidays",
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Nez Perce National Historical Park",
+    "address": {
+      "streetAddress": "Nez Perce National Historical Park39063 U.S. Hwy 95Spalding, ID 83540",
+      "mailingAddress": "Route One, Box 1000Lapwai, ID 83540"
+    },
+    "phone": "208-843-7001",
+    "website": "https://www.nps.gov/nepe",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open daily 8:00 am to 4:30 pm. Extended hours in the summer. Closed Thanksgiving, Christmas, and New Year's day",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Park"
+    ]
+  },
+  {
+    "name": "Oasis Bordello Museum",
+    "address": {
+      "streetAddress": "605 Cedar StreetWallace, ID 83873",
+      "mailingAddress": "PO BOX 928Osburn, ID 83849"
+    },
+    "phone": "208-753-0801",
+    "website": "https://www.visitidaho.org/attraction/museums/oasis-bordello-museum/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Apr-Oct 9-5; winter by appt.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Basque Museum & Cultural Center",
+    "address": {
+      "streetAddress": "611 Grove St.Boise, ID 83702",
+      "mailingAddress": null
+    },
+    "phone": "208-343-2671",
+    "website": "mailto:info@basquemuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Fri, 10-4; Sat 11-3; closed holidays",
+    "museumTypes": []
+  },
+  {
+    "name": "Boise Art Museum",
+    "address": {
+      "streetAddress": "670 Julia Davis Dr.Boise, ID 83702",
+      "mailingAddress": "670 S. Julia Davis DriveBoise, ID 83702"
+    },
+    "phone": "208-345-8330",
+    "website": "https://www.boiseartmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "June, July and August: Mon, Tue, Wed, Fri, Sat: 10 AM - 5 PM; Thu: 1O AM - 8 PM; Sun: 10 AM - 5 PM; Otherwise, Tue, Wed, Fri, Sat 10 AM -5 PM, Thu 10 AM - 8 PM, Sat-Sun, 12 PM - 5 PM.",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "The Discovery Center of Idaho",
+    "address": {
+      "streetAddress": "131 MyrtleBoise, ID 83702",
+      "mailingAddress": "P.O. Box 192Boise, ID 83702"
+    },
+    "phone": "208-343-9895",
+    "website": "mailto:dcifilter@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open all year, winter: Tue-Fri, 9-5, Sat 10-5, Sun 12-5; summer: Tues-Sat 10-5, Sun 12-5",
+    "museumTypes": []
+  },
+  {
+    "name": "Idaho Military History Museum",
+    "address": {
+      "streetAddress": "4748 Lindbergh St.Boise, ID 83705",
+      "mailingAddress": "4040 W. Guard St.Boise, ID 83705"
+    },
+    "phone": "208-272-4841",
+    "website": "mailto:galvarez@imd.idaho.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society",
+      "Military"
+    ]
+  },
+  {
+    "name": "Idaho Museum of Mining & Geology",
+    "address": {
+      "streetAddress": "2455 Old Penitentiary RoadBoise, ID 83712",
+      "mailingAddress": null
+    },
+    "phone": "208-368-9876",
+    "website": "mailto:idahorox@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Apr-Oct, Sat & Sun 12-5; and by appointment",
+    "museumTypes": []
+  },
+  {
+    "name": "Idaho State Historical Museum",
+    "address": {
+      "streetAddress": "NW entrance to Julia Davis ParkBoise, ID 83702",
+      "mailingAddress": "610 N. Julia Davis Dr.Boise, ID 83702"
+    },
+    "phone": null,
+    "website": "https://history.idaho.gov/idaho-state-historical-museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Sat 9-5, Sun & state holiday 1-5; closed Thanksgiving, Christmas and New Year's Day",
+    "museumTypes": []
+  },
+  {
+    "name": "Old Idaho Penitentiary",
+    "address": {
+      "streetAddress": "2445 Old Penitentiary RoadBoise, ID 83712",
+      "mailingAddress": null
+    },
+    "phone": "208-334-2844",
+    "website": "https://history.idaho.gov/old-penitentiary-hours-location",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 12-5, Memorial Day-Labor Day 10-5, closed state holidays.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "World Center for Birds of Prey",
+    "address": {
+      "streetAddress": "5668 W. Flying Hawk LaneBoise, ID 83709",
+      "mailingAddress": null
+    },
+    "phone": "208-362-3716",
+    "website": "mailto:tpf@peregrinefund.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Library",
+      "Nature Centers",
+      "Park",
+      "Science"
+    ]
+  },
+  {
+    "name": "Cassia County Historical Society and Museum",
+    "address": {
+      "streetAddress": "Main & HilandBurley, ID 83318",
+      "mailingAddress": null
+    },
+    "phone": "208-678-7172",
+    "website": "https://cassiacounty.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open April 1 - Oct 1, Tues-Sat 10-5",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Warhawk Air Museum",
+    "address": {
+      "streetAddress": "201 Municipal DriveNampa, ID 83687",
+      "mailingAddress": "201 MunicipalNampa, ID 83687"
+    },
+    "phone": "208-465-6446",
+    "website": "mailto:admin@warhawkairmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/WarhawkMuseum",
+      "twitter": "https://www.twitter.com/WarhawkMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/warhawkmuseum"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Military",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Council Valley Museum",
+    "address": {
+      "streetAddress": "Galena StreetCouncil, ID 83612",
+      "mailingAddress": "P.O. Box 252Council, ID 83612"
+    },
+    "phone": "208-253-4582",
+    "website": "mailto:dafisk@ctcweb.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Gem County Historical Society Museum",
+    "address": {
+      "streetAddress": "501 E. 1st StreetEmmett, ID 83617",
+      "mailingAddress": null
+    },
+    "phone": "208-365-9530",
+    "website": "mailto:gemcountymuseum@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Hagerman Fossil Beds National Monument",
+    "address": {
+      "streetAddress": "221 N State StreetHagerman, ID 83332",
+      "mailingAddress": "P.O. Box 570Hagerman, ID 83332"
+    },
+    "phone": "208-933-4100",
+    "website": "https://www.nps.gov/hafo/index.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open all year (hours vary)",
+    "museumTypes": []
+  },
+  {
+    "name": "Jerome County Historical Society",
+    "address": {
+      "streetAddress": "212 East First StreetJerome, ID 83338",
+      "mailingAddress": "P.O. Box 50Jerome, ID 83338"
+    },
+    "phone": "208-324-5641",
+    "website": "mailto:lhelms@northrim.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Central Idaho Cultural Center",
+    "address": {
+      "streetAddress": "1001 State StreetMcCall, ID 83638",
+      "mailingAddress": "Box 1761McCall, ID 83638"
+    },
+    "phone": null,
+    "website": "https://www.visitidaho.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "May-Sept, Mon-Sat 9-5; Oct-Apr, Mon-Fri 10-4",
+    "museumTypes": [
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Canyon County Historical Museum",
+    "address": {
+      "streetAddress": "1200 Front StreetNampa, ID 83653",
+      "mailingAddress": "P.O. Box 933Nampa, ID 83653"
+    },
+    "phone": "208-467-7611",
+    "website": "mailto:info@canyoncountyhistory.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Sat 1-5",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Old Fort Boise Replica & Museum",
+    "address": {
+      "streetAddress": "305 N. 3rdParma, ID 83660",
+      "mailingAddress": "P.O. Box 608Parma, ID 83660"
+    },
+    "phone": "208-722-5138",
+    "website": "https://www.visitidaho.org/attraction/museums/fort-boise-replica/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "June-Aug, Fri-Sun 1-3; by appt.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Minidoka County Historical Society Museum",
+    "address": {
+      "streetAddress": "100 E. BaselineRupert, ID 83350",
+      "mailingAddress": "P.O. Box 21Rupert, ID 83350"
+    },
+    "phone": null,
+    "website": "mailto:minidokamuseum@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open daily 1-5",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Herrett Center for Arts & Science",
+    "address": {
+      "streetAddress": "College of So. Idaho, 315 Falls Ave., WTwin Falls, ID 83303",
+      "mailingAddress": "P.O. Box 1238Twin Falls, ID 83303"
+    },
+    "phone": "208-733-9554",
+    "website": "mailto:info@csi.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open all year, call for hours.  For tickets call (208) 736-3059",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Twin Falls County Historical Museum",
+    "address": {
+      "streetAddress": "21337-A Highway 30Filer, ID 83328",
+      "mailingAddress": "21337 A  US Highway 30Filer, ID 83328"
+    },
+    "phone": "208-736-4675",
+    "website": "mailto:info@twinfallsmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/TwinFallsMuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Blaine County Historical Museum",
+    "address": {
+      "streetAddress": "218 N. Main St.Hailey, ID 83333",
+      "mailingAddress": "P.O. Box 124Hailey, ID 83333"
+    },
+    "phone": "208-788-1801",
+    "website": "mailto:bcmuseum@mindspring.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Memorial Day weekend-Sept. 30, Mon, Wed-Sat, 11-5; Sun 1-5; closed Tues.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Tautphaus Park Zoo",
+    "address": {
+      "streetAddress": "Located in Tautphaus Park, 2725 Carnival WayIdaho Falls, ID 83405",
+      "mailingAddress": "P.O. Box 50220Idaho Falls, ID 83405"
+    },
+    "phone": null,
+    "website": "https://www.idahofallsidaho.gov/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open Apr., Oct-Nov, 9-4:30 weekends only; May & Sept. daily 9-4:30; Memorial Day-Labor Day.",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Bonneville Historical Society & Museum",
+    "address": {
+      "streetAddress": "200 North Eastern Ave. (corner of Eastern & Elm)Idaho Falls, ID 83402",
+      "mailingAddress": "P.O. Box 1784Idaho Falls, ID 83403"
+    },
+    "phone": "208-522-1400",
+    "website": "https://www.museumofidaho.org/BCHS.php",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open all year Mon-Fri 10-5, Sat 1-5, closed Sunday & holidays.",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "South Bannock County Historical Center",
+    "address": {
+      "streetAddress": "110 E. Main St.Lava Hot Springs, ID 83246",
+      "mailingAddress": "P.O. Box 387Lava Hot Springs, ID 83246"
+    },
+    "phone": "208-776-5254",
+    "website": "https://www.lavahotsprings.com/museum.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open daily 12-5.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Oneida Pioneer Museum & Historical Museum",
+    "address": {
+      "streetAddress": "Located at 27 BannockMalad, ID 83252",
+      "mailingAddress": "86 West 400 NorthMalad, ID 83252"
+    },
+    "phone": "208-766-4847",
+    "website": "mailto:admin@maladidaho.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open Memorial Day-Labor Day, Tues.-Sat., 1-5; or by appt.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Idaho Museum of Natural History",
+    "address": {
+      "streetAddress": "5th Ave & Dillon StPocatello, ID 83209",
+      "mailingAddress": "921 S. 8th AveStop 8096Pocatello, ID 83209"
+    },
+    "phone": "208-282-3168",
+    "website": "mailto:imnh@isu.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "History",
+      "Natural History",
+      "Science",
+      "University"
+    ]
+  }
+]

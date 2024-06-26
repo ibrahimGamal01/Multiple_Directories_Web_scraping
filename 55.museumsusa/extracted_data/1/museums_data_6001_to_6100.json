@@ -1,0 +1,1071 @@
+[
+  {
+    "name": "Cherokee Strip Museum",
+    "address": {
+      "streetAddress": "2617 West Fir AvenuePerry, OK 73077",
+      "mailingAddress": "Perry, OK 73077"
+    },
+    "phone": "580-336-2405",
+    "website": "mailto:csmuseum@okhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Park"
+    ]
+  },
+  {
+    "name": "Alfalfa County Museum & Historical Society",
+    "address": {
+      "streetAddress": "117 W MainCherokee, OK 73728",
+      "mailingAddress": null
+    },
+    "phone": "580-596-2960",
+    "website": "mailto:alhistory@itlnet.ne",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Hours are subject to change. Call before you come.",
+    "museumTypes": [
+      "Cemetery",
+      "Culture",
+      "General",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Major County Historical Society",
+    "address": {
+      "streetAddress": "Fairview, OK 73737",
+      "mailingAddress": "PO Box 555Fairview, OK 73737"
+    },
+    "phone": "580-227-2265",
+    "website": "mailto:office@mchsok.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "T.B. Ferguson Home",
+    "address": {
+      "streetAddress": "519 N WeigleWatonga, OK 73772",
+      "mailingAddress": null
+    },
+    "phone": "580-623-5069",
+    "website": "https://www.watonga.com/ferguson.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "You can tour this wonderful home during our operating hours.",
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Plains Indians & Pioneers Museum",
+    "address": {
+      "streetAddress": "2009 Williams AveWoodward, OK 73801",
+      "mailingAddress": null
+    },
+    "phone": "580-256-6136",
+    "website": "mailto:contact@pipm1.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Jim Powers Junk Art Museum",
+    "address": {
+      "streetAddress": "PO Box 145Gage, OK 73843",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.powersville.net/junkyard/index/junk.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Gateway to the Panhandle Museum",
+    "address": {
+      "streetAddress": "Rt 1 Box 135Gate, OK 73844",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:postmaster@Gatewaytothepanhandlemuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Waynoka Historical Society",
+    "address": {
+      "streetAddress": "Waynoka, OK 73860",
+      "mailingAddress": "PO Box 193Waynoka, OK 73860"
+    },
+    "phone": "580-824-1886",
+    "website": "mailto:waynokahs@hotmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Beaver County Fairgrounds",
+    "address": {
+      "streetAddress": "Beaver County FairgroundsBeaver, OK 73942",
+      "mailingAddress": "Box 843Beaver, OK 73932"
+    },
+    "phone": "580-625-4830",
+    "website": "https://oces.okstate.edu/beaver/beaver-county-fairgrounds",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Cimarron Heritage Center",
+    "address": {
+      "streetAddress": "1300 N. CimarronBoise City, OK 73933",
+      "mailingAddress": "PO Box 214Boise City, OK 73933"
+    },
+    "phone": "580-544-3479",
+    "website": "https://www.ptsi.net/user/museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "No Man's Land Museum",
+    "address": {
+      "streetAddress": "Box 278Goodwell, OK 73939",
+      "mailingAddress": null
+    },
+    "phone": "580-349-2670",
+    "website": "mailto:nmlhs@ptsi.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Frank Phillips Home",
+    "address": {
+      "streetAddress": "1107 SE Cherokee Ave.Bartlesville, OK 74003",
+      "mailingAddress": null
+    },
+    "phone": "918-336-2491",
+    "website": "mailto:jgoss@okhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open for guided tours Wed through Saturday. Tours run at 10,11,2,3,&4 o'clock.",
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Bartlesville Area History Museum",
+    "address": {
+      "streetAddress": "401 S. Johnstone Avenue, 5th Floor City Center BuildingBartlesville, OK 74003",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.bartlesvillehistory.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Bartlesville Community Center",
+    "address": {
+      "streetAddress": "300 SE AdamsBartlesville, OK 74003",
+      "mailingAddress": "PO Box 1027Bartlesville, OK 74005"
+    },
+    "phone": "800-618-2787",
+    "website": "mailto:sgray@bartlesvillecommunitycenter.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#!/pages/Bartlesville-Community-Center/114453308609824",
+      "twitter": "https://www.twitter.com/BvilleCommCtr?utm_campaign=welcome20100914phx&utm_content=profile&utm_medium=email&utm_so",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Woolaroc Museum",
+    "address": {
+      "streetAddress": "1925 Woolaroc Ranch RoadBartlesville, OK 74003",
+      "mailingAddress": "PO Box 1647Bartlesville, OK 74005"
+    },
+    "phone": "918-336-0307",
+    "website": "mailto:woolarocmail@woolaroc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Price Tower Arts Center",
+    "address": {
+      "streetAddress": "Price Tower Arts Center601 Dewey AveBartlesville, OK 74006",
+      "mailingAddress": "PO Box 2464Bartlesville, OK 74005"
+    },
+    "phone": null,
+    "website": "https://www.pricetower.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Bixby Historical Society",
+    "address": {
+      "streetAddress": "21 W BixbyP.O. Box 1046Bixby, OK 74008",
+      "mailingAddress": null
+    },
+    "phone": "918-366-1200",
+    "website": "mailto:bixby.okhs@cox.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Cemetery",
+      "Church",
+      "General",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Lynn Riggs Memorial",
+    "address": {
+      "streetAddress": "121 N. WeenonahClaremore, OK 74014",
+      "mailingAddress": null
+    },
+    "phone": "918-342-1127",
+    "website": "https://members.cox.net/lynn.riggs/lrmem.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Broken Arrow Historical Society",
+    "address": {
+      "streetAddress": "400 S. MainBroken Arrow, OK 74012",
+      "mailingAddress": null
+    },
+    "phone": "918-258-2616",
+    "website": "mailto:brokenarrowmuseum@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Military"
+    ]
+  },
+  {
+    "name": "Arkansas River Historical Society Museum",
+    "address": {
+      "streetAddress": "5350 Cimarron RdCatoosa, OK 74015",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.tulsaweb.com/port",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Oklahoma Military Academy Memorial",
+    "address": {
+      "streetAddress": "Rogers State College1701 W. Will Rogers Blvd.Claremore, OK 74017",
+      "mailingAddress": null
+    },
+    "phone": "918-343-7777",
+    "website": "mailto:dboyle@rsu.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/RogersStateU#/pages/Claremore-OK/Oklahoma-Military-Academy-Alumni-Association/267039205",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Will Rogers Memorial Museum",
+    "address": {
+      "streetAddress": "1702 West Will Rogers Blvd.Claremore, OK 74017",
+      "mailingAddress": "PO Box 157Claremore, OK 74018"
+    },
+    "phone": "918-341-0719",
+    "website": "mailto:wrinfo@willrogers.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Totem Pole Park c/o Rogers County Hist Society",
+    "address": {
+      "streetAddress": "Claremore, OK 74018",
+      "mailingAddress": "PO Box 774Claremore, OK 74018"
+    },
+    "phone": null,
+    "website": "https://www.rchs1.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "J.M. Davis Arms & Historical Museum",
+    "address": {
+      "streetAddress": "333 N. Lynn Riggs BlvdClaremore, OK 74017",
+      "mailingAddress": null
+    },
+    "phone": "918-341-5707",
+    "website": "https://www.thegunmuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Monday - Saturday 8:30 a.m. - 5:00 p.m.Sundays 1:00 p.m. - 5:00 p.m.",
+    "museumTypes": [
+      "History",
+      "Library",
+      "Military"
+    ]
+  },
+  {
+    "name": "Collinsville Depot Museum",
+    "address": {
+      "streetAddress": "123 S 10th StreetCollinsville, OK 74021",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.cvilleok.com/depot.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Cimarron Valley Railroad Museum",
+    "address": {
+      "streetAddress": "S of Hwy 33Cushing, OK 74023",
+      "mailingAddress": "PO Box 844Cushing, OK 74023"
+    },
+    "phone": "918-225-1657",
+    "website": "https://ok.railfan.net/pages/cvrm.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Lachenmeyer Arts Center",
+    "address": {
+      "streetAddress": "215 N. Steele AveCushing, OK 74023",
+      "mailingAddress": "PO Box 586Cushing, OK 74023"
+    },
+    "phone": "918-225-4188",
+    "website": "https://cushingpubliclibrary.org/lachenmeyerartscenter.aspx",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Tom Mix Museum",
+    "address": {
+      "streetAddress": "721 N DelawareDewey, OK 74029",
+      "mailingAddress": "PO Box 190Dewey, OK 74029"
+    },
+    "phone": "918-534-1555",
+    "website": "mailto:tommix@cableone.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Drumright Community Historical Museum",
+    "address": {
+      "streetAddress": "301 East Broadway StreetDrumright, OK 74030",
+      "mailingAddress": "P.O. Box 668Drumright, OK 74030"
+    },
+    "phone": "918-352-3002",
+    "website": "mailto:drumrighthistoricalsociety@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Drummond Home",
+    "address": {
+      "streetAddress": "305 N PriceHominy, OK 74035",
+      "mailingAddress": null
+    },
+    "phone": "918-885-2374",
+    "website": "mailto:bwhitcomb@okhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Hominy Heritage Association",
+    "address": {
+      "streetAddress": "PO Box 672Hominy, OK 74035",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:hominyheritage@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Nowata County Museum",
+    "address": {
+      "streetAddress": "121 S PineNowata, OK 74048",
+      "mailingAddress": "PO Box 87Nowata, OK 74048"
+    },
+    "phone": "918-273-1191",
+    "website": "https://www.rootsweb.ancestry.com/~oknowata/Museumpricelist.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Oolagah Historical Society",
+    "address": {
+      "streetAddress": "202 E Cooweescoowee AveOologah, OK 74053",
+      "mailingAddress": "PO Box 609Oologah, OK 74053"
+    },
+    "phone": "918-443-2790",
+    "website": "https://www.oologah.com/oologah/ohmuseum.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Osage County Historical Museum",
+    "address": {
+      "streetAddress": "700 N Lynn AvePawhuska, OK 74056",
+      "mailingAddress": null
+    },
+    "phone": "918-287-9119",
+    "website": "mailto:ochs@att.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Osage Tribal Museum, Library & Archives",
+    "address": {
+      "streetAddress": "819 N GrandviewPawhuska, OK 74056",
+      "mailingAddress": "PO Box 779Pawhuska, OK 74056"
+    },
+    "phone": "918-287-5441",
+    "website": "mailto:pallred@osagetribe.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Pawnee Bill Ranch & Museum",
+    "address": {
+      "streetAddress": "US 64Pawnee, OK 74058",
+      "mailingAddress": "PO Box 493Pawnee, OK 74058"
+    },
+    "phone": "918-762-2513",
+    "website": "mailto:pawneebill@okhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Summer hours: Sunday and Monday 1-4pm, Tuesday through Saturday 10am - 5pm\nwinter hours: closed Sunday and Monday, Tuesday through Saturday 10am - 5pm",
+    "museumTypes": [
+      "Culture",
+      "Historic House",
+      "Historical Society",
+      "Park"
+    ]
+  },
+  {
+    "name": "Pawnee County Historical Museum",
+    "address": {
+      "streetAddress": "513 Sixth StreetPawnee, OK 74058",
+      "mailingAddress": null
+    },
+    "phone": "918-762-4681",
+    "website": "https://www.pawneechs.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Sand Springs Cultural and Historical Museum",
+    "address": {
+      "streetAddress": "9 E BroadwaySand Springs, OK 74063",
+      "mailingAddress": null
+    },
+    "phone": "918-246-2509",
+    "website": "https://www.sandspringsok.org/category.php?cat=1004",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Sapulpa Historical Museum",
+    "address": {
+      "streetAddress": "100 East. Lee AvenueSapulpa, OK 74066",
+      "mailingAddress": "P O Box 278Sapulpa, OK 74067-0278"
+    },
+    "phone": "918-224-4871",
+    "website": "mailto:sapulpahistsoc@tulsacoxmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/Sapulpa-Historical-Society-Museum-190170014346179/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Skiatook Museum",
+    "address": {
+      "streetAddress": "115 S BroadwaySkiatook, OK 74017",
+      "mailingAddress": "115 S BroadwaySkiatook, OK 74070"
+    },
+    "phone": "918-396-7558",
+    "website": "https://skiatook.com/skiatook/museum.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Sheerar Museum",
+    "address": {
+      "streetAddress": "702 South DuncanStillwater, OK 74074",
+      "mailingAddress": null
+    },
+    "phone": "405-377-0359",
+    "website": "mailto:thesheerarmuseum@sbcglobal.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Church",
+      "Culture",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Jim Thorpe Home",
+    "address": {
+      "streetAddress": "706 East BostonYale, OK 74085",
+      "mailingAddress": null
+    },
+    "phone": "918-387-2815",
+    "website": "https://www.okhistory.org/outreach/affiliates/jimthorpe.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Ida Dennie WIllis Museum",
+    "address": {
+      "streetAddress": "628 North Country Club DriveTulsa, OK 74106",
+      "mailingAddress": "2031 N Peoria AveTulsa, OK 74106"
+    },
+    "phone": "918-584-6654",
+    "website": "https://www.tulsaweb.com/doll.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Southwest Tulsa Historical Society",
+    "address": {
+      "streetAddress": "4981 S Union AveTulsa, OK 74107",
+      "mailingAddress": "6303 S 30 W AveTulsa, OK 74132"
+    },
+    "phone": "918-445-9260",
+    "website": "mailto:CrimeDet@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Philbrook Museum of Art",
+    "address": {
+      "streetAddress": "2727 S Rockford RdTulsa, OK 74114",
+      "mailingAddress": "P.O. Box 52510Tulsa, OK 74114"
+    },
+    "phone": "918-749-7941",
+    "website": "mailto:Curator@philbrook.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Tulsa Garden Center",
+    "address": {
+      "streetAddress": "2435 S PeoriaTulsa, OK 74114",
+      "mailingAddress": null
+    },
+    "phone": "918-746-5125",
+    "website": "mailto:braney@tulsagardencenter.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Tulsa Arts & Humanities Council",
+    "address": {
+      "streetAddress": "2210 S Main StreetTulsa, OK 74114",
+      "mailingAddress": null
+    },
+    "phone": "918-584-3333",
+    "website": "mailto:info@ahct.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/ahct.org",
+      "twitter": "https://www.twitter.com/AHCTulsa",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Tulsa Air and Space Museum & Planetarium",
+    "address": {
+      "streetAddress": "3624 N. 74th East AvenueTulsa, OK 74115",
+      "mailingAddress": null
+    },
+    "phone": "918-834-9900",
+    "website": "mailto:info@tulsamuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/TulsaAirandSpace",
+      "twitter": "https://www.twitter.com/TASMPLT",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Planetarium",
+      "Science"
+    ]
+  },
+  {
+    "name": "Tulsa Zoo and Living Museum",
+    "address": {
+      "streetAddress": "5701 E 36 Street NTulsa, OK 74115",
+      "mailingAddress": null
+    },
+    "phone": "918-669-6600",
+    "website": "mailto:info@tulsazoo.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Oklahoma Jazz Hall of Fame",
+    "address": {
+      "streetAddress": "111 E. 1st StreetTulsa, OK 74103",
+      "mailingAddress": "5 S BostonTulsa, OK 74103"
+    },
+    "phone": "918-281-8600",
+    "website": "mailto:info@okjazz.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "9-5 Monday thru Friday. \nSaturday by appointment.",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Gilcrease Museum",
+    "address": {
+      "streetAddress": "1400 Gilcrease Museum RdTulsa, OK 74127",
+      "mailingAddress": null
+    },
+    "phone": "918-596-2700",
+    "website": "mailto:duane-king@utulsa.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/gilcrease.museum",
+      "twitter": "https://www.twitter.com/#!/GilcreaseMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Elsing Museum",
+    "address": {
+      "streetAddress": "7777 S Lewis AveTulsa, OK 74171",
+      "mailingAddress": null
+    },
+    "phone": "918-495-6262",
+    "website": "mailto:nmeleen@oru.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wednesday through Saturday from 1:30-4:30 or by appointment.",
+    "museumTypes": [
+      "Archaeology",
+      "Natural History",
+      "Science",
+      "Specialized",
+      "University"
+    ]
+  }
+]

@@ -1,0 +1,1359 @@
+[
+  {
+    "name": "Arizona Museum for Youth",
+    "address": {
+      "streetAddress": "35 N. Robson St.Mesa, AZ 85201",
+      "mailingAddress": "PO Box 1466Mesa, AZ 85211"
+    },
+    "phone": "480-644-2467",
+    "website": "mailto:citymgt.info@Mesaaz.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Arizona State Museum",
+    "address": {
+      "streetAddress": "1013 East University BoulevardTucson, AZ 85718",
+      "mailingAddress": "1013 East University BoulevardP.O. Box 210026Tucson, AZ 85721"
+    },
+    "phone": "520-621-6302",
+    "website": "https://www.statemuseum.arizona.edu/index.shtml",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/ArizonaStateMuseum",
+      "twitter": "https://www.twitter.com/AZStateMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Arizona-Sonora Desert Museum",
+    "address": {
+      "streetAddress": "2021 N. Kinney RoadTucson, AZ 85743",
+      "mailingAddress": null
+    },
+    "phone": "520-883-1380",
+    "website": "mailto:info@desertmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com//#!/desertmuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "October - February\n8:30 am - 5:00 pm (no entry after 4:15 pm) \n\nMarch - May\n7:30 am - 5:00 pm (no entry after 4:15 pm)\n\nJune - August\nSun-Fri: 7:00 am - 4:30 pm (no entry after 3:45 pm)\nSat: 7:00 am - 10:00 pm (no entry after 9:15 pm)\n(Summer Saturday Evenings)\n\nSeptember\n7:00 am - 4:30 pm (no entry after 3:45 pm)",
+    "museumTypes": [
+      "Botanical Garden",
+      "Natural History",
+      "Nature Centers",
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Asarco Mineral Discovery Center",
+    "address": {
+      "streetAddress": "1421 W. Pima Mine Rd.Sahuarita, AZ 85629",
+      "mailingAddress": null
+    },
+    "phone": "520-625-7513",
+    "website": "mailto:amdcinfo@asarco.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Discovery Center Summer Hours of Operation Begining May 31st:",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "ASU Art Museum",
+    "address": {
+      "streetAddress": "51 E. Tenth StTempe, AZ 85287",
+      "mailingAddress": "Box 872911Tempe, AZ 85287"
+    },
+    "phone": "480-965-2787",
+    "website": "mailto:asuartmuseum@asu.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/asuartmuseum",
+      "twitter": "https://www.twitter.com/ASUArtMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/asu"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Bisbee Mining & Historical Museum",
+    "address": {
+      "streetAddress": "5 Copper Queen PlazaBisbee, AZ 85603",
+      "mailingAddress": "P.O. Box 14Bisbee, AZ 85603"
+    },
+    "phone": null,
+    "website": "mailto:info@bisbeemuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 10:00 am - 4:00 pmThanksgiving, Christmas and Ne Closed",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Boyce Thompson Arboretum",
+    "address": {
+      "streetAddress": "Highway 60 Milepost #223Superior, AZ 85273",
+      "mailingAddress": "37615 Highway 60Superior, AZ 85273"
+    },
+    "phone": "520-689-2723",
+    "website": "mailto:msiegwar@cals.arizona.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Last admission/ visitors admitted at 2:00 p.m",
+    "museumTypes": [
+      "Arboretum",
+      "Park"
+    ]
+  },
+  {
+    "name": "Buckeye Valley Museum",
+    "address": {
+      "streetAddress": "116 E. Hwy 85Buckeye, AZ 85326",
+      "mailingAddress": "PO Box 292Buckeye, AZ 85326"
+    },
+    "phone": "623-349-6315",
+    "website": "mailto:clarson@buckeyeaz.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Bullion Plaza Cultural Center & Museum",
+    "address": {
+      "streetAddress": "150 N. Plaza DriveMiami, AZ 85539",
+      "mailingAddress": "P.O. Box 786Miami, AZ 85539"
+    },
+    "phone": "928-473-3700",
+    "website": "mailto:info@BullionPlazaMuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/BullionPlazaCulturalCenterMuseum?ref=hl#!/BullionPlazaCulturalCenterMuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Art",
+      "Culture",
+      "History",
+      "Historical Society",
+      "Military",
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Casa Grande Historical Society",
+    "address": {
+      "streetAddress": "110 W.  Florence Blvd.Casa Grande, AZ 85122",
+      "mailingAddress": "110 W.  Florence Blvd.Casa Grande, AZ 85222"
+    },
+    "phone": "520-836-2223",
+    "website": "mailto:info@cgvhs.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/people/Casa-Grande/100001257201704#!/profile.php?id=100001257201704&v=wall",
+      "twitter": "https://www.twitter.com/CGVHS",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Cave Creek Museum",
+    "address": {
+      "streetAddress": "6140 E Skyline DrCave Creek, AZ 85327",
+      "mailingAddress": "P O Box 1Cave Creek, AZ 85327"
+    },
+    "phone": "480-488-2764",
+    "website": "mailto:info@cavecreekmuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Clemenceau Heritage Museum",
+    "address": {
+      "streetAddress": "1 N Willard StCottonwood, AZ 86326",
+      "mailingAddress": "Box 511Cottonwood, AZ 86326"
+    },
+    "phone": "928-634-2868",
+    "website": "mailto:clemenceauheritagem@qwestoffice.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#!/clemenceau.musuem",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Deer Valley Rock Art Center",
+    "address": {
+      "streetAddress": "3711 W Deer Valley RdPhoenix, AZ 85308",
+      "mailingAddress": "3711 W. Deer Valley RoadPhoenix, AZ 85308"
+    },
+    "phone": "623-582-8007",
+    "website": "mailto:dvrac@asu.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/RockArtCenter",
+      "twitter": "https://www.twitter.com/rockartcenter",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/deervalleyrockart"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Botanical Garden",
+      "Culture",
+      "Nature Centers",
+      "Park",
+      "University"
+    ]
+  },
+  {
+    "name": "Desert Botanical Garden",
+    "address": {
+      "streetAddress": "1201 N. Galvin ParkwayPhoenix, AZ 85008",
+      "mailingAddress": null
+    },
+    "phone": "480-481-8188",
+    "website": "mailto:administration@dbg.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/dbgphx?ref=ts",
+      "twitter": "https://www.twitter.com/dbgtweet",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/DBGVision"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Desert Caballeros Western Museum",
+    "address": {
+      "streetAddress": "21 N. Frontier StreetWickenburg, AZ 85390",
+      "mailingAddress": null
+    },
+    "phone": "928-684-2272",
+    "website": "mailto:info@westernmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Closed Mondays during May, June, July and August.",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Flandrau Science Center",
+    "address": {
+      "streetAddress": "1601 E. University Blvd.Tucson, AZ 85719",
+      "mailingAddress": "P. O. Box 210091, U. of A.Tucson, AZ 85721"
+    },
+    "phone": "520-626-4092",
+    "website": "mailto:huxman@B2science.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science",
+      "University"
+    ]
+  },
+  {
+    "name": "Fort McDowell Yavapai Nation",
+    "address": {
+      "streetAddress": "P. O. Box 17779Fountain Hills, AZ 85269",
+      "mailingAddress": null
+    },
+    "phone": "480-789-7000",
+    "website": "https://www.ftmcdowell.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Alabama Heritage Magazine",
+    "address": {
+      "streetAddress": "Box 870342Tuscaloosa, AL 35487",
+      "mailingAddress": null
+    },
+    "phone": "205-348-7467",
+    "website": "mailto:mjpurser@ua.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Choctaw National Wildlife Refuge",
+    "address": {
+      "streetAddress": "Highway 84Jackson, AL 36545",
+      "mailingAddress": "P.O. Box 808Jackson, AL 36545"
+    },
+    "phone": "334-246-3583",
+    "website": "mailto:choctaw@fws.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Cobb Memorial  Archives",
+    "address": {
+      "streetAddress": "3419 20th  AvenueValley, AL 36854",
+      "mailingAddress": null
+    },
+    "phone": "334-768-2161",
+    "website": "mailto:tabithatruitt@chamberscountylibrary.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Coleman Center for Arts and Culture",
+    "address": {
+      "streetAddress": "630 Avenue AYork, AL 36925",
+      "mailingAddress": null
+    },
+    "phone": "205-392-2005",
+    "website": "https://www.colemanarts.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Comer Museum  and Arts Center",
+    "address": {
+      "streetAddress": "711 N Broadway AveSylacauga, AL 35150",
+      "mailingAddress": "P.O. Box 245Sylacauga, AL 35150"
+    },
+    "phone": "256-245-4016",
+    "website": "https://comermuseum.freeservers.com/index.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Confederate Memorial Park",
+    "address": {
+      "streetAddress": "437 Chilton County Rd 63Marbury, AL 36051",
+      "mailingAddress": null
+    },
+    "phone": "205-755-1990",
+    "website": "mailto:alacmp@bellsouth.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Cemetery",
+      "Church",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Military",
+      "Nature Centers",
+      "Park",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Corry House",
+    "address": {
+      "streetAddress": "Old York Heritage Park, Highway 69Oakman, AL 35579",
+      "mailingAddress": null
+    },
+    "phone": "706-296-1765",
+    "website": "mailto:info@thecorryhouse.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/The-Corry-House/122351104508459",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Alabama Historical Commission",
+    "address": {
+      "streetAddress": "468 South Perry StreetMontgomery, AL 36130",
+      "mailingAddress": null
+    },
+    "phone": "334-230-2690",
+    "website": "mailto:frank.white@preserveala.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Cullman County Museum",
+    "address": {
+      "streetAddress": "211 Second Avenue NECullman, AL 35055",
+      "mailingAddress": null
+    },
+    "phone": "256-739-1258",
+    "website": "mailto:curator@cullmancountymuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Dancy-Polk House",
+    "address": {
+      "streetAddress": "901 Railroad St. NWDecatur, AL 35601",
+      "mailingAddress": "901 Railroad St. NWDecatur, AL"
+    },
+    "phone": "256-686-1698",
+    "website": "https://www.dancypolkhouseinn.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Dauphin Island Estuarium",
+    "address": {
+      "streetAddress": "101 Bienville BoulevardDauphin Island, AL 36528",
+      "mailingAddress": "P.O. Box 369-370Dauphin Island, AL 36528"
+    },
+    "phone": "251-861-2141",
+    "website": "mailto:langelo@disl.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "De Soto Caverns",
+    "address": {
+      "streetAddress": "5181 DeSoto Caverns ParkwayChildersburg, AL 35044",
+      "mailingAddress": null
+    },
+    "phone": "800-933-2283",
+    "website": "mailto:info@DeSotoCavernsPark.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Childersburg-AL/DeSoto-Caverns-Park/102605256467379?v=wall&ref=sgm",
+      "twitter": "https://www.twitter.com/desotocaverns",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Dempsey Community Arts Center",
+    "address": {
+      "streetAddress": "222 E. Drake Ave.Auburn, AL 36830",
+      "mailingAddress": "307 South Dean RoadAuburn, AL 36830"
+    },
+    "phone": "334-501-2963",
+    "website": "mailto:webparksrec@auburnalabama.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": "https://www.twitter.com/CityofAuburnAL",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Dothan Area Botanical Gardens",
+    "address": {
+      "streetAddress": "5130 Headland AvenueDothan, AL 36303",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.dabg.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "EarlyWorks Hands-On Museum",
+    "address": {
+      "streetAddress": "404 Madison StreetHuntsville, AL 35801",
+      "mailingAddress": null
+    },
+    "phone": "256-564-8100",
+    "website": "https://www.earlyworks.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Alabama Historical Radio Museum",
+    "address": {
+      "streetAddress": "600 N. 18th Street.Birmingham, AL 35213",
+      "mailingAddress": "Post Office Box 131418Birmingham, AL 35213"
+    },
+    "phone": "205-841-4630",
+    "website": "mailto:ahrs2000@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Eastern Shore Art Center",
+    "address": {
+      "streetAddress": "410 Oak StreetFairhope, AL 36532",
+      "mailingAddress": null
+    },
+    "phone": "251-928-2228",
+    "website": "mailto:kate@esartcenter.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Edith Newman Culver Memorial Museum",
+    "address": {
+      "streetAddress": "501 Main St,Waterloo, AL 35677",
+      "mailingAddress": "Waterloo, AL 35677"
+    },
+    "phone": "256-767-6081",
+    "website": "https://www.visitflorenceal.com/things_to_do/edith-newman-culver-memorial-museum/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Closed for winter from Oct. 1-May 1",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Elmore County Museum of Black History",
+    "address": {
+      "streetAddress": "1006 LancasterWetumpka, AL 36092",
+      "mailingAddress": "P.O. Box 310Wetumpka, AL 36092"
+    },
+    "phone": "334-567-6336",
+    "website": "https://shoanta.org/wetumpka%20black%20history%20museum/Museum%20of%20Black%20History.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Eufaula Heritage Association",
+    "address": {
+      "streetAddress": "340 N Eufaula AveEufaula, AL 36072",
+      "mailingAddress": "P.O. Box 486Eufaula, AL 36072"
+    },
+    "phone": "334-687-3793",
+    "website": "mailto:info@eufaulapilgrimage.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Eufaula National Wildlife Refuge",
+    "address": {
+      "streetAddress": "509 Old Highway 165Eufaula, AL 36027",
+      "mailingAddress": null
+    },
+    "phone": "334-687-4065",
+    "website": "mailto:eufaula@fws.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Farley Nuclear Plant Visitors Center",
+    "address": {
+      "streetAddress": "7388 N. State Hwy 95Columbia, AL 36319",
+      "mailingAddress": null
+    },
+    "phone": "334-899-5108",
+    "website": "https://www.southerncompany.com/about-us/our-business/southern-nuclear/farley.cshtml",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/SOCompany",
+      "twitter": "https://www.twitter.com/southerncompany",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/socompany?sub_confirmation=1"
+    },
+    "hours": "By appointment only. lease call ahead to schedule an event at the Visitors Center.",
+    "museumTypes": [
+      "General",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Fendall Hall",
+    "address": {
+      "streetAddress": "917 West Barbour StreetEufaula, AL 36027",
+      "mailingAddress": null
+    },
+    "phone": "334-687-8469",
+    "website": "mailto:fendallh@bellsouth.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Park"
+    ]
+  },
+  {
+    "name": "Fern Cave National Wildlife Refuge",
+    "address": {
+      "streetAddress": "2700 Refuge Hq. RoadDecatur, AL 35603",
+      "mailingAddress": null
+    },
+    "phone": "256-353-7243",
+    "website": "mailto:wheeler@fws.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Alabama Humanities Foundation",
+    "address": {
+      "streetAddress": "1100 Ireland WayBirmingham, AL 35205",
+      "mailingAddress": null
+    },
+    "phone": "205-558-3980",
+    "website": "https://www.ahf.net/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "First White House of the Confederacy",
+    "address": {
+      "streetAddress": "644 Washington AvenueMontgomery, AL 36104",
+      "mailingAddress": "644 Washington AvenueMontgomery, AL 36130"
+    },
+    "phone": "804-649-1861",
+    "website": "mailto:info@firstwhitehouse.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#!/pages/Montgomery-AL/The-First-White-House-of-the-Confederacy/245290288046",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Florence Historical Board",
+    "address": {
+      "streetAddress": "2207 Berry AvenueFlorence, AL 35630",
+      "mailingAddress": "Post Office Box 98Florence, AL 35630"
+    },
+    "phone": "256-760-6300",
+    "website": "mailto:info@florenceal.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Florence Museum System",
+    "address": {
+      "streetAddress": "217 East Tuscaloosa StreetFlorence, AL 35630",
+      "mailingAddress": null
+    },
+    "phone": "843-662-3351",
+    "website": "mailto:flomus@bellsouth.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Fort Conde",
+    "address": {
+      "streetAddress": "150 South Royal StreetMobile, AL 36602",
+      "mailingAddress": "P.O. Box 2068Mobile, AL 36652"
+    },
+    "phone": "334-208-7304",
+    "website": "mailto:rick@forttours.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Fort Gaines Historic Site",
+    "address": {
+      "streetAddress": "51 Bienville Blvd.Dauphin Island, AL 36528",
+      "mailingAddress": "109 Bienville Blvd.Dauphin Island, AL 36528"
+    },
+    "phone": "251-861-3607",
+    "website": "mailto:admin@dauphinisland.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Military",
+      "Park"
+    ]
+  },
+  {
+    "name": "Fort Morgan State Historic Site",
+    "address": {
+      "streetAddress": "51 Highway 180 WestGulf Shores, AL 36542",
+      "mailingAddress": null
+    },
+    "phone": "901-351-4175",
+    "website": "https://www.azaleacity.com/fortmorgan/information.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Aquarium",
+      "Children's",
+      "Church",
+      "General",
+      "History",
+      "Library",
+      "Natural History",
+      "Park",
+      "Planetarium",
+      "University"
+    ]
+  },
+  {
+    "name": "Fort Payne Depot Museum",
+    "address": {
+      "streetAddress": "105 5th St NEFort Payne, AL 35968",
+      "mailingAddress": "P.O. Box 681420Fort Payne, AL 35968"
+    },
+    "phone": "256-845-5714",
+    "website": "mailto:depotmuseum@bellsouth.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Alabama Indian Affairs Commission",
+    "address": {
+      "streetAddress": "771 South Lawrence Street, Suite 106Montgomery, AL 36130",
+      "mailingAddress": null
+    },
+    "phone": "334-242-2831",
+    "website": "mailto:aiac@att.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Fort Toulouse / Fort Jackson",
+    "address": {
+      "streetAddress": "2521 West Fort Toulouse RoadWetumpka, AL 36093",
+      "mailingAddress": null
+    },
+    "phone": "334-567-3002",
+    "website": "mailto:ftjack1@bellsouth.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Arboretum",
+      "Archaeology",
+      "History",
+      "Natural History",
+      "Park"
+    ]
+  },
+  {
+    "name": "Gaineswood Mansion",
+    "address": {
+      "streetAddress": "805 South Cedar AvenueDemopolis, AL 36732",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.hgtv.com/hgtv/remodeling/article/0,1797,HGTV_3659_1914947,00.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "W. A. Gayle Planetarium",
+    "address": {
+      "streetAddress": "1010 Forest AveMontgomery, AL 36106",
+      "mailingAddress": "1010 Forest AvenueMontgomery, AL 36106"
+    },
+    "phone": "334-625-4799",
+    "website": "mailto:m01planet@troy.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/gayleplanetarium",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Doors open 30 minutes prior to showtime with no admittance once a show has begun. Show times: Mon-Thurs @ 4 PM,  Sundays @ 2 PM,  1st & 3rd Saturdays @ 2 PM.",
+    "museumTypes": [
+      "Natural History",
+      "Park",
+      "Planetarium",
+      "Science",
+      "University"
+    ]
+  },
+  {
+    "name": "George Washington Carver Interpretive Museum",
+    "address": {
+      "streetAddress": "305 North Foster StreetDothan, AL 36303",
+      "mailingAddress": "Dothan, AL 36303"
+    },
+    "phone": "334-712-0933",
+    "website": "https://www.alabamamuseums.org/g_gwcm.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Gorgas House",
+    "address": {
+      "streetAddress": "Box 870340, The University of AlabamaTuscaloosa, AL 35487",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://museums.ua.edu/gorgas",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Governor's Mansion (Executive Mansion)",
+    "address": {
+      "streetAddress": "624 Washington Ave.Montgomery, AL 36104",
+      "mailingAddress": "P.O. Box 300100Montgomery, AL 36104"
+    },
+    "phone": "334-242-4435",
+    "website": "https://www.archives.state.al.us/mansion.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Gulf Coast Exploreum and Imax Theater",
+    "address": {
+      "streetAddress": "65 Government StMobile, AL 36633",
+      "mailingAddress": "P.O. Box 1968Mobile, AL 36633"
+    },
+    "phone": "877-625-4386",
+    "website": "mailto:marketing@exploreum.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/Exploreum",
+      "twitter": "https://www.twitter.com/TheExploreum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Please visit www.exploreum.com for current hours of operation and show times.",
+    "museumTypes": [
+      "Children's",
+      "General",
+      "Science"
+    ]
+  },
+  {
+    "name": "Gulf Shores Museum",
+    "address": {
+      "streetAddress": "244 West 19th Ave.Gulf Shores, AL 36542",
+      "mailingAddress": "P.O. Box 299Gulf Shores, AL 36547"
+    },
+    "phone": null,
+    "website": "https://www.gulfshoresal.gov/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Guntersville Museum and Cultural Center",
+    "address": {
+      "streetAddress": "1215 Rayburn AvenueGuntersville, AL 35976",
+      "mailingAddress": "Guntersville, AL 35976"
+    },
+    "phone": "256-571-7597",
+    "website": "mailto:guntersvillemuseum@guntersvilleal.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Hank Williams Museum",
+    "address": {
+      "streetAddress": "118 Commerce St.Montgomery, AL 36104",
+      "mailingAddress": "300 Water Street, Union StationMontgomery, AL 36104"
+    },
+    "phone": "334-262-3600",
+    "website": "https://www.thehankwilliamsmuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Hank Williams Boyhood Home & Museum, Inc.",
+    "address": {
+      "streetAddress": "127 Rose St.Georgiana, AL 36033",
+      "mailingAddress": "P.O. Box 310Georgiana, AL 36033"
+    },
+    "phone": "334-376-2396",
+    "website": "mailto:cityofgeorgiana@greenlynk.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Alabama Jazz Hall of Fame",
+    "address": {
+      "streetAddress": "Carver Theater1631 4th Avenue NorthBirmingham, AL 35202",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:ltucker@jazzhall.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Heart of Dixie Railroad Museum",
+    "address": {
+      "streetAddress": "1919 9th StreetCalera, AL 35040",
+      "mailingAddress": "P.O. Box 727Calera, AL 35040"
+    },
+    "phone": null,
+    "website": "https://www.heartofdixierrmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Heritage Commission of Tuscaloosa County",
+    "address": {
+      "streetAddress": "1305 Greensboro AveTuscaloosa, AL 35401",
+      "mailingAddress": "P.O. Box 20227Tuscaloosa, AL 35401"
+    },
+    "phone": "205-752-2575",
+    "website": "https://www.tuscaloosaheritage.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Historic Chattahoochee Commission",
+    "address": {
+      "streetAddress": "211 N Eufaula AveEufaula, AL 36027",
+      "mailingAddress": "P.O. Box 33Eufaula, AL 36027"
+    },
+    "phone": "334-687-9755",
+    "website": "https://www.hcc-al-ga.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Historic Mobile Preservation Society, Inc. (Oakleigh House)",
+    "address": {
+      "streetAddress": "300 Oakleigh PlaceMobile, AL 36604",
+      "mailingAddress": null
+    },
+    "phone": "251-432-1281",
+    "website": "https://www.historicmobile.org/Oakleigh08.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  }
+]

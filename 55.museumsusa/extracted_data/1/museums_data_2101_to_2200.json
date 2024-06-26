@@ -1,0 +1,1145 @@
+[
+  {
+    "name": "Centerville Museum",
+    "address": {
+      "streetAddress": "13548  Centerville Rd.Chico, CA 95928",
+      "mailingAddress": "13548 Centerville Rd.Chico, CA 95928"
+    },
+    "phone": "530-893-9667",
+    "website": "mailto:colmanmuseum@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Central Pacific Railroad Freight Station",
+    "address": {
+      "streetAddress": "125 \"I\" StreetSacramento, CA 95814",
+      "mailingAddress": "111 \"I\" StreetSacramento, CA 95814"
+    },
+    "phone": "916-445-6645",
+    "website": "https://www.csrmf.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Chabot Space & Science Center",
+    "address": {
+      "streetAddress": "10000 Skyline Blvd.Oakland, CA 94619",
+      "mailingAddress": null
+    },
+    "phone": "510-336-7300",
+    "website": "mailto:VisitorInfo@ChabotSpace.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Fresno Chaffee Zoo",
+    "address": {
+      "streetAddress": "894 West Belmont AvenueFresno, CA 93728",
+      "mailingAddress": null
+    },
+    "phone": "559-498-5910",
+    "website": "mailto:info@fresnochaffeezoo.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/fresnochaffeezoo",
+      "twitter": "https://www.twitter.com/fresnozoo",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Natural History",
+      "Science",
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Cooper Regional History Museum",
+    "address": {
+      "streetAddress": "217 East A StreetUpland, CA 91786",
+      "mailingAddress": "P.O. Box 772Upland, CA 91785"
+    },
+    "phone": "909-982-8010",
+    "website": "https://www.coopermuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Thursday - Saturday 11:00 am - 5:00 pm",
+    "museumTypes": [
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Charles Paddock Zoo",
+    "address": {
+      "streetAddress": "9305 Pismo St.Atascadero, CA 93422",
+      "mailingAddress": null
+    },
+    "phone": "805-470-3182",
+    "website": "mailto:info@charlespaddockzoo.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Chester-Lake Almanor Museum",
+    "address": {
+      "streetAddress": "200 First AvenueChester, CA 96020",
+      "mailingAddress": "PO Box 1191Chester, CA 96020"
+    },
+    "phone": "800-350-4838",
+    "website": "mailto:mquadrio@digitalpath.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/lakealmanorarea",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Chico Creek Nature Center",
+    "address": {
+      "streetAddress": "1968 E. 8th St.Chico, CA 95928",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:info@bidwellpark.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Sunday: 11am to 4pm, Closed on Monday",
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Chico Museum",
+    "address": {
+      "streetAddress": "141 Salem StreetChico, CA 95928",
+      "mailingAddress": null
+    },
+    "phone": "530-891-4336",
+    "website": "mailto:manager@chicomuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Chilao Visitor Center",
+    "address": {
+      "streetAddress": "Star RouteLa Canada, CA 91011",
+      "mailingAddress": null
+    },
+    "phone": "626-796-5541",
+    "website": "mailto:helpdesk@byways.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 9-5",
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Children's Discovery Museum",
+    "address": {
+      "streetAddress": "180 Woz WaySan Jose, CA 95110",
+      "mailingAddress": null
+    },
+    "phone": "408-298-5437",
+    "website": "mailto:contactus@cdm.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "San Diego Children's Discovery Museum",
+    "address": {
+      "streetAddress": "320 N. BroadwayEscondido, CA 92025",
+      "mailingAddress": null
+    },
+    "phone": "760-233-7755",
+    "website": "mailto:info@sdcdm.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/sdcdm",
+      "twitter": "https://www.twitter.com/sdcdm320",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/channel/UCRnbfO9dDcktcJnDv65Zb5g"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "General",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Alhambra Historical Society Museum",
+    "address": {
+      "streetAddress": "1550 West Alhambra RoadAlhambra, CA 91801",
+      "mailingAddress": "P.O. Box 6689, 1550 West Alhambra RoadAlhambra, CA 91802"
+    },
+    "phone": "626-300-8845",
+    "website": "mailto:alhambrahistsocinc@sbcglobal.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Th 2-4, 2nd & 4th Su 2-4",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Children's Discovery Museum of the Desert",
+    "address": {
+      "streetAddress": "71-701 Gerald Ford DriveRancho Mirage, CA 92270",
+      "mailingAddress": null
+    },
+    "phone": "760-321-0602",
+    "website": "mailto:cdminfo@cdmod.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Sa 10-5, Su 12-5",
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Children's Museum at La Habra",
+    "address": {
+      "streetAddress": "301 S. Euclid St.La Habra, CA 90631",
+      "mailingAddress": null
+    },
+    "phone": "562-383-4236",
+    "website": "mailto:museumstaff@lahabraca.gov",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/ChildrensMuseumLH/",
+      "twitter": "https://www.twitter.com/cmlahabra",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "Historic House",
+      "Science"
+    ]
+  },
+  {
+    "name": "Children's Museum of the Sierras",
+    "address": {
+      "streetAddress": "49269 Golden Oak DriveOakhurst, CA 93644",
+      "mailingAddress": "P.O. Box 1200Oakhurst, CA 93644"
+    },
+    "phone": null,
+    "website": "https://www.childrensmuseumofthesierra.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Sat 10AM-4PM, Sun 1-4PM (Call for summer hours)",
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Children's Museum/Museo de los Ninos",
+    "address": {
+      "streetAddress": "200 W. Island AvenueSan Diego, CA 92101",
+      "mailingAddress": null
+    },
+    "phone": "619-233-8792",
+    "website": "mailto:adawson@thinkplaycreate.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-F 10-3, Sa & Su 10-4",
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Chinese American Museum",
+    "address": {
+      "streetAddress": "425 North Los Angeles StreetLos Angeles, CA 90012",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.camla.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Sunday 10am to 3pm Closed Mondays and all major holidays",
+    "museumTypes": [
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Chinese Culture Center",
+    "address": {
+      "streetAddress": "750 Kearny StreetSan Francisco, CA 94108",
+      "mailingAddress": null
+    },
+    "phone": "415-986-1822",
+    "website": "mailto:info@c-c-c.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/CCCSanFrancisco",
+      "twitter": "https://www.twitter.com/#!/cccsanfrancisco",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Chinese Historical Society Museum",
+    "address": {
+      "streetAddress": "965 Clay StreetSan Francisco, CA 94108",
+      "mailingAddress": "San Francisco, CA 94133"
+    },
+    "phone": "415-391-1188",
+    "website": "mailto:info@chsa.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Chinese Museum, Chew Kee Store",
+    "address": {
+      "streetAddress": "Fiddletown Rd.Fiddletown, CA 95629",
+      "mailingAddress": null
+    },
+    "phone": "209-245-6489",
+    "website": "https://www.fiddletown.info/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Park"
+    ]
+  },
+  {
+    "name": "Chula Vista Nature Center",
+    "address": {
+      "streetAddress": "1000 Gunpowder Point DriveChula Vista, CA 91910",
+      "mailingAddress": null
+    },
+    "phone": "619-409-5900",
+    "website": "mailto:cvncinfo@cvnc.us",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/http://www.youtube.com/user/TheCVNC",
+      "twitter": "https://www.twitter.com/#search?q=CVNatureCenter",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/TheCVNC"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Aquarium",
+      "Art",
+      "Botanical Garden",
+      "Children's",
+      "Natural History",
+      "Nature Centers",
+      "Zoo"
+    ]
+  },
+  {
+    "name": "San Mateo Arboretum",
+    "address": {
+      "streetAddress": "109 9th AvenueSan Mateo, CA 94401",
+      "mailingAddress": "58 Chester WaySan Mateo, CA 94402"
+    },
+    "phone": "650-579-0536",
+    "website": "mailto:info@sanmateoarboretum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Arboretum"
+    ]
+  },
+  {
+    "name": "The Clark Center for Japanese Art and Culture",
+    "address": {
+      "streetAddress": "15770 Tenth AvenueHanford, CA 93230",
+      "mailingAddress": null
+    },
+    "phone": "559-582-4915",
+    "website": "mailto:info@ccjac.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Clarke Historical Museum",
+    "address": {
+      "streetAddress": "240 \"E\" StreetEureka, CA 95501",
+      "mailingAddress": null
+    },
+    "phone": "707-443-1947",
+    "website": "https://www.clarkemuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Sa 12-4",
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Clayton Historical Society Museum",
+    "address": {
+      "streetAddress": "6101 Main StClayton, CA 94517",
+      "mailingAddress": "P.O. Box 94Clayton, CA 94517"
+    },
+    "phone": "925-672-0240",
+    "website": "https://claytonhistory.org/default.aspx",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#%21/pages/Clayton-Historical-Society-Museum/261178512964",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Cliff Finch's Zoo",
+    "address": {
+      "streetAddress": "16923 Road 206Friant, CA 93626",
+      "mailingAddress": "P.O. Box 54Friant, CA 93626"
+    },
+    "phone": "559-822-2315",
+    "website": "mailto:info@topiaryzoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Cliff House Visitor Center",
+    "address": {
+      "streetAddress": "Point Lobos Ave. and the Great Hwy.San Francisco, CA 94121",
+      "mailingAddress": null
+    },
+    "phone": "415-386-3330",
+    "website": "mailto:Ralph@cliffhouse.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Cloverdale Historical Society Museum",
+    "address": {
+      "streetAddress": "215 North Cloverdale Blvd.Cloverdale, CA 95425",
+      "mailingAddress": "PO Box 628Cloverdale, CA 95425"
+    },
+    "phone": "707-894-2067",
+    "website": "mailto:office@cloverdalehistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "W 9-11",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Coachella Valley History Museum",
+    "address": {
+      "streetAddress": "82-616 Miles AveIndio, CA 92202",
+      "mailingAddress": "P.O. Box 595Indio, CA 92202"
+    },
+    "phone": "760-342-6651",
+    "website": "mailto:jesse@cvhm.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Coarsegold Historic Museum",
+    "address": {
+      "streetAddress": "31899 Highway 41Coarsegold, CA 93614",
+      "mailingAddress": "P. O. Box 117Coarsegold, CA 93614"
+    },
+    "phone": "559-642-4448",
+    "website": "https://coarsegoldhistoricmuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Cohen-Bray House",
+    "address": {
+      "streetAddress": "1440  29th Ave.Oakland, CA 94601",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.cohenbrayhouse.info/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "College of the Redwoods Art Gallery",
+    "address": {
+      "streetAddress": "7351 Tompkins Hill Rd.Eureka, CA 95501",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.redwoods.edu/Departments/art/gallery/index.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-F 10-2",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Colma Historical Association",
+    "address": {
+      "streetAddress": "1500 Hillside Blvd.Colma, CA 94014",
+      "mailingAddress": "1500 Hillside Blvd.Daly City, CA 94014"
+    },
+    "phone": "650-757-1676",
+    "website": "mailto:colmahist@sbcglobal.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday through Sunday, 10:00 am to 3:00 pm  Closed Mondays and Holidays",
+    "museumTypes": [
+      "Cemetery",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Colonel Allensworth State Historic Park",
+    "address": {
+      "streetAddress": "Star Route 1Earlimart, CA 93219",
+      "mailingAddress": "Star Route 1, Box 148Earlimart, CA 93219"
+    },
+    "phone": "661-849-3433",
+    "website": "https://www.parks.ca.gov/?page_id=583",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Park"
+    ]
+  },
+  {
+    "name": "Colton Hall Museum",
+    "address": {
+      "streetAddress": "570 Pacific StreetMonterey, CA 93940",
+      "mailingAddress": "Museums and Cultural Arts - City of Monterey570 Pacific StreetMonterey, CA 93940"
+    },
+    "phone": "831-646-5640",
+    "website": "mailto:rygg@monterey.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": "https://www.twitter.com/intent/tweet?text=City+of+Monterey+%7C+Museums+%7C+Home&url=http%3A%2F%2Fwww.monterey.org%2Fmuseums%2FHome.aspx%",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Columbia State Historic Park",
+    "address": {
+      "streetAddress": "11175 Washington St,Columbia, CA 95310",
+      "mailingAddress": "P.O. Box 155Columbia, CA 95310"
+    },
+    "phone": "209-588-9128",
+    "website": "https://www.parks.ca.gov/?page_id=552",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-Su 9-4",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Community Memorial Museum of Sutter County",
+    "address": {
+      "streetAddress": "1333 Butte House RoadYuba City, CA 95993",
+      "mailingAddress": "P.O. Box 1555Yuba City, CA 95992"
+    },
+    "phone": "530-822-7141",
+    "website": "https://www.co.sutter.ca.us/doc/government/depts/museum/museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-F 9-5, Sa & Su 12-4/no charge",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Concord Historical Society",
+    "address": {
+      "streetAddress": "1601 Sutter St,Concord, CA 94522",
+      "mailingAddress": "P.O. Box 404Concord, CA 94522"
+    },
+    "phone": "925-827-3380",
+    "website": "mailto:lindhiggins@astound.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Corita Art Center, Immaculate Heart Community",
+    "address": {
+      "streetAddress": "5515 Franklin Ave.Los Angeles, CA 90028",
+      "mailingAddress": null
+    },
+    "phone": "323-466-2157",
+    "website": "mailto:sasha@corita.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Coronado Historical Museum",
+    "address": {
+      "streetAddress": "1100 Orange Ave.Coronado, CA 92118",
+      "mailingAddress": "Coronado, CA 92118"
+    },
+    "phone": "619-435-7242",
+    "website": "https://coronadohistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "W-Sa 10-4, Su 12-4",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Costa Mesa Historical Society Museum",
+    "address": {
+      "streetAddress": "1870 AnaheimCosta Mesa, CA 92628",
+      "mailingAddress": "P.O. Box 1764Costa Mesa, CA 92628"
+    },
+    "phone": "949-631-5918",
+    "website": "mailto:cmhistory@sbcglobal.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Th & Fri 10-3, or by appointment",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "County of Los Angeles Fire Museum",
+    "address": {
+      "streetAddress": "9834 Flora Vista StreetBellflower, CA 90706",
+      "mailingAddress": "Attn: Museum 1320 N. Eastern Ave.Alhambra, CA 91803"
+    },
+    "phone": "562-925-0234",
+    "website": "mailto:Info@LACountyFireMuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Covina Valley Historical Society",
+    "address": {
+      "streetAddress": "125 E. College St.Covina, CA 91723",
+      "mailingAddress": "P.O. Box 1862Covina, CA 91722"
+    },
+    "phone": "626-966-9871",
+    "website": "mailto:covinamuseum@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Cowboy Memorial and Library",
+    "address": {
+      "streetAddress": "40371 Cowboy LaneCaliente, CA 93518",
+      "mailingAddress": null
+    },
+    "phone": "661-867-2410",
+    "website": "https://www.cowboymemorial.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Coyote Point Museum",
+    "address": {
+      "streetAddress": "1651 Coyote Point DriveSan Mateo, CA 94401",
+      "mailingAddress": null
+    },
+    "phone": "650-342-7755",
+    "website": "mailto:info@coyoteptmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Craft & Folk Art Museum",
+    "address": {
+      "streetAddress": "5814 Wilshire Blvd.Los Angeles, CA 90036",
+      "mailingAddress": null
+    },
+    "phone": "323-937-4230",
+    "website": "mailto:info@cafam.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday, Wednesday, Friday 11 AM to 5 PMThursday 11 - 7 pmSaturday and Sunday 12 - 6 pmMonday CLOSED",
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Crocker Art Museum",
+    "address": {
+      "streetAddress": "216 O StreetSacramento, CA 95814",
+      "mailingAddress": null
+    },
+    "phone": "916-808-7000",
+    "website": "mailto:cam@crockerartmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/crockerart",
+      "twitter": "https://www.twitter.com/crockerart",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Su 10-5, Th open until 9PM",
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "A.C. Postel Memorial Rose Garden",
+    "address": {
+      "streetAddress": "555 Plaza RubioSanta Barbara, CA 93101",
+      "mailingAddress": "P.O. Box 1990Santa Barbara, CA 93101"
+    },
+    "phone": "805-564-5418",
+    "website": "mailto:sjlodge@cox.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Almaden Quicksilver County Museum",
+    "address": {
+      "streetAddress": "P.O. Box 124New Almaden, CA 95402",
+      "mailingAddress": null
+    },
+    "phone": "408-268-6541",
+    "website": "https://www.newalmaden.org/AQSPark/newalmmus.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Crystal Cathedral",
+    "address": {
+      "streetAddress": "13280 Chapman Ave.Garden Grove, CA 92840",
+      "mailingAddress": "Garden Grove, CA 92640"
+    },
+    "phone": "714-971-4000",
+    "website": "https://www.crystalcathedral.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Crystal Cove State Park Visitor Center",
+    "address": {
+      "streetAddress": "8471 Pacific Coast HighwayLaguna Beach, CA 92651",
+      "mailingAddress": null
+    },
+    "phone": "949-494-3539",
+    "website": "https://www.parks.ca.gov/?page_id=644",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "CSUF University Archives & Special Collections",
+    "address": {
+      "streetAddress": "800 North State College Blvd.Fullerton, CA 92834",
+      "mailingAddress": "P.O. Box 4150Fullerton, CA 92834"
+    },
+    "phone": "657-278-2633",
+    "website": "https://library.fullerton.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M & T 1-4, W-F 9-12",
+    "museumTypes": [
+      "General",
+      "History",
+      "University"
+    ]
+  },
+  {
+    "name": "The Cupertino Historical Society, Inc.",
+    "address": {
+      "streetAddress": "10185 N. Stelling RoadCupertino, CA 95014",
+      "mailingAddress": null
+    },
+    "phone": "408-973-1495",
+    "website": "mailto:info@cupertinohistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Alpine County Museum",
+    "address": {
+      "streetAddress": "School StMarkleeville, CA 96120",
+      "mailingAddress": "P.O. Box 517Markleeville, CA 96120"
+    },
+    "phone": "530-694-2317",
+    "website": "https://www.alpinecountyca.gov/departments/museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "11AM to 4PM, Thursday through Monday, from Memorial Day through October, or by appointment.",
+    "museumTypes": [
+      "Historic House"
+    ]
+  }
+]

@@ -1,0 +1,1163 @@
+[
+  {
+    "name": "W Hennepin Co Pioneers Assn",
+    "address": {
+      "streetAddress": "1953 West Wayzata BlvdLong Lake, MN 55356",
+      "mailingAddress": "PO BOX 332Long Lake, MN 55356"
+    },
+    "phone": "952-473-6557",
+    "website": "https://www.whcpa-museum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "MN Dept. of Natural Resources",
+    "address": {
+      "streetAddress": "500 LAFAYETTE RD NSaint Paul, MN 55155",
+      "mailingAddress": null
+    },
+    "phone": "651-296-6157",
+    "website": "mailto:info.dnr@state.mn.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Walker Art Center",
+    "address": {
+      "streetAddress": "1750 Hennepin AvenueMinneapolis, MN 55403",
+      "mailingAddress": "Minneapolis, MN 55403"
+    },
+    "phone": "612-375-7600",
+    "website": "mailto:info@walkerart.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Brooklyn Center Historical Society",
+    "address": {
+      "streetAddress": "6301 Shingle Creek Pkwy.Brooklyn Center, MN 55430",
+      "mailingAddress": "P.O. Box 29345Brooklyn Center, MN 55429"
+    },
+    "phone": "763-569-3400",
+    "website": "https://www.cityofbrooklyncenter.org/index.aspx?NID=420",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Shakopee Mdewakanton Sioux (Dakota) Community",
+    "address": {
+      "streetAddress": "2330 Sioux Trail NWPrior Lake, MN 55372",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.shakopeedakota.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Scott County Historical Society",
+    "address": {
+      "streetAddress": "235 South Fuller StreetShakopee, MN 55379",
+      "mailingAddress": null
+    },
+    "phone": "952-445-0378",
+    "website": "https://www.scottcountyhistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Minnesota Museum of American Art",
+    "address": {
+      "streetAddress": "408 St. Peter StreetSuite 419Saint Paul, MN 55102",
+      "mailingAddress": "408 St Peter StreetSuite 419Saint Paul, MN 55102"
+    },
+    "phone": "651-797-4057",
+    "website": "mailto:info@mmaa.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Carlton County Historical Society",
+    "address": {
+      "streetAddress": "406 CLOQUET AVECloquet, MN 55720",
+      "mailingAddress": null
+    },
+    "phone": "218-879-1938",
+    "website": "mailto:director@carltoncountyhistory.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#!/pages/Carlton-County-Historical-Society/87842294437",
+      "twitter": "https://www.twitter.com/CarltonCoHist",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Heritage Hjemkomst Interpretative Center",
+    "address": {
+      "streetAddress": "202 1st Ave. N.Moorhead, MN 56560",
+      "mailingAddress": "PO Box 157Moorhead, MN 56560"
+    },
+    "phone": "218-299-5511",
+    "website": "https://www.hcscconline.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Grays Harbor Historical Seaport",
+    "address": {
+      "streetAddress": "712 Hagara StAberdeen, WA 98520",
+      "mailingAddress": "P.O. Box 2019Aberdeen, WA 98520"
+    },
+    "phone": "800-200-5239",
+    "website": "mailto:ghhsa_admin@historicalseaport.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Military"
+    ]
+  },
+  {
+    "name": "North Clark Historical Museum",
+    "address": {
+      "streetAddress": "21416 NE 399th StAmboy, WA 98601",
+      "mailingAddress": "P. O. Box 296Amboy, WA 98601"
+    },
+    "phone": "360-247-5800",
+    "website": "https://www.amboywa.com/museum.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Church",
+      "Culture",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Anacortes History Museum",
+    "address": {
+      "streetAddress": "1305 8th StreetAnacortes, WA 98221",
+      "mailingAddress": "P.O. Box 547Anacortes, WA 98221"
+    },
+    "phone": null,
+    "website": "https://museum.cityofanacortes.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Thursday - Monday 1:00 pm - 5:00 pm",
+    "museumTypes": [
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Samish Coastal Salish Cultural Interpretive Center",
+    "address": {
+      "streetAddress": "Anacortes, WA 98221",
+      "mailingAddress": "P.O. Box 217Anacortes, WA 98221"
+    },
+    "phone": "360-293-6404",
+    "website": "mailto:samishtribe@samishtribe.nsn.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Stillaguamish Valley Genealogical Society",
+    "address": {
+      "streetAddress": "215 South French AvenueArlington, WA 98223",
+      "mailingAddress": "P.O. Box 34Arlington, WA 98223"
+    },
+    "phone": "360-435-4838",
+    "website": "mailto:svgs.wa@frontier.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Stillaguamish Valley Pioneer Association & Museum",
+    "address": {
+      "streetAddress": "20722  67th Ave NEArlington, WA 98223",
+      "mailingAddress": null
+    },
+    "phone": "360-435-7289",
+    "website": "mailto:stillypioneers1@juno.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "Mount Rainier National Park",
+    "address": {
+      "streetAddress": "Star Route / Tahoma WoodsAshford, WA 98304",
+      "mailingAddress": "55210 238th Avenue EastAshford, WA 98304"
+    },
+    "phone": "360-569-6575",
+    "website": "https://www.nps.gov/mora/index.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Asotin County Museum",
+    "address": {
+      "streetAddress": "3rd and FilmoreAsotin, WA 99402",
+      "mailingAddress": "P. O. Box 367Asotin, WA 99402"
+    },
+    "phone": "509-243-4659",
+    "website": "mailto:asotinmuseum@asotin.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Columbia River Maritime Museum",
+    "address": {
+      "streetAddress": "1792 Marine DriveAstoria, OR 97103",
+      "mailingAddress": null
+    },
+    "phone": "503-325-2323",
+    "website": "mailto:welborn@crmm.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/profile.php?id=118660658188",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Helen S. Smith Gallery",
+    "address": {
+      "streetAddress": "12401 SE 320th StAuburn, WA 98092",
+      "mailingAddress": "Green River Community CollegeAuburn, WA 98002"
+    },
+    "phone": "253-833-9111",
+    "website": "https://www.greenriver.edu/smithgallery/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Thur 8-9; Fri 8-5.",
+    "museumTypes": []
+  },
+  {
+    "name": "White River Valley Museum",
+    "address": {
+      "streetAddress": "918 H Street SEAuburn, WA 98002",
+      "mailingAddress": "Auburn, WA 98002"
+    },
+    "phone": null,
+    "website": "https://www.wrvmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wed-Sun 12-4.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Bainbridge Island Historical Museum",
+    "address": {
+      "streetAddress": "215 Ericksen Avenue NEBainbridge Island, WA 98110",
+      "mailingAddress": null
+    },
+    "phone": "206-842-2773",
+    "website": "mailto:info@bainbridghistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wednesday - Monday 1:00 pm - 4:00 pmSaturday 10:00 am - 4:00 pm",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Bloedel Reserve",
+    "address": {
+      "streetAddress": "7571 NE Dolphin DriveBainbridge Island, WA 98110",
+      "mailingAddress": null
+    },
+    "phone": "206-842-7631",
+    "website": "mailto:email@bloedelreserve.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Arboretum",
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Bellevue Art Museum",
+    "address": {
+      "streetAddress": "301 Bellevue SquareBellevue, WA 98029",
+      "mailingAddress": "Bellevue, WA 98029"
+    },
+    "phone": "425-519-0770",
+    "website": "mailto:info@bellevuearts.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon, Wed-Sat 10-6; Tue 10-8; Sun 11-5.",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Bellevue Community College Gallery",
+    "address": {
+      "streetAddress": "3000 Landerholm Circle SEBellevue, WA 98007",
+      "mailingAddress": "Bellevue, WA 98007"
+    },
+    "phone": "425-564-1000",
+    "website": "https://bellevuecollege.edu/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/bellevuecollege/",
+      "twitter": "https://www.twitter.com/bellevuecollege/",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Eastside Genealogical Society",
+    "address": {
+      "streetAddress": "Bellevue, WA 98009",
+      "mailingAddress": "P. O. Box 374Bellevue, WA 98009"
+    },
+    "phone": "425-885-1861",
+    "website": "https://www.rootsweb.ancestry.com/~wakcegs/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "KidsQuest Children's Museum",
+    "address": {
+      "streetAddress": "4091 Factoria Square Mall SEBellevue, WA 98006",
+      "mailingAddress": "P.O. Box 5637Bellevue, WA 98006"
+    },
+    "phone": "425-637-8100",
+    "website": "https://www.kidsquestmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Rosalie Whyel Museum of Doll Art",
+    "address": {
+      "streetAddress": "Bellevue, WA",
+      "mailingAddress": "Bellevue, WA 98004"
+    },
+    "phone": "425-455-1116",
+    "website": "mailto:dollart@dollart.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "No longer open",
+    "museumTypes": []
+  },
+  {
+    "name": "Seattle First Baptist Church Heritage Room",
+    "address": {
+      "streetAddress": "3022 92nd Place NEBellevue, WA 98004",
+      "mailingAddress": "Bellevue, WA 98004"
+    },
+    "phone": null,
+    "website": "https://www.seattlefirstbaptist.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Church"
+    ]
+  },
+  {
+    "name": "Western Gallery, Western  Washington University",
+    "address": {
+      "streetAddress": "East College WayWestern Washington UniversityBellingham, WA 98225",
+      "mailingAddress": "Western Washington UniversityWestern GalleryBellingham, WA 98225"
+    },
+    "phone": "360-650-3900",
+    "website": "https://westerngallery.wwu.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The Western Gallery is open during the university's sessions, except during the summer. The gallery observes the university's calendar and holidays.",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "University"
+    ]
+  },
+  {
+    "name": "Family Interactive Gallery (FIG) at Whatcom Museum",
+    "address": {
+      "streetAddress": "250 Flora StreetBellingham, WA 98225",
+      "mailingAddress": null
+    },
+    "phone": "360-778-8930",
+    "website": "mailto:museuminfo@cob.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "General",
+      "Science"
+    ]
+  },
+  {
+    "name": "Whatcom Museum of History & Art",
+    "address": {
+      "streetAddress": "121 Prospect StreetBellingham, WA 98225",
+      "mailingAddress": "Bellingham, WA 98225"
+    },
+    "phone": "360-778-8000",
+    "website": "mailto:info@cob.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tue-Sun 12-5; closed most major holidays.",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Black Diamond Historical Society",
+    "address": {
+      "streetAddress": "32627 Railroad AveBlack Diamond, WA 98010",
+      "mailingAddress": "P. O. Box 232Black Diamond, WA 98010"
+    },
+    "phone": null,
+    "website": "mailto:museum@blackdiamondmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "SummerThursday 9:00 am - 4:00 pmSaturday & Sunday 12:00 pm - 4:00 pmWinterSaturday & Sunday 12:00 pm - 4:00 pm",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Drayton Harbor Maritime",
+    "address": {
+      "streetAddress": "1218 4th StreetBlaine, WA 98230",
+      "mailingAddress": "Blaine, WA 98230"
+    },
+    "phone": "360-332-5742",
+    "website": "https://www.draytonharbormaritime.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Bothell Historical Museum Society",
+    "address": {
+      "streetAddress": "9919 NE 180thBothell, WA 98011",
+      "mailingAddress": "P. O. Box 313Bothell, WA 98041"
+    },
+    "phone": "425-486-1889",
+    "website": "mailto:bothellmuseum@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Puget Sound Navy Museum",
+    "address": {
+      "streetAddress": "251 1st StreetBremerton, WA 98337",
+      "mailingAddress": null
+    },
+    "phone": "360-479-7447",
+    "website": "mailto:lindy.dosher@navy.mil",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Military"
+    ]
+  },
+  {
+    "name": "Kitsap County Historical Society",
+    "address": {
+      "streetAddress": "280 Fourth StreetBremerton, WA 98337",
+      "mailingAddress": null
+    },
+    "phone": "360-479-6226",
+    "website": "mailto:khsinfo@kitsaphistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open Tuesday through Saturday 10:00 a.m. to 5:00 p.m.",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Kitsap Library Northwest Collection",
+    "address": {
+      "streetAddress": "1301 Sylvan WayBremerton, WA 98310",
+      "mailingAddress": "Bremerton, WA 98310"
+    },
+    "phone": null,
+    "website": "https://www.krl.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "USS Turner Joy",
+    "address": {
+      "streetAddress": "300 Washington Beach AvenueBremerton, WA 98310",
+      "mailingAddress": "300 Washington Beach Ave. #8Bremerton, WA 98310"
+    },
+    "phone": "360-792-2457",
+    "website": "mailto:dd951@sinclair.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "1 May - 30 September",
+    "museumTypes": [
+      "General",
+      "History",
+      "Military",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Foothills Historical Society Museum",
+    "address": {
+      "streetAddress": "128 River AvenueBuckley, WA 98321",
+      "mailingAddress": "P.O. Box 530Buckley, WA 98321"
+    },
+    "phone": "360-829-1291",
+    "website": "mailto:foothillsmuseum@cityofbuckley.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/foothillshistoricalmuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Tolt Historical Society",
+    "address": {
+      "streetAddress": "28901 NE Carnation Farm RoadCarnation, WA 98014",
+      "mailingAddress": "P. O. Box 91Carnation, WA 98014"
+    },
+    "phone": "425-333-4436",
+    "website": "mailto:tolthistoricalsociety@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "1 to 3pm Saturdays",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Centralia College Library Media Center",
+    "address": {
+      "streetAddress": "6600 West Locust StreetCentralia, WA 98531",
+      "mailingAddress": "Centralia, WA 98531"
+    },
+    "phone": "360-736-9391",
+    "website": "mailto:admissions@centralia.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/CentraliaCollege?sk=wall",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Centralia Parks & Recreation Department",
+    "address": {
+      "streetAddress": "902 Johnson RdCentralia, WA 98531",
+      "mailingAddress": "P. O. Box 609Centralia, WA 98531"
+    },
+    "phone": "360-330-7688",
+    "website": "mailto:centparks@cityofcentralia.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Veterans Memorial Museum",
+    "address": {
+      "streetAddress": "100 S.W. Veterans WayChehalis, WA 98532",
+      "mailingAddress": "Centralia, WA 98531"
+    },
+    "phone": "360-740-8875",
+    "website": "mailto:vmm@compprime.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Library",
+      "Military",
+      "Park"
+    ]
+  },
+  {
+    "name": "Lewis County Historical Museum",
+    "address": {
+      "streetAddress": "599 NW Front WayChehalis, WA 98532",
+      "mailingAddress": "Chehalis, WA 98532"
+    },
+    "phone": "360-748-0831",
+    "website": "mailto:Director@lewiscountymuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Lewis-County-Historical-Museum/119497698121579",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Lake Chelan Historical Society",
+    "address": {
+      "streetAddress": "204 E Woodin AveChelan, WA 98816",
+      "mailingAddress": "P. O. Box 1948Chelan, WA 98816"
+    },
+    "phone": "509-682-5644",
+    "website": "mailto:museum@chelanmuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "June 1-Oct 1,  Mon-Sat 10-4. Oct-May, Thur: call for time.",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Eastern Washington University Galleries",
+    "address": {
+      "streetAddress": "Department Of Art M/S 102Cheney, WA 99004",
+      "mailingAddress": "Cheney, WA 99004"
+    },
+    "phone": "509-359-2494",
+    "website": "mailto:jjaynes@ewu.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "University"
+    ]
+  },
+  {
+    "name": "Cheney Historical Museum",
+    "address": {
+      "streetAddress": "420 1st StreetCheney, WA 99004",
+      "mailingAddress": null
+    },
+    "phone": "509-850-0314",
+    "website": "mailto:info@cheneymuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Chewelah Museum",
+    "address": {
+      "streetAddress": "501 3rd St.Chewelah, WA 99109",
+      "mailingAddress": "P. O. Box 271Chewelah, WA 99109"
+    },
+    "phone": "509-935-6091",
+    "website": "mailto:info@chewelah.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Starting last weekend in May",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Alpowai Interpretive Center/Chief Timothy State Park",
+    "address": {
+      "streetAddress": "13766 Highway 12Clarkston, WA 99403",
+      "mailingAddress": "Clarkston, WA 99403"
+    },
+    "phone": "360-902-8844",
+    "website": "mailto:infocent@parks.wa.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Northern Kittitas County Historical Society / Telephone Museum",
+    "address": {
+      "streetAddress": "Cle Elum Telephone Museum302 West 3rd StreetCle Elum, WA 98922",
+      "mailingAddress": "221 East 1st StreetCle Elum, WA 98922"
+    },
+    "phone": "509-649-2880",
+    "website": "mailto:info@highcountryartists.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Noon to 4:00 p.m. Saturday and Sunday from Memorial Day to Labor Day",
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Whitman County Historical Society",
+    "address": {
+      "streetAddress": "Colfax, WA 99111",
+      "mailingAddress": "P.O. Box 67Colfax, WA 99111"
+    },
+    "phone": null,
+    "website": "mailto:appeldh@colfax.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Perkins House, June-Aug., 1-4, or by arrangement.",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Stevens County Historical Society/Keller Heritage Center",
+    "address": {
+      "streetAddress": "700 North Wynne St.Colville, WA 99114",
+      "mailingAddress": "P. O. Box 25Colville, WA 99114"
+    },
+    "phone": "509-684-5968",
+    "website": "mailto:schs@ultraplix.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Fort Casey State Park Interpretive Center",
+    "address": {
+      "streetAddress": "1280 Engle RoadCoupeville, WA 98239",
+      "mailingAddress": "Coupeville, WA 98239"
+    },
+    "phone": null,
+    "website": "https://www.parks.wa.gov/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Dayton Depot",
+    "address": {
+      "streetAddress": "222 E. Commercial StreetDayton, WA 99328",
+      "mailingAddress": "P.O. Box 1881Dayton, WA 99328"
+    },
+    "phone": "509-382-2026",
+    "website": "mailto:info@daytonhistoricdepot.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Dayton-Historic-Depot/190904030951208",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tue-Sat 10-5; Sunday tours by appointment.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Des Moines Historical Museum & Society",
+    "address": {
+      "streetAddress": "730 S 225th StDes Moines, WA 98198",
+      "mailingAddress": "P. O. Box 98055Des Moines, WA 98198"
+    },
+    "phone": "206-824-5226",
+    "website": "mailto:info@dmhs.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Duvall Historical Society",
+    "address": {
+      "streetAddress": "26526 NE Cherry Valley RoadDuvall, WA 98019",
+      "mailingAddress": "PO Box 385Duvall, WA 98019"
+    },
+    "phone": null,
+    "website": "mailto:webmaster@duvallhistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The Historical Society opens the Dougherty House and the surrounding farmstead for public viewing, now listed on the National Register of Historic Places:",
+    "museumTypes": [
+      "Cemetery",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  }
+]

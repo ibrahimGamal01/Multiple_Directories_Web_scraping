@@ -1,0 +1,1224 @@
+[
+  {
+    "name": "Henry Art Gallery",
+    "address": {
+      "streetAddress": "15th Ave NE & 41st StSeattle, WA 98195",
+      "mailingAddress": "Box 351150 Univ. of WASeattle, WA 98195"
+    },
+    "phone": "206-543-2280",
+    "website": "mailto:info@henryart.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Fiske Genealogical Foundation",
+    "address": {
+      "streetAddress": "1644 43rd Avenue EastSeattle, WA 98112",
+      "mailingAddress": "Seattle, WA 98112"
+    },
+    "phone": "206-328-2716",
+    "website": "mailto:gzim@fiskelibrary.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Friends Center Gallery",
+    "address": {
+      "streetAddress": "4001 9th Avenue NESeattle, WA 98105",
+      "mailingAddress": "Seattle, WA 98105"
+    },
+    "phone": "206-547-6449",
+    "website": "mailto:UFMeeting@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Frye Art Museum",
+    "address": {
+      "streetAddress": "704 Terry AvenueSeattle, WA 98104",
+      "mailingAddress": "Seattle, WA 98104"
+    },
+    "phone": "206-622-9250",
+    "website": "mailto:info@fryemuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/fryemuseum/",
+      "twitter": "https://www.twitter.com/FryeArtMuseum/",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/FryeArtMuseum"
+    },
+    "hours": "Tue-Sat 10-5; Thu 10-9; Sun 12-5. Closed Mondays & major holidays.",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Henry Art Gallery",
+    "address": {
+      "streetAddress": "Univ. Of Washington15th Ave NE & 41st StSeattle, WA 98195",
+      "mailingAddress": "PO Box 351410Seattle, WA 98195"
+    },
+    "phone": "206-543-2280",
+    "website": "mailto:info@henryart.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/henryartgallery",
+      "twitter": "https://www.twitter.com/#!/henryartgallery",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/henryartgallery"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Historic Seattle PDA",
+    "address": {
+      "streetAddress": "1117 Minor AveSeattle, WA 98101",
+      "mailingAddress": "Seattle, WA 98101"
+    },
+    "phone": null,
+    "website": "https://www.historicseattle.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Thur 8:30-5; Fri 8:30-12.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Hydroplane & Race Boat Museum",
+    "address": {
+      "streetAddress": "5917 South 196th StreetKent, WA 98032",
+      "mailingAddress": "Seattle, WA 98108"
+    },
+    "phone": "206-764-9453",
+    "website": "https://www.thunderboats.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Thu 10amÉ10pm; Sat 10amÉ4pm",
+    "museumTypes": []
+  },
+  {
+    "name": "Japanese Garden",
+    "address": {
+      "streetAddress": "1075 Lake Washington Blvd ESeattle, WA 98112",
+      "mailingAddress": "Seattle, WA 98112"
+    },
+    "phone": "206-684-4725",
+    "website": "https://www.seattlejapanesegarden.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Klondike Gold Rush National Historical Park",
+    "address": {
+      "streetAddress": "117 South Main StreetSeattle, WA 98104",
+      "mailingAddress": "Seattle, WA 98104"
+    },
+    "phone": "206-220-4240",
+    "website": "https://www.nps.gov/klse/index.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Museum of Flight",
+    "address": {
+      "streetAddress": "9404 East Marginal Way SouthSeattle, WA 98108",
+      "mailingAddress": null
+    },
+    "phone": "206-764-5720",
+    "website": "https://www.museumofflight.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/museumofflight",
+      "twitter": "https://www.twitter.com/MuseumofFlight",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/museumofflightNW"
+    },
+    "hours": "First Thursday of each month: 10 a.m.-9 p.m. (5 p.m.-9 p.m. Free.)",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Library",
+      "Military",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Museum of History and  Industry",
+    "address": {
+      "streetAddress": "2700 24th Avenue EastSeattle, WA 98112",
+      "mailingAddress": "Seattle, WA 98112"
+    },
+    "phone": null,
+    "website": "https://www.seattlehistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Fri 11-5; Sat-Sun 10-5.",
+    "museumTypes": []
+  },
+  {
+    "name": "Nordic Heritage Museum",
+    "address": {
+      "streetAddress": "3014 NW 67th StreetSeattle, WA 98117",
+      "mailingAddress": "Seattle, WA 98117"
+    },
+    "phone": "206-789-5707",
+    "website": "mailto:sandran@nordicmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tue-Sat 10-4; Sun 12-4.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Northwest Seaport Maritime Heritage Center",
+    "address": {
+      "streetAddress": "1002 Valley StreetSeattle, WA 98109",
+      "mailingAddress": "Seattle, WA 98109"
+    },
+    "phone": null,
+    "website": "https://www.nwseaport.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Sun 12-5.",
+    "museumTypes": []
+  },
+  {
+    "name": "Pacific Northwest Historians Guild",
+    "address": {
+      "streetAddress": "Seattle, WA 98145",
+      "mailingAddress": "P.O. Box 85457Seattle, WA 98145"
+    },
+    "phone": null,
+    "website": "mailto:president@pnwhistorians.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Pacific Science Center",
+    "address": {
+      "streetAddress": "Pacific Science Center200 Second Ave NSeattle, WA 98109",
+      "mailingAddress": "200 Second Ave NSeattle, WA 98109"
+    },
+    "phone": null,
+    "website": "https://www.pacsci.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Phinney Neighborhood Center Gallery",
+    "address": {
+      "streetAddress": "6532 Phinney Avenue NorthSeattle, WA 98103",
+      "mailingAddress": "Seattle, WA 98103"
+    },
+    "phone": "206-783-2244",
+    "website": "mailto:leeh@phinneycenter.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Phinney-Neighborhood-Association/151362848235306",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Pratt Fine Arts Center",
+    "address": {
+      "streetAddress": "1902 South Main St.Seattle, WA 98144",
+      "mailingAddress": "Seattle, WA 98144"
+    },
+    "phone": "206-328-2200",
+    "website": "mailto:info@pratt.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Queen Anne Historical Society",
+    "address": {
+      "streetAddress": "Seattle, WA 98109",
+      "mailingAddress": "P. O. Box 19432Seattle, WA 98109"
+    },
+    "phone": null,
+    "website": "https://www.scn.org/neighbors/qahs",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Rainier Valley Historical Society",
+    "address": {
+      "streetAddress": "3710 S Ferdinand St.Seattle, WA 98118",
+      "mailingAddress": "P. O. Box 18143Seattle, WA 98118"
+    },
+    "phone": "206-723-1663",
+    "website": "https://www.rainiervalleyhistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wed 10-1.",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Seattle Aquarium",
+    "address": {
+      "streetAddress": "1438 Alaskan Way  Pier 59Seattle, WA 98101",
+      "mailingAddress": "Seattle, WA 98101"
+    },
+    "phone": null,
+    "website": "https://www.seattleaquarium.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Winter daily 10-5; Summer daily 10-7",
+    "museumTypes": [
+      "Aquarium"
+    ]
+  },
+  {
+    "name": "Seattle Art Museum",
+    "address": {
+      "streetAddress": "1300 First AvenueSeattle, WA 98101",
+      "mailingAddress": null
+    },
+    "phone": "206-625-8900",
+    "website": "mailto:webmaster@seattleartmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Seattle Asian Art Museum",
+    "address": {
+      "streetAddress": "1300 First AvenueSeattle, WA 98101",
+      "mailingAddress": "P. O. Box 22000Seattle, WA 98122"
+    },
+    "phone": "206-625-8900",
+    "website": "mailto:webmaster@seattleartmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Sun 10-5, Thur 10-9. Closed Mondays except M.L.King, Pres. Day, Memorial and Labor Days. Closed Thanksgiving, Christmas and New Year's Day.",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Seattle Folklore Society",
+    "address": {
+      "streetAddress": "Seattle, WA 98103",
+      "mailingAddress": "P. O. Box 30141Seattle, WA 98103"
+    },
+    "phone": "206-528-8546",
+    "website": "mailto:web@seafolklore.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Seattle Genealogical Society",
+    "address": {
+      "streetAddress": "6200 Sandpoint Way NE, #101Seattle, WA 98115",
+      "mailingAddress": "P. O. Box 15329Seattle, WA 98115"
+    },
+    "phone": null,
+    "website": "https://www.rootsweb.com/~waseags/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Seattle Pacific University, Art Dep't",
+    "address": {
+      "streetAddress": "3307 3rd Avenue WestSeattle, WA 98119",
+      "mailingAddress": "Seattle, WA 98119"
+    },
+    "phone": "206-281-2000",
+    "website": "https://www.spu.edu/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/seattle.pacific.university?sk=app_250957478268166",
+      "twitter": "https://www.twitter.com/SPUnews",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "0",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Seattle Public Library Exhibition Gallery",
+    "address": {
+      "streetAddress": "1000 4th AvenueSeattle, WA 98104",
+      "mailingAddress": "Seattle, WA 98104"
+    },
+    "phone": "206-386-4636",
+    "website": "mailto:sarah.vanwesten@spl.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/SeattlePublicLibrary",
+      "twitter": "https://www.twitter.com/SPLBuzz",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "South Seattle Community College Arboretum",
+    "address": {
+      "streetAddress": "6000 16th Avenue SWSeattle, WA 98106",
+      "mailingAddress": "Seattle, WA 98106"
+    },
+    "phone": "206-934-5300",
+    "website": "https://www.southseattle.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Arboretum"
+    ]
+  },
+  {
+    "name": "South Seattle Community College Library Changing Exhibitions",
+    "address": {
+      "streetAddress": "6000 16th Avenue SWSeattle, WA 98106",
+      "mailingAddress": "Seattle, WA 98106"
+    },
+    "phone": null,
+    "website": "mailto:elizabeth.pluhta@seattlecolleges.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Southwest Seattle Historical Society - Log House Museum",
+    "address": {
+      "streetAddress": "3003 61st Ave SWSeattle, WA 98116",
+      "mailingAddress": "Seattle, WA 98116"
+    },
+    "phone": "206-938-5293",
+    "website": "mailto:loghousemuseum@comcast.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Center for Wooden Boats",
+    "address": {
+      "streetAddress": "1010 Valley StreetSeattle, WA 98109",
+      "mailingAddress": "Seattle, WA 98109"
+    },
+    "phone": "206-382-2628",
+    "website": "mailto:cwb@cwb.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Seattle-WA/The-Center-for-Wooden-Boats/110002035684",
+      "twitter": "https://www.twitter.com/#!/ctr4woodenboats",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/centerforwoodenboats"
+    },
+    "hours": "Tuesday - Sunday, 10am - 5pm, varies seasonally.",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "The Children's Museum",
+    "address": {
+      "streetAddress": "305 Harrison StreetSeattle, WA 98109",
+      "mailingAddress": "Seattle, WA 98109"
+    },
+    "phone": "206-441-1768",
+    "website": "https://www.thechildrensmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": "https://www.twitter.com/tcmseattle",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Opens daily at 10 am.",
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "The Evergreen State Society",
+    "address": {
+      "streetAddress": "1122 East Pike St. #444Seattle, WA 98122",
+      "mailingAddress": "Seattle, WA 98122"
+    },
+    "phone": null,
+    "website": "https://www.tess.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Friends of the Conservatory",
+    "address": {
+      "streetAddress": "1402 East GalerSeattle, WA 98112",
+      "mailingAddress": "Seattle, WA 98112"
+    },
+    "phone": "206-322-4112",
+    "website": "https://www.volunteerparkconservatory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Special Collections, University of Washington Libraries",
+    "address": {
+      "streetAddress": "Allen LibrarySeattle, WA 98195",
+      "mailingAddress": "Box 352900Seattle, WA 98195"
+    },
+    "phone": "206-543-0242",
+    "website": "https://www.lib.washington.edu/specialcollections",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/uwspeccoll",
+      "twitter": "https://www.twitter.com/uwspeccoll",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library",
+      "Specialized",
+      "University"
+    ]
+  },
+  {
+    "name": "Virginia V Foundation",
+    "address": {
+      "streetAddress": "Seattle, WA 98124",
+      "mailingAddress": "P.O. Box 24805Seattle, WA 98124"
+    },
+    "phone": "206-624-9119",
+    "website": "mailto:info@virginiav.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Washington Commission for the Humanities",
+    "address": {
+      "streetAddress": "615 2nd Avenue Suite 300Seattle, WA 98104",
+      "mailingAddress": "Seattle, WA 98104"
+    },
+    "phone": null,
+    "website": "mailto:info@humanities.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Fri 8:30-5.",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History"
+    ]
+  },
+  {
+    "name": "Washington Park Arboretum",
+    "address": {
+      "streetAddress": "Seattle, WA 98195",
+      "mailingAddress": "UW Box 358010Seattle, WA 98195"
+    },
+    "phone": null,
+    "website": "https://depts.washington.edu/wpa",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daylight hours - year around. Visitor Center 10-4 except holidays.",
+    "museumTypes": [
+      "Arboretum"
+    ]
+  },
+  {
+    "name": "Wing Luke Asian Museum",
+    "address": {
+      "streetAddress": "719 South King StreetSeattle, WA 98104",
+      "mailingAddress": "Seattle, WA 98104"
+    },
+    "phone": "206-623-5124",
+    "website": "https://www.wingluke.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Wing-Luke-Asian-Museum/34549168087",
+      "twitter": "https://www.twitter.com/wingluke",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Woodland Park Zoo",
+    "address": {
+      "streetAddress": "5500 Phinney Avenue NorthSeattle, WA 98103",
+      "mailingAddress": "Seattle, WA 98103"
+    },
+    "phone": "206-548-2500",
+    "website": "mailto:webkeeper@zoo.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "North Cascades NPS Headquarters",
+    "address": {
+      "streetAddress": "810 State Route 20Sedro Woolley, WA 98284",
+      "mailingAddress": "Sedro Woolley, WA 98284"
+    },
+    "phone": "360-854-7200",
+    "website": "https://www.nps.gov/noca/planyourvisit/visitorcenters.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "0",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Sedro-Woolley Museum",
+    "address": {
+      "streetAddress": "725 Murdock StreetSedro-Woolley, WA 98284",
+      "mailingAddress": null
+    },
+    "phone": "360-855-2390",
+    "website": "mailto:swmuseum@comcast.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/WoolleyMuseum/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Museum and Arts Center",
+    "address": {
+      "streetAddress": "Museum & Arts Center in the Sequim-Dungeness Valley175 W. Cedar St.Sequim, WA 98382",
+      "mailingAddress": "175 W. Cedar St.Sequim, WA 98382"
+    },
+    "phone": "360-681-2257",
+    "website": "https://www.museumandartscenter.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "January - JuneTuesday - Saturday 8:00 a.m. - 4:00 p.m.July - SeptemberTuesday - Saturday 8:00 a.m. - 4:00 p.m.Sunday 1:00 p.m. - 4:00 p.m.October - DecemberTuesday - Saturday 8:00 a.m. - 4:00 p.m.",
+    "museumTypes": [
+      "Art",
+      "General",
+      "History",
+      "Historic House",
+      "Library",
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Olympic Game Farm",
+    "address": {
+      "streetAddress": "1423 Ward RoadSequim, WA 98382",
+      "mailingAddress": "Sequim, WA 98382"
+    },
+    "phone": "360-683-4295",
+    "website": "mailto:info@olygamefarm.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Shaw Island Library and Historical Society",
+    "address": {
+      "streetAddress": "Shaw Island, WA 98286",
+      "mailingAddress": "P. O. Box 844Shaw Island, WA 98286"
+    },
+    "phone": null,
+    "website": "mailto:rkg@rockisland.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Shoreline Historical Museum",
+    "address": {
+      "streetAddress": "18501 Linden Ave. N.Shoreline, WA 98133",
+      "mailingAddress": "P.O. Box 55594Shoreline, WA 98155"
+    },
+    "phone": "206-542-7111",
+    "website": "mailto:shm@shorelinehistoricalmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Skykomish Historical Society",
+    "address": {
+      "streetAddress": "110 Railroad Ave.Skykomish, WA 98288",
+      "mailingAddress": "PO Box 247Skykomish, WA 98288"
+    },
+    "phone": null,
+    "website": "https://www.skykomishhistoricalsociety.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Snohomish Historical Society",
+    "address": {
+      "streetAddress": "Snohomish, WA 98291",
+      "mailingAddress": "P. O. Box 174Snohomish, WA 98291"
+    },
+    "phone": "360-568-5235",
+    "website": "https://www.snohomishhistoricalsociety.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Northwest Railway Museum",
+    "address": {
+      "streetAddress": "38625 SE King StreetSnoqualmie, WA 98065",
+      "mailingAddress": "P.O. Box 459Snoqualmie, WA 98065"
+    },
+    "phone": "425-888-3030",
+    "website": "mailto:info@trainmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Prairie House Museum / Spanaway Historical Society",
+    "address": {
+      "streetAddress": "812 E. 176th StreetSpanaway, WA 98387",
+      "mailingAddress": "P.O. Box 1238Spanaway, WA 98387"
+    },
+    "phone": "253-536-6655",
+    "website": "mailto:celebratespanaway@earthlink.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Corbin Art Center",
+    "address": {
+      "streetAddress": "808 W. Spokane Falls Blvd. – 5th Floor City HallSpokane, WA 99201",
+      "mailingAddress": "Spokane, WA 99204"
+    },
+    "phone": "509-625-6200",
+    "website": "mailto:parks@spokanecity.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Crosby Student Center",
+    "address": {
+      "streetAddress": "East 502 Boone AveSpokane, WA 99258",
+      "mailingAddress": "Spokane, WA 99258"
+    },
+    "phone": "509-313-6858",
+    "website": "mailto:hebel@gonzaga.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Inland Empire Railway Historical Society",
+    "address": {
+      "streetAddress": "Spokane, WA 99220",
+      "mailingAddress": "P. O. Box 3950Spokane, WA 99220"
+    },
+    "phone": "509-535-7186",
+    "website": "mailto:ierhs@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Jundt Art Museum, Gonzaga University",
+    "address": {
+      "streetAddress": "200 E DesmetSpokane, WA 99201",
+      "mailingAddress": "502 E Boone AveSpokane, WA 99258"
+    },
+    "phone": "509-313-6843",
+    "website": "mailto:jundtartmuseum@gonzaga.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/undtmuseum",
+      "twitter": "https://www.twitter.com/JundtArtMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "University"
+    ]
+  },
+  {
+    "name": "Spokane Civic Theater Gallery",
+    "address": {
+      "streetAddress": "1020 N. Howard StreetSpokane, WA 99205",
+      "mailingAddress": "P. O. Box 5222Spokane, WA 99205"
+    },
+    "phone": "509-325-2507",
+    "website": "https://www.spokanecivictheatre.com/news/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Spokane Falls Community College Art Gallery",
+    "address": {
+      "streetAddress": "W. 3410 Ft. Geo. Wright Dr.Spokane, WA 99204",
+      "mailingAddress": "Art Dept. 3060Spokane, WA 99204"
+    },
+    "phone": "509-533-3500",
+    "website": "mailto:sfccinfo@spokanefalls.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Spokane Public Library Gallery",
+    "address": {
+      "streetAddress": "906 West Main AvenueSpokane, WA 99201",
+      "mailingAddress": "Spokane, WA 99201"
+    },
+    "phone": "509-444-5300",
+    "website": "https://www.spokanelibrary.org/index.php",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Stanwood Area Historical Society",
+    "address": {
+      "streetAddress": "102nd Av. NWStanwood, WA 98292",
+      "mailingAddress": "P. O. Box 69Stanwood, WA 98292"
+    },
+    "phone": "360-629-6110",
+    "website": "https://www.sahs-fncc.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sun 2-5,  Wed 1-4,  Fri 10-2.",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Historic Fort Steilacoom Association",
+    "address": {
+      "streetAddress": "9601 Steilacoom BlvdLakewood, WA 98398",
+      "mailingAddress": "P. O. Box 88447Steilacoom, WA 98388"
+    },
+    "phone": "253-582-5838",
+    "website": "mailto:info@historicfortsteilacoom.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "FIRST Sunday 1-4",
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Military",
+      "Park"
+    ]
+  },
+  {
+    "name": "Steilacoom Tribal Museum & Cultural Center",
+    "address": {
+      "streetAddress": "Steilacoom, WA 98388",
+      "mailingAddress": "P. O. Box 88419Steilacoom, WA 98388"
+    },
+    "phone": "253-584-6308",
+    "website": "mailto:info@steilacoomtribe.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/SteilacoomTribe",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History"
+    ]
+  },
+  {
+    "name": "Columbia Gorge Interpretive Center",
+    "address": {
+      "streetAddress": "990 SW Rock Creek DrStevenson, WA 98648",
+      "mailingAddress": "P.O. Box 396Stevenson, WA 98648"
+    },
+    "phone": "800-991-2338",
+    "website": "https://www.columbiagorge.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 10-5; Closed New Years, Easter, Thanksgiving.",
+    "museumTypes": [
+      "General"
+    ]
+  }
+]

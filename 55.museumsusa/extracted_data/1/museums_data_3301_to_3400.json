@@ -1,0 +1,1382 @@
+[
+  {
+    "name": "Bean-Brown Theater/Bell South Gallery",
+    "address": {
+      "streetAddress": "9500 Old Greensboro Road #154, Shelton State CollegeTuscaloosa, AL 35405",
+      "mailingAddress": null
+    },
+    "phone": "205-391-2277",
+    "website": "mailto:tturley@sheltonstate.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Bellingrath Gardens & Home",
+    "address": {
+      "streetAddress": "12401 Bellingrath Gardens RoadTheodore, AL 36582",
+      "mailingAddress": null
+    },
+    "phone": "251-973-2217",
+    "website": "mailto:bellingrath@bellingrath.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Berman Museum of World History",
+    "address": {
+      "streetAddress": "840 Museum DriveAnniston, AL 36206",
+      "mailingAddress": "P.O. Box 2245Anniston, AL 36202"
+    },
+    "phone": "256-237-6261",
+    "website": "mailto:Dford@bermanmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Bessemer Hall of History",
+    "address": {
+      "streetAddress": "1905 Alabama AvenueBessemer, AL 35020",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.bhamrails.info/Bess_Hall_Hist/bess_hall_hist_02.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Biophilia Nature Center",
+    "address": {
+      "streetAddress": "12695 Baldwin Co. 95Elberta, AL 36530",
+      "mailingAddress": null
+    },
+    "phone": "251-987-1200",
+    "website": "mailto:biophilia@gulftel.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Alabama Center for Traditional Culture",
+    "address": {
+      "streetAddress": "410 North Hull StreetMontgomery, AL 36104",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:joey.brackner@arts.alabama.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture"
+    ]
+  },
+  {
+    "name": "Birmingham Botanical Gardens",
+    "address": {
+      "streetAddress": "2612 Lane Park RoadBirmingham, AL 35223",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.bbgardens.org/media/html/home/index.php",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Friends of Birmingham Botanical Gardens",
+    "address": {
+      "streetAddress": "2612 Lane Park RoadBirmingham, AL 35223",
+      "mailingAddress": null
+    },
+    "phone": "205-414-3950",
+    "website": "mailto:oalison@bbgardens.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/BirminghamBotanicalGardens",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Birmingham Civil Rights Institute",
+    "address": {
+      "streetAddress": "520 Sixteenth Street NorthBirmingham, AL 35203",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.bcri.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Birmingham Historical Society",
+    "address": {
+      "streetAddress": "One Sloss QuartersBirmingham, AL 35222",
+      "mailingAddress": null
+    },
+    "phone": "205-251-1880",
+    "website": "https://www.bhistorical.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Birmingham Museum of Art",
+    "address": {
+      "streetAddress": "2000 8th Avenue NorthBirmingham, AL 35203",
+      "mailingAddress": null
+    },
+    "phone": "205-254-2565",
+    "website": "https://www.artsbma.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Birmingham-Museum-of-Art/69113095368",
+      "twitter": "https://www.twitter.com/bhammuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Birmingham Zoo",
+    "address": {
+      "streetAddress": "2630 Cahaba RoadBirmingham, AL 35223",
+      "mailingAddress": null
+    },
+    "phone": "205-879-0409",
+    "website": "mailto:ppendleton@birminghamzoo.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Birmingham-AL/The-Birmingham-Zoo/208810809679",
+      "twitter": "https://www.twitter.com/birminghamzoo",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Black Heritage Council",
+    "address": {
+      "streetAddress": "3007 N. Broad StreetSelma, AL 36071",
+      "mailingAddress": null
+    },
+    "phone": "334-467-2726",
+    "website": "mailto:dorothy.walker@preserveala.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Blakeley Historic Park",
+    "address": {
+      "streetAddress": "34745 State Highway 225Spanish Fort, AL 36527",
+      "mailingAddress": "P.O. Box 7279Spanish Fort, AL 36577"
+    },
+    "phone": "251-626-0798",
+    "website": "mailto:blakeleypark@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Alabama Department of Archives & History",
+    "address": {
+      "streetAddress": "624 Washington AvenueMontgomery, AL 36130",
+      "mailingAddress": "P.O. Box 300100Montgomery, AL 36130"
+    },
+    "phone": "334-242-4435",
+    "website": "mailto:mark.palmer@archives.alabama.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Blount County Memorial Museum",
+    "address": {
+      "streetAddress": "204 2nd St. NorthOneonta, AL 35151",
+      "mailingAddress": "P.O. Box 963Oneonta, AL 35121"
+    },
+    "phone": "205-625-6905",
+    "website": "https://www.blountoneontachamber.com/blountcountymuseum.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Sauta Cave National Wildlife Refuge",
+    "address": {
+      "streetAddress": "2700 Refuge RoadDecatur, AL 35603",
+      "mailingAddress": null
+    },
+    "phone": "256-353-7243",
+    "website": "mailto:wheeler@fws.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Bon Secour National Wildlife Refuge",
+    "address": {
+      "streetAddress": "12295 State Highway 180Gulf Shores, AL 36542",
+      "mailingAddress": null
+    },
+    "phone": "251-540-7720",
+    "website": "mailto:bonsecour@fws.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Bragg-Mitchell Mansion",
+    "address": {
+      "streetAddress": "1906 Springhill AvenueMobile, AL 36607",
+      "mailingAddress": null
+    },
+    "phone": "251-471-6364",
+    "website": "mailto:info@braggmitchellmansion.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Mobile-AL/Bragg-Mitchell-Mansion/99696164804",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Brierfield Ironworks Historical State Park",
+    "address": {
+      "streetAddress": "240 Furnace ParkwayBrierfield, AL 35035",
+      "mailingAddress": null
+    },
+    "phone": "205-665-1856",
+    "website": "https://www.brierfieldironworks.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Park"
+    ]
+  },
+  {
+    "name": "Buena Vista Mansion",
+    "address": {
+      "streetAddress": "641 County Rd. 4 EPrattville, AL 36067",
+      "mailingAddress": "102 E Main StPrattville, AL 36067"
+    },
+    "phone": "334-365-3690",
+    "website": "mailto:buenavista@autaugahistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "or by appointment.",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Alabama Department of Conservation",
+    "address": {
+      "streetAddress": "64 N. Union St.Montgomery, AL 36130",
+      "mailingAddress": null
+    },
+    "phone": "334-242-3486",
+    "website": "mailto:chris.blankenship@dcnr.alabama.gov",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Outdoor-Alabama/91170969884",
+      "twitter": "https://www.twitter.com/#!/Outdoor_Alabama",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/outdooralabama"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "The Butler County Historical & Genealogical Society, Inc.",
+    "address": {
+      "streetAddress": "309 Fort Dale RdGreenville, AL 36037",
+      "mailingAddress": "P. O. Box 561Greenville, AL 36037"
+    },
+    "phone": "334-383-9564",
+    "website": "mailto:historyroom@camelliacom.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Our Research Room is open during public library hours at the Greenville-Butler County Public Library, Greenville, Alabama 36037",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Cahaba River Society",
+    "address": {
+      "streetAddress": "2717 7th Avenue South, Suite 205Birmingham, AL 35233",
+      "mailingAddress": null
+    },
+    "phone": "205-322-5326",
+    "website": "mailto:BethS@cahabariversociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Calhoun State Community College Art Gallery",
+    "address": {
+      "streetAddress": "Highway 31 North Fine Arts BuildingDecatur, AL 35609",
+      "mailingAddress": "Decatur, AL 35601"
+    },
+    "phone": "256-306-2500",
+    "website": "https://www.eventcrazy.com/Decatur-AL/attractions/details/48235-The-Art-Gallery-John-C-Calhoun-State-Community-College",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Camp McDowell",
+    "address": {
+      "streetAddress": "105 DeLong RoadNauvoo, AL 35578",
+      "mailingAddress": null
+    },
+    "phone": "205-387-1806",
+    "website": "mailto:mark@campmcdowell.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Military"
+    ]
+  },
+  {
+    "name": "Alabama Fan Club and Museum",
+    "address": {
+      "streetAddress": "101 Glenn Blvd SWFort Payne, AL 35967",
+      "mailingAddress": null
+    },
+    "phone": "256-845-1646",
+    "website": "mailto:sales@alabamagear.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Center for the Cultural Arts",
+    "address": {
+      "streetAddress": "501 Broad StGadsden, AL 35901",
+      "mailingAddress": "P.O. Box 1507Gadsden, AL 35902"
+    },
+    "phone": "256-543-2787",
+    "website": "mailto:marketing@culturalarts.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Cherokee County Historical Museum",
+    "address": {
+      "streetAddress": "101 East Main StreetCentre, AL 35960",
+      "mailingAddress": null
+    },
+    "phone": "256-927-7835",
+    "website": "mailto:MuseumAtCentre@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Cherokee Heritage Museum & Gallery",
+    "address": {
+      "streetAddress": "35 Big Cove RdCherokee, NC 28719",
+      "mailingAddress": "P.O. Box 607Whittier, NC 28789"
+    },
+    "phone": "828-497-3211",
+    "website": "https://www.cherokeeheritagemuseum-gallery.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History"
+    ]
+  },
+  {
+    "name": "Children's Hands-On Museum (CHOM)",
+    "address": {
+      "streetAddress": "2213 University BlvdTuscaloosa, AL 35403",
+      "mailingAddress": "P.O. Box 1672Tuscaloosa, AL 35403"
+    },
+    "phone": "205-349-4235",
+    "website": "mailto:info@chomonline.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Abbie Gardner Cabin",
+    "address": {
+      "streetAddress": "Monument DriveArnolds Park, IA 51331",
+      "mailingAddress": "Arnolds Park, IA 51331"
+    },
+    "phone": "712-332-7248",
+    "website": "https://www.state.ia.us/government/dca/shsi",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mem Day-Sept 30: Mon-Fri 12-4, Sat & Sun 9-4",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Bily Clocks Museum/Antonin Dvorak Exhibit",
+    "address": {
+      "streetAddress": "323 Main St.Spillville, IA 52168",
+      "mailingAddress": "PO Box 258Spillville, IA 52168"
+    },
+    "phone": "563-562-3569",
+    "website": "mailto:bilyclocks@mchsi.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Medical Museum",
+    "address": {
+      "streetAddress": "8014 JCP    200 Hawkins DriveIowa City, IA 52242",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.uihealthcare.com/depts/medmuseum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Fri: 8-5, Sat & Sun: 1-4",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Midwest Old Threshers Heritage Museums",
+    "address": {
+      "streetAddress": "405 E. Threshers RdMount Pleasant, IA 52641",
+      "mailingAddress": null
+    },
+    "phone": "319-385-8937",
+    "website": "mailto:info@oldthreshers.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/oldthreshers",
+      "twitter": "https://www.twitter.com/oldthreshers",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-F: 8-4:30; Mem-Labor Day also: Sat & Sun :9-4:30",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Miller House Museum",
+    "address": {
+      "streetAddress": "329 Main St.Keokuk, IA 52632",
+      "mailingAddress": "318 No. 5th St, PO Box 125Keokuk, IA 52632"
+    },
+    "phone": "800-383-1219",
+    "website": "mailto:info@keokukiowatourism.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Summer: Sat & Sun afternoons or by appt.",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Montauk Historic Site",
+    "address": {
+      "streetAddress": "26223 Harding RoadClermont, IA 52135",
+      "mailingAddress": "P.O. Box 372Clermont, IA 52135"
+    },
+    "phone": "563-423-7173",
+    "website": "mailto:Montauk@acegroup.cc",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Nature Centers",
+      "Park"
+    ]
+  },
+  {
+    "name": "Muscatine Art Center",
+    "address": {
+      "streetAddress": "1314 Mulberry AvenueMuscatine, IA 52761",
+      "mailingAddress": null
+    },
+    "phone": "563-263-8282",
+    "website": "https://www.muscatineartcenter.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "T-F:10-5, Thurs:7-9pm, Sat-Sun: 1-5",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Museum of Amana History",
+    "address": {
+      "streetAddress": "Amana, PO Box 81Amana, IA 52203",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.amanacolonies.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "April-Oct: mon-Sat: 10-5, Sun: 12-5",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Blanden Art Museum",
+    "address": {
+      "streetAddress": "920 3rd Avenue SouthFort Dodge, IA 50501",
+      "mailingAddress": null
+    },
+    "phone": "515-573-2316 x8101",
+    "website": "mailto:blandenmemorial@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/BlandenArtMuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/channel/UCjPpECq5j7w86VsTIadNBAQ/video"
+    },
+    "hours": "As of 2/16/22 current hours are:",
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "Culture",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Museum of Natural History",
+    "address": {
+      "streetAddress": "10 Macbride HallUniversity of IowaIowa City, IA 52242",
+      "mailingAddress": "University of IowaMacbride HallIowa City, IA 52242"
+    },
+    "phone": "319-335-0480",
+    "website": "mailto:uimnh@uiowa.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/profile.php?id=1433637960&ref=profile",
+      "twitter": "https://www.twitter.com/IowaMNH",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Children's",
+      "Natural History",
+      "Science",
+      "University"
+    ]
+  },
+  {
+    "name": "Nathaniel Hamlin Museum & Park",
+    "address": {
+      "streetAddress": "1745-160th St.Audubon, IA 50025",
+      "mailingAddress": null
+    },
+    "phone": "712-563-9594",
+    "website": "mailto:aced@metc.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "June 1-Sept 1, Sat & Sun 1:30-4",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "National Balloon Museum and US Ballooning Hall of Fame",
+    "address": {
+      "streetAddress": "1601 North Jefferson WayIndianola, IA 50125",
+      "mailingAddress": "P.O. Box 149Indianola, IA 50125"
+    },
+    "phone": "515-961-3714",
+    "website": "mailto:museum@nationalballoonmuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Library",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "National Czech & Slovak Museum & Library",
+    "address": {
+      "streetAddress": "30  16th Ave SWCedar Rapids, IA 52404",
+      "mailingAddress": null
+    },
+    "phone": "319-362-8500",
+    "website": "https://www.ncsml.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Sat: 9:30-4, Sun: 12-4",
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "National Farm Toy Museum",
+    "address": {
+      "streetAddress": "1110 16th Avenue SEDyersville, IA 52040",
+      "mailingAddress": null
+    },
+    "phone": "563-875-2727",
+    "website": "mailto:farmtoys@dyersville.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily: 8-7 except Easter, Thanks. & Christmas",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "National Sprint Car Hall of Fame and Museum",
+    "address": {
+      "streetAddress": "One Sprint Capital PlaceKnoxville, IA 50138",
+      "mailingAddress": null
+    },
+    "phone": "641-842-6176",
+    "website": "mailto:info@sprintcarhof.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Fri: 10-6, Sun: noon - 5, Sat: noon - 5",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Oelwein Area Historical Society Museum",
+    "address": {
+      "streetAddress": "900 2nd Ave SE, PO Box 445Oelwein, IA 50662",
+      "mailingAddress": null
+    },
+    "phone": "319-283-2627",
+    "website": "https://www.rootsweb.ancestry.com/~iaoahs/museum/museum.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "June-Oct, Sun: 1-4",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Old Bradford Pioneer Village",
+    "address": {
+      "streetAddress": "2729 Cheyenne AvenueNashua, IA 50658",
+      "mailingAddress": null
+    },
+    "phone": "641-435-2567",
+    "website": "mailto:chickasawhist@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Military",
+      "Park"
+    ]
+  },
+  {
+    "name": "Bluedorn Science Imaginarium",
+    "address": {
+      "streetAddress": "Bluedorn Science Imaginarium322 Washington St.Waterloo, IA 50701",
+      "mailingAddress": "322 Washington St.Waterloo, IA 50701"
+    },
+    "phone": "319-234-6357",
+    "website": "mailto:info@gmdistrict.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "9:00am - 5:00pm Tuesday-Saturday",
+    "museumTypes": [
+      "Children's",
+      "General",
+      "Science"
+    ]
+  },
+  {
+    "name": "Parker Museum",
+    "address": {
+      "streetAddress": "300 East Third StreetSpencer, IA 51301",
+      "mailingAddress": "P.O. Box 91Spencer, IA 51301"
+    },
+    "phone": "712-262-3304",
+    "website": "mailto:parkermuseum@smunet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Friday, 11:30 am - 3:30 pm\nor by appointment",
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Pine Creek Grist Mill",
+    "address": {
+      "streetAddress": "1884 Wildcat Den Rd.Muscatine, IA 52761",
+      "mailingAddress": null
+    },
+    "phone": "563-263-4818",
+    "website": "mailto:tomhanifan@yahoo.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Pine-Creek-Grist-Mill/181915185162487?v=photo",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Prairie Trails Museum of Wayne County",
+    "address": {
+      "streetAddress": "515 E Jefferson St.Corydon, IA 50060",
+      "mailingAddress": "Corydon, IA 50060"
+    },
+    "phone": "641-872-2211",
+    "website": "mailto:ptmuseum@grm.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open  April 15-Oct.15: 1-5, extra hours in summer",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Putnam Museum of History & Natural Science",
+    "address": {
+      "streetAddress": "1717 West 12th StreetDavenport, IA 52804",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.putnam.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Fri: 9-5, Sat:10-5, Sun: 12-5",
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Quasdorf Blacksmith/Wagon Museum",
+    "address": {
+      "streetAddress": "Box 312, Train St at DepotDows, IA 50071",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:shlosser@beautifuliron.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Sat: 9-5, Sun: 12-5",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Rensselaer Russell House Museum",
+    "address": {
+      "streetAddress": "Rensselaer Russell House Museum520 W. 3rd St.Waterloo, IA 50701",
+      "mailingAddress": "503 South St.Waterloo, IA 50701"
+    },
+    "phone": "319-234-6357",
+    "website": "https://www.groutmuseumdistrict.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Boone & Scenic Valley Railroad",
+    "address": {
+      "streetAddress": "225 10th StreetBoone, IA 50036",
+      "mailingAddress": "P.O. Box 603Boone, IA 50036"
+    },
+    "phone": "800-626-0319",
+    "website": "mailto:info@bsvrr.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "June - OctoberDaily 8:00 a.m. - 5:00 p.m.November - MayDaily 8:30 a.m. - 4:30 p.m.",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Ruth Suckow Memorial Association",
+    "address": {
+      "streetAddress": "Northern Avenue, Box 189Earlville, IA 52041",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.ruthsuckow.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "N/A",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Salisbury House",
+    "address": {
+      "streetAddress": "4025 Tonawanda DriveDes Moines, IA 50312",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.salisburyhouse.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Public Tours: 2:00 weekdays. Call in advance.",
+    "museumTypes": [
+      "Art",
+      "History"
+    ]
+  },
+  {
+    "name": "Sanford Museum & Planetarium",
+    "address": {
+      "streetAddress": "117 E. WillowCherokee, IA 51012",
+      "mailingAddress": null
+    },
+    "phone": "712-225-3922",
+    "website": "mailto:sanfordmuseum@iowatelecom.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Fri:9-5, Sat & Sun: 12-5",
+    "museumTypes": [
+      "Planetarium"
+    ]
+  },
+  {
+    "name": "Science Station",
+    "address": {
+      "streetAddress": "Lindale Mall4444 First Avenue NECedar Rapids, IA 52402",
+      "mailingAddress": "PO Box 96Cedar Rapids, IA 52402"
+    },
+    "phone": "319-363-4629",
+    "website": "https://www.sciencestation.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mon-Sat: 9-4, Sun: 1-4",
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Sergeant Floyd Museum & Welcome Center",
+    "address": {
+      "streetAddress": "1000 Larsen Park RoadSioux City, IA 51103",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.sioux-city.org/museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily Oct-Apr: 9-5, May-Sept:8-6",
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Sioux City Art Center",
+    "address": {
+      "streetAddress": "225 Nebraska StreetSioux City, IA 51101",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.siouxcityartcenter.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues,Wed, Fri & Sat: 10-5, Thurs: noon -9, Sun:1-5",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Sioux City Public Museum",
+    "address": {
+      "streetAddress": "2901 Jackson StreetSioux City, IA 51104",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.sioux-city.org/museum",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues: 9-8, Wed-Sat: 9-5, Sun: 1-5",
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Swedish Heritage & Cultural Center",
+    "address": {
+      "streetAddress": "410 Hilltop, Box 231Stanton, IA 51573",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://stantoniowa.com/community/cultural_center.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues-Sun: 1-4",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Des Moines County Historical Society: Heritage Center Museum",
+    "address": {
+      "streetAddress": "501 N 4th StBurlington, IA 52601",
+      "mailingAddress": null
+    },
+    "phone": "319-752-7449",
+    "website": "mailto:dmchs@dmchs.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/DMCHistSoc/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Danish Immigrant Museum",
+    "address": {
+      "streetAddress": "4210 Main StreetElkhorn, IA 51531",
+      "mailingAddress": "Box 249Elkhorn, IA 51531"
+    },
+    "phone": "712-764-7001",
+    "website": "mailto:info@danishmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/The-Danish-Immigrant-Museum/50452211102?ref=ts",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Mid-Sept to Mid-May: M-F:9-5, Sat:10-5, Sun:12-5; Summer until 6 pm",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Library",
+      "Park",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "The History Center",
+    "address": {
+      "streetAddress": "716 Oakland Road NECedar Rapids, IA 52042",
+      "mailingAddress": null
+    },
+    "phone": "319-362-1501",
+    "website": "mailto:office@historycenter.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/HistoryLinnCoIA/",
+      "twitter": "https://www.twitter.com/HistoryLinnCoIA",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/channel/UCYaK9T3387e8DFGV-mpGUww"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  }
+]

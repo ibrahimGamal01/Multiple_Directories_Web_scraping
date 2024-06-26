@@ -1,0 +1,1328 @@
+[
+  {
+    "name": "San Diego Air and Space Musuem",
+    "address": {
+      "streetAddress": "2001 Pan American PlazaSan Diego, CA 92101",
+      "mailingAddress": null
+    },
+    "phone": "619-234-8291",
+    "website": "https://www.sandiegoairandspace.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/SDASM",
+      "twitter": "https://www.twitter.com/sdasm",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Normal Hours 10:00 a.m. - 4:30 p.m. With admission until 4:00 p.m. Summer Hours (Memorial Day through Labor Day): 10:00 a.m. - 5:30 p.m. With admission until 5:00 p.m. Closed:Thanksgiving Day, Christmas Day and New Years Day",
+    "museumTypes": [
+      "General",
+      "History",
+      "Library",
+      "Military",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "San Diego Automotive Museum",
+    "address": {
+      "streetAddress": "2080 Pan American Plaza, Balboa ParkSan Diego, CA 92101",
+      "mailingAddress": "2080 Pan American Plaza, #12/Balboa ParkSan Diego, CA 92101"
+    },
+    "phone": null,
+    "website": "https://sdautomuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily: 10:00 AM  -  5:00 PM",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "San Diego Hall Of Champions",
+    "address": {
+      "streetAddress": "2131 Pan American PlazaSan Diego, CA 92101",
+      "mailingAddress": "San Diego, CA 92101"
+    },
+    "phone": "619-234-2544",
+    "website": "https://www.sdhoc.com/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/hallofchampions",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-F 10-4:30, Sa & Su 10-5",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Bidwell Mansion State Historic Park",
+    "address": {
+      "streetAddress": "525 The EsplanadeChico, CA 95926",
+      "mailingAddress": null
+    },
+    "phone": "530-895-6144",
+    "website": "https://www.parks.ca.gov/?page_id=460",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Park"
+    ]
+  },
+  {
+    "name": "San Diego Historical Society",
+    "address": {
+      "streetAddress": "1649 El Prado, Suite 3San Diego, CA 92101",
+      "mailingAddress": "P.O. Box 81825San Diego, CA 92138"
+    },
+    "phone": "619-232-6203",
+    "website": "https://www.sandiegohistory.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/sandiegohistorycenter",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "San Diego Maritime Museum",
+    "address": {
+      "streetAddress": "1492 North Harbor DriveSan Diego, CA 92101",
+      "mailingAddress": "San Diego, CA 92101"
+    },
+    "phone": "619-234-9153",
+    "website": "mailto:info@sdmaritime.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "San Diego Model Railroad Museum",
+    "address": {
+      "streetAddress": "1649 El PradoSan Diego, CA 92101",
+      "mailingAddress": null
+    },
+    "phone": "619-696-0199",
+    "website": "mailto:jrotsart@sdmrm.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "San Diego Museum Of Art",
+    "address": {
+      "streetAddress": "1450 El PradoSan Diego, CA 92101",
+      "mailingAddress": "P.O. Box 122107San Diego, CA 92101"
+    },
+    "phone": "619-232-7931",
+    "website": "https://www.sandiegomuseum.org/www.sdmart.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/TheSanDiegoMuseumOfArt",
+      "twitter": "https://www.twitter.com/sdma",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/results?search_query=san+diego+museum+of+art"
+    },
+    "hours": "Tuesday through Sunday 10 a.m. to 6 p.m. Thursdays 10 a.m. to 9 p.m.",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "San Diego Museum Of Man",
+    "address": {
+      "streetAddress": "1350 El PradoSan Diego, CA 92101",
+      "mailingAddress": null
+    },
+    "phone": "619-239-2001",
+    "website": "mailto:mparzen@museumofman.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open daily: 10 a.m. to 4:30 p.m. Closed: Thanksgiving, Christmas, New Year's Day",
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "San Diego Natural History Museum",
+    "address": {
+      "streetAddress": "1788 El Prado Balboa ParkSan Diego, CA 92101",
+      "mailingAddress": "P.O. Box 21390San Diego, CA 92112"
+    },
+    "phone": "619-232-3821",
+    "website": "mailto:customerservice@sdnhm.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/SanDiegoNaturalHistoryMuseum#!/SanDiegoNaturalHistoryMuseum?v=wall",
+      "twitter": "https://www.twitter.com/SDNHM",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "San Diego Railroad Museum",
+    "address": {
+      "streetAddress": "1050 Kettner Blvd.San Diego, CA 92101",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.sdrm.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sa & Su 9-5",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "San Diego Zoo",
+    "address": {
+      "streetAddress": "2920 Zoo DriveSan Diego, CA 92101",
+      "mailingAddress": "P.O. Box 120551San Diego, CA 92112-0551"
+    },
+    "phone": "619-231-1515",
+    "website": "https://www.sandiegozoo.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "San Francisco African American Historical and Cultural Society",
+    "address": {
+      "streetAddress": "Fort Mason Center, Blvd. C-165San Francisco, CA 94123",
+      "mailingAddress": "1857 Fulton StreetFresno, CA 93711"
+    },
+    "phone": "415-292-6172",
+    "website": "mailto:info@sfaahcs.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "San Francisco Art Institute",
+    "address": {
+      "streetAddress": "800 Chestnut St.San Francisco, CA 94133",
+      "mailingAddress": null
+    },
+    "phone": "415-771-7020",
+    "website": "mailto:president@sfai.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/SanFranciscoArtInstitute",
+      "twitter": "https://www.twitter.com/SFAIEvents",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/sfaivideo"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "San Francisco Art Institute Galleries",
+    "address": {
+      "streetAddress": "800 Chestnut St.San Francisco, CA 94133",
+      "mailingAddress": null
+    },
+    "phone": "415-771-7020",
+    "website": "mailto:hr@sfai.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/SanFranciscoArtInstitute",
+      "twitter": "https://www.twitter.com/SFAIEvents",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/sfaivideo"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "San Francisco Bay Bird Observatory",
+    "address": {
+      "streetAddress": "524 Valley WayMilpitas, CA 95035",
+      "mailingAddress": "P.O. Box 247Alviso, CA 95002-0247"
+    },
+    "phone": "408-946-6548",
+    "website": "mailto:jdemers@sfbbo.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "San Francisco Cable Car Museum",
+    "address": {
+      "streetAddress": "1201 Mason St.San Francisco, CA 94108",
+      "mailingAddress": null
+    },
+    "phone": "415-474-1887",
+    "website": "mailto:shop@cablecarmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "San Francisco Craft & Folk Art Museum",
+    "address": {
+      "streetAddress": "51 Yerba Buena LaneSan Francisco, CA 94103",
+      "mailingAddress": "Bldg. A, Fort Mason CenterSan Francisco, CA 94123"
+    },
+    "phone": "415-227-4888",
+    "website": "mailto:jmccabe@mocfa.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Hours:Tuesday - Friday: 11 am – 6 pmSaturday & Sunday: 11 am – 5 pmClosed on Monday and Major Holidays",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "San Francisco Fire Dept. Museum",
+    "address": {
+      "streetAddress": "655 Presidio AvenueSan Francisco, CA 94115",
+      "mailingAddress": "P.O. Box 31580San Francisco, CA 94131"
+    },
+    "phone": "415-563-4630",
+    "website": "https://guardiansofthecity.org/sffd",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "San Francisco African American Historical & Cultural Society",
+    "address": {
+      "streetAddress": "762 Fulton Street, 2nd FloorSan Francisco, CA 94102",
+      "mailingAddress": null
+    },
+    "phone": "415-440-4231",
+    "website": "mailto:info@sfaahcs.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Friday 1:00 pm - 4:30 pm",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Big Bear Valley Historical Museum",
+    "address": {
+      "streetAddress": "P.O. Box 513Big Bear City, CA 92314",
+      "mailingAddress": null
+    },
+    "phone": "909-585-8100",
+    "website": "mailto:history@dslextreme.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "San Francisco Museum Of Modern Art",
+    "address": {
+      "streetAddress": "151 Third StreetSan Francisco, CA 94103",
+      "mailingAddress": null
+    },
+    "phone": "415-357-4000",
+    "website": "mailto:artistsgallery@sfmoma.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/sfmoma",
+      "twitter": "https://www.twitter.com/SFMOMA",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/SFMOMA"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "San Francisco Zoo",
+    "address": {
+      "streetAddress": "1 Zoo RoadSan Francisco, CA 94132",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.sfzoo.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/sanfranzoo",
+      "twitter": "https://www.twitter.com/sfzoo",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily: 10:00 a.m. to 5:00 p.m.,  including Thanksgiving and Christmas Day.",
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "San Jacinto Valley Museum",
+    "address": {
+      "streetAddress": "695 Ash StreetSan Jacinto, CA 92581",
+      "mailingAddress": "San Jacinto, CA 92581"
+    },
+    "phone": "951-654-4952",
+    "website": "https://www.san-jacinto.ca.us/news/museum.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Big Four and Dingley Spice Mill Buildings",
+    "address": {
+      "streetAddress": "111 \"I\" StreetSacramento, CA 95814",
+      "mailingAddress": null
+    },
+    "phone": "916-445-6645",
+    "website": "https://www.csrmf.org/visitor-information/other-california-state-park-sattractions-in-old-sacramento/dingley-steam-coffee-and-spice-mill",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Science"
+    ]
+  },
+  {
+    "name": "San Joaquin County History Museum",
+    "address": {
+      "streetAddress": "11793 N. Micke Grove Rd.Lodi, CA 95241",
+      "mailingAddress": "P.O. Box 30Lodi, CA 95241"
+    },
+    "phone": "209-331-2055",
+    "website": "mailto:info@sanjoaquinhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wednesday through Sunday, 10:00 a.m. to 3:00 p.m.Closed Mondays and Tuesdays and Major Holidays",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "San Jose Museum Of Art",
+    "address": {
+      "streetAddress": "110 South Market StreetSan Jose, CA 95113",
+      "mailingAddress": null
+    },
+    "phone": "408-271-6840",
+    "website": "https://www.sanjosemuseumofart.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "San Jose Museum of Quilts & Textiles",
+    "address": {
+      "streetAddress": "520 S. First StreetSan Jose, CA 95113",
+      "mailingAddress": "San Jose, CA 95113"
+    },
+    "phone": "408-971-0323",
+    "website": "mailto:info@sjquiltmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/home.php?#!/profile.php?id=1291344741&ref=ts",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday through Sunday 10:00am to 5:00pm and Thursday evenings until 8:00pm.",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Natalie and James Thompson Gallery",
+    "address": {
+      "streetAddress": "Department of Art & Art History - Art Building1 Washington SquareSan Jose, CA 95192",
+      "mailingAddress": "Natalie and James Thompson Gallery - Dept. of Art & Art HistoryOne Washington SquareSAN JOSE, CA 95192"
+    },
+    "phone": "408-924-4330",
+    "website": "mailto:Gallery@sjsu.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/sjsugallery",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "University"
+    ]
+  },
+  {
+    "name": "San Juan Capistrano Library",
+    "address": {
+      "streetAddress": "31495 El Camino RealSan Juan Capistrano, CA 92693",
+      "mailingAddress": null
+    },
+    "phone": "949-493-1752",
+    "website": "https://www.sanjuancapistrano.org/index.aspx?page=454",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "San Leandro Railway Historical Society",
+    "address": {
+      "streetAddress": "1302 Orchard Ave.San Leandro, CA 94577",
+      "mailingAddress": null
+    },
+    "phone": "510-569-2490",
+    "website": "mailto:info@slhrs.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "San Luis Obispo Children's Museum",
+    "address": {
+      "streetAddress": "1010 Nipomo StreetSan Luis Obispo, CA 93401",
+      "mailingAddress": null
+    },
+    "phone": "805-545-5874",
+    "website": "mailto:info@slocm.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday- Saturday: 9:30-5:00 \nSunday: 10:30-5:00",
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "San Luis Obispo County Historical Museum",
+    "address": {
+      "streetAddress": "696 Monterey StreetSan Luis Obispo, CA 93406",
+      "mailingAddress": "P.O. Box 1391San Luis Obispo, CA 93406"
+    },
+    "phone": "805-543-0638",
+    "website": "https://historycenterslo.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/The-History-Center-of-San-Luis-Obispo-County/132151753483491?ref=mf",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "W-Su 10-4",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "San Marcos Gallery  Dominican College",
+    "address": {
+      "streetAddress": "50 Acacia AvenueSan Rafael, CA 94901",
+      "mailingAddress": "San Rafael, CA 94901"
+    },
+    "phone": "415-457-4440",
+    "website": "mailto:lynn.sondag@dominican.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/DominicanUniversityofCalifornia",
+      "twitter": "https://www.twitter.com/#!/DominicanCANews",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "San Mateo County History Museum",
+    "address": {
+      "streetAddress": "2200 BroadwayRedwood City, CA 94063",
+      "mailingAddress": "777 Hamilton StreetRedwood City, CA 94063"
+    },
+    "phone": "650-299-0104",
+    "website": "mailto:info@historysmc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "San Pedro Bay Historical Society & Museum",
+    "address": {
+      "streetAddress": "638 S. Beacon StSan Pedro, CA 90731",
+      "mailingAddress": "PO Box 1568San Pedro, CA 90733"
+    },
+    "phone": "310-548-3208",
+    "website": "mailto:info@sanpedrobayhistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Sanchez Adobe Historic Site",
+    "address": {
+      "streetAddress": "1000 Linda Mar Blvd.Pacifica, CA 94044",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.historysmc.org/sanchez.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Santa Ana Army Air Base Wing",
+    "address": {
+      "streetAddress": "Costa Mesa, CA 92628",
+      "mailingAddress": "P.O. Box 1764Costa Mesa, CA 92628"
+    },
+    "phone": "949-631-5918",
+    "website": "mailto:saaabwing@sbcglobal.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "call for information",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Santa Ana Historical Preservation Society at the Dr. Howe-Waffle House & Medical Museum",
+    "address": {
+      "streetAddress": "120 Civic Center Dr. WestSanta Ana, CA 92701",
+      "mailingAddress": null
+    },
+    "phone": "714-547-9645",
+    "website": "mailto:sahps@sahps.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open for public tours on the first Saturday of each even-numbered month.",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Santa Ana Public Library History Room",
+    "address": {
+      "streetAddress": "26 Civic Center PlazaSanta Ana, CA 92702",
+      "mailingAddress": null
+    },
+    "phone": "714-647-5250",
+    "website": "mailto:webmaster@santa-ana.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu, Th & Sa 2-6",
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Black Butte Saloon",
+    "address": {
+      "streetAddress": "259 Main St.Weed, CA 96094",
+      "mailingAddress": "Weed, CA 96094"
+    },
+    "phone": "530-938-3184",
+    "website": "mailto:blackbuttesaloon@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Santa Ana Zoo",
+    "address": {
+      "streetAddress": "1801 East Chestnut AvenueSanta Ana, CA 92701",
+      "mailingAddress": null
+    },
+    "phone": "714-836-4000",
+    "website": "mailto:KYamaguchi@santa-ana.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The Zoo is open every day except Christmas Day and New Years Day  \nMemorial Day - Labor Day:\nMonday-Friday, 10-4\nSaturday-Sunday, 10-5\nLabor Day - Memorial Day: \nDaily, 10-4",
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Santa Barbara Historical Museum",
+    "address": {
+      "streetAddress": "136 E. De La Guerra St.Santa Barbara, CA 93101",
+      "mailingAddress": null
+    },
+    "phone": "805-966-1601",
+    "website": "https://www.santabarbaramuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Sa 10-5, Su 12-5/no charge",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Santa Barbara Museum Of Art",
+    "address": {
+      "streetAddress": "1130 State StreetSanta Barbara, CA 93101",
+      "mailingAddress": null
+    },
+    "phone": "805-963-4364",
+    "website": "mailto:info@sbma.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tues - Sun 11 am to 5 pm.  Closed Monday",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Santa Barbara Natural History Museum",
+    "address": {
+      "streetAddress": "2559 Puesta Del Sol RoadSanta Barbara, CA 93105",
+      "mailingAddress": null
+    },
+    "phone": "805-682-4711",
+    "website": "https://www.sbnature.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Santa Barbara Orchid Estate",
+    "address": {
+      "streetAddress": "1250 Orchid Dr.Santa Barbara, CA 93111",
+      "mailingAddress": null
+    },
+    "phone": "805-967-1284",
+    "website": "mailto:sboe@sborchid.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Santa Barbara Zoological Gardens",
+    "address": {
+      "streetAddress": "500 Ninos DriveSanta Barbara, CA 93103",
+      "mailingAddress": null
+    },
+    "phone": "805-962-5339",
+    "website": "mailto:zooinfo@sbzoo.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open 10am-5pm every day all year, except Thanksgiving and Christmas.",
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Santa Cruz Museum of Natural History",
+    "address": {
+      "streetAddress": "1305 E. Cliff DriveSanta Cruz, CA 95062",
+      "mailingAddress": null
+    },
+    "phone": "831-420-6115",
+    "website": "mailto:staff@santacruzmuseums.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Santa Cruz Predatory Bird Research Group",
+    "address": {
+      "streetAddress": "University of California Long Marine LabSanta Cruz, CA 95064",
+      "mailingAddress": null
+    },
+    "phone": "831-459-2466",
+    "website": "mailto:gstewart@ucsc.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "open by appointment only",
+    "museumTypes": [
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Santa Maria Historical Museum",
+    "address": {
+      "streetAddress": "616 S BroadwaySanta Maria, CA 93454",
+      "mailingAddress": null
+    },
+    "phone": "805-922-3130",
+    "website": "mailto:richard@santamariahistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Sa 12-5",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Santa Maria Museum of Flight",
+    "address": {
+      "streetAddress": "3015 Airpark Dr.Santa Maria, CA 93455",
+      "mailingAddress": null
+    },
+    "phone": "805-922-8758",
+    "website": "mailto:smmof@msn.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "F-Su 9-5/Winter F-Su 10-4",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Santa Monica Historical Society Museum",
+    "address": {
+      "streetAddress": "1350 Seventh StreetSanta Monica, CA 90404",
+      "mailingAddress": "P. O. Box 3059Santa Monica, CA 90408"
+    },
+    "phone": "310-395-2290",
+    "website": "https://www.santamonicahistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu & Th 10:30-4, 2nd & 4th Su 1-4",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Bloss Home Museum and Atwater Historical Society, Inc",
+    "address": {
+      "streetAddress": "1020 Cedar AveAtwater, CA 95301",
+      "mailingAddress": "P.O. Box 111Atwater, CA 95301"
+    },
+    "phone": "209-357-6309",
+    "website": "mailto:blosshome@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "1st & 3rd Sunday of each month from 1:00 to 4:00 p.m.. Open each Sunday in December before Christmas from 1:00 to 4:00 p.m.",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Santa Monica Museum of Art - Bergamot Station",
+    "address": {
+      "streetAddress": "2525 Michigan Ave.,Bldg. G-1Santa Monica, CA 90404",
+      "mailingAddress": null
+    },
+    "phone": "310-586-6488",
+    "website": "mailto:info@smmoa.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Santa Ynez Valley Historical Society & Museum",
+    "address": {
+      "streetAddress": "3596 SaguntoSanta Ynez, CA 93460",
+      "mailingAddress": "P. O. Box 181Santa Ynez, CA 93460"
+    },
+    "phone": "805-688-7889",
+    "website": "mailto:syvm@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Su 12-4",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Sarah A. Mooney Memorial Museum",
+    "address": {
+      "streetAddress": "528 West \"D\" StreetLemoore, CA 93245",
+      "mailingAddress": "P.O. Box 413Lemoore, CA 93245"
+    },
+    "phone": "559-925-0321",
+    "website": "https://www.lemoore.com/sammm.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Saratoga Historical Museum",
+    "address": {
+      "streetAddress": "20450 Saratoga-Los Gatos RoadSaratoga, CA 95073",
+      "mailingAddress": "P.O. Box 172Saratoga, CA 95071"
+    },
+    "phone": "408-867-4311",
+    "website": "https://www.saratogahistory.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Sausalito Historical Society Museum",
+    "address": {
+      "streetAddress": "420 Litho StreetSausalito, CA 94966",
+      "mailingAddress": "P.O. Box 352Sausalito, CA 94966"
+    },
+    "phone": "415-289-4117",
+    "website": "mailto:info@sausalitohistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Scandinavian American Cultural & Historical Foundation, Inc.",
+    "address": {
+      "streetAddress": "26 Faculty RoadThousand Oaks, CA 91360",
+      "mailingAddress": "60 W. Olsen Rd.Thousand Oaks, CA 91360"
+    },
+    "phone": "805-241-0391",
+    "website": "mailto:scancenter@callutheran.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M 3-5:30, W 11-1, Th 9-11, F 10-12",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Blue Diamond Growers Visitors Center",
+    "address": {
+      "streetAddress": "1701 C St.Sacramento, CA 95811",
+      "mailingAddress": "1701 C St.Sacramento, CA 95814"
+    },
+    "phone": "916-442-0771",
+    "website": "https://www.bluediamond.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Scotia Museum",
+    "address": {
+      "streetAddress": "Scotia, CA 95565",
+      "mailingAddress": "P.O. Box 37Scotia, CA 95565"
+    },
+    "phone": "707-764-4492",
+    "website": "https://www.townofscotia.com/visit-scotia.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Scott Museum of Trinity Center",
+    "address": {
+      "streetAddress": "Airport RoadTrinity Center, CA 96091",
+      "mailingAddress": "P.O. Box 300Trinity Center, CA 96091"
+    },
+    "phone": null,
+    "website": "https://users.snowcrest.net/wb6fzh/tcsmus1.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Scripps Aquarium-Museum",
+    "address": {
+      "streetAddress": "2300 Expedition WayLa Jolla, CA 92093",
+      "mailingAddress": "UCSD 9500Gillman Dr.La Jolla, CA 92093"
+    },
+    "phone": "858-534-3474",
+    "website": "mailto:aquariuminfo@ucsd.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Aquarium"
+    ]
+  },
+  {
+    "name": "Sea Center",
+    "address": {
+      "streetAddress": "211 Stearns WharfSanta Barbara, CA 93101",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.sbnature.org/seacenter/index.php",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Sepulveda House",
+    "address": {
+      "streetAddress": "W-12 Olvera St.Los Angeles, CA 90012",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.sepulvedahome.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "M-Sa 10-3",
+    "museumTypes": [
+      "Historic House"
+    ]
+  }
+]

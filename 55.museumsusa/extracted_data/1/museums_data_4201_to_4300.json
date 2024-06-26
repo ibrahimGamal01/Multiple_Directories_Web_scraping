@@ -1,0 +1,1429 @@
+[
+  {
+    "name": "Zadock Pratt Museum",
+    "address": {
+      "streetAddress": "Box 333, Main StreetPrattsville, NY 12468",
+      "mailingAddress": null
+    },
+    "phone": "518-299-3395",
+    "website": "mailto:prattmuseum@hotmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Zadock-Pratt-Museum/261092762203?ref=ts",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "The Bowne House Historical Society",
+    "address": {
+      "streetAddress": "37-01 Bowne StreetFlushing, NY 11354",
+      "mailingAddress": null
+    },
+    "phone": "718-359-0528",
+    "website": "mailto:office@bownehouse.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "BridgeHampton Historical Society",
+    "address": {
+      "streetAddress": "2368 Montauk HwyBridgehampton, NY 11932",
+      "mailingAddress": "P.O. Box 977Bridgehampton, NY 11932"
+    },
+    "phone": "631-537-1088",
+    "website": "mailto:bhhs@optonline.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/profile.php?id=100001550659720",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Broadway Theater Museum",
+    "address": {
+      "streetAddress": "630 Ninth Ave., Suite 1006New York, NY 10036",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.directfrombway.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Bronck Museum/Greene County Historical Society",
+    "address": {
+      "streetAddress": "90 County Route 42Coxsackie, NY 12051",
+      "mailingAddress": "PO Box 44Coxsackie, NY 12051"
+    },
+    "phone": "518-731-6490",
+    "website": "mailto:gchsbm@mhcable.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Bronx County Historical Society",
+    "address": {
+      "streetAddress": "3309 Bainbridge AvenueBronx, NY 10467",
+      "mailingAddress": null
+    },
+    "phone": "718-881-8900",
+    "website": "https://www.bronxhistoricalsociety.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/The-Bronx-County-Historical-Society/158177394957",
+      "twitter": "https://www.twitter.com/BronxHistory",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Adirondack Museum",
+    "address": {
+      "streetAddress": "Route 30Blue Mountain Lake, NY 12812",
+      "mailingAddress": "PO Box 99, Route 28N & 30Blue Mountain Lake, NY 12812"
+    },
+    "phone": "518-352-7311",
+    "website": "mailto:info@adirondackmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily from 10am to 5pm \nOpen May 23—Oct 19. Closed Sep 5 & Sep 19.",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Bronx Museum of the Arts",
+    "address": {
+      "streetAddress": "1040 Grand ConcourseBronx, NY 10456",
+      "mailingAddress": null
+    },
+    "phone": "718-681-6000",
+    "website": "https://www.bronxmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Bronx Zoo/Wildlife Conservation Park",
+    "address": {
+      "streetAddress": "2300 Southern Blvd.Bronx, NY 10460",
+      "mailingAddress": null
+    },
+    "phone": "718-220-5100",
+    "website": "mailto:guestrelations@wcs.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Brookhaven  Vol. Firefighters Museum",
+    "address": {
+      "streetAddress": "Route 25 (Middle Country Rd.)Ridge, NY 11961",
+      "mailingAddress": "P.O. Box 367Ridge, NY 11961"
+    },
+    "phone": null,
+    "website": "mailto:Firehistory@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Brooklyn Botanic Garden",
+    "address": {
+      "streetAddress": "1000 Washington AvenueBrooklyn, NY 11225",
+      "mailingAddress": null
+    },
+    "phone": "718-623-7200",
+    "website": "mailto:feedback@bbg.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Brooklyn Children's Museum",
+    "address": {
+      "streetAddress": "145 Brooklyn AvenueBrooklyn, NY 11213",
+      "mailingAddress": null
+    },
+    "phone": "718-735-4400",
+    "website": "https://www.brooklynkids.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Brooklyn Historical Society",
+    "address": {
+      "streetAddress": "128 Pierrepont StreetBrooklyn, NY 11201",
+      "mailingAddress": null
+    },
+    "phone": "718-222-4111",
+    "website": "mailto:kduggan@brooklynhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "General",
+      "History",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Brooklyn Museum of Art",
+    "address": {
+      "streetAddress": "200 Eastern ParkwayBrooklyn, NY 11238",
+      "mailingAddress": null
+    },
+    "phone": "718-638-5000",
+    "website": "mailto:information@brooklynmuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/brooklynmuseum",
+      "twitter": "https://www.twitter.com/brooklynmuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/brooklynmuseum"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Brookside Museum",
+    "address": {
+      "streetAddress": "6 Charlton StreetBallston Spa, NY 12020",
+      "mailingAddress": null
+    },
+    "phone": "518-885-4000",
+    "website": "mailto:info@brooksidemuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/brooksidemuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Broome County Historical Society",
+    "address": {
+      "streetAddress": "185 Court StreetBinghamton, NY 13905",
+      "mailingAddress": null
+    },
+    "phone": "607-772-2982",
+    "website": "mailto:localhistory@bclibrary.info",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Brunswick Historical Society",
+    "address": {
+      "streetAddress": "PO Box 1776Cropseyville, NY 12052",
+      "mailingAddress": null
+    },
+    "phone": "518-279-4024",
+    "website": "https://www.bhs-ny.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Buffalo History Museum",
+    "address": {
+      "streetAddress": "1 Museum CourtBuffalo, NY 14216",
+      "mailingAddress": null
+    },
+    "phone": "716-873-9644",
+    "website": "mailto:rcarmina@buffalohistory.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Buffalo-NY/Buffalo-and-Erie-County-Historical-Society/35507276870",
+      "twitter": "https://www.twitter.com/buffalohistory",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "Buffalo and Erie County Naval and Military Park",
+    "address": {
+      "streetAddress": "One Naval Park CoveBuffalo, NY 14202",
+      "mailingAddress": null
+    },
+    "phone": "716-847-1773",
+    "website": "mailto:info@buffalonavalpark.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Buffalo Museum of Science",
+    "address": {
+      "streetAddress": "1020 Humboldt ParkwayBuffalo, NY 14211",
+      "mailingAddress": null
+    },
+    "phone": "716-896-5200",
+    "website": "https://www.sciencebuff.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "The Buffalo Transportation Pierce Arrow Museum",
+    "address": {
+      "streetAddress": "145 Swan StreetBuffalo, NY 14203",
+      "mailingAddress": null
+    },
+    "phone": "716-853-0084",
+    "website": "mailto:bwende@buffalovisions.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Burchfield-Penney Art Center",
+    "address": {
+      "streetAddress": "1300 Elmwood AvenueBuffalo, NY 14222",
+      "mailingAddress": null
+    },
+    "phone": "716-878-6011",
+    "website": "mailto:burchfld@buffalostate.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Rosamond Gifford Zoo at Burnet Park",
+    "address": {
+      "streetAddress": "One Conservation PlaceSyracuse, NY 13204",
+      "mailingAddress": null
+    },
+    "phone": "315-435-8511",
+    "website": "mailto:info@rosamondgiffordzoo.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "General",
+      "Nature Centers",
+      "Park"
+    ]
+  },
+  {
+    "name": "Adams County Historical Society",
+    "address": {
+      "streetAddress": "111 Seminary RidgeGettysburg, PA 17325",
+      "mailingAddress": null
+    },
+    "phone": "717-334-4723",
+    "website": "mailto:info@achs-pa.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Boswell Historical Society",
+    "address": {
+      "streetAddress": "326 Main StreetBoswell, PA 15531",
+      "mailingAddress": "Boswell, PA 15531"
+    },
+    "phone": "814-629-5945",
+    "website": "mailto:LLichvar@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Waymart Area Historical Society",
+    "address": {
+      "streetAddress": "118 South StreetWaymart, PA 18472",
+      "mailingAddress": "PO Box 255Waymart, PA 18472"
+    },
+    "phone": "570-488-6750",
+    "website": "https://www.waymartpa.us/id38.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Wayne County Historical Society Museum",
+    "address": {
+      "streetAddress": "810 Main StreetHonesdale, PA 18431",
+      "mailingAddress": "P.O. Box 446Honesdale, PA 18431"
+    },
+    "phone": "570-253-3240",
+    "website": "mailto:wchs@ptd.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Waynesboro Historical Society",
+    "address": {
+      "streetAddress": "138 West Main St.Waynesboro, PA 17268",
+      "mailingAddress": null
+    },
+    "phone": "717-762-1747",
+    "website": "mailto:waynesboro.history@embarqmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "West Hanover Township Historical Society",
+    "address": {
+      "streetAddress": "1033 Piketown Rd.Harrisburg, PA 17112",
+      "mailingAddress": null
+    },
+    "phone": "717-652-4841",
+    "website": "https://www.westhanover.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "West Overton Museums",
+    "address": {
+      "streetAddress": "West Overton Village109 West Overton RdScottdale, PA 15683",
+      "mailingAddress": null
+    },
+    "phone": "724-887-7910",
+    "website": "https://www.westovertonvillage.org/home/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Western Pennsylvania Model Railroad Museum",
+    "address": {
+      "streetAddress": "5507 Lakeside DrGibsonia, PA 15044",
+      "mailingAddress": null
+    },
+    "phone": "724-444-6944",
+    "website": "https://www.wpmrm.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Westmoreland County Historical Society",
+    "address": {
+      "streetAddress": "41 W. Otterman Street, Suite 310Greensburg, PA 15601",
+      "mailingAddress": null
+    },
+    "phone": "724-532-1935",
+    "website": "mailto:history@starofthewest.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Westmoreland Museum of American Art",
+    "address": {
+      "streetAddress": "221 North Main StreetGreensburg, PA 15601",
+      "mailingAddress": null
+    },
+    "phone": "724-837-1500",
+    "website": "mailto:info@wmuseumaa.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Greensburg-PA/Westmoreland-Museum-of-American-Art/310564749017?ref=ts",
+      "twitter": "https://www.twitter.com/thewestmoreland",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Bowman's Hill Wildflower Preserve",
+    "address": {
+      "streetAddress": "1635 River RoadNew Hope, PA 18938",
+      "mailingAddress": "P.O. Box 685New Hope, PA 18938"
+    },
+    "phone": "215-862-2924",
+    "website": "mailto:bhwp@bhwp.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/New-Hope-PA/Bowmans-Hill-Wildflower-Preserve/84607709853",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden",
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Wharton Esherick Museum",
+    "address": {
+      "streetAddress": "Paoli, PA 19301",
+      "mailingAddress": "P.O. Box 595Paoli, PA 19301"
+    },
+    "phone": "610-644-5822",
+    "website": "mailto:information@whartonesherickmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Whitaker Center for Science and the Arts",
+    "address": {
+      "streetAddress": "222 Market StreetHarrisburg, PA 17101",
+      "mailingAddress": "Harrisburg, PA 17101"
+    },
+    "phone": "717-214-2787",
+    "website": "mailto:info@whitakercenter.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/WhitakerCenterHbg",
+      "twitter": "https://www.twitter.com/whitakercenter",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/WhitakerCenter1"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Whitehall Historical Preservation Society",
+    "address": {
+      "streetAddress": "Whitehall, PA 18052",
+      "mailingAddress": "P.O. Box 39Whitehall, PA 18052"
+    },
+    "phone": "610-776-7280",
+    "website": "mailto:info@whitehallhistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Widener University Art Collection & Gallery",
+    "address": {
+      "streetAddress": "1 University PlaceChester, PA 19013",
+      "mailingAddress": null
+    },
+    "phone": "610-499-1189",
+    "website": "https://www.widener.edu/about/artgallery/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "University"
+    ]
+  },
+  {
+    "name": "Williamsburg Heritage & Historical Society",
+    "address": {
+      "streetAddress": "Williamsburg High SchoolWilliamsburg, PA 16693",
+      "mailingAddress": null
+    },
+    "phone": "814-832-2125",
+    "website": "https://www.visitpa.com/williamsburg-heritage-and-historical-society",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Windber Coal Heritage Center",
+    "address": {
+      "streetAddress": "505 15TH ST.Windber, PA 15963",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.echf.windberpa.org/index.php?option=com_content&view=article&id=142&Itemid=353",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Boyertown Area Historical Society",
+    "address": {
+      "streetAddress": "43 South Chestnut StBoyertown, PA 19504",
+      "mailingAddress": "43 South Chestnut St.Boyertown, PA 19504"
+    },
+    "phone": "610-367-5255",
+    "website": "mailto:boyertownhistory@dejazzd.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Wissahickon Valley Historical Society",
+    "address": {
+      "streetAddress": "Ambler, PA 19002",
+      "mailingAddress": "PO Box 96Ambler, PA 19002"
+    },
+    "phone": "215-646-6541",
+    "website": "mailto:info@wvalleyhs.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Wood Street Galleries",
+    "address": {
+      "streetAddress": "601 Wood StPittsburgh, PA 15222",
+      "mailingAddress": null
+    },
+    "phone": "412-471-5605",
+    "website": "mailto:woodstreetgalleries@pgharts.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/people/Wood-Street-Galleries/1270662795",
+      "twitter": "https://www.twitter.com/#!/WoodStreetPgh",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "The Center for Art in Wood",
+    "address": {
+      "streetAddress": "141 North 3rd StreetPhiladelphia, PA 19106",
+      "mailingAddress": null
+    },
+    "phone": "215-923-8000",
+    "website": "mailto:info@centerforartinwood.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/The-Center-for-Art-in-Wood/238027842898803",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "Library"
+    ]
+  },
+  {
+    "name": "Woodmere Art Museum",
+    "address": {
+      "streetAddress": "9201 Germantown Ave.Philadelphia, PA 19118",
+      "mailingAddress": null
+    },
+    "phone": "215-247-0476",
+    "website": "mailto:dpastella@woodmereartmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Eldred World War II Museum",
+    "address": {
+      "streetAddress": "Eldred World War II Museum210 Main StreetEldred, PA 16731",
+      "mailingAddress": "Box 273Eldred, PA 16731"
+    },
+    "phone": "814-225-2220",
+    "website": "mailto:steve@eldredwwiimuseum.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Military"
+    ]
+  },
+  {
+    "name": "World of Scouting Museum",
+    "address": {
+      "streetAddress": "Valley Forge, PA 19482",
+      "mailingAddress": "PO Box 2226Valley Forge, PA 19482"
+    },
+    "phone": "610-783-5311",
+    "website": "https://www.worldofscoutingmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Boyertown Museum of Historic Vehicles",
+    "address": {
+      "streetAddress": "85 South Walnut StreetBoyertown, PA 19512",
+      "mailingAddress": "Boyertown, PA 19512"
+    },
+    "phone": "610-367-2090",
+    "website": "mailto:info@boyertownmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Wyalusing Valley Museum",
+    "address": {
+      "streetAddress": "Grovedale LaneWyalusing, PA 18853",
+      "mailingAddress": "PO Box 301Wyalusing, PA 18853"
+    },
+    "phone": "570-746-3979",
+    "website": "mailto:wyalusingmuseum@frontiernet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Saturday and Sunday noon-4:00 May through October; other times by appointment",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Wyck Association",
+    "address": {
+      "streetAddress": "6026 Germantown Ave.Philadelphia, PA 19144",
+      "mailingAddress": null
+    },
+    "phone": "215-848-1690",
+    "website": "https://www.wyck.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Wyoming County Historical Society",
+    "address": {
+      "streetAddress": "Harrision StreetTunkhannock, PA 18657",
+      "mailingAddress": "P.O. Box 309Tunkhannock, PA 18657"
+    },
+    "phone": "570-836-5303",
+    "website": "mailto:ronrad@epix.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open by appointment - call for tours",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "York College Galleries",
+    "address": {
+      "streetAddress": "439 Country Club RoadYork, PA 17403",
+      "mailingAddress": "439 Country Club RoadYork, PA 17405"
+    },
+    "phone": "717-846-7788",
+    "website": "https://www.ycp.edu/academics/academic-departments/communication-and-the-arts/division-of-art/york-college-galleries/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": "https://www.twitter.com/yorkcollegepa",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/yorkcollegepa"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "General",
+      "University"
+    ]
+  },
+  {
+    "name": "Historical Society Museum & Library",
+    "address": {
+      "streetAddress": "250 East Market StreetYork, PA 17403",
+      "mailingAddress": null
+    },
+    "phone": "717-812-1204",
+    "website": "https://www.yorkheritage.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Historical Society Museum/Library & Archives--Museum Shop & Book Store \n\tTuesday-Saturday, 9 a.m. to 5 p.m., Year round \n\t250 East Market Street, York, PA  \n\t\n\tAgricultural & Industrial Museum--Museum Shop \n\t217 West Princess Street,York, PA \n\tTuesday-Saturday, 9 a.m. - 5 p.m., Year round  \n\t\n\tColonial Complex (Gates House, Plough Tavern, Bobb Log House, & Colonial Court House) \n\t157 West Market Street, York, PA \n\tTuesday-Saturday, 9 a.m. - 5 p.m., Tour given on the hour  \n\tClose mid-December through March 31  \n\t\n\tBohham House \n\t152 East Market Street, York, PA \n\tSaturdays, 9 a.m. - 5 p.m. \n\tClosed mid-December through March 31  \n\t\n\tFire Museum of York County \n\t757 West Market Street, York, PA \n\tSaturdays, 9 a.m. - 5 p.m. \n\tClosed mid-December through March 31",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Zelienople Historical Society",
+    "address": {
+      "streetAddress": "243 S. Main St.Zelienople, PA 16063",
+      "mailingAddress": null
+    },
+    "phone": "724-452-9457",
+    "website": "mailto:zhs@ZelienopleHistoricalSociety.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "BusinessHours",
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Zoological Society of Philadelphia",
+    "address": {
+      "streetAddress": "3400 West Girard AvenuePhiladelphia, PA 19104",
+      "mailingAddress": "Philadelphia, PA 19104"
+    },
+    "phone": "215-243-1100",
+    "website": "https://www.philadelphiazoo.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Bradford County Heritage Association",
+    "address": {
+      "streetAddress": "Jct Route 6 & 14Troy, PA 16947",
+      "mailingAddress": "P.O. Box 265Troy, PA 16947"
+    },
+    "phone": "570-297-3410",
+    "website": "mailto:troyfarmmuseum@cqservices.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Bradford County Historical Society",
+    "address": {
+      "streetAddress": "109 Pine St.Towanda, PA 18848",
+      "mailingAddress": null
+    },
+    "phone": "570-265-2240",
+    "website": "https://www.bradfordhistory.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wednesday-Friday 10 a.m. to 4 p.m.; First Saturday of each month (Research Library only -10 a.m. to 2 p.m.). Closed on holidays. Call or email to confirm times before coming.",
+    "museumTypes": [
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Bradford Landmark Society, Inc.",
+    "address": {
+      "streetAddress": "45 East Corydon StreetBradford, PA 16701",
+      "mailingAddress": null
+    },
+    "phone": "814-362-3906",
+    "website": "mailto:info@bradfordlandmark.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Brandywine River Museum",
+    "address": {
+      "streetAddress": "1 Hoffman's Mill RoadChadds Ford, PA 19317",
+      "mailingAddress": "P.O. Box 141Chadds Ford, PA 19317"
+    },
+    "phone": "610-388-2700",
+    "website": "mailto:inquiries@brandywine.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Brandywine-River-Museum/67903041568",
+      "twitter": "https://www.twitter.com/#!/BranRiverMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Botanical Garden",
+      "Culture",
+      "History",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "Brandywine Workshop and Archives",
+    "address": {
+      "streetAddress": "728 S. Broad StreetPhiladelphia, PA 19146",
+      "mailingAddress": null
+    },
+    "phone": "215-546-3675",
+    "website": "mailto:prints@brandywineworkshop.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Briar Bush Nature Center",
+    "address": {
+      "streetAddress": "1212 Edge Hill RoadAbington, PA 19001",
+      "mailingAddress": null
+    },
+    "phone": "215-887-6603",
+    "website": "mailto:info@briarbush.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "(Briar Bush is closed on Abington Township Holidays)",
+    "museumTypes": [
+      "History",
+      "Nature Centers",
+      "Park",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Brighton Township Historical Society",
+    "address": {
+      "streetAddress": "1300 Brighton RdBeaver, PA 15009",
+      "mailingAddress": null
+    },
+    "phone": "724-774-4803",
+    "website": "mailto:brightwp@brightontwp.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Bristol Cultural and Historical Foundation",
+    "address": {
+      "streetAddress": "321 Cedar St. PO Box 215Bristol, PA 19007",
+      "mailingAddress": null
+    },
+    "phone": "215-781-9895",
+    "website": "https://www.bristolhistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Brockway Area Historical Society",
+    "address": {
+      "streetAddress": "765 Park StreetBrockway, PA 15824",
+      "mailingAddress": "P.O. Box 73Brockway, PA 15824"
+    },
+    "phone": "814-265-8519",
+    "website": "mailto:brockwayhistory@windstream.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Air Heritage",
+    "address": {
+      "streetAddress": "35 Piper StreetBeaver Falls, PA 15010",
+      "mailingAddress": null
+    },
+    "phone": "724-843-2820",
+    "website": "mailto:airheritage1@verizon.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Brownsville Historical Society",
+    "address": {
+      "streetAddress": "136 Front St.Brownsville, PA 15417",
+      "mailingAddress": "Box 24Brownsville, PA 15417"
+    },
+    "phone": "724-785-6882",
+    "website": "https://www.nemacolincastle.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Bowmans-Castle/107572582605521",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Electric City Trolley Museum Association",
+    "address": {
+      "streetAddress": "300 Cliff StreetScranton, PA 18503",
+      "mailingAddress": null
+    },
+    "phone": "570-963-6590",
+    "website": "https://www.ectma.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Bucks County Dept. Parks & Recreation",
+    "address": {
+      "streetAddress": "901 E. Bridgetown PikeLanghorne, PA 19047",
+      "mailingAddress": "510 Creek RoadNew Britain, PA 18901"
+    },
+    "phone": "215-348-6114",
+    "website": "mailto:parksandrecreation@co.bucks.pa.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Bucks County Historical Society",
+    "address": {
+      "streetAddress": "84 S. Pine St.Doylestown, PA 18901",
+      "mailingAddress": null
+    },
+    "phone": "215-345-0210",
+    "website": "https://www.mercermuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  }
+]

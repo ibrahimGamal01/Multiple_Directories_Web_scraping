@@ -1,0 +1,1309 @@
+[
+  {
+    "name": "Plains Art Museum",
+    "address": {
+      "streetAddress": "704 First Ave. N.Fargo, ND 58102",
+      "mailingAddress": "P.O. Box 2338Fargo, ND 58108"
+    },
+    "phone": "701-232-3821",
+    "website": "mailto:museum@plainsart.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "GALLERIES:  Mon: Closed  Tues, Wed, Fri, Sat: 10a.m.-5p.m.  Thurs: 10a.m.-8p.m.   Sun: 1-5p.m.   GIFT SHOP:  Mon, Tues, Wed, Fri, Sat: 10a.m.-5p.m.  Thurs: 10a.m.-8p.m.  Sun: 1-5p.m.   CAFE:  Weekdays: 9a.m.-3p.m.  Weekends: Closed",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Hennepin History Museum",
+    "address": {
+      "streetAddress": "2303 3RD AVE SMinneapolis, MN 55404",
+      "mailingAddress": null
+    },
+    "phone": "612-870-1329",
+    "website": "mailto:museum.info@hennepinhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "MN Institute of Arts",
+    "address": {
+      "streetAddress": "32800 Lawtonka DriveShorewood, MN 55331",
+      "mailingAddress": null
+    },
+    "phone": "888-642-2787",
+    "website": "https://www.artsmia.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Todd County Museum",
+    "address": {
+      "streetAddress": "333 CENTRAL AVELong Prairie, MN 56347",
+      "mailingAddress": null
+    },
+    "phone": "320-732-4426",
+    "website": "mailto:tchmuseum@embarqmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Tweed Museum of Art",
+    "address": {
+      "streetAddress": "1201 Ordean CourtDuluth, MN 55812",
+      "mailingAddress": null
+    },
+    "phone": "218-726-8222",
+    "website": "mailto:tweed@d.umn.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "University"
+    ]
+  },
+  {
+    "name": "Minnesota Zoo",
+    "address": {
+      "streetAddress": "13000 Zoo BlvdApple Valley, MN 55124",
+      "mailingAddress": null
+    },
+    "phone": "952-431-9500",
+    "website": "mailto:info@mnzoo.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Apple-Valley-MN/Minnesota-Zoo/136257148787?v=wall",
+      "twitter": "https://www.twitter.com/mnzoo",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/MinnesotaZoo"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Farmamerica, Minnesota Agricultural Interpretive Center",
+    "address": {
+      "streetAddress": "PO BOX 111Waseca, MN 56093",
+      "mailingAddress": null
+    },
+    "phone": "507-835-2052",
+    "website": "mailto:farmamer@hickorytech.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Lake of the Woods County Museum",
+    "address": {
+      "streetAddress": "206 8th Avenue SE, Suite 150Baudette, MN 56623",
+      "mailingAddress": "PO BOX 808Baudette, MN 56623"
+    },
+    "phone": "218-634-1200",
+    "website": "mailto:lowhsociety@mncable.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Maplewood Nature Center",
+    "address": {
+      "streetAddress": "2659 7TH ST ESaint Paul, MN 55119",
+      "mailingAddress": null
+    },
+    "phone": "651-249-2170",
+    "website": "https://www.ci.maplewood.mn.us/index.aspx?NID=342",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Beltrami County Historical Society and History Center",
+    "address": {
+      "streetAddress": "130 Minnesota Ave SWBemidji, MN 56601",
+      "mailingAddress": null
+    },
+    "phone": "218-444-3376",
+    "website": "mailto:depot@beltramihistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Lake Superior Zoo",
+    "address": {
+      "streetAddress": "7210 FREMONT STDuluth, MN 55807",
+      "mailingAddress": null
+    },
+    "phone": "218-730-4500",
+    "website": "mailto:admin@lszoo.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "McLeod County  Historical Society",
+    "address": {
+      "streetAddress": "380 School Road NWHutchinson, MN 55350",
+      "mailingAddress": null
+    },
+    "phone": "320-587-2109",
+    "website": "mailto:info@mcleodhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Moose Lake Area Historical Society",
+    "address": {
+      "streetAddress": "4252 N BIRCH RDMoose Lake, MN 55767",
+      "mailingAddress": null
+    },
+    "phone": "218-485-4145",
+    "website": "mailto:mlahs@moose-tec.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Rockford Area Historical Society",
+    "address": {
+      "streetAddress": "Rockford, MN 55373",
+      "mailingAddress": "PO Box 186Rockford, MN 55373"
+    },
+    "phone": "763-477-5383",
+    "website": "https://www.cityofrockford.org/storkhouse/index.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Minnesota  Zoological Garden",
+    "address": {
+      "streetAddress": "13000 ZOO BLVDSaint Paul, MN 55124",
+      "mailingAddress": null
+    },
+    "phone": "952-431-9200",
+    "website": "mailto:info@mnzoo.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Apple-Valley-MN/Minnesota-Zoo/136257148787?v=wall",
+      "twitter": "https://www.twitter.com/mnzoo",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/MinnesotaZoo"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Minnesota Landscape Arboretum",
+    "address": {
+      "streetAddress": "3675 Arboretum DriveChaska, MN 55318",
+      "mailingAddress": null
+    },
+    "phone": "952-443-1400",
+    "website": "mailto:arbinfo@umn.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Arboretum"
+    ]
+  },
+  {
+    "name": "Bemidji State University",
+    "address": {
+      "streetAddress": "1500 Birchmont Avenue NEBemidji, MN 56601",
+      "mailingAddress": "Bemidji, MN 56601"
+    },
+    "phone": "218-755-2001",
+    "website": "https://www.bemidjistate.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "University"
+    ]
+  },
+  {
+    "name": "Bloomington Historical Society",
+    "address": {
+      "streetAddress": "10200 Penn Avenue SouthBloomington, MN 55431",
+      "mailingAddress": "1800 West Old Shakopee RoadBloomington, MN 55431"
+    },
+    "phone": "952-881-4114",
+    "website": "mailto:vonda.kelly@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Judy Garland Museum",
+    "address": {
+      "streetAddress": "2727 Pokegama Ave SGrand Rapids, MN 55744",
+      "mailingAddress": "PO BOX 724Grand Rapids, MN 55744"
+    },
+    "phone": "218-327-9276",
+    "website": "https://www.judygarlandmuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Minnesota Center for Book Arts",
+    "address": {
+      "streetAddress": "1011 So Washington Ave.  Suite 100Minneapolis, MN 55415",
+      "mailingAddress": null
+    },
+    "phone": "612-215-2520",
+    "website": "mailto:mcba@mnbookarts.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Sibley Historic Site",
+    "address": {
+      "streetAddress": "1357 Sibley Memorial HighwayMendota, MN 55150",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:bwilliams@sibleynaturecenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Corps of Engineers Lake Superior Maritime Visitor Center",
+    "address": {
+      "streetAddress": "600 S LAKE AVEDuluth, MN 55802",
+      "mailingAddress": null
+    },
+    "phone": "218-727-2497",
+    "website": "https://www.lsmma.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "St. Louis Cnty Hist. Soc.",
+    "address": {
+      "streetAddress": "506 W MICHIGAN STDuluth, MN 55802",
+      "mailingAddress": null
+    },
+    "phone": "218-733-7586",
+    "website": "mailto:history@thehistorypeople.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Ely-Winton Historical Society",
+    "address": {
+      "streetAddress": "1900 East Camp StEly, MN 55731",
+      "mailingAddress": "1900 E. Camp St.Ely, MN 55731"
+    },
+    "phone": "218-365-3226",
+    "website": "mailto:ewhsmuseum@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/Ely-Winton-Historical-Society-291461494332967/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Mower County  Historical Society",
+    "address": {
+      "streetAddress": "1303 6th Ave SWAustin, MN 55912",
+      "mailingAddress": "1303 6th Ave. SWAustin, MN 55912"
+    },
+    "phone": "507-437-6082",
+    "website": "mailto:mchs@smig.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Edina Historical Society",
+    "address": {
+      "streetAddress": "4711 W. 70th StreetEdina, MN 55435",
+      "mailingAddress": "Edina, MN 55435"
+    },
+    "phone": "612-928-4577",
+    "website": "mailto:edinahistory@yahoo.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Edina-Historical-Society/37765306612",
+      "twitter": "https://www.twitter.com/edinahistory",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Carpenter Nature Center",
+    "address": {
+      "streetAddress": "12805 St. Croix TrailHastings, MN 55033",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:jim@carpenternaturecenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Lake County Historical Society",
+    "address": {
+      "streetAddress": "520 South AvenueTwo Harbors, MN 55616",
+      "mailingAddress": "PO BOX 313Two Harbors, MN 55616"
+    },
+    "phone": "218-834-4898",
+    "website": "mailto:lakehist@lakenet.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Carver County Historical Society",
+    "address": {
+      "streetAddress": "Carver County Historical Society555 West First StreetWaconia, MN 55387",
+      "mailingAddress": "555 West First StreetWaconia, MN 55387"
+    },
+    "phone": null,
+    "website": "https://www.carvercountyhistoricalsociety.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "History Center of Olmsted County",
+    "address": {
+      "streetAddress": "1195 West Circle Dr. SWRochester, MN 55902",
+      "mailingAddress": null
+    },
+    "phone": "507-282-9447",
+    "website": "mailto:services@olmstedhistory.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/OlmstedHistoryCenter/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Minnesota Transportation Museum, Inc.",
+    "address": {
+      "streetAddress": "193 Pennsylvania Ave. ESaint Paul, MN 55101",
+      "mailingAddress": null
+    },
+    "phone": "651-228-0263",
+    "website": "mailto:contact@mtmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Hibbing Hist Society",
+    "address": {
+      "streetAddress": "23rd Street and 5th AvenueHibbing, MN 55476",
+      "mailingAddress": "Hibbing, MN 55476"
+    },
+    "phone": "218-263-8522",
+    "website": "https://www.hibbinghistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Mpls Insitute of Arts",
+    "address": {
+      "streetAddress": "2400 3RD AVE SMinneapolis, MN 55404",
+      "mailingAddress": null
+    },
+    "phone": "888-642-2787",
+    "website": "mailto:mmembers@artsmia.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "The Goldstein Museum of Design",
+    "address": {
+      "streetAddress": "244 McNeal Hall1985 Buford AvenueSaint Paul, MN 55108",
+      "mailingAddress": null
+    },
+    "phone": "612-624-7434",
+    "website": "mailto:gmd@umn.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Crow Wing County Historical Society Museum",
+    "address": {
+      "streetAddress": "1933 GRAYDON AVEBrainerd, MN 56401",
+      "mailingAddress": null
+    },
+    "phone": "218-829-3268",
+    "website": "mailto:history@co.crow-wing.mn.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "St. Paul Public Library",
+    "address": {
+      "streetAddress": "90 4TH ST WSaint Paul, MN 55102",
+      "mailingAddress": null
+    },
+    "phone": "651-793-3930",
+    "website": "mailto:SPPLWeb@ci.stpaul.mn.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Minnesota Historical Society",
+    "address": {
+      "streetAddress": "345 W. Kellogg BlvdSaint Paul, MN 55102",
+      "mailingAddress": null
+    },
+    "phone": "651-259-3000",
+    "website": "mailto:lory.sutton@mnhs.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Art",
+      "Botanical Garden",
+      "Cemetery",
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Becker County Historical Society's Museum and Library",
+    "address": {
+      "streetAddress": "714 Summit AveDetroit Lakes, MN 56501",
+      "mailingAddress": "PO BOX 622Detroit Lakes, MN 56502"
+    },
+    "phone": "218-847-2938",
+    "website": "mailto:mail@beckercountyhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Saturday;  10-4PM",
+    "museumTypes": [
+      "Cemetery",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Clay County Historical Society",
+    "address": {
+      "streetAddress": "202 1st Ave NMoorhead, MN 56561",
+      "mailingAddress": "PO BOX 501Moorhead, MN 56561"
+    },
+    "phone": "218-299-5511",
+    "website": "mailto:Markus.Krueger@ci.moorhead.mn.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Washington County Historical Society",
+    "address": {
+      "streetAddress": "Stillwater, MN 55082",
+      "mailingAddress": "PO Box 167Stillwater, MN 55082"
+    },
+    "phone": "651-439-5956",
+    "website": "mailto:information@wchsmn.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Winona County Historical Society",
+    "address": {
+      "streetAddress": "160 JOHNSON STWinona, MN 55987",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.winonahistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Pope County Hist Society",
+    "address": {
+      "streetAddress": "809 S LAKE SHORE DRGlenwood, MN 56334",
+      "mailingAddress": null
+    },
+    "phone": "320-634-3293",
+    "website": "https://www.popecountyhistory.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Renville County Historical Societyand Museum",
+    "address": {
+      "streetAddress": "441 North Park DrMorton, MN 56270",
+      "mailingAddress": null
+    },
+    "phone": "507-697-6147",
+    "website": "mailto:info@renvillecountyhistory.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Brown County  Historical Society",
+    "address": {
+      "streetAddress": "2 N Broadway St.New Ulm, MN 56073",
+      "mailingAddress": null
+    },
+    "phone": "507-233-2616",
+    "website": "mailto:BCHS@BrownCountyHistoryMNUSA.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Split Rock Lighthouse",
+    "address": {
+      "streetAddress": "3713 Split Rock Lighthouse RdTwo Harbors, MN 55616",
+      "mailingAddress": "2010 Hwy 61 ETwo Harbors, MN 55616"
+    },
+    "phone": "218-226-6372",
+    "website": "mailto:splitrock@mnhs.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/splitrocklighthouse",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "No admission fee is charged, but a State Park vehicle permit is required",
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Woodlake Nature Center",
+    "address": {
+      "streetAddress": "6710 Lake Shore Dr.Richfield, MN 55423",
+      "mailingAddress": "Minneapolis, MN 55423"
+    },
+    "phone": "612-861-9365",
+    "website": "mailto:kshragg@cityofrichfield.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Pavek Museum of Broadcasting",
+    "address": {
+      "streetAddress": "3517 RALEIGH AVEMinneapolis, MN 55416",
+      "mailingAddress": "Minneapolis, MN 55416"
+    },
+    "phone": "952-926-8198",
+    "website": "mailto:contact@museumofbroadcasting.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Museum-of-Broadcasting/131308431523",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Bakken Library & Museum",
+    "address": {
+      "streetAddress": "3537 ZENITH AVE SMinneapolis, MN 55416",
+      "mailingAddress": null
+    },
+    "phone": "612-926-3878",
+    "website": "mailto:info@thebakken.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Aitkin County Historical Society & Depot Museum",
+    "address": {
+      "streetAddress": "20 Pacific StAitkin, MN 56431",
+      "mailingAddress": "PO BOX 215Aitkin, MN 56431"
+    },
+    "phone": "218-927-3348",
+    "website": "mailto:achs@aitkincohs.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/AitkinCHS/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Frederick R. Weisman Art Museum",
+    "address": {
+      "streetAddress": "333 East River RoadMinneapolis, MN 55455",
+      "mailingAddress": null
+    },
+    "phone": "612-625-9494",
+    "website": "https://www.weisman.umn.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Sterns County Historical Society",
+    "address": {
+      "streetAddress": "235 33RD AVE SSaint Cloud, MN 56301",
+      "mailingAddress": null
+    },
+    "phone": "320-253-8424",
+    "website": "mailto:info@stearns-museum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Bakken",
+    "address": {
+      "streetAddress": "3537 ZENITH AVE SMinneapolis, MN 55416",
+      "mailingAddress": null
+    },
+    "phone": "612-926-3878",
+    "website": "mailto:infodesk@thebakken.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "10am - 5pm Tuesday - Saturday Open until 8pm on Thursdays",
+    "museumTypes": [
+      "Botanical Garden",
+      "Culture",
+      "History",
+      "Historic House",
+      "Library",
+      "Science"
+    ]
+  },
+  {
+    "name": "Hennipin County Libraries",
+    "address": {
+      "streetAddress": "12601 RIDGEDALE DRHopkins, MN 55305",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.hclib.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/hclib",
+      "twitter": "https://www.twitter.com/hclib",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/HennepinCountyLibrar"
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Hennepin County Library",
+    "address": {
+      "streetAddress": "12601 RIDGEDALE DRHopkins, MN 55305",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.hclib.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Fredrick Weisman Art Museum",
+    "address": {
+      "streetAddress": "333 E RIVER RDMinneapolis, MN 55455",
+      "mailingAddress": null
+    },
+    "phone": "612-625-9494",
+    "website": "mailto:jtyung@umn.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Anoka County Historical Society",
+    "address": {
+      "streetAddress": "2135-3rd Avenue, NorthAnoka, MN 55303",
+      "mailingAddress": null
+    },
+    "phone": "763-421-0600",
+    "website": "mailto:achs@ac-hs.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Anoka-County-Historical-Society/84118647614",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Ramsey County Historical Society",
+    "address": {
+      "streetAddress": "75 West Fifth StreetSaint Paul, MN 55102",
+      "mailingAddress": "75 W 5th St#323Saint Paul, MN 55102"
+    },
+    "phone": "651-222-0701",
+    "website": "mailto:info@rchs.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Owatonna Arts Center",
+    "address": {
+      "streetAddress": "435 Garden View LaneOwatonna, MN 55060",
+      "mailingAddress": "Owatonna, MN 55060"
+    },
+    "phone": "507-451-0533",
+    "website": "mailto:sharon.stark@oacarts.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Springbrook Nature Center",
+    "address": {
+      "streetAddress": "100 85th Ave  NW (near Northtown Shopping Center)Fridley, MN 55432",
+      "mailingAddress": "6431 UNIVERSITY AVE NEMinneapolis, MN 55432"
+    },
+    "phone": "763-572-3588",
+    "website": "mailto:info@springbrooknaturecenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Harriet Alexander Nature Center",
+    "address": {
+      "streetAddress": "2520 North Dale StreetRoseville, MN 55113",
+      "mailingAddress": "1910 West County Road BRoseville, MN 55113"
+    },
+    "phone": null,
+    "website": "https://www.cityofroseville.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday-Saturday:  10am-4pm\nSunday:  1-4pm",
+    "museumTypes": [
+      "Arboretum",
+      "Natural History",
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Otter Tail County Historical Society",
+    "address": {
+      "streetAddress": "1110 W Lincoln AvenueFergus Falls, MN 56537",
+      "mailingAddress": null
+    },
+    "phone": "218-736-6038",
+    "website": "mailto:otchs@prtel.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Ramsey County Parks & Recreation",
+    "address": {
+      "streetAddress": "2015 VAN DYKE STSaint Paul, MN 55109",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:Tamarack@co.ramsey.mn.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "College of St. Benedict/St. John's Univ.",
+    "address": {
+      "streetAddress": "37 COLLEGE AVE SSaint Joseph, MN 56374",
+      "mailingAddress": null
+    },
+    "phone": "320-363-5011",
+    "website": "mailto:admission@csbsju.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "John Stevens House",
+    "address": {
+      "streetAddress": "4901 Minnehaha Avenue SMinneapolis, MN 55417",
+      "mailingAddress": null
+    },
+    "phone": "612-722-2220",
+    "website": "mailto:info@johnhstevenshouse.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Visitors love our historic house museum - where adults are excited by the vision of Minneapolis' past and future, while children also learn about the heroic role of children in saving this historical house and learn to play games and with historic toys",
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  }
+]

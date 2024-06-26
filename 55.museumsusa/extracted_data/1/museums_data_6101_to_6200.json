@@ -1,0 +1,759 @@
+[
+  {
+    "name": "Holland Hall School Art Gallery",
+    "address": {
+      "streetAddress": "5666 E 81st StreetTulsa, OK 74137",
+      "mailingAddress": null
+    },
+    "phone": "918-481-1111",
+    "website": "https://www.hollandhall.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "The Sherwin Miller Museum of Jewish Art",
+    "address": {
+      "streetAddress": "2021 East 71st StreetTulsa, OK 74152",
+      "mailingAddress": "PO Box 52188Tulsa, OK 74152"
+    },
+    "phone": "918-492-1818",
+    "website": "mailto:info@jewishmuseum.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/TheSherwinMillerMuseumofJewishArt",
+      "twitter": "https://www.twitter.com/smmja_tulsa",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Tulsa Historical Society",
+    "address": {
+      "streetAddress": "Tulsa, OK 74152",
+      "mailingAddress": "PO Box 521145Tulsa, OK 74152"
+    },
+    "phone": "918-712-9484",
+    "website": "mailto:ths@tulsahistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Vinnie Ream Cultural Center",
+    "address": {
+      "streetAddress": "1110 W. CanadianVinita, OK 74301",
+      "mailingAddress": "P Box 594Vinita, OK 74301"
+    },
+    "phone": "918-256-4911",
+    "website": "https://www.vinnieream.net/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "National Rod & Custom Car Hall of Fame",
+    "address": {
+      "streetAddress": "Hwy 85-A,(Afton exit on I-44)Bernice, OK 74331",
+      "mailingAddress": "Rt 3 Star Kustom AveAfton, OK 74331"
+    },
+    "phone": "918-257-4234",
+    "website": "mailto:ldmstar@junct.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Talbot Library and Museum",
+    "address": {
+      "streetAddress": "500 So. Colcord AvenueColcord, OK 74338",
+      "mailingAddress": "P.O.Box 349Colcord, OK 74338"
+    },
+    "phone": "918-326-4532",
+    "website": "mailto:talbotlibrary@earthlink.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Har-Ber Village",
+    "address": {
+      "streetAddress": "4404 W 20th StreetGrove, OK 74344",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.har-bervillage.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Lendonwood Gardens",
+    "address": {
+      "streetAddress": "1308 West 13th StreetGrove, OK 74345",
+      "mailingAddress": "Box 608Grove, OK 74345"
+    },
+    "phone": "918-786-2938",
+    "website": "mailto:info@lendonwood.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Gene Autry Oklahoma Museum",
+    "address": {
+      "streetAddress": "PO Box 67Gene Autry, OK 74346",
+      "mailingAddress": null
+    },
+    "phone": "580-294-3047",
+    "website": "mailto:townofgeneautry@brightok.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Coleman Theatre",
+    "address": {
+      "streetAddress": "103 N MainMiami, OK 74354",
+      "mailingAddress": "P. O. Box 2Miami, OK 74355"
+    },
+    "phone": "918-540-2425",
+    "website": "mailto:friendsform@colemantheatre.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Ottawa Tribe of Oklahoma",
+    "address": {
+      "streetAddress": "13 S. 69 AMiami, OK 74354",
+      "mailingAddress": "P.O. BOX 110Miami, OK 74355"
+    },
+    "phone": "918-540-1536",
+    "website": "mailto:adawetribe@sbcglobal.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Seneca-Cayuga Tribe of Oklahoma",
+    "address": {
+      "streetAddress": "23701 S. 655 RoadGrove, OK 74344",
+      "mailingAddress": "PO Box 1283Miami, OK 74355"
+    },
+    "phone": "918-787-5452",
+    "website": "mailto:cbrown@sctribe.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Miami Tribe of Oklahoma",
+    "address": {
+      "streetAddress": "202 S. Eight Tribes TrailMiami, OK 74355",
+      "mailingAddress": "PO Box 1326Miami, OK 74355"
+    },
+    "phone": "918-542-1445",
+    "website": "mailto:info@miamination.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Five Civilized Tribes Museum",
+    "address": {
+      "streetAddress": "1101 Honor Heights DriveMuskogee, OK 74401",
+      "mailingAddress": "Muskogee, OK 74401"
+    },
+    "phone": "918-683-1701",
+    "website": "mailto:5tribesdirector@sbcglobal.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Three Rivers Museum",
+    "address": {
+      "streetAddress": "Muskogee, OK 74402",
+      "mailingAddress": "PO Box 1813Muskogee, OK 74402"
+    },
+    "phone": "918-686-6624",
+    "website": "mailto:staff@3riversmuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Ataloa Lodge Museum",
+    "address": {
+      "streetAddress": "2299 Old Bacone Rd.Muskogee, OK 74403",
+      "mailingAddress": null
+    },
+    "phone": "918-781-7283",
+    "website": "mailto:timothyj@bacone.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/ataloalodge",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Art",
+      "Church",
+      "Culture",
+      "History",
+      "Historic House",
+      "Natural History",
+      "University"
+    ]
+  },
+  {
+    "name": "Greenleaf State Park Nature Center",
+    "address": {
+      "streetAddress": "Rt 1 Box 119Braggs, OK 74423",
+      "mailingAddress": null
+    },
+    "phone": "918-487-5196",
+    "website": "mailto:Greenleafcabins@oklahomaparks.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Honey Springs Battlefield",
+    "address": {
+      "streetAddress": "1863 Honey Springs Battlefield RdChecotah, OK 74426",
+      "mailingAddress": null
+    },
+    "phone": "918-473-5572",
+    "website": "mailto:honeysprings@okhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Fort Gibson Historic Site",
+    "address": {
+      "streetAddress": "Fort Gibson, OK 74434",
+      "mailingAddress": "PO Box 457Fort Gibson, OK 74434"
+    },
+    "phone": null,
+    "website": "https://www.exploresouthernhistory.com/okfortgibson.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Henryetta Territorial Museum",
+    "address": {
+      "streetAddress": "410 W Moore StreetHenryetta, OK 74437",
+      "mailingAddress": "PO Box 459Henryetta, OK 74437"
+    },
+    "phone": null,
+    "website": "https://www.territorialmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "City of Wagoner Historical Museum",
+    "address": {
+      "streetAddress": "231 Church St.Wagoner, OK 74467",
+      "mailingAddress": "Wagoner, OK 74467"
+    },
+    "phone": "918-485-9111",
+    "website": "mailto:lizmcmahan@windstream.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Webbers Falls Historical Society and Museum",
+    "address": {
+      "streetAddress": "Rt 1 Box 567Webbers Falls, OK 74470",
+      "mailingAddress": "P.O. Box 5Webbers Falls, OK 74470"
+    },
+    "phone": "918-464-2728",
+    "website": "mailto:george@webbersfallsmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Cherokee Dixieland Historical Society",
+    "address": {
+      "streetAddress": "DowntownWebbers Falls, OK 74470",
+      "mailingAddress": "PO Box 359Webbers Falls, OK 74470"
+    },
+    "phone": "918-464-2728",
+    "website": "mailto:info@cherokeeheritage.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Pushmataha County Historical Society",
+    "address": {
+      "streetAddress": "119 W Main StAntlers, OK 74523",
+      "mailingAddress": null
+    },
+    "phone": "580-298-5595",
+    "website": "mailto:acksan2000@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Confederate Memorial Museum & Cemetery",
+    "address": {
+      "streetAddress": "258 N Hwy 69Atoka, OK 74525",
+      "mailingAddress": "PO Box 245Atoka, OK 74525"
+    },
+    "phone": "580-889-7192",
+    "website": "mailto:atokamuseum@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Choctaw Nation Museum",
+    "address": {
+      "streetAddress": "HC 64 Box 3270Tuskahoma, OK 74574",
+      "mailingAddress": null
+    },
+    "phone": "580-931-6312",
+    "website": "mailto:sfolsom@choctawnation.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Robbers Cave Nature Center",
+    "address": {
+      "streetAddress": "Wilburton, OK 74578",
+      "mailingAddress": "PO Box 9Wilburton, OK 74578"
+    },
+    "phone": "918-465-2565",
+    "website": "mailto:robberscave@oklahomaparks.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Standing Bear Park",
+    "address": {
+      "streetAddress": "Ponca City, OK 74602",
+      "mailingAddress": "PO Box 111Ponca City, OK 74602"
+    },
+    "phone": "580-762-1514",
+    "website": "https://www.standingbearpark.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "101 Ranch Old Timers Association",
+    "address": {
+      "streetAddress": "1609 Donald AvePonca City, OK 74602",
+      "mailingAddress": "Ponca City, OK 74602"
+    },
+    "phone": null,
+    "website": "mailto:josglaser@sbcglobal.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Ponca City Art Center",
+    "address": {
+      "streetAddress": "819 East CentralPonca City, OK 74601",
+      "mailingAddress": "PO Box 1394Ponca City, OK 74602"
+    },
+    "phone": "580-765-9746",
+    "website": "mailto:pcartcenter@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Ponca Tribe of Oklahoma",
+    "address": {
+      "streetAddress": "300 North 3rd StreetPonca City, OK 74601",
+      "mailingAddress": "PO Box 2Ponca City, OK 74602"
+    },
+    "phone": "580-765-3311",
+    "website": "mailto:poncainfo@poncacity.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Pioneer Woman Museum",
+    "address": {
+      "streetAddress": "701 MonumentPonca City, OK 74603",
+      "mailingAddress": null
+    },
+    "phone": "580-765-6108",
+    "website": "mailto:info@pioneerwomanmuseum.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Marland Estate",
+    "address": {
+      "streetAddress": "901 Monument RdPonca City, OK 74604",
+      "mailingAddress": null
+    },
+    "phone": "800-422-8340",
+    "website": "https://www.marlandmansion.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Kanza Museum Kaw Tribal Complex",
+    "address": {
+      "streetAddress": "698 Grand View DrKaw City, OK 74641",
+      "mailingAddress": "PO Box 50Kaw City, OK 74641"
+    },
+    "phone": "580-269-2552",
+    "website": "https://kawnation.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture"
+    ]
+  },
+  {
+    "name": "Forest Heritage Center and Museum",
+    "address": {
+      "streetAddress": "Beavers Bend State ParkBroken Bow, OK 74728",
+      "mailingAddress": "PO Box 157Broken Bow, OK 74728"
+    },
+    "phone": "580-494-6497",
+    "website": "https://www.forestry.ok.gov/fhc",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Indian Territory Museum and Library",
+    "address": {
+      "streetAddress": "110 Buffalo StreetCaddo, OK 74729",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.caddo-ok-today.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Monday - Friday 10:00 am - 3:00 pmSaturday 1:00 pm - 3:00 pm",
+    "museumTypes": [
+      "History",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Caddo Indian Territory Mus. & Lib.",
+    "address": {
+      "streetAddress": "108 Buffalo StCaddo, OK 74729",
+      "mailingAddress": "PO Box 274Caddo, OK 74729"
+    },
+    "phone": "580-367-2787",
+    "website": "https://www.indianterritoryinc.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Science"
+    ]
+  },
+  {
+    "name": "Fort Towson Historic Site",
+    "address": {
+      "streetAddress": "HC 63 Box 1580Fort Towson, OK 74735",
+      "mailingAddress": null
+    },
+    "phone": "580-873-2634",
+    "website": "mailto:fttowson@okhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  }
+]

@@ -1,0 +1,994 @@
+[
+  {
+    "name": "National Training Center & 11th Armored Cavalry Regiment Museum",
+    "address": {
+      "streetAddress": "Bldg. #222, 1st StreetFort Irwin, CA 92310",
+      "mailingAddress": "P. O. Box 105029Fort Irwin, CA 92310"
+    },
+    "phone": "760-380-6607",
+    "website": "mailto:IRWIN-Museum@conus.army.mil",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sat. Sun. and Holidays Closed",
+    "museumTypes": [
+      "General",
+      "History",
+      "Military",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "African American Historical & Cultural Museum of the San Joaquin Valley",
+    "address": {
+      "streetAddress": "1857 Fulton StreetFresno, CA 93721",
+      "mailingAddress": "1857 Fulton StreetFresno, CA 93710"
+    },
+    "phone": "559-544-1857",
+    "website": "mailto:aahcmsjv@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Church",
+      "Culture",
+      "General",
+      "History",
+      "Historical Society",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Rancho Del Oso Nature & History Center",
+    "address": {
+      "streetAddress": "3600 Highway 1Davenport, CA 95017",
+      "mailingAddress": null
+    },
+    "phone": "831-425-1218",
+    "website": "mailto:rdobigbasin@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sa & Su 12-4",
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Rancho Los Alamitos Historic Ranch and Gardens",
+    "address": {
+      "streetAddress": "6400 Bixby Hill RoadLong Beach, CA 90815",
+      "mailingAddress": null
+    },
+    "phone": "562-431-3541",
+    "website": "mailto:info@rancholosalamitos.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Botanical Garden",
+      "History",
+      "Historic House",
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Rancho Santa Ana Botanic Garden",
+    "address": {
+      "streetAddress": "1500 N. College Ave.Claremont, CA 91711",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.rsabg.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 8-5",
+    "museumTypes": [
+      "Botanical Garden"
+    ]
+  },
+  {
+    "name": "Randall Museum",
+    "address": {
+      "streetAddress": "199 Museum WaySan Francisco, CA 94114",
+      "mailingAddress": null
+    },
+    "phone": "415-554-9600",
+    "website": "mailto:info@randallmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tu-Sa 10-5",
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Rand Desert Museum",
+    "address": {
+      "streetAddress": "161 Butte Ave.Randsburg, CA 93554",
+      "mailingAddress": "P.O.Box 307Randsburg, CA 93554"
+    },
+    "phone": "760-371-5559",
+    "website": "mailto:randdesertmuseum@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The Rand Desert Museum is open each weekend from 11:00 a.m to 2:oo p.m., and by appointment.",
+    "museumTypes": [
+      "Archaeology",
+      "Art",
+      "Culture",
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Ravenswood Historic Site",
+    "address": {
+      "streetAddress": "2647 Arroyo Rd.Livermore, CA 94550",
+      "mailingAddress": "71 Trevarno Rd.Livermore, CA 94550"
+    },
+    "phone": "925-373-5708",
+    "website": "https://www.larpd.dst.ca.us/facrentravenswood.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Raymond M. Alf Museum of Paleontology",
+    "address": {
+      "streetAddress": "1175 W. Baseline RdClaremont, CA 91711",
+      "mailingAddress": null
+    },
+    "phone": "909-626-3587",
+    "website": "https://www.alfmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Redwood Discovery Museum",
+    "address": {
+      "streetAddress": "501 Third Street EurekaEureka, CA 95501",
+      "mailingAddress": "P.O. Box 3456Eureka, CA 95502"
+    },
+    "phone": "707-443-9694",
+    "website": "mailto:info@discovery-museum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Natural History",
+      "Planetarium",
+      "Science"
+    ]
+  },
+  {
+    "name": "Redwood National Park Visitors Center",
+    "address": {
+      "streetAddress": "1111 Second St.Crescent City, CA 95531",
+      "mailingAddress": null
+    },
+    "phone": "707-465-7335",
+    "website": "https://www.nps.gov/redw/planyourvisit/visitorcenters.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Reedley Museum",
+    "address": {
+      "streetAddress": "1752 10th StreetReedley, CA 93654",
+      "mailingAddress": "P.O. Box 877Reedley, CA 93654"
+    },
+    "phone": "559-638-1913",
+    "website": "https://www.reedley.com/community-interest-museum.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Berkeley Art Center",
+    "address": {
+      "streetAddress": "1275 Walnut StreetBerkeley, CA 94709",
+      "mailingAddress": null
+    },
+    "phone": "510-644-6893",
+    "website": "mailto:info@berkeleyartcenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wed-Sun, noon - 5:00 p.m",
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Reuben H. Fleet Science Center",
+    "address": {
+      "streetAddress": "Balboa Park, Park Blvd.1875 El PradoSan Diego, CA 92163",
+      "mailingAddress": null
+    },
+    "phone": "619-238-1233",
+    "website": "https://www.rhfleet.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Richard L. Nelson Gallery, U.C. Davis",
+    "address": {
+      "streetAddress": "Nelson Hall Old Davis RoadUC DavisDavis, CA 95616",
+      "mailingAddress": "Nelson Gallery UC DavisOne Shields AveDavis, CA 95616"
+    },
+    "phone": "530-752-8500",
+    "website": "mailto:nelsongallery@ucdavis.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Richard M. Nixon Library & Birthplace",
+    "address": {
+      "streetAddress": "18001 Yorba Linda Blvd.Yorba Linda, CA 92686",
+      "mailingAddress": null
+    },
+    "phone": "714-983-9120",
+    "website": "mailto:nixon@nara.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Richardson Grove State Park Visitor Center",
+    "address": {
+      "streetAddress": "1416 9th StreetSacramento, CA 95814",
+      "mailingAddress": "P.O. Box 942896Sacramento, CA 94296"
+    },
+    "phone": "916-653-6995",
+    "website": "mailto:info@parks.ca.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Richardson House and Lizzie's Trail Inn",
+    "address": {
+      "streetAddress": "SIerra Madre Historical Preservation SocietySierra Madre, CA 91025",
+      "mailingAddress": "P.O. Box 202Sierra Madre, CA 91025"
+    },
+    "phone": "626-355-8129",
+    "website": "https://www.smhps.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Lizzie's Trail Sa 10-12, Richardson House 2nd Sa 10-12",
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Richmond Art Center",
+    "address": {
+      "streetAddress": "2540 Barrett AvenueRichmond, CA 94804",
+      "mailingAddress": "Civic Center PlazaRichmond, CA 94802"
+    },
+    "phone": "510-620-6772",
+    "website": "mailto:admin@therichmondartcenter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Richmond Museum Of History",
+    "address": {
+      "streetAddress": "Richmond Museum of History400 Nevin AvenueRichmond, CA 94801",
+      "mailingAddress": "P.O. Box 1267Richmond, CA 94802"
+    },
+    "phone": "510-235-7387",
+    "website": "https://www.richmondmuseumofhistory.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#!/pages/Richmond-Museum-of-History/139077626158179",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Berkeley Art Museum & Pacific Film Archive",
+    "address": {
+      "streetAddress": "2625 Durant Ave.Berkeley, CA 94720",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.bampfa.berkeley.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wed and Fri-Sun 11-5; Thurs 11-7",
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Rio Vista Museum",
+    "address": {
+      "streetAddress": "16 N. Front St.Rio Vista, CA 94571",
+      "mailingAddress": null
+    },
+    "phone": "707-374-5169",
+    "website": "mailto:riovistamuseum@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sa & Su 1:30-4:30",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Rios-Caledonia Adobe",
+    "address": {
+      "streetAddress": "700 S. Mission St.San Miguel, CA 93457",
+      "mailingAddress": "700 South Mission StreetSan Miguel, CA 93457"
+    },
+    "phone": "805-467-3357",
+    "website": "mailto:hermanjah@tcsn.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 10-4",
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Riverside Art Museum",
+    "address": {
+      "streetAddress": "3425 Mission Inn Ave.Riverside, CA 92501",
+      "mailingAddress": null
+    },
+    "phone": "951-684-7111",
+    "website": "https://www.riversideartmuseum.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/riversideartmuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Berkeley Historical Society & Museum",
+    "address": {
+      "streetAddress": "1931 Center St.Berkeley, CA 94704",
+      "mailingAddress": "P.O.Box 1190Berkeley, CA 94709"
+    },
+    "phone": "510-848-0181",
+    "website": "https://www.berkeleyhistoricalsociety.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "1-4 pm., Thurs, Fri, Sat",
+    "museumTypes": [
+      "History",
+      "Historical Society",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Robert and Frances Fullerton Museum of Art",
+    "address": {
+      "streetAddress": "5500 University ParkwaySan Bernardino, CA 92407",
+      "mailingAddress": null
+    },
+    "phone": "909-537-7373",
+    "website": "mailto:raffma@csusb.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Docent tours available to groups, \nby appointment only, call (909) 537-3374.",
+    "museumTypes": [
+      "Art",
+      "Culture",
+      "History",
+      "Library",
+      "University"
+    ]
+  },
+  {
+    "name": "Romano Gabriel's Wooden Sculpture Garden",
+    "address": {
+      "streetAddress": "Eureka, CA 95502",
+      "mailingAddress": "P.O. Box 1354Eureka, CA 95502"
+    },
+    "phone": "707-445-8775",
+    "website": "mailto:info@eurekaheritage.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Romero Visitor Center",
+    "address": {
+      "streetAddress": "31770 W. Hwy. 152Santa Nella, CA 95322",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.ourlosbanos.com/snapromero3.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Ronald Reagan Presidential Library",
+    "address": {
+      "streetAddress": "40 Presidential DriveSimi Valley, CA 93065",
+      "mailingAddress": null
+    },
+    "phone": "800-410-8354",
+    "website": "mailto:reagan.library@nara.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "10:00 a.m. until 5:00 p.m. every day of the week, except Thanksgiving Day, Christmas Day, and New Year’s Day.",
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Rose Hills Memorial Park",
+    "address": {
+      "streetAddress": "3888 S. Workman Mill RoadWhittier, CA 90601",
+      "mailingAddress": null
+    },
+    "phone": "562-699-0921",
+    "website": "https://www.rosehills.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open until 8:30pm",
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Rosicrusian Egyptian Museum and Planetarium",
+    "address": {
+      "streetAddress": "1342 Naglee Ave.San Jose, CA 95191",
+      "mailingAddress": null
+    },
+    "phone": "408-947-3635",
+    "website": "https://www.egyptianmuseum.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/San-Jose-CA/Rosicrucian-Egyptian-Museum/239173420444",
+      "twitter": "https://www.twitter.com/RCEgyptMuseumSJ",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Planetarium"
+    ]
+  },
+  {
+    "name": "Rotary Nature Center/Lake Merritt Wildlife Refuge",
+    "address": {
+      "streetAddress": "552 Bellevue Ave.Oakland, CA 94610",
+      "mailingAddress": null
+    },
+    "phone": "510-238-3739",
+    "website": "mailto:sbenavidez@oaklandnet.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 10-5",
+    "museumTypes": [
+      "Nature Centers",
+      "Park"
+    ]
+  },
+  {
+    "name": "Roundhouse Marine Studies Lab & Aquarium/Museum",
+    "address": {
+      "streetAddress": "Manhattan Beach PierManhattan Beach, CA 90266",
+      "mailingAddress": "P.O. Box 1Manhattan Beach, CA 90266"
+    },
+    "phone": "310-379-8117",
+    "website": "mailto:roundhouse.aquarium@verizon.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Roundhouse-Marine-Studies-Lab-and-Aquarium/64031319675",
+      "twitter": "https://www.twitter.com/RoundhouseOTS",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Monday-Friday 3pm-sunset",
+    "museumTypes": [
+      "Aquarium",
+      "Children's",
+      "Library",
+      "Nature Centers",
+      "Science"
+    ]
+  },
+  {
+    "name": "Ruddy's 1930s General Store Museum",
+    "address": {
+      "streetAddress": "221 S. Palm Canyon Dr.Palm Springs, CA 92262",
+      "mailingAddress": null
+    },
+    "phone": "760-327-2156",
+    "website": "https://www.palmsprings.com/points/heritage/ruddy.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "October - JuneThursday - Sunday, 10 a.m. - 4 p.m.Closed Monday - WednesdayJuly - SeptemberSaturdays & Sundays, 10 a.m. - 4 p.m.",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Ruth Chandler Williamson Gallery",
+    "address": {
+      "streetAddress": "Scripps College, 1030 ColumbiaClaremont, CA 91711",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:mmacnaug@scrippscollege.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Williamson-Gallery-Scripps-College/126670616671?v=wall",
+      "twitter": "https://www.twitter.com/SC_Williamson",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "S.S. Lane Victory Memorial Museum",
+    "address": {
+      "streetAddress": "SS Lane VictoryBerth 46San Pedro, CA 90731",
+      "mailingAddress": "SS Lane VictoryP.O. Box 629San Pedro, CA 90733"
+    },
+    "phone": "310-519-9545",
+    "website": "mailto:info@lanevictory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The SS Lane Victory is open daily at berth 46 from 9 am to 3 pm.  Please check website for possible closures",
+    "museumTypes": [
+      "History",
+      "Military"
+    ]
+  },
+  {
+    "name": "Sacramento Children's Museum",
+    "address": {
+      "streetAddress": "2701 Prospect Park DriveRancho Cordova, CA 95670",
+      "mailingAddress": null
+    },
+    "phone": "916-638-7225",
+    "website": "mailto:info@sackids.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/groups/79790456484/",
+      "twitter": "https://www.twitter.com/#!/SacKidsMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Bernhard Museum Complex",
+    "address": {
+      "streetAddress": "291 Auburn-Folsom Rd.Auburn, CA 95603",
+      "mailingAddress": "101 Maple StAuburn, CA 95603"
+    },
+    "phone": "530-889-6500",
+    "website": "https://www.placer.ca.gov/Departments/Facility/Museums/LocalMuseums/bernhard.aspx",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Park",
+      "Science"
+    ]
+  },
+  {
+    "name": "Sacramento River Discovery Center",
+    "address": {
+      "streetAddress": "Sacramento River Discovery Center1000 Sale LaneRed Bluff, CA 96080",
+      "mailingAddress": "1000 Sale LaneRed Bluff, CA 96080"
+    },
+    "phone": null,
+    "website": "https://www.srdc.tehama.k12.ca.us/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's",
+      "Natural History",
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Sacramento Valley Museum",
+    "address": {
+      "streetAddress": "1491 East StreetWilliams, CA 95987",
+      "mailingAddress": "P.O. Box 1437Williams, CA 95987"
+    },
+    "phone": "530-473-2978",
+    "website": "mailto:sacvalleymuseum@frontiernet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Salk Institute",
+    "address": {
+      "streetAddress": "10010 North Torrey Pines RoadLa Jolla, CA 92037",
+      "mailingAddress": "P.O. Box 85800San Diego, CA 92186-5800"
+    },
+    "phone": "858-550-0472",
+    "website": "mailto:giving@salk.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Samoa Cookhouse Museum",
+    "address": {
+      "streetAddress": "Off Cookhouse RoadSamoa, CA 95564",
+      "mailingAddress": "2841 E StreetEureka, CA 95501"
+    },
+    "phone": "707-442-1659",
+    "website": "https://www.samoacookhouse.net/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Daily 7:00 am - 10:00 pm",
+    "museumTypes": [
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "San Anselmo Historical Museum",
+    "address": {
+      "streetAddress": "110 Tunstead AvenueSan Anselmo, CA 94960",
+      "mailingAddress": "San Anselmo, CA 94960"
+    },
+    "phone": "415-258-4659",
+    "website": "mailto:info@sananselmohistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "San Benito Co. Arts. Comm.",
+    "address": {
+      "streetAddress": "Hollister, CA 95024",
+      "mailingAddress": "P.O. Box 692Hollister, CA 95024"
+    },
+    "phone": "831-636-2787",
+    "website": "mailto:info@sanbenitoarts.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "San Benito Co. Hist. Soc. Museum",
+    "address": {
+      "streetAddress": "498 Fifth StreetHollister, CA 95023",
+      "mailingAddress": "P.O. Box 273San Juan Bautista, CA 95045"
+    },
+    "phone": "831-635-0335",
+    "website": "mailto:info@sbchistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "San Bernardino County Museum",
+    "address": {
+      "streetAddress": "2024 Orange Tree LaneRedlands, CA 92374",
+      "mailingAddress": null
+    },
+    "phone": "909-798-8608",
+    "website": "mailto:museum@sbcounty.gov",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/SBCMuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tuesday - Sunday 9:00 am - 5:00 pmMonday closed",
+    "museumTypes": [
+      "Anthropology",
+      "Culture",
+      "General",
+      "History",
+      "Natural History"
+    ]
+  },
+  {
+    "name": "San Buenaventura Mission Museum",
+    "address": {
+      "streetAddress": "211 E. Main St.Ventura, CA 93001",
+      "mailingAddress": null
+    },
+    "phone": "805-643-4318",
+    "website": "mailto:mission@sanbuenaventuramission.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  }
+]

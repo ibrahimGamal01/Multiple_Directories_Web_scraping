@@ -1,0 +1,1266 @@
+[
+  {
+    "name": "Depreciation Lands Museum",
+    "address": {
+      "streetAddress": "4743 S. Pioneer RoadAllison Park, PA 15101",
+      "mailingAddress": "P.O. Box 174Allison Park, PA 15101"
+    },
+    "phone": "412-486-0563",
+    "website": "mailto:depreciationlandsmuseum@hotmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Cemetery",
+      "General",
+      "History",
+      "Historic House",
+      "Library",
+      "Natural History",
+      "Park"
+    ]
+  },
+  {
+    "name": "Derry Area Historical Society",
+    "address": {
+      "streetAddress": "PO Box 64Loyalhanna, PA 15661",
+      "mailingAddress": "PO Box 176Loyalhanna, PA 15661"
+    },
+    "phone": "724-694-8808",
+    "website": "mailto:research@derryhistory.hypermart.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Derry Township Historical Society",
+    "address": {
+      "streetAddress": "40 Northeast DriveHershey, PA 17033",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:DTHS@HersheyHistory.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Allentown Art Museum",
+    "address": {
+      "streetAddress": "31 N. 5th StreetAllentown, PA 18101",
+      "mailingAddress": null
+    },
+    "phone": "610-432-4333",
+    "website": "mailto:askus@allentownartmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Dorflinger Glass Museum - Dorflinger Wildlife Sanctuary",
+    "address": {
+      "streetAddress": "Elizabeth StreetWhite Mills, PA 18473",
+      "mailingAddress": "PO Box 356White Mills, PA 18473"
+    },
+    "phone": "570-253-1185",
+    "website": "mailto:suydam@ptd.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Downingtown Historical Society",
+    "address": {
+      "streetAddress": "PO Box 9Downingtown, PA 19335",
+      "mailingAddress": null
+    },
+    "phone": "610-269-1709",
+    "website": "mailto:info@downingtownareahistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Drake Well Museum",
+    "address": {
+      "streetAddress": "202 Museum LaneTitusville, PA 16354",
+      "mailingAddress": "R.D. #3, Box 7Titusville, PA 16354"
+    },
+    "phone": "814-827-2797",
+    "website": "https://www.drakewell.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Drake-Well-Museum/213115228754015",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "DuBois Area Historical Society",
+    "address": {
+      "streetAddress": "28-30-34 West Long AvenueDuBois, PA 15801",
+      "mailingAddress": "P.O. Box 401DuBois, PA 15801"
+    },
+    "phone": "814-371-9006",
+    "website": "mailto:duboisareahistory@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Edward Hand Medical Heritage Museum",
+    "address": {
+      "streetAddress": "137 E. WALNUT ST.Lancaster, PA 17602",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:rabbitjhb@comcast.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Elizabethtown Historical Society",
+    "address": {
+      "streetAddress": "57 South Poplar StreetElizabethtown, PA 17022",
+      "mailingAddress": "P.O. BOX 301Elizabethtown, PA 17022"
+    },
+    "phone": "717-361-9382",
+    "website": "mailto:kp.forney@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Eagles Mere Museum",
+    "address": {
+      "streetAddress": "On Eagles Mere Ave. (Route 42)Eagles Mere, PA 17731",
+      "mailingAddress": "Eagles Mere, PA 17731"
+    },
+    "phone": "570-525-3155",
+    "website": "mailto:em17731@epix.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Earth & Mineral Sciences Museum",
+    "address": {
+      "streetAddress": "16 Deike BuildingUniversity Park, PA 16802",
+      "mailingAddress": "University Park, PA 16802"
+    },
+    "phone": "814-865-6336",
+    "website": "mailto:museum@ems.psu.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "East Berlin Historical Preservation Society",
+    "address": {
+      "streetAddress": "P.O. Box 73332 West King StreetEast Berlin, PA 17316",
+      "mailingAddress": null
+    },
+    "phone": "717-259-0822",
+    "website": "mailto:ebhps@comcast.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "East Broad Top Railroad",
+    "address": {
+      "streetAddress": "421 Meadow StreetRockhill Furnace, PA 17249",
+      "mailingAddress": null
+    },
+    "phone": "814-447-3285",
+    "website": "mailto:info@eastbroadtop.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/ebtrr",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/eastbroadtoprailroad"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "East Lycoming Historical Society",
+    "address": {
+      "streetAddress": "304 South Main StHughesville, PA 17737",
+      "mailingAddress": "P.O. Box 97Hughesville, PA 17737"
+    },
+    "phone": "570-368-1415",
+    "website": "https://www.lycoming.org/elhs/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Allison-Antrim Museum, Inc.",
+    "address": {
+      "streetAddress": "365 South Ridge Ave.Greencastle, PA 17225",
+      "mailingAddress": null
+    },
+    "phone": "717-597-9010",
+    "website": "mailto:aamuseum@greencastlemuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": "https://www.twitter.com/greencastlemuzm",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "East Petersburg Historical Society",
+    "address": {
+      "streetAddress": "PO Box 1766040 Main St.East Petersburg, PA 17520",
+      "mailingAddress": "East Petersburg, PA 17520"
+    },
+    "phone": null,
+    "website": "mailto:County_Website@co.lancaster.pa.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "East Whiteland Historical Commission",
+    "address": {
+      "streetAddress": "209 Conestoga RdFraxer, PA 19355",
+      "mailingAddress": null
+    },
+    "phone": "610-648-0600",
+    "website": "https://www.eastwhiteland.org/default.aspx",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Eastern State Penitentiary",
+    "address": {
+      "streetAddress": "2027 Fairmount AvenuePhiladelphia, PA 19130",
+      "mailingAddress": "Philadelphia, PA 19130"
+    },
+    "phone": "215-236-5111",
+    "website": "mailto:info@EasternState.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Easton Heritage Alliance",
+    "address": {
+      "streetAddress": "1753 Bachmann Publick House169 Northampton StreetEaston, PA 18042",
+      "mailingAddress": "169 Northampton StreetEaston, PA 18042"
+    },
+    "phone": "610-258-1612",
+    "website": "https://www.eastonheritagealliance.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Ebenezer Maxwell Mansion, Inc.",
+    "address": {
+      "streetAddress": "200 W. Tulpehocken StreetPhiladelphia, PA 19144",
+      "mailingAddress": null
+    },
+    "phone": "215-438-1861",
+    "website": "mailto:emaxwellmansion@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Edgemont Township Historical Commission",
+    "address": {
+      "streetAddress": "1000 Gradyville RdGradyville, PA 19039",
+      "mailingAddress": null
+    },
+    "phone": "610-459-1662",
+    "website": "https://www.edgmont.org/page14/page14.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Altoona Railroaders Memorial Museum",
+    "address": {
+      "streetAddress": "1300 Ninth AvenueAltoona, PA 16602",
+      "mailingAddress": null
+    },
+    "phone": "814-946-0834",
+    "website": "https://www.railroadcity.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Edinboro Area Historical Society",
+    "address": {
+      "streetAddress": "123 Water StreetEdinboro, PA 16412",
+      "mailingAddress": "P.O. Box 18Edinboro, PA 16412"
+    },
+    "phone": "814-734-6109",
+    "website": "https://www.edinborohistory.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/eahs.pa",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Edinboro University of Pennsylvania",
+    "address": {
+      "streetAddress": "219 Meadville StreeEdinboro, PA 16444",
+      "mailingAddress": "Edinboro, PA 16444"
+    },
+    "phone": "814-732-2000",
+    "website": "https://www.edinboro.edu/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/edinboro",
+      "twitter": "https://www.twitter.com/edinboro",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "University"
+    ]
+  },
+  {
+    "name": "Electric City Trolley Station and Museum",
+    "address": {
+      "streetAddress": "300 Cliff StreetScranton, PA 18503",
+      "mailingAddress": null
+    },
+    "phone": "570-963-6590",
+    "website": "https://www.ectma.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Elfreth's Alley Museum",
+    "address": {
+      "streetAddress": "126 Elfreth's AlleyPhiladelphia, PA 19106",
+      "mailingAddress": null
+    },
+    "phone": "215-574-0560",
+    "website": "https://www.elfrethsalley.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Elizabeth Township Historical Society",
+    "address": {
+      "streetAddress": "5811 Smithfield StreetBoston, PA 15135",
+      "mailingAddress": null
+    },
+    "phone": "412-754-2030",
+    "website": "https://www.15122.com/ETHS/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Elizabethtown College",
+    "address": {
+      "streetAddress": "One Alpha DriveElizabethtown, PA 17022",
+      "mailingAddress": null
+    },
+    "phone": "717-361-1400",
+    "website": "mailto:etownaux@etown.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Elk County Historical Society",
+    "address": {
+      "streetAddress": "109 Center StRidgway, PA 15853",
+      "mailingAddress": "P.O. Box 361, 109 CenterRidgway, PA 15853"
+    },
+    "phone": "814-776-1032",
+    "website": "mailto:elkctyhistoricalsociety@windstream.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Ellwood City Historical Society",
+    "address": {
+      "streetAddress": "310 5th StEllwood City, PA 16117",
+      "mailingAddress": "P.O. Box 611Ellwood City, PA 16117"
+    },
+    "phone": "724-752-2021",
+    "website": "https://www.ellwoodhistory.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Ellwood City Museum",
+    "address": {
+      "streetAddress": "310 Fifth StreetEllwood City, PA 16117",
+      "mailingAddress": "Box 611Ellwood City, PA 16117"
+    },
+    "phone": "724-752-2021",
+    "website": "https://www.ellwoodhistory.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Emmaus Historical Society",
+    "address": {
+      "streetAddress": "563 Chestnut StEmmaus, PA 18103",
+      "mailingAddress": null
+    },
+    "phone": "610-966-6591",
+    "website": "mailto:emmaushist@ptd.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Ephrata Cloister",
+    "address": {
+      "streetAddress": "632 West Main StreetEphrata, PA 17522",
+      "mailingAddress": null
+    },
+    "phone": "717-733-6600",
+    "website": "mailto:ra-ephratacloister@state.pa.us",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Church"
+    ]
+  },
+  {
+    "name": "Erie Art Museum",
+    "address": {
+      "streetAddress": "411 State StreetErie, PA 16501",
+      "mailingAddress": null
+    },
+    "phone": "814-459-5477",
+    "website": "https://erieartmuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Erie Maritime Museum",
+    "address": {
+      "streetAddress": "150 East Front StreetErie, PA 16507",
+      "mailingAddress": "150 East Front StreetErie, PA 16501"
+    },
+    "phone": "814-452-2744",
+    "website": "mailto:sail@flagshipniagara.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#!/pages/Flagship-Niagara/55368543638",
+      "twitter": "https://www.twitter.com/#!/FNLNiagara",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Erie Yesterday",
+    "address": {
+      "streetAddress": "417 State StreetErie, PA 16501",
+      "mailingAddress": null
+    },
+    "phone": "814-454-1813",
+    "website": "https://www.goerie.com/erieyesterday/index.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Erie Zoological Society",
+    "address": {
+      "streetAddress": "423 W 38th StErie, PA 16508",
+      "mailingAddress": "PO Box 3208Erie, PA 16508"
+    },
+    "phone": "814-864-4091",
+    "website": "https://www.eriezoo.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "American Baptist Historical Society",
+    "address": {
+      "streetAddress": "PO Box 851Valley Forge, PA 19482",
+      "mailingAddress": null
+    },
+    "phone": "678-547-6680",
+    "website": "https://www.abhsarchives.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Everhart Museum",
+    "address": {
+      "streetAddress": "1901 Mulberry StreetScranton, PA 18510",
+      "mailingAddress": null
+    },
+    "phone": "570-346-7186",
+    "website": "mailto:general.information@everhart-museum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Fairmount Water Works Interpretive Center",
+    "address": {
+      "streetAddress": "640 Waterworks DrivePhiladelphia, PA 19130",
+      "mailingAddress": null
+    },
+    "phone": "215-685-0723",
+    "website": "https://www.fairmountwaterworks.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Pennsylvania National Fire Museum",
+    "address": {
+      "streetAddress": "1820 North Fourth StHarrisburg, PA 17102",
+      "mailingAddress": "1820 N. FOURTH ST.Harrisburg, PA 17102"
+    },
+    "phone": "717-232-8915",
+    "website": "mailto:info@pnfm.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Fleisher Art Memorial",
+    "address": {
+      "streetAddress": "719 Catharine StreetPhiladelphia, PA 19147",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.fleisher.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Fort Zeller Museum",
+    "address": {
+      "streetAddress": "10 N. Fort Zeller RoadNewmanstown, PA 17073",
+      "mailingAddress": "R.D.#1, BOX 107, FT. ZELLNewmanstown, PA 17073"
+    },
+    "phone": "717-272-0662",
+    "website": "mailto:gsylhoff@bellatlantic.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "American Canal Society",
+    "address": {
+      "streetAddress": "16 Ballou RoadHopedale, MA 01747",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://www.americancanals.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Friends Historical Library of Swarthmore College",
+    "address": {
+      "streetAddress": "500 COLLEGE AVENUESwarthmore, PA 19081",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "mailto:friends@swarthmore.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Friends of the Delaware Canal",
+    "address": {
+      "streetAddress": "145 S. MAIN ST.New Hope, PA 18938",
+      "mailingAddress": null
+    },
+    "phone": "215-862-2021",
+    "website": "https://www.fodc.org/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Friends-of-the-Delaware-Canal/190160541039125",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Fabric Workshop and Museum",
+    "address": {
+      "streetAddress": "1214 Arch StreetPhiladelphia, PA 19107",
+      "mailingAddress": null
+    },
+    "phone": "215-561-8888",
+    "website": "mailto:info@fabricworkshopandmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Association for Public Art",
+    "address": {
+      "streetAddress": "1528 Walnut Street, Suite 1000Philadelphia, PA 19102",
+      "mailingAddress": null
+    },
+    "phone": "215-546-7550",
+    "website": "mailto:apa@associationforpublicart.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/assocforpublicart",
+      "twitter": "https://www.twitter.com/assocpublicart",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Park"
+    ]
+  },
+  {
+    "name": "American Catholic Historical Society",
+    "address": {
+      "streetAddress": "263 S 4th StPhiladelphia, PA 19106",
+      "mailingAddress": "P.O. Box 84Philadelphia, PA 19105"
+    },
+    "phone": "610-517-0835",
+    "website": "mailto:darren.poley@villanova.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Fairmount Park Commission",
+    "address": {
+      "streetAddress": "100 North Horticultural Drive- West ParkPhiladelphia, PA 19131",
+      "mailingAddress": "Memorial Hall, West ParkPhiladelphia, PA 19131"
+    },
+    "phone": null,
+    "website": "https://www.fairmountpark.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Arboretum",
+      "Botanical Garden",
+      "Park"
+    ]
+  },
+  {
+    "name": "Fairview Area Historical Society",
+    "address": {
+      "streetAddress": "4302 Avonia RoadFairview, PA 16415",
+      "mailingAddress": "Box 553Fairview, PA 16415"
+    },
+    "phone": "814-474-5855",
+    "website": "mailto:fahsmail3@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Fallingwater",
+    "address": {
+      "streetAddress": "1491 Mill Run RoadMill Run, PA 15464",
+      "mailingAddress": "P.O. Box RMill Run, PA 15464"
+    },
+    "phone": "724-329-8501",
+    "website": "mailto:fallingwater@paconserve.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Fire Museum",
+    "address": {
+      "streetAddress": "757 W. Market StreetYork, PA 17404",
+      "mailingAddress": "250 E. Market St.York, PA 17403"
+    },
+    "phone": null,
+    "website": "https://www.yorkheritage.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Saturday 10:00 am - 4:00 pm",
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Firefighters Historical Museum, Inc.",
+    "address": {
+      "streetAddress": "428 Chestnut St.Erie, PA 16508",
+      "mailingAddress": null
+    },
+    "phone": "814-864-2156",
+    "website": "https://www.geocities.com/firefightersmuseum/index.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Fireman's Hall Museum",
+    "address": {
+      "streetAddress": "147 N. 2nd St.Philadelphia, PA 19106",
+      "mailingAddress": null
+    },
+    "phone": "215-923-1438",
+    "website": "mailto:frmsadmncws@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Library",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "First National Bank Museum",
+    "address": {
+      "streetAddress": "170 Locust StreetColumbia, PA 17512",
+      "mailingAddress": null
+    },
+    "phone": "717-684-8864",
+    "website": "mailto:nora@bankmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Flagship Niagara",
+    "address": {
+      "streetAddress": "150 East Front St.Erie, PA 16507",
+      "mailingAddress": null
+    },
+    "phone": "814-452-2744",
+    "website": "mailto:sail@flagshipniagara.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/#!/pages/Flagship-Niagara/55368543638",
+      "twitter": "https://www.twitter.com/#!/FNLNiagara",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Flatiron Building Heritage Center",
+    "address": {
+      "streetAddress": "69 Market StreetBrownsville, PA 15417",
+      "mailingAddress": null
+    },
+    "phone": "724-785-9331",
+    "website": "mailto:info@BarcPa.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Fleetwood Area Historical Society",
+    "address": {
+      "streetAddress": "110 W Arch St.Fleetwood, PA 19522",
+      "mailingAddress": "Fleetwood, PA 19522"
+    },
+    "phone": "610-698-2383",
+    "website": "mailto:history@fleetwoodpa.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Forest County Historical Society",
+    "address": {
+      "streetAddress": "668 Elm StreetTionesta, PA 16353",
+      "mailingAddress": "PO Box 546Tionesta, PA 16353"
+    },
+    "phone": null,
+    "website": "https://www.forestcounty.com/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Forest-County-Pennsylvania/140284452701225",
+      "twitter": "https://www.twitter.com/forestcountypa",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Fort Hunter Mansion and Park",
+    "address": {
+      "streetAddress": "5300 North Front StreetHarrisburg, PA 17110",
+      "mailingAddress": null
+    },
+    "phone": "717-599-5751",
+    "website": "mailto:info@forthunter.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Fort LeBoeuf Historical Society and Museum",
+    "address": {
+      "streetAddress": "31 High StreetWaterford, PA 16441",
+      "mailingAddress": "Box 622Waterford, PA 16441"
+    },
+    "phone": "814-449-0607",
+    "website": "mailto:flbhistoricalsociety@gmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/fortleboeufhistoricalsociety",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "PLEASE NOTE: The museum is open the FIRST and THIRD Saturday.",
+    "museumTypes": [
+      "Archaeology",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  }
+]
