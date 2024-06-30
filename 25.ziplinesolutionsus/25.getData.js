@@ -4,7 +4,7 @@ const fs = require('fs');
 async function extractLocations(url) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
-    await page.goto(url, { waitUntil: 'networkidle2' });
+    await page.goto(url, { waitUntil: 'networkidle2', timeout: 90000 });
 
     const data = await page.evaluate(() => {
         const cards = Array.from(document.querySelectorAll('.card'));

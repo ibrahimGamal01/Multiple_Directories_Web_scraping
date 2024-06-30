@@ -14,7 +14,7 @@
     "name": "Spencer Valley Zip Lines",
     "website": "http://www.spencervalleyziplines.com/",
     "imageUrl": "https://www.ziplinesolutionsus.com/wp-content/uploads/sites/4/2016/12/Spencer-Valley-Ziplines.png",
-    "address": null,
+    "address": "Redwood, New York",
     "phone": {
       "phone1": "(315) 767-3235"
     },
@@ -25,7 +25,7 @@
     "name": "Xtreme Park Adventures",
     "website": "http://xtremeparkadventures.com/",
     "imageUrl": "https://www.ziplinesolutionsus.com/wp-content/uploads/sites/4/2016/12/XTreme-Park-Adventures-1.png",
-    "address": null,
+    "address": "Durham, North Carolina",
     "phone": {
       "phone1": "(919) 596-6100"
     },
@@ -36,7 +36,7 @@
     "name": "The Children’s Movement Center",
     "website": "http://cmcplay.com/",
     "imageUrl": "https://www.ziplinesolutionsus.com/wp-content/uploads/sites/4/2016/12/Locations_300x200_ChildrensMovementCenter.jpg",
-    "address": null,
+    "address": "New Milford, Connecticut",
     "phone": {
       "phone1": "(860) 799-6602"
     },
@@ -69,7 +69,7 @@
     "name": "Adrenaline Falls Zip Line",
     "website": "http://www.mackinawcity.net/mackinawcity/business/AdrenalineFallsAdventureZipline/180/",
     "imageUrl": "https://www.ziplinesolutionsus.com/wp-content/uploads/sites/4/2016/12/AdrenalineFallsZipline.jpg",
-    "address": null,
+    "address": "Mackinaw City, Michigan",
     "phone": {
       "phone1": "(231) 436-5630"
     },
@@ -80,7 +80,7 @@
     "name": "The Zone",
     "website": "https://www.thezone.org/",
     "imageUrl": "https://www.ziplinesolutionsus.com/wp-content/uploads/sites/4/2016/12/Locations_300x200_TheZone.jpg",
-    "address": null,
+    "address": "Gilboa, New York\nStamford, New York",
     "phone": {
       "phone1": "(315) 767-3235",
       "phone2": "(732) 730-1002"
@@ -92,7 +92,7 @@
     "name": "Riversport Adventures",
     "website": "http://www.riversportokc.org/",
     "imageUrl": "https://www.ziplinesolutionsus.com/wp-content/uploads/sites/4/2016/12/Locations_300x200_RiversportAdventures.jpg",
-    "address": null,
+    "address": "Oklahoma City, Oklahoma",
     "phone": {
       "phone1": "(405) 552-4040"
     },
@@ -103,7 +103,7 @@
     "name": "Holiday Mountain",
     "website": "http://holidaymountain.com/",
     "imageUrl": "https://www.ziplinesolutionsus.com/wp-content/uploads/sites/4/2016/12/Holiday-Mountain-1.png",
-    "address": null,
+    "address": "La Riviere, Manitoba, Canada",
     "phone": {
       "phone1": "(204) 242-2172"
     },
@@ -114,7 +114,7 @@
     "name": "Chuckster’s Family Fun Park",
     "website": "http://www.chucksters-vestal.com/",
     "imageUrl": "https://www.ziplinesolutionsus.com/wp-content/uploads/sites/4/2016/12/Chucksters-Family-Fun-Park-Logo.jpg",
-    "address": null,
+    "address": "Vestal, New York",
     "phone": {
       "phone1": "(607) 752-1070"
     },
@@ -125,7 +125,7 @@
     "name": "Rugaru Adventures",
     "website": "http://rugaruadventures.com/",
     "imageUrl": "https://www.ziplinesolutionsus.com/wp-content/uploads/sites/4/2016/12/Locations_300x200_RugaruAdventures.jpg",
-    "address": null,
+    "address": "Broken Bow, Oklahoma",
     "phone": {
       "phone1": "(580) 494-2947"
     },
@@ -136,7 +136,7 @@
     "name": "Bounce – Abu Dhabi",
     "website": "https://bounce.ae/ar/#/",
     "imageUrl": "https://www.ziplinesolutionsus.com/wp-content/uploads/sites/4/2016/12/Locations_300x200_Bounce.jpg",
-    "address": null,
+    "address": "Al Marina, Abu Dhabi, United Arab Emirates",
     "phone": {
       "phone1": "+971 4 321 1400"
     },
@@ -167,7 +167,7 @@
     "name": "Belmont Park",
     "website": "http://www.belmontpark.com/",
     "imageUrl": "https://www.ziplinesolutionsus.com/wp-content/uploads/sites/4/2016/11/Locations_300x200_BelmountPark.jpg",
-    "address": null,
+    "address": "San Diego, California",
     "phone": {
       "phone1": "(858) 228-9283"
     },
@@ -178,7 +178,7 @@
     "name": "Angry Birds Activity Park",
     "website": "http://www.activityparkspb.ru/",
     "imageUrl": "https://www.ziplinesolutionsus.com/wp-content/uploads/sites/4/2016/10/Locations_300x200_AngryBirdsActivityPark.jpg",
-    "address": null,
+    "address": "St. Petersberg, Russia",
     "phone": {
       "phone1": "+7 (812) 602-06-67"
     },
