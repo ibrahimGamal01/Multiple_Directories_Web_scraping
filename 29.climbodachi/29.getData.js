@@ -1,54 +1,54 @@
-// // const puppeteer = require('puppeteer');
-// // const fs = require('fs');
+// const puppeteer = require('puppeteer');
+// const fs = require('fs');
 
-// // async function scrapeClimbingGyms(url) {
-// //     const browser = await puppeteer.launch();
-// //     const page = await browser.newPage();
+// async function scrapeClimbingGyms(url) {
+//     const browser = await puppeteer.launch();
+//     const page = await browser.newPage();
 
-// //     try {
-// //         console.log(`Navigating to URL: ${url}`);
-// //         await page.goto(url, { waitUntil: 'networkidle0', timeout: 60000 });
+//     try {
+//         console.log(`Navigating to URL: ${url}`);
+//         await page.goto(url, { waitUntil: 'networkidle0', timeout: 600000 });
 
-// //         const data = await page.evaluate(() => {
-// //             const gyms = Array.from(document.querySelectorAll('tbody tr')).map(gym => {
-// //                 const name = gym.querySelector('.wpgmza_table_title')?.innerText || null;
-// //                 const address = gym.querySelector('.wpgmza_table_address')?.innerText || null;
-// //                 const description = gym.querySelector('.wpgmza_table_description')?.innerText || null;
-// //                 const openHours = gym.querySelector('.wpgmza_table_description strong:first-of-type')?.nextSibling.nodeValue || null;
-// //                 const phone = gym.querySelector('.wpgmza_table_description strong:last-of-type')?.nextSibling.nodeValue || null;
-// //                 const extraLink = gym.querySelector('.wpgmza_table_link a')?.href || null;
+//         const data = await page.evaluate(() => {
+//             const gyms = Array.from(document.querySelectorAll('tbody tr')).map(gym => {
+//                 const name = gym.querySelector('.wpgmza_table_title')?.innerText || null;
+//                 const address = gym.querySelector('.wpgmza_table_address')?.innerText || null;
+//                 const description = gym.querySelector('.wpgmza_table_description')?.innerText || null;
+//                 const openHours = gym.querySelector('.wpgmza_table_description strong:first-of-type')?.nextSibling.nodeValue || null;
+//                 const phone = gym.querySelector('.wpgmza_table_description strong:last-of-type')?.nextSibling.nodeValue || null;
+//                 const extraLink = gym.querySelector('.wpgmza_table_link a')?.href || null;
 
-// //                 return { name, address, description, openHours, phone, extraLink };
-// //             });
+//                 return { name, address, description, openHours, phone, extraLink };
+//             });
 
-// //             return gyms;
-// //         });
+//             return gyms;
+//         });
 
-// //         console.log('Scraped Data:', data);
-// //         return data;
-// //     } catch (error) {
-// //         console.error(`Error scraping URL ${url}:`, error);
-// //         return null;
-// //     } finally {
-// //         await browser.close();
-// //     }
-// // }
+//         console.log('Scraped Data:', data);
+//         return data;
+//     } catch (error) {
+//         console.error(`Error scraping URL ${url}:`, error);
+//         return null;
+//     } finally {
+//         await browser.close();
+//     }
+// }
 
-// // async function runScraping() {
-// //     const url = 'https://climbodachi.com/climbing-gyms-directory/malaysia/';
-// //     const outputFile = 'climbingGymsData.json';
+// async function runScraping() {
+//     const url = 'https://climbodachi.com/climbing-gyms-directory/singapore/';
+//     const outputFile = 'climbingGymsData.json';
 
-// //     const data = await scrapeClimbingGyms(url);
-// //     if (data) {
-// //         fs.writeFileSync(outputFile, JSON.stringify(data, null, 2), 'utf8');
-// //         console.log(`Scraping completed. Data saved to ${outputFile}`);
-// //     } else {
-// //         console.log('Scraping failed.');
-// //     }
-// // }
+//     const data = await scrapeClimbingGyms(url);
+//     if (data) {
+//         fs.writeFileSync(outputFile, JSON.stringify(data, null, 2), 'utf8');
+//         console.log(`Scraping completed. Data saved to ${outputFile}`);
+//     } else {
+//         console.log('Scraping failed.');
+//     }
+// }
 
-// // // Example usage
-// // runScraping().catch(error => console.error('Error:', error));
+// // Example usage
+// runScraping().catch(error => console.error('Error:', error));
 
 // const puppeteer = require('puppeteer');
 // const fs = require('fs');
@@ -108,41 +108,105 @@
 
 
 
+// const puppeteer = require('puppeteer');
+// const fs = require('fs');
+
+// async function scrapeClimbingGyms(url) {
+//     const browser = await puppeteer.launch();
+//     const page = await browser.newPage();
+
+//     try {
+//         console.log(`Navigating to URL: ${url}`);
+//         await page.goto(url, { waitUntil: 'networkidle0', timeout: 900000 });
+
+//         // Set the dropdown value to "-1" to load all entries
+//         await page.evaluate(() => {
+//             document.querySelector('select[name="wpgmza_table_6_length"]').value = "-1";
+//             document.querySelector('select[name="wpgmza_table_6_length"]').dispatchEvent(new Event('change'));
+//         });
+
+//         // Wait for a bit after changing dropdown value
+//         await page.evaluate(() => {
+//             return new Promise(resolve => {
+//                 setTimeout(resolve, 3000);
+//             });
+//         });
+
+//         const data = await page.evaluate(() => {
+//             const gyms = Array.from(document.querySelectorAll('tbody tr')).map(gym => {
+//                 const name = gym.querySelector('.wpgmza_table_title')?.innerText || null;
+//                 const address = gym.querySelector('.wpgmza_table_address')?.innerText || null;
+//                 const description = gym.querySelector('.wpgmza_table_description')?.innerText || null;
+//                 const openHours = gym.querySelector('.wpgmza_table_description strong:first-of-type')?.nextSibling.nodeValue || null;
+//                 const phone = gym.querySelector('.wpgmza_table_description strong:last-of-type')?.nextSibling.nodeValue || null;
+//                 const extraLink = gym.querySelector('.wpgmza_table_link a')?.href || null;
+
+//                 return { name, address, description, openHours, phone, extraLink };
+//             });
+
+//             return gyms;
+//         });
+
+//         console.log('Scraped Data:', data);
+//         return data;
+//     } catch (error) {
+//         console.error(`Error scraping URL ${url}:`, error);
+//         return null;
+//     } finally {
+//         await browser.close();
+//     }
+// }
+
+// async function runScraping() {
+//     const url = 'https://climbodachi.com/climbing-gyms-directory/singapore/';
+//     const outputFile = 'climbingGymsData.json';
+
+//     const data = await scrapeClimbingGyms(url);
+//     if (data) {
+//         fs.writeFileSync(outputFile, JSON.stringify(data, null, 2), 'utf8');
+//         console.log(`Scraping completed. Data saved to ${outputFile}`);
+//     } else {
+//         console.log('Scraping failed.');
+//     }
+// }
+
+// runScraping().catch(error => console.error('Error:', error));
+
+
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-async function scrapeClimbingGyms(url) {
-    const browser = await puppeteer.launch();
-    const page = await browser.newPage();
-
+async function scrapeClimbingGyms(url, retries = 3) {
+    let browser;
     try {
+        browser = await puppeteer.launch();
+        const page = await browser.newPage();
+
         console.log(`Navigating to URL: ${url}`);
-        await page.goto(url, { waitUntil: 'networkidle0', timeout: 60000 });
-
-        // Set the dropdown value to "-1" to load all entries
-        await page.evaluate(() => {
-            document.querySelector('select[name="wpgmza_table_6_length"]').value = "-1";
-            document.querySelector('select[name="wpgmza_table_6_length"]').dispatchEvent(new Event('change'));
-        });
-
-        // Wait for a bit after changing dropdown value
-        await page.evaluate(() => {
-            return new Promise(resolve => {
-                setTimeout(resolve, 3000);
-            });
-        });
+        await page.goto(url, { waitUntil: 'networkidle0', timeout: 600000 });
 
         const data = await page.evaluate(() => {
             const gyms = Array.from(document.querySelectorAll('tbody tr')).map(gym => {
-                const name = gym.querySelector('.wpgmza_table_title')?.innerText || null;
-                const address = gym.querySelector('.wpgmza_table_address')?.innerText || null;
-                const description = gym.querySelector('.wpgmza_table_description')?.innerText || null;
-                const openHours = gym.querySelector('.wpgmza_table_description strong:first-of-type')?.nextSibling.nodeValue || null;
-                const phone = gym.querySelector('.wpgmza_table_description strong:last-of-type')?.nextSibling.nodeValue || null;
-                const extraLink = gym.querySelector('.wpgmza_table_link a')?.href || null;
+                try {
+                    const name = gym.querySelector('.wpgmza_table_title')?.innerText?.trim() || null;
+                    const address = gym.querySelector('.wpgmza_table_address')?.innerText?.trim() || null;
+                    const description = gym.querySelector('.wpgmza_table_description')?.innerText?.trim() || null;
+                    const openHours = gym.querySelector('.wpgmza_table_description strong:first-of-type')?.nextSibling?.nodeValue?.trim() || null;
+                    const phone = gym.querySelector('.wpgmza_table_description strong:last-of-type')?.nextSibling?.nodeValue?.trim() || null;
+                    const extraLink = gym.querySelector('.wpgmza_table_link a')?.href?.trim() || null;
 
-                return { name, address, description, openHours, phone, extraLink };
-            });
+                    // Set phone to null if it contains invalid characters
+                    const cleanedPhone = phone ? phone.replace(/[^\d+]/g, '') : null;
+                    if (cleanedPhone !== phone) {
+                        phone = null;
+                    }
+
+                    return { name, address, description, openHours, phone, extraLink };
+                } catch (e) {
+                    console.error('Error processing a gym element:', e);
+                    return null;
+                }
+            }).filter(gym => gym !== null); // Remove null entries if any gym elements failed
 
             return gyms;
         });
@@ -151,14 +215,21 @@ async function scrapeClimbingGyms(url) {
         return data;
     } catch (error) {
         console.error(`Error scraping URL ${url}:`, error);
-        return null;
+        if (retries > 0) {
+            console.log(`Retrying... (${retries} attempts left)`);
+            return scrapeClimbingGyms(url, retries - 1);
+        } else {
+            return null;
+        }
     } finally {
-        await browser.close();
+        if (browser) {
+            await browser.close();
+        }
     }
 }
 
 async function runScraping() {
-    const url = 'https://climbodachi.com/climbing-gyms-directory/singapore/';
+    const url = 'https://climbodachi.com/climbing-gyms-directory/thailand/';
     const outputFile = 'climbingGymsData.json';
 
     const data = await scrapeClimbingGyms(url);
@@ -170,4 +241,5 @@ async function runScraping() {
     }
 }
 
+// Example usage
 runScraping().catch(error => console.error('Error:', error));
