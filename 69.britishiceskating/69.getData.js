@@ -32,16 +32,19 @@ async function scrapeRinkData(url) {
                     return element ? element.innerText.trim() : '';
                 };
 
-                const getUrl = (selector, context = widget) => {
-                    const element = context.querySelector(selector);
-                    return element ? element.href : '';
+                const extractUrl = (text) => {
+                    const urlRegex = /(https?:\/\/[^\s]+)/g;
+                    const match = text.match(urlRegex);
+                    return match ? match[0] : '';
                 };
 
                 const name = getText('.v-expansion-panel-header strong');
                 let address = '';
                 let phone = '';
                 let email = '';
-                const website = getUrl('.v-expansion-panel-content__wrap a[href^="http"]');
+                let website1 = '';
+                let website2 = '';
+                let website3 = '';
 
                 const listItems = widget.querySelectorAll('.v-list-item');
                 listItems.forEach(item => {
@@ -57,12 +60,35 @@ async function scrapeRinkData(url) {
                     }
                 });
 
+                const contentWrap = widget.querySelector('.v-expansion-panel-content__wrap');
+                if (contentWrap) {
+                    // Method 1: Extract from <a> tags
+                    const linkElement = contentWrap.querySelector('a[href^="http"]');
+                    if (linkElement) {
+                        website1 = linkElement.href;
+                    }
+
+                    // Method 2: Extract from text content
+                    website2 = extractUrl(contentWrap.innerText);
+
+                    // Method 3: Extract from a specific field (example: 'Rink Website' label)
+                    const rinkWebsiteLabel = Array.from(contentWrap.querySelectorAll('label')).find(label => label.innerText.includes('Rink Website'));
+                    if (rinkWebsiteLabel) {
+                        const rinkWebsiteSpan = rinkWebsiteLabel.closest('.row').querySelector('span');
+                        if (rinkWebsiteSpan) {
+                            website3 = extractUrl(rinkWebsiteSpan.innerText) || rinkWebsiteSpan.innerText.trim();
+                        }
+                    }
+                }
+
                 results.push({
                     Name: name,
                     Address: address !== '-' ? address : '',
                     Phone: phone !== '-' ? phone : '',
                     Email: email !== '-' ? email : '',
-                    Website: website
+                    Website1: website1 !== '' ? website1 : 'N/A',
+                    Website2: website2 !== '' ? website2 : 'N/A',
+                    Website3: website3 !== '' ? website3 : 'N/A'
                 });
 
                 // Click to collapse the panel
@@ -86,7 +112,7 @@ async function scrapeRinkData(url) {
 async function scrapeAllLinks() {
     const scrapedData = [];
 
-    for (let i = 1; i <= 33; i++) { // Adjust this range based on the number of pages
+    for (let i = 1; i <= 8; i++) { 
         const url = `${baseUrl}${i}`;
         let success = false;
 
