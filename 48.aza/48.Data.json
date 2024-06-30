@@ -1,74 +1,68 @@
 [
   {
-    "title": "",
-    "link": "",
-    "location": "Texas  Accredited through March 2029",
-    "accreditation": "March 2029"
-  },
-  {
     "title": "Adventure Aquarium",
     "link": "https://www.adventureaquarium.com/",
-    "location": "N.J. Accredited through March 2025",
+    "location": "N.J.",
     "accreditation": "March 2025"
   },
   {
     "title": "Africam Safari Park",
     "link": "https://africamsafari.com/",
-    "location": "Mexico Accredited through March 2027",
+    "location": "Mexico",
     "accreditation": "March 2027"
   },
   {
     "title": "Akron Zoological Park",
     "link": "https://www.akronzoo.org/",
-    "location": "Ohio Accredited through September 2026",
+    "location": "Ohio",
     "accreditation": "September 2026"
   },
   {
     "title": "Alaska SeaLife Center",
     "link": "https://www.alaskasealife.org/",
-    "location": "AlaskaAccredited through September 2027",
+    "location": "Alaska",
     "accreditation": "September 2027"
   },
   {
     "title": "Albuquerque Biological Park",
     "link": "https://www.bioparksociety.org/main/abq-biopark/",
-    "location": "N.M. Accredited through September 2026",
+    "location": "N.M.",
     "accreditation": "September 2026"
   },
   {
     "title": "Aquarium of Niagara",
     "link": "https://aquariumofniagara.org/",
-    "location": "N.Y.Accredited through March 2025",
+    "location": "N.Y.",
     "accreditation": "March 2025"
   },
   {
     "title": "Aquarium of the Bay",
     "link": "https://www.aquariumofthebay.org/",
-    "location": "Calif. Accredited through March 2028",
+    "location": "Calif.",
     "accreditation": "March 2028"
   },
   {
     "title": "Aquarium of the Pacific",
     "link": "https://www.aquariumofpacific.org/",
-    "location": "Calif. Accredited through March 2026",
+    "location": "Calif.",
     "accreditation": "March 2026"
   },
   {
     "title": "Aquarium of the Port of Veracruz",
     "link": "https://www.aquariumpuertodeveracruz.mx/",
-    "location": "Mexico Accredited through March",
+    "location": "Mexico",
     "accreditation": "March, 2025"
   },
   {
     "title": "Arizona Sonora Desert Museum",
     "link": "https://www.desertmuseum.org/",
-    "location": "Ariz. Accredited through March 2026",
+    "location": "Ariz.",
     "accreditation": "March 2026"
   },
   {
     "title": "Assiniboine Park Zoo",
     "link": "https://www.assiniboinepark.ca/",
-    "location": "CanadaAccredited through September 2025",
+    "location": "Canada",
     "accreditation": "September 2025"
   },
   {
@@ -86,25 +80,25 @@
   {
     "title": "Audubon Aquarium of the Americas",
     "link": "https://audubonnatureinstitute.org/aquarium",
-    "location": "La. Accredited through March 2025",
+    "location": "La.",
     "accreditation": "March 2025"
   },
   {
     "title": "Audubon Zoo",
     "link": "https://audubonnatureinstitute.org/zoo",
-    "location": "La. Accredited through March 2029",
+    "location": "La.",
     "accreditation": "March 2029"
   },
   {
     "title": "Bailey-Matthews National Shell Museum & Aquarium",
     "link": "https://www.shellmuseum.org/",
-    "location": "Fla.Accredited through March 2028(also accredited by the American Alliance of Museums)",
+    "location": "Fla.",
     "accreditation": "March 2028(also accredited by the American Alliance of Museums)"
   },
   {
     "title": "Baylor University Bear Habitat",
     "link": "https://bearhabitat.web.baylor.edu/",
-    "location": "TexasAccredited through September 2026",
+    "location": "Texas",
     "accreditation": "September 2026"
   },
   {
@@ -116,319 +110,319 @@
   {
     "title": "Binder Park Zoo",
     "link": "https://binderparkzoo.org/",
-    "location": "Mich. Accredited through September 2025",
+    "location": "Mich.",
     "accreditation": "September 2025"
   },
   {
     "title": "Birch Aquarium at Scripps",
     "link": "https://aquarium.ucsd.edu/",
-    "location": "Calif. Accredited through March 2029",
+    "location": "Calif.",
     "accreditation": "March 2029"
   },
   {
     "title": "Birmingham Zoo",
     "link": "https://www.birminghamzoo.com/",
-    "location": "Ala. Accredited through March 2028",
+    "location": "Ala.",
     "accreditation": "March 2028"
   },
   {
     "title": "Blank Park Zoo",
     "link": "https://www.blankparkzoo.com/",
-    "location": "Iowa Accredited through September 2024",
+    "location": "Iowa",
     "accreditation": "September 2024"
   },
   {
     "title": "Boonshoft Museum of Discovery",
     "link": "https://boonshoft.org/",
-    "location": "Ohio Accredited through March 2027(also accredited by the American Alliance of Museums)",
+    "location": "Ohio",
     "accreditation": "March 2027(also accredited by the American Alliance of Museums)"
   },
   {
     "title": "Bramble Park Zoo",
     "link": "https://www.brambleparkzoo.com/",
-    "location": "S.D.Accredited through September 2024",
+    "location": "S.D.",
     "accreditation": "September 2024"
   },
   {
     "title": "Brandywine Zoo",
     "link": "https://brandywinezoo.org/",
-    "location": "Del.Accredited through September 2027",
+    "location": "Del.",
     "accreditation": "September 2027"
   },
   {
     "title": "BREC's Baton Rouge Zoo",
     "link": "https://brzoo.org/",
-    "location": "La.Accredited through March 2029",
+    "location": "La.",
     "accreditation": "March 2029"
   },
   {
     "title": "Brevard Zoo",
     "link": "https://brevardzoo.org/",
-    "location": "Fla. Accredited through March 2029",
+    "location": "Fla.",
     "accreditation": "March 2029"
   },
   {
     "title": "Bronx Zoo/WCS",
     "link": "https://bronxzoo.com/",
-    "location": "N.Y. Accredited through September 2024",
+    "location": "N.Y.",
     "accreditation": "September 2024"
   },
   {
     "title": "Brookgreen Gardens",
     "link": "https://www.brookgreen.org/low-country-zoo",
-    "location": "S.C.Accredited through September 2024(also accredited by the American Alliance of Museums)",
+    "location": "S.C.",
     "accreditation": "September 2024(also accredited by the American Alliance of Museums)"
   },
   {
     "title": "Buffalo Zoo",
     "link": "https://buffalozoo.org/",
-    "location": "N.Y.Accredited through September 2027",
+    "location": "N.Y.",
     "accreditation": "September 2027"
   },
   {
     "title": "Busch Gardens Tampa Bay",
     "link": "https://buschgardens.com/tampa/zoo/animals/",
-    "location": "Fla. Accredited through March 2027",
+    "location": "Fla.",
     "accreditation": "March 2027"
   },
   {
     "title": "The Butterfly House",
     "link": "https://www.missouribotanicalgarden.org/plan-your-visit/family-of-attractions/butterfly-house",
-    "location": "Mo. Accredited through March 2025",
+    "location": "Mo.",
     "accreditation": "March 2025"
   },
   {
     "title": "Butterfly Pavilion",
     "link": "https://butterflies.org/",
-    "location": "Colo.Accredited through March 2026",
+    "location": "Colo.",
     "accreditation": "March 2026"
   },
   {
     "title": "Buttonwood Park Zoo",
     "link": "https://www.bpzoo.org/",
-    "location": "Mass.Accredited through September 2024",
+    "location": "Mass.",
     "accreditation": "September 2024"
   },
   {
     "title": "Cabrillo Marine Aquarium",
     "link": "https://www.cabrillomarineaquarium.org/",
-    "location": "Calif.Accredited through March 2027",
+    "location": "Calif.",
     "accreditation": "March 2027"
   },
   {
     "title": "Caldwell Zoo",
     "link": "https://caldwellzoo.org/",
-    "location": "Texas Accredited through March 2026",
+    "location": "Texas",
     "accreditation": "March 2026"
   },
   {
     "title": "California Science Center",
     "link": "https://californiasciencecenter.org/",
-    "location": "Calif.Accredited through March 2027(also accredited by the American Alliance of Museums)",
+    "location": "Calif.",
     "accreditation": "March 2027(also accredited by the American Alliance of Museums)"
   },
   {
     "title": "Cameron Park Zoo",
     "link": "https://www.cameronparkzoo.com/",
-    "location": "Texas Accredited through March 2027",
+    "location": "Texas",
     "accreditation": "March 2027"
   },
   {
     "title": "Cape May County Park Zoo",
     "link": "https://www.capemaycountynj.gov/1008/Park-Zoo",
-    "location": "N.J. Accredited through September 2028",
+    "location": "N.J.",
     "accreditation": "September 2028"
   },
   {
     "title": "Capron Park Zoo",
     "link": "https://capronparkzoo.com/animal-collection/",
-    "location": "Mass. Accredited through September 2027",
+    "location": "Mass.",
     "accreditation": "September 2027"
   },
   {
     "title": "Central Florida Zoological Park",
     "link": "https://www.centralfloridazoo.org/",
-    "location": "Fla. Accredited through March 2027",
+    "location": "Fla.",
     "accreditation": "March 2027"
   },
   {
     "title": "Central Park Zoo",
     "link": "https://centralparkzoo.com/",
-    "location": "N.Y. Accredited through September 2025",
+    "location": "N.Y.",
     "accreditation": "September 2025"
   },
   {
     "title": "Charles Paddock Zoo",
     "link": "https://charlespaddockzoo.org/",
-    "location": "Calif. Accredited through March 2025",
+    "location": "Calif.",
     "accreditation": "March 2025"
   },
   {
     "title": "Chattanooga Zoo at Warner Park",
     "link": "https://www.chattzoo.org/",
-    "location": "Tenn. Accredited through September 2024",
+    "location": "Tenn.",
     "accreditation": "September 2024"
   },
   {
     "title": "Cheyenne Mountain Zoological Park",
     "link": "https://www.cmzoo.org/",
-    "location": "Colo. Accredited through September 2026",
+    "location": "Colo.",
     "accreditation": "September 2026"
   },
   {
     "title": "Brookfield Zoo Chicago",
     "link": "https://czs.org/BrookfieldZoo",
-    "location": "Ill. Accredited through September 2024",
+    "location": "Ill.",
     "accreditation": "September 2024"
   },
   {
     "title": "Cincinnati Zoo and Botanical Garden",
     "link": "https://cincinnatizoo.org/",
-    "location": "Ohio Accredited through September 2025(also accredited by the American Alliance of Museums)",
+    "location": "Ohio",
     "accreditation": "September 2025(also accredited by the American Alliance of Museums)"
   },
   {
     "title": "Cleveland Metroparks Zoo",
     "link": "https://www.clevelandmetroparks.com/zoo",
-    "location": "Ohio Accredited through September 2025",
+    "location": "Ohio",
     "accreditation": "September 2025"
   },
   {
     "title": "Clyde Peeling's Reptiland",
     "link": "https://reptiland.com/",
-    "location": "Pa. Accredited through September 2024",
+    "location": "Pa.",
     "accreditation": "September 2024"
   },
   {
     "title": "Columbus Zoo & Aquarium",
     "link": "https://www.columbuszoo.org/",
-    "location": "Ohio Accredited through September 2028",
+    "location": "Ohio",
     "accreditation": "September 2028"
   },
   {
     "title": "Como Park Zoo and Conservatory",
     "link": "https://comozooconservatory.org/",
-    "location": "Minn. Accredited through September 2026",
+    "location": "Minn.",
     "accreditation": "September 2026"
   },
   {
     "title": "Connecticut's Beardsley Zoo",
     "link": "https://www.beardsleyzoo.org/",
-    "location": "Conn.Accredited through September 2024",
+    "location": "Conn.",
     "accreditation": "September 2024"
   },
   {
     "title": "Cosley Zoo",
     "link": "https://cosleyzoo.org/",
-    "location": "Ill. Accredited through September 2026",
+    "location": "Ill.",
     "accreditation": "September 2026"
   },
   {
     "title": "CuriOdyssey",
     "link": "https://curiodyssey.org/",
-    "location": "Calif. Accredited through March 2027",
+    "location": "Calif.",
     "accreditation": "March 2027"
   },
   {
     "title": "Dakota Zoo",
     "link": "https://www.dakotazoo.org/",
-    "location": "N.D.  Accredited through September 2028",
+    "location": "N.D.",
     "accreditation": "September 2028"
   },
   {
     "title": "Dallas World Aquarium",
     "link": "https://dwazoo.com/",
-    "location": "Texas Accredited through March 2028",
+    "location": "Texas",
     "accreditation": "March 2028"
   },
   {
     "title": "Dallas Zoo",
     "link": "https://www.dallaszoo.com/#gref",
-    "location": "Texas Accredited through March 2028",
+    "location": "Texas",
     "accreditation": "March 2028"
   },
   {
     "title": "David Traylor Zoo of Emporia",
     "link": "https://www.emporiaks.gov/159/David-Traylor-Zoo",
-    "location": "Kan. Accredited through September 2027",
+    "location": "Kan.",
     "accreditation": "September 2027"
   },
   {
     "title": "Denver Zoological Gardens",
     "link": "https://denverzoo.org/",
-    "location": "Colo. Accredited through September 2028",
+    "location": "Colo.",
     "accreditation": "September 2028"
   },
   {
     "title": "Detroit Zoological Park",
     "link": "https://detroitzoo.org/",
-    "location": "Mich. Accredited through September 2027",
+    "location": "Mich.",
     "accreditation": "September 2027"
   },
   {
     "title": "Dickerson Park Zoo",
     "link": "https://dickersonparkzoo.org/",
-    "location": "Mo. Accredited through September 2028",
+    "location": "Mo.",
     "accreditation": "September 2028"
   },
   {
     "title": "Discovery Cove",
     "link": "https://discoverycove.com/orlando/",
-    "location": "Fla.Accredited through March 2026",
+    "location": "Fla.",
     "accreditation": "March 2026"
   },
   {
     "title": "Disney's Animal Kingdom",
     "link": "https://disneyworld.disney.go.com/destinations/animal-kingdom/",
-    "location": "Fla. Accredited through March 2026",
+    "location": "Fla.",
     "accreditation": "March 2026"
   },
   {
     "title": "Dolphin Discovery Cozumel",
     "link": "https://www.dolphindiscovery.com/cozumel/",
-    "location": "MexicoAccredited through March 2029",
+    "location": "Mexico",
     "accreditation": "March 2029"
   },
   {
     "title": "Dolphin Discovery Isla Mujeres",
     "link": "https://www.dolphindiscovery.com/cancun-islamujeres/",
-    "location": "MexicoAccredited through March 2029",
+    "location": "Mexico",
     "accreditation": "March 2029"
   },
   {
     "title": "Dolphin Discovery Punta Cana",
     "link": "https://www.dolphindiscovery.com/punta-cana/",
-    "location": "Dominican RepublicAccredited through March 2025",
+    "location": "Dominican Republic",
     "accreditation": "March 2025"
   },
   {
     "title": "Dolphin Island",
     "link": "https://www.sentosa.com.sg/en/things-to-do/attractions/dolphin-island/",
-    "location": "SingaporeAccredited through March 2026",
+    "location": "Singapore",
     "accreditation": "March 2026"
   },
   {
     "title": "El Paso Zoo",
     "link": "https://www.elpasozoo.org/",
-    "location": "TexasAccredited through March 2025",
+    "location": "Texas",
     "accreditation": "March 2025"
   },
   {
     "title": "Elmwood Park Zoo",
     "link": "https://www.elmwoodparkzoo.org/",
-    "location": "Pa.Accredited through September 2027",
+    "location": "Pa.",
     "accreditation": "September 2027"
   },
   {
     "title": "Emirates Park Zoo",
     "link": "https://www.emiratesparkzooandresort.com/",
-    "location": "United Arab EmiratesAccredited through September 2028",
+    "location": "United Arab Emirates",
     "accreditation": "September 2028"
   },
   {
     "title": "Everland Zoo",
     "link": "https://www.everland.com/web/everland/favorite/zootopia/index.html",
-    "location": "South KoreaAccredited through September 2025",
+    "location": "South Korea",
     "accreditation": "September 2025"
   },
   {
@@ -440,109 +434,109 @@
   {
     "title": "Fort Wayne Children's Zoo",
     "link": "https://kidszoo.org/",
-    "location": "Ind. Accredited through September 2024",
+    "location": "Ind.",
     "accreditation": "September 2024"
   },
   {
     "title": "Fort Worth Zoo",
     "link": "https://www.fortworthzoo.org/",
-    "location": "Texas Accredited through March 2029",
+    "location": "Texas",
     "accreditation": "March 2029"
   },
   {
     "title": "Fossil Rim Wildlife Center",
     "link": "https://fossilrim.org/",
-    "location": "Texas Accredited through March 2025",
+    "location": "Texas",
     "accreditation": "March 2025"
   },
   {
     "title": "Franklin Park Zoo",
     "link": "https://www.zoonewengland.org/franklin-park-zoo/",
-    "location": "Mass. Accredited through September 2025",
+    "location": "Mass.",
     "accreditation": "September 2025"
   },
   {
     "title": "Fresno Chaffee Zoo",
     "link": "https://www.fresnochaffeezoo.org/",
-    "location": "Calif.Accredited through March 2027",
+    "location": "Calif.",
     "accreditation": "March 2027"
   },
   {
     "title": "Fundación Temaikèn",
     "link": "https://www.temaiken.org.ar/bioparque",
-    "location": "Argentina  Accredited through March 2028",
+    "location": "Argentina",
     "accreditation": "March 2028"
   },
   {
     "title": "",
     "link": "",
-    "location": "Ga.Accredited through March 2029",
+    "location": "Ga.",
     "accreditation": "March 2029"
   },
   {
     "title": "Gladys Porter Zoo",
     "link": "http://gladysporterzoo.org/",
-    "location": "Texas Accredited through March 2029",
+    "location": "Texas",
     "accreditation": "March 2029"
   },
   {
     "title": "Great Plains Zoo",
     "link": "https://greatzoo.org/",
-    "location": "S.D. Accredited through September 2027",
+    "location": "S.D.",
     "accreditation": "September 2027"
   },
   {
     "title": "Greensboro Science Center",
     "link": "https://www.greensboroscience.org/",
-    "location": "N.C. Accredited through September 2024(also accredited by the American Alliance of Museums)",
+    "location": "N.C.",
     "accreditation": "September 2024(also accredited by the American Alliance of Museums)"
   },
   {
     "title": "Greenville Zoo",
     "link": "https://www.greenvillezoo.com/",
-    "location": "S.C. Accredited through September 2024",
+    "location": "S.C.",
     "accreditation": "September 2024"
   },
   {
     "title": "Grizzly & Wolf Discovery Center",
     "link": "https://www.grizzlydiscoveryctr.org/",
-    "location": "Mont. Accredited through September 2027",
+    "location": "Mont.",
     "accreditation": "September 2027"
   },
   {
     "title": "",
     "link": "",
-    "location": "Calif.Accredited through March 2027",
+    "location": "Calif.",
     "accreditation": "March 2027"
   },
   {
     "title": "Henry Vilas Zoo",
     "link": "https://www.henryvilaszoo.gov/",
-    "location": "Wis.Accredited through September 2024",
+    "location": "Wis.",
     "accreditation": "September 2024"
   },
   {
     "title": "Honolulu Zoo",
     "link": "https://www.honoluluzoo.org/",
-    "location": "HawaiiAccredited through March 2025",
+    "location": "Hawaii",
     "accreditation": "March 2025"
   },
   {
     "title": "Houston Zoo",
     "link": "https://www.houstonzoo.org/",
-    "location": "Inc. Texas Accredited through March 2029",
+    "location": "Inc. Texas",
     "accreditation": "March 2029"
   },
   {
     "title": "Hutchinson Zoo",
     "link": "http://www.hutchinsonzoo.org/",
-    "location": "Kan. Accredited through September 2024",
+    "location": "Kan.",
     "accreditation": "September 2024"
   },
   {
     "title": "Idaho Falls Zoo at Tautphaus Park",
     "link": "https://www.idahofallsidaho.gov/1736/Zoo",
-    "location": "Idaho Accredited through September 2025",
+    "location": "Idaho",
     "accreditation": "September 2025"
   },
   {
@@ -554,49 +548,49 @@
   {
     "title": "International Crane Foundation",
     "link": "https://savingcranes.org/",
-    "location": "Wis.Accredited through September 2024",
+    "location": "Wis.",
     "accreditation": "September 2024"
   },
   {
     "title": "Jacksonville Zoo and Gardens",
     "link": "https://www.jacksonvillezoo.org/",
-    "location": "Fla. Accredited through March 2026",
+    "location": "Fla.",
     "accreditation": "March 2026"
   },
   {
     "title": "Jenkinson's Aquarium",
     "link": "https://jenkinsons.com/aquarium/",
-    "location": "N.J. Accredited through March 2029",
+    "location": "N.J.",
     "accreditation": "March 2029"
   },
   {
     "title": "John Ball Zoo",
     "link": "https://jbzoo.org/",
-    "location": "Mich. Accredited through September 2026",
+    "location": "Mich.",
     "accreditation": "September 2026"
   },
   {
     "title": "John G. Shedd Aquarium",
     "link": "https://www.sheddaquarium.org/",
-    "location": "Ill.Accredited through March 2029",
+    "location": "Ill.",
     "accreditation": "March 2029"
   },
   {
     "title": "Kansas City Zoo & Aquarium",
     "link": "https://kansascityzoo.org/",
-    "location": "Mo.  Accredited through September 2026",
+    "location": "Mo.",
     "accreditation": "September 2026"
   },
   {
     "title": "",
     "link": "",
-    "location": "Minn.Accredited through September 2027",
+    "location": "Minn.",
     "accreditation": "September 2027"
   },
   {
     "title": "Landry's Downtown Aquarium - Denver",
     "link": "https://www.aquariumrestaurants.com/downtownaquariumdenver/default.asp",
-    "location": "Colo.  Accredited through March 2026",
+    "location": "Colo.",
     "accreditation": "March 2026"
   },
   {
@@ -608,73 +602,73 @@
   {
     "title": "Lee G. Simmons Conservation Park & Wildlife Safari",
     "link": "http://www.wildlifesafaripark.com/",
-    "location": "Nebraska Accredited through September 2026",
+    "location": "Nebraska",
     "accreditation": "September 2026"
   },
   {
     "title": "Lee Richardson Zoo",
     "link": "https://www.leerichardsonzoo.org/",
-    "location": "Kansas Accredited through September 2027",
+    "location": "Kansas",
     "accreditation": "September 2027"
   },
   {
     "title": "Lehigh Valley Zoo",
     "link": "https://www.lvzoo.org/",
-    "location": "Penn. Accredited through September 2026",
+    "location": "Penn.",
     "accreditation": "September 2026"
   },
   {
     "title": "Lincoln Children's Zoo",
     "link": "https://www.lincolnzoo.org/",
-    "location": "Nebraska Accredited through September 2027",
+    "location": "Nebraska",
     "accreditation": "September 2027"
   },
   {
     "title": "Lincoln Park Zoological Gardens",
     "link": "https://www.lpzoo.org/",
-    "location": "Ill.  Accredited through September 2028",
+    "location": "Ill.",
     "accreditation": "September 2028"
   },
   {
     "title": "Lion Country Safari",
     "link": "https://www.lioncountrysafari.com/",
-    "location": "Fla. Accredited through March 2027",
+    "location": "Fla.",
     "accreditation": "March 2027"
   },
   {
     "title": "Little Rock Zoological Gardens",
     "link": "https://www.littlerockzoo.com/",
-    "location": "Arkansas  Accredited through September 2027",
+    "location": "Arkansas",
     "accreditation": "September 2027"
   },
   {
     "title": "The Living Desert Zoo and Gardens",
     "link": "https://www.livingdesert.org/",
-    "location": "Calif. Accredited through March 2025",
+    "location": "Calif.",
     "accreditation": "March 2025"
   },
   {
     "title": "Los Angeles Zoo",
     "link": "https://lazoo.org/zoo/lausd/",
-    "location": "Calif. Accredited through March 2028",
+    "location": "Calif.",
     "accreditation": "March 2028"
   },
   {
     "title": "Louisville Zoological Garden",
     "link": "https://louisvillezoo.org/",
-    "location": "Ky. Accredited through March 2029(also accredited by the American Alliance of Museums)",
+    "location": "Ky.",
     "accreditation": "March 2029(also accredited by the American Alliance of Museums)"
   },
   {
     "title": "Loveland Living Planet Aquarium",
     "link": "https://livingplanetaquarium.org/",
-    "location": "UtahAccredited through March 2025",
+    "location": "Utah",
     "accreditation": "March 2025"
   },
   {
     "title": "Marineland",
     "link": "https://marineland.net/",
-    "location": "Fla.Accredited through March 2027",
+    "location": "Fla.",
     "accreditation": "March 2027"
   },
   {
@@ -686,13 +680,13 @@
   {
     "title": "Maryland Zoo in Baltimore",
     "link": "https://www.marylandzoo.org/",
-    "location": "Md.Accredited through September 2024",
+    "location": "Md.",
     "accreditation": "September 2024"
   },
   {
     "title": "Memphis Zoological Garden and Aquarium",
     "link": "https://www.memphiszoo.org/",
-    "location": "Tenn. Accredited through March 2025",
+    "location": "Tenn.",
     "accreditation": "March 2025"
   },
   {
@@ -704,85 +698,85 @@
   {
     "title": "Miller Park Zoo",
     "link": "https://mpzs.org/",
-    "location": "Ill. Accredited through September 2024",
+    "location": "Ill.",
     "accreditation": "September 2024"
   },
   {
     "title": "Milwaukee County Zoological Gardens",
     "link": "https://milwaukeezoo.org/#",
-    "location": "Wis. Accredited through September 2024",
+    "location": "Wis.",
     "accreditation": "September 2024"
   },
   {
     "title": "Minnesota Zoological Garden",
     "link": "https://mnzoo.org/",
-    "location": "Minn. Accredited through September 2028",
+    "location": "Minn.",
     "accreditation": "September 2028"
   },
   {
     "title": "Monterey Bay Aquarium",
     "link": "https://www.montereybayaquarium.org/",
-    "location": "Calif. Accredited through March 2028",
+    "location": "Calif.",
     "accreditation": "March 2028"
   },
   {
     "title": "Montréal Biodôme",
     "link": "https://espacepourlavie.ca/biodome",
-    "location": "CanadaAccredited through September 2026",
+    "location": "Canada",
     "accreditation": "September 2026"
   },
   {
     "title": "Moody Gardens Rainforest and Aquarium",
     "link": "https://www.moodygardens.com/attractions/rainforest_pyramid/",
-    "location": "Texas Accredited through March 2029",
+    "location": "Texas",
     "accreditation": "March 2029"
   },
   {
     "title": "Mote Marine Laboratory and Aquarium",
     "link": "https://mote.org/",
-    "location": "Fla. Accredited through September 2025",
+    "location": "Fla.",
     "accreditation": "September 2025"
   },
   {
     "title": "Museum of Life and Science",
     "link": "https://www.lifeandscience.org/",
-    "location": "N.C.Accredited through March 2027",
+    "location": "N.C.",
     "accreditation": "March 2027"
   },
   {
     "title": "Museum of Science",
     "link": "https://www.mos.org/",
-    "location": "Mass. Accredited through March 2025(also accredited by the American Alliance of Museums)",
+    "location": "Mass.",
     "accreditation": "March 2025(also accredited by the American Alliance of Museums)"
   },
   {
     "title": "Mystic Aquarium",
     "link": "https://www.mysticaquarium.org/",
-    "location": "Conn. Accredited through September 2026",
+    "location": "Conn.",
     "accreditation": "September 2026"
   },
   {
     "title": "",
     "link": "",
-    "location": "Fla.Accredited through March 2027",
+    "location": "Fla.",
     "accreditation": "March 2027"
   },
   {
     "title": "Nashville Zoo",
     "link": "https://www.nashvillezoo.org/",
-    "location": "Tenn. Accredited through March 2025",
+    "location": "Tenn.",
     "accreditation": "March 2025"
   },
   {
     "title": "National Aquarium",
     "link": "https://aqua.org/",
-    "location": "Md. Accredited through March 2028",
+    "location": "Md.",
     "accreditation": "March 2028"
   },
   {
     "title": "National Aviary",
     "link": "https://www.aviary.org/",
-    "location": "Pa. Accredited through September 2026",
+    "location": "Pa.",
     "accreditation": "September 2026"
   },
   {
@@ -794,127 +788,127 @@
   {
     "title": "New England Aquarium",
     "link": "https://www.neaq.org/",
-    "location": "Mass. Accredited through March 2027(also accredited by the American Alliance of Museums)",
+    "location": "Mass.",
     "accreditation": "March 2027(also accredited by the American Alliance of Museums)"
   },
   {
     "title": "New York Aquarium",
     "link": "https://nyaquarium.com/",
-    "location": "N.Y. Accredited through September 2024",
+    "location": "N.Y.",
     "accreditation": "September 2024"
   },
   {
     "title": "Newport Aquarium",
     "link": "https://www.newportaquarium.com/",
-    "location": "Ky. Accredited through March 2025",
+    "location": "Ky.",
     "accreditation": "March 2025"
   },
   {
     "title": "North Carolina Aquarium at Fort Fisher",
     "link": "https://www.ncaquariums.com/fort-fisher?locale=en",
-    "location": "N.C.Accredited through March 2028",
+    "location": "N.C.",
     "accreditation": "March 2028"
   },
   {
     "title": "North Carolina Aquarium at Pine Knoll Shores",
     "link": "https://www.ncaquariums.com/pine-knoll-shores?locale=en",
-    "location": "N.C. Accredited through March 2028",
+    "location": "N.C.",
     "accreditation": "March 2028"
   },
   {
     "title": "North Carolina Aquarium on Roanoke Island",
     "link": "https://www.ncaquariums.com/roanoke-island",
-    "location": "N.C.Accredited through March 2028",
+    "location": "N.C.",
     "accreditation": "March 2028"
   },
   {
     "title": "North Carolina Zoo",
     "link": "https://www.nczoo.org/",
-    "location": "N.C. Accredited through September 2026",
+    "location": "N.C.",
     "accreditation": "September 2026"
   },
   {
     "title": "Northeastern Wisconsin (NEW) Zoo",
     "link": "https://newzoo.org/",
-    "location": "Wis. Accredited through September 2028",
+    "location": "Wis.",
     "accreditation": "September 2028"
   },
   {
     "title": "Northwest Trek Wildlife Park",
     "link": "https://www.nwtrek.org/",
-    "location": "Wash. Accredited through September 2027",
+    "location": "Wash.",
     "accreditation": "September 2027"
   },
   {
     "title": "",
     "link": "",
-    "location": "Calif.Accredited through March 2029",
+    "location": "Calif.",
     "accreditation": "March 2029"
   },
   {
     "title": "Oceanogràfic Valencia",
     "link": "https://www.oceanografic.org/en/",
-    "location": "SpainAccredited through March 2025",
+    "location": "Spain",
     "accreditation": "March 2025"
   },
   {
     "title": "Ocean Park Corporation",
     "link": "https://www.oceanpark.com.hk/en",
-    "location": "Hong KongAccredited through March 2029",
+    "location": "Hong Kong",
     "accreditation": "March 2029"
   },
   {
     "title": "OdySea Aquarium",
     "link": "https://www.odyseaaquarium.com/",
-    "location": "Ariz.Accredited through March 2029",
+    "location": "Ariz.",
     "accreditation": "March 2029"
   },
   {
     "title": "Oglebay's Good Zoo",
     "link": "https://oglebay.com/good-zoo/",
-    "location": "W.Va. Accredited through September 2024",
+    "location": "W.Va.",
     "accreditation": "September 2024"
   },
   {
     "title": "Oklahoma City Zoo and Botanical Garden",
     "link": "https://www.okczoo.org/",
-    "location": "Okla.Accredited through September 2024(also accredited by the American Alliance of Museums)",
+    "location": "Okla.",
     "accreditation": "September 2024(also accredited by the American Alliance of Museums)"
   },
   {
     "title": "Omaha's Henry Doorly Zoo & Aquarium",
     "link": "https://www.omahazoo.com/",
-    "location": "Neb. Accredited through September 2024",
+    "location": "Neb.",
     "accreditation": "September 2024"
   },
   {
     "title": "Oregon Coast Aquarium",
     "link": "https://aquarium.org/",
-    "location": "Ore. Accredited through March 2027",
+    "location": "Ore.",
     "accreditation": "March 2027"
   },
   {
     "title": "Oregon Zoo",
     "link": "https://www.oregonzoo.org/",
-    "location": "Ore. Accredited through September 2026",
+    "location": "Ore.",
     "accreditation": "September 2026"
   },
   {
     "title": "",
     "link": "",
-    "location": "Fla.  Accredited through March 2028",
+    "location": "Fla.",
     "accreditation": "March 2028"
   },
   {
     "title": "Peoria Zoo",
     "link": "https://www.peoriazoo.org/",
-    "location": "Ill. Accredited through September 2024",
+    "location": "Ill.",
     "accreditation": "September 2024"
   },
   {
     "title": "Philadelphia Zoo",
     "link": "https://www.philadelphiazoo.org/",
-    "location": "Pa. Accredited through September 2025",
+    "location": "Pa.",
     "accreditation": "September 2025"
   },
   {
@@ -926,201 +920,201 @@
   {
     "title": "Point Defiance Zoo and Aquarium",
     "link": "https://www.pdza.org/",
-    "location": "Wash. Accredited through September 2028",
+    "location": "Wash.",
     "accreditation": "September 2028"
   },
   {
     "title": "Potawatomi Zoo",
     "link": "https://www.potawatomizoo.org/",
-    "location": "Ind. Accredited through September 2025",
+    "location": "Ind.",
     "accreditation": "September 2025"
   },
   {
     "title": "Potter Park Zoological Gardens",
     "link": "https://potterparkzoo.org/",
-    "location": "Mich.Accredited through September 2028",
+    "location": "Mich.",
     "accreditation": "September 2028"
   },
   {
     "title": "Prospect Park Zoo",
     "link": "https://prospectparkzoo.com/",
-    "location": "N.Y. Accredited through September 2025",
+    "location": "N.Y.",
     "accreditation": "September 2025"
   },
   {
     "title": "Pueblo Zoo",
     "link": "https://www.pueblozoo.org/",
-    "location": "Colo. Accredited through September 2024",
+    "location": "Colo.",
     "accreditation": "September 2024"
   },
   {
     "title": "",
     "link": "",
-    "location": "N.Y.  Accredited through September 2025",
+    "location": "N.Y.",
     "accreditation": "September 2025"
   },
   {
     "title": "Racine Zoo",
     "link": "https://racinezoo.org/",
-    "location": "Wis.  Accredited through September 2028",
+    "location": "Wis.",
     "accreditation": "September 2028"
   },
   {
     "title": "Red River Zoo",
     "link": "https://www.redriverzoo.org/",
-    "location": "N.D. Accredited through September 2027",
+    "location": "N.D.",
     "accreditation": "September 2027"
   },
   {
     "title": "Reid Park Zoo",
     "link": "https://reidparkzoo.org/",
-    "location": "Ariz.Accredited through March 2025",
+    "location": "Ariz.",
     "accreditation": "March 2025"
   },
   {
     "title": "Ripley's Aquarium of Myrtle Beach",
     "link": "https://www.ripleyaquariums.com/myrtlebeach/",
-    "location": "S.C.Accredited through March 2027",
+    "location": "S.C.",
     "accreditation": "March 2027"
   },
   {
     "title": "Ripley's Aquarium of Canada",
     "link": "https://www.ripleyaquariums.com/canada/",
-    "location": "Canada Accredited through September 2026",
+    "location": "Canada",
     "accreditation": "September 2026"
   },
   {
     "title": "Ripley's Aquarium of the Smokies",
     "link": "https://www.ripleyaquariums.com/gatlinburg/",
-    "location": "Tenn. Accredited through March 2029",
+    "location": "Tenn.",
     "accreditation": "March 2029"
   },
   {
     "title": "Riverbanks Zoo and Garden",
     "link": "https://www.riverbanks.org/",
-    "location": "S.C. Accredited through September 2026",
+    "location": "S.C.",
     "accreditation": "September 2026"
   },
   {
     "title": "Roger Williams Park Zoo",
     "link": "https://www.rwpzoo.org/",
-    "location": "R.I. Accredited through September 2027",
+    "location": "R.I.",
     "accreditation": "September 2027"
   },
   {
     "title": "Rolling Hills Zoo",
     "link": "https://www.rollinghillszoo.org/",
-    "location": "Kan. Accredited through September 2026",
+    "location": "Kan.",
     "accreditation": "September 2026"
   },
   {
     "title": "Roosevelt Park Zoo",
     "link": "https://rpzoo.com/",
-    "location": "N.D.Accredited through September 2025",
+    "location": "N.D.",
     "accreditation": "September 2025"
   },
   {
     "title": "Rosamond Gifford Zoo at Burnet Park",
     "link": "https://www.rosamondgiffordzoo.org/",
-    "location": "N.Y.Accredited through September 2024",
+    "location": "N.Y.",
     "accreditation": "September 2024"
   },
   {
     "title": "Sacramento Zoo",
     "link": "https://www.saczoo.org/",
-    "location": "Calif.  Accredited through March 2029",
+    "location": "Calif.",
     "accreditation": "March 2029"
   },
   {
     "title": "Saginaw Children's Zoo",
     "link": "https://www.saginawzoo.com/",
-    "location": "Mich.Accredited through September 2025",
+    "location": "Mich.",
     "accreditation": "September 2025"
   },
   {
     "title": "Saint Louis Zoo",
     "link": "https://stlzoo.org/",
-    "location": "Mo. Accredited through September 2025",
+    "location": "Mo.",
     "accreditation": "September 2025"
   },
   {
     "title": "San Antonio Zoological Society",
     "link": "https://sazoo.org/",
-    "location": "Texas Accredited through March 2025",
+    "location": "Texas",
     "accreditation": "March 2025"
   },
   {
     "title": "San Diego Zoo",
     "link": "https://sandiegozoowildlifealliance.org/",
-    "location": "Calif. Accredited through March 2026(also accredited by the American Alliance of Museums)",
+    "location": "Calif.",
     "accreditation": "March 2026(also accredited by the American Alliance of Museums)"
   },
   {
     "title": "San Diego Zoo Safari Park",
     "link": "https://sdzsafaripark.org/tickets",
-    "location": "Calif. Accredited through March 2026(also accredited by the American Alliance of Museums)",
+    "location": "Calif.",
     "accreditation": "March 2026(also accredited by the American Alliance of Museums)"
   },
   {
     "title": "San Francisco Zoological Gardens",
     "link": "https://www.sfzoo.org/",
-    "location": "Calif. Accredited through March 2027",
+    "location": "Calif.",
     "accreditation": "March 2027"
   },
   {
     "title": "Santa Barbara Zoo",
     "link": "https://www.sbzoo.org/",
-    "location": "Calif. Accredited through March 2026",
+    "location": "Calif.",
     "accreditation": "March 2026"
   },
   {
     "title": "Santa Fe College Teaching Zoo",
     "link": "https://www.sfcollege.edu/zoo/",
-    "location": "Fla. Accredited through September 2026",
+    "location": "Fla.",
     "accreditation": "September 2026"
   },
   {
     "title": "Scovill Zoo",
     "link": "https://www.decatur-parks.org/scovill-zoo/",
-    "location": "Ill. Accredited through September 2027",
+    "location": "Ill.",
     "accreditation": "September 2027"
   },
   {
-    "location": "SingaporeAccredited through March 2026",
+    "location": "Singapore",
     "accreditation": "March 2026"
   },
   {
-    "location": "Calif.Accredited through March 2028",
+    "location": "Calif.",
     "accreditation": "March 2028"
   },
   {
     "title": "SEA LIFE Arizona Aquarium",
     "link": "https://www.visitsealife.com/arizona/",
-    "location": "Ariz. Accredited through March 2027",
+    "location": "Ariz.",
     "accreditation": "March 2027"
   },
   {
     "title": "SEA LIFE Charlotte-Concord Aquarium",
     "link": "https://www.visitsealife.com/charlotte-concord/",
-    "location": "N.C.Accredited through September 2026",
+    "location": "N.C.",
     "accreditation": "September 2026"
   },
   {
-    "location": "TexasAccredited through March 2026",
+    "location": "Texas",
     "accreditation": "March 2026"
   },
   {
     "title": "SEA LIFE Kansas City Aquarium",
     "link": "https://www.visitsealife.com/kansas-city/",
-    "location": "Mo.Accredited through March 2025",
+    "location": "Mo.",
     "accreditation": "March 2025"
   },
   {
-    "location": "Mich.Accredited through March 2028",
+    "location": "Mich.",
     "accreditation": "March 2028"
   },
   {
-    "location": "Fla.Accredited through September 2028",
+    "location": "Fla.",
     "accreditation": "September 2028"
   },
   {
@@ -1130,167 +1124,167 @@
   {
     "title": "Seattle Aquarium",
     "link": "https://www.seattleaquarium.org/",
-    "location": "Wash. Accredited through March 2029",
+    "location": "Wash.",
     "accreditation": "March 2029"
   },
   {
     "title": "SeaWorld Orlando",
     "link": "https://seaworld.com/orlando/",
-    "location": "Fla. Accredited through March 2026",
+    "location": "Fla.",
     "accreditation": "March 2026"
   },
   {
     "title": "SeaWorld San Antonio",
     "link": "https://seaworld.com/san-antonio/",
-    "location": "TexasAccredited through March 2028",
+    "location": "Texas",
     "accreditation": "March 2028"
   },
   {
     "title": "SeaWorld San Diego",
     "link": "https://seaworld.com/san-diego/",
-    "location": "Calif. Accredited through March 2026",
+    "location": "Calif.",
     "accreditation": "March 2026"
   },
   {
     "title": "Sedgwick County Zoo",
     "link": "https://scz.org/",
-    "location": "Kan. Accredited through September 2025",
+    "location": "Kan.",
     "accreditation": "September 2025"
   },
   {
     "title": "Seneca Park Zoo",
     "link": "https://senecaparkzoo.org/",
-    "location": "N.Y. Accredited through September 2024",
+    "location": "N.Y.",
     "accreditation": "September 2024"
   },
   {
-    "location": "South KoreaAccredited through September 2025",
+    "location": "South Korea",
     "accreditation": "September 2025"
   },
   {
     "title": "Sequoia Park Zoo",
     "link": "https://sequoiaparkzoo.net/",
-    "location": "Calif. Accredited through September 2026",
+    "location": "Calif.",
     "accreditation": "September 2026"
   },
   {
     "title": "Shark Reef Aquarium at Mandalay Bay",
     "link": "https://mandalaybay.mgmresorts.com/en/entertainment/shark-reef-aquarium.html",
-    "location": "Nev. Accredited through March 2028",
+    "location": "Nev.",
     "accreditation": "March 2028"
   },
   {
     "title": "Smithsonian's National Zoo and Conservation Biology Institute,",
     "link": "https://nationalzoo.si.edu/",
-    "location": "D.C. Accredited through September 2024",
+    "location": "D.C.",
     "accreditation": "September 2024"
   },
   {
     "title": "South Carolina Aquarium",
     "link": "https://scaquarium.org/",
-    "location": "S.C. Accredited through March 2028",
+    "location": "S.C.",
     "accreditation": "March 2028"
   },
   {
     "title": "St. Augustine Alligator Farm",
     "link": "https://alligatorfarm.com/",
-    "location": "Fla. Accredited through March 2026",
+    "location": "Fla.",
     "accreditation": "March 2026"
   },
   {
     "title": "Staten Island Zoo",
     "link": "http://www.statenislandzoo.org/",
-    "location": "N.Y. Accredited through September 2025",
+    "location": "N.Y.",
     "accreditation": "September 2025"
   },
   {
     "title": "Steinhart Aquarium",
     "link": "https://www.calacademy.org/exhibits/steinhart-aquarium",
-    "location": "Calif.Accredited through March 2026",
+    "location": "Calif.",
     "accreditation": "March 2026"
   },
   {
     "title": "Sunset Zoological Park",
     "link": "https://www.sunsetzoo.com/",
-    "location": "Kan. Accredited through September 2025",
+    "location": "Kan.",
     "accreditation": "September 2025"
   },
   {
     "title": "Tennessee Aquarium",
     "link": "https://tnaqua.org/",
-    "location": "Tenn. Accredited through March 2025",
+    "location": "Tenn.",
     "accreditation": "March 2025"
   },
   {
     "title": "Texas State Aquarium",
     "link": "https://www.texasstateaquarium.org/",
-    "location": "Texas Accredited through March 2027",
+    "location": "Texas",
     "accreditation": "March 2027"
   },
   {
     "title": "Toledo Zoological Gardens,",
     "link": "https://www.toledozoo.org/",
-    "location": "Ohio Accredited through September 2028",
+    "location": "Ohio",
     "accreditation": "September 2028"
   },
   {
     "title": "Topeka Zoo and Conservation Center",
     "link": "https://topekazoo.org/",
-    "location": "Kan. Accredited through September 2028",
+    "location": "Kan.",
     "accreditation": "September 2028"
   },
   {
     "title": "Toronto Zoo",
     "link": "https://www.torontozoo.com/",
-    "location": "Canada Accredited through March 2027",
+    "location": "Canada",
     "accreditation": "March 2027"
   },
   {
     "title": "Tracy Aviary",
     "link": "https://tracyaviary.org/",
-    "location": "UtahAccredited through September 2025",
+    "location": "Utah",
     "accreditation": "September 2025"
   },
   {
     "title": "Trevor Zoo",
     "link": "https://www.millbrook.org/trevor-zoo-home",
-    "location": "N.Y. Accredited through September 2027",
+    "location": "N.Y.",
     "accreditation": "September 2027"
   },
   {
     "title": "Tulsa Zoo",
     "link": "https://tulsazoo.org/",
-    "location": "Okla. Accredited through September 2028",
+    "location": "Okla.",
     "accreditation": "September 2028"
   },
   {
     "title": "Turtle Back Zoo",
     "link": "https://turtlebackzoo.com/",
-    "location": "N.J. Accredited through September 2027",
+    "location": "N.J.",
     "accreditation": "September 2027"
   },
   {
     "title": "",
     "link": "",
-    "location": "UtahAccredited through September 2025",
+    "location": "Utah",
     "accreditation": "September 2025"
   },
   {
     "title": "Utica Zoo",
     "link": "https://www.uticazoo.org/",
-    "location": "N.Y.Accredited through September 2024",
+    "location": "N.Y.",
     "accreditation": "September 2024"
   },
   {
     "title": "Vancouver Aquarium Marine Science Centre",
     "link": "https://www.vanaqua.org/",
-    "location": "Canada  Accredited through September 2024",
+    "location": "Canada",
     "accreditation": "September 2024"
   },
   {
     "title": "Virginia Aquarium and Marine Science Center",
     "link": "https://www.virginiaaquarium.com/",
-    "location": "Va. Accredited through March 2028",
+    "location": "Va.",
     "accreditation": "March 2028"
   },
   {
@@ -1302,29 +1296,29 @@
   {
     "title": "Virginia Zoological Park",
     "link": "https://virginiazoo.org/",
-    "location": "Va. Accredited through September 2024",
+    "location": "Va.",
     "accreditation": "September 2024"
   },
   {
     "title": "Walter D. Stone Memorial Zoo",
     "link": "https://www.zoonewengland.org/stone-zoo/",
-    "location": "Mass.Accredited through September 2025",
+    "location": "Mass.",
     "accreditation": "September 2025"
   },
   {
     "title": "Western North Carolina Nature Center",
     "link": "https://wildwnc.org/",
-    "location": "N.C.  Accredited through September 2026",
+    "location": "N.C.",
     "accreditation": "September 2026"
   },
   {
     "title": "Wilder Institute/Calgary Zoo",
     "link": "https://www.calgaryzoo.com/node",
-    "location": "Canada Accredited through September 2024",
+    "location": "Canada",
     "accreditation": "September 2024"
   },
   {
-    "location": "Ore.Accredited through September 2026",
+    "location": "Ore.",
     "accreditation": "September 2026"
   },
   {
@@ -1336,125 +1330,125 @@
   {
     "title": "Wonders of Wildlife",
     "link": "https://wondersofwildlife.org/",
-    "location": "Mo.Accredited through March 2028",
+    "location": "Mo.",
     "accreditation": "March 2028"
   },
   {
     "title": "Woodland Park Zoo",
     "link": "https://www.zoo.org/",
-    "location": "Wash. Accredited through September 2025",
+    "location": "Wash.",
     "accreditation": "September 2025"
   },
   {
     "title": "Zoo Atlanta",
     "link": "https://zooatlanta.org/",
-    "location": "Ga.Accredited through March 2026",
+    "location": "Ga.",
     "accreditation": "March 2026"
   },
   {
     "title": "Zoo Boise",
     "link": "https://zooboise.org/",
-    "location": "Idaho Accredited through September 2028",
+    "location": "Idaho",
     "accreditation": "September 2028"
   },
   {
     "title": "Zoo de Granby",
     "link": "https://www.zoodegranby.com/en",
-    "location": "Canada Accredited through September 2025",
+    "location": "Canada",
     "accreditation": "September 2025"
   },
   {
     "title": "Zoo Knoxville",
     "link": "https://zooknoxville.org/",
-    "location": "Tenn. Accredited through March 2026",
+    "location": "Tenn.",
     "accreditation": "March 2026"
   },
   {
     "title": "Zoo Miami",
     "link": "https://www.zoomiami.org/",
-    "location": "Fla.Accredited through March 2026",
+    "location": "Fla.",
     "accreditation": "March 2026"
   },
   {
     "title": "ZOOAMERICA NA Wildlife Park",
     "link": "https://www.zooamerica.com/",
-    "location": "Pa.Accredited through September 2026",
+    "location": "Pa.",
     "accreditation": "September 2026"
   },
   {
     "title": "Zoológico de Cali",
     "link": "https://www.zoologicodecali.com.co/",
-    "location": "Colombia Accredited through March 2027",
+    "location": "Colombia",
     "accreditation": "March 2027"
   },
   {
     "title": "ZooMontana",
     "link": "https://www.zoomontana.org/",
-    "location": "Mont.Accredited through September 2025",
+    "location": "Mont.",
     "accreditation": "September 2025"
   },
   {
     "title": "ZooTampa at Lowry Park",
     "link": "https://zootampa.org/",
-    "location": "Fla.Accredited through March 2026",
+    "location": "Fla.",
     "accreditation": "March 2026"
   },
   {
     "title": "Ape Cognition and Conservation Initiative",
     "link": "https://www.apeinitiative.org/",
-    "location": "Iowa Accredited through September 2024",
+    "location": "Iowa",
     "accreditation": "September 2024"
   },
   {
     "title": "B. Bryan Preserve",
     "link": "https://www.bbryanpreserve.com/",
-    "location": "Calif. Accredited through March 2028",
+    "location": "Calif.",
     "accreditation": "March 2028"
   },
   {
     "title": "Colorado Wolf & Wildlife Center",
     "link": "https://www.wolfeducation.org/",
-    "location": "Colo. Accredited through September 2028",
+    "location": "Colo.",
     "accreditation": "September 2028"
   },
   {
     "title": "Duke University Lemur Center",
     "link": "https://lemur.duke.edu/",
-    "location": "N.C.Accredited through March 2028",
+    "location": "N.C.",
     "accreditation": "March 2028"
   },
   {
     "title": "Elephant Sanctuary in Tennessee",
     "link": "https://www.elephants.com/",
-    "location": "Tenn.Accredited through September 2028",
+    "location": "Tenn.",
     "accreditation": "September 2028"
   },
   {
     "title": "Endangered Wolf Center",
     "link": "https://www.endangeredwolfcenter.org/",
-    "location": "Mo.Accredited through September 2027",
+    "location": "Mo.",
     "accreditation": "September 2027"
   },
   {
-    "location": "La. Accredited through March 2025",
+    "location": "La.",
     "accreditation": "March 2025"
   },
   {
     "title": "Lemur Conservation Foundation",
     "link": "https://www.lemurreserve.org/",
-    "location": "Fla.Accredited through March 2027",
+    "location": "Fla.",
     "accreditation": "March 2027"
   },
   {
     "title": "Lubee Bat Conservancy",
     "link": "https://www.lubee.org/",
-    "location": "Fla. Accredited through March 2026",
+    "location": "Fla.",
     "accreditation": "March 2026"
   },
   {
     "title": "Pinola Conservancy",
     "link": "http://www.pinola.net/",
-    "location": "La.Accredited through March 2029",
+    "location": "La.",
     "accreditation": "March 2029"
   },
   {
@@ -1466,23 +1460,23 @@
   {
     "title": "Turtle Conservancy",
     "link": "https://www.turtleconservancy.org/",
-    "location": "Calif.Accredited through March 2027",
+    "location": "Calif.",
     "accreditation": "March 2027"
   },
   {
     "title": "Turtle Survival Center",
     "link": "https://turtlesurvival.org/",
-    "location": "S.C. Accredited through March 2025",
+    "location": "S.C.",
     "accreditation": "March 2025"
   },
   {
     "title": "White Oak Conservation Center",
     "link": "https://www.whiteoakwildlife.org/",
-    "location": "Fla. Accredited through March 2029",
+    "location": "Fla.",
     "accreditation": "March 2029"
   },
   {
-    "location": "Pa. Accredited through September 2027",
+    "location": "Pa.",
     "accreditation": "September 2027"
   }
 ]
