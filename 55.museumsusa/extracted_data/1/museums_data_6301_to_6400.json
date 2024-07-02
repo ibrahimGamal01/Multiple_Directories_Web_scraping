@@ -6,7 +6,8 @@
       "mailingAddress": "P.O. Box 2338Fargo, ND 58108"
     },
     "phone": "701-232-3821",
-    "website": "mailto:museum@plainsart.org",
+    "website": "https://www.plainsart.org/",
+    "email": "mailto:museum@plainsart.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -26,7 +27,8 @@
       "mailingAddress": null
     },
     "phone": "612-870-1329",
-    "website": "mailto:museum.info@hennepinhistory.org",
+    "website": "https://www.hennepinhistory.org/",
+    "email": "mailto:museum.info@hennepinhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -44,7 +46,8 @@
       "mailingAddress": null
     },
     "phone": "888-642-2787",
-    "website": "https://www.artsmia.org/",
+    "website": null,
+    "email": "https://www.artsmia.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -64,7 +67,8 @@
       "mailingAddress": null
     },
     "phone": "320-732-4426",
-    "website": "mailto:tchmuseum@embarqmail.com",
+    "website": "https://www.toddcountymuseum.com/",
+    "email": "mailto:tchmuseum@embarqmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -82,7 +86,8 @@
       "mailingAddress": null
     },
     "phone": "218-726-8222",
-    "website": "mailto:tweed@d.umn.edu",
+    "website": "https://www.d.umn.edu/tma",
+    "email": "mailto:tweed@d.umn.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -104,7 +109,8 @@
       "mailingAddress": null
     },
     "phone": "952-431-9500",
-    "website": "mailto:info@mnzoo.org",
+    "website": "https://www.mnzoo.com/",
+    "email": "mailto:info@mnzoo.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Apple-Valley-MN/Minnesota-Zoo/136257148787?v=wall",
       "twitter": "https://www.twitter.com/mnzoo",
@@ -124,7 +130,8 @@
       "mailingAddress": null
     },
     "phone": "507-835-2052",
-    "website": "mailto:farmamer@hickorytech.net",
+    "website": "https://www.farmamerica.org/",
+    "email": "mailto:farmamer@hickorytech.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -144,7 +151,8 @@
       "mailingAddress": "PO BOX 808Baudette, MN 56623"
     },
     "phone": "218-634-1200",
-    "website": "mailto:lowhsociety@mncable.net",
+    "website": "https://www.lakeofthewoodshistoricalsociety.com/",
+    "email": "mailto:lowhsociety@mncable.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -164,7 +172,8 @@
       "mailingAddress": null
     },
     "phone": "651-249-2170",
-    "website": "https://www.ci.maplewood.mn.us/index.aspx?NID=342",
+    "website": null,
+    "email": "https://www.ci.maplewood.mn.us/index.aspx?NID=342",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -182,7 +191,8 @@
       "mailingAddress": null
     },
     "phone": "218-444-3376",
-    "website": "mailto:depot@beltramihistory.org",
+    "website": "https://www.beltramihistory.org/",
+    "email": "mailto:depot@beltramihistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -206,7 +216,8 @@
       "mailingAddress": null
     },
     "phone": "218-730-4500",
-    "website": "mailto:admin@lszoo.org",
+    "website": "https://www.lszoo.org/",
+    "email": "mailto:admin@lszoo.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -226,7 +237,8 @@
       "mailingAddress": null
     },
     "phone": "320-587-2109",
-    "website": "mailto:info@mcleodhistory.org",
+    "website": "https://www.mcleodhistory.org/",
+    "email": "mailto:info@mcleodhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -248,7 +260,8 @@
       "mailingAddress": null
     },
     "phone": "218-485-4145",
-    "website": "mailto:mlahs@moose-tec.com",
+    "website": "https://www.mooselakeareahistory.com/",
+    "email": "mailto:mlahs@moose-tec.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -268,7 +281,8 @@
       "mailingAddress": "PO Box 186Rockford, MN 55373"
     },
     "phone": "763-477-5383",
-    "website": "https://www.cityofrockford.org/storkhouse/index.htm",
+    "website": null,
+    "email": "https://www.cityofrockford.org/storkhouse/index.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -288,7 +302,8 @@
       "mailingAddress": null
     },
     "phone": "952-431-9200",
-    "website": "mailto:info@mnzoo.org",
+    "website": "https://www.mnzoo.org/",
+    "email": "mailto:info@mnzoo.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Apple-Valley-MN/Minnesota-Zoo/136257148787?v=wall",
       "twitter": "https://www.twitter.com/mnzoo",
@@ -308,7 +323,8 @@
       "mailingAddress": null
     },
     "phone": "952-443-1400",
-    "website": "mailto:arbinfo@umn.edu",
+    "website": "https://www.arboretum.umn.edu/",
+    "email": "mailto:arbinfo@umn.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -328,7 +344,8 @@
       "mailingAddress": "Bemidji, MN 56601"
     },
     "phone": "218-755-2001",
-    "website": "https://www.bemidjistate.edu/",
+    "website": null,
+    "email": "https://www.bemidjistate.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -348,7 +365,8 @@
       "mailingAddress": "1800 West Old Shakopee RoadBloomington, MN 55431"
     },
     "phone": "952-881-4114",
-    "website": "mailto:vonda.kelly@gmail.com",
+    "website": "https://www.bloomingtonhistoricalsociety.org/default.asp?id=123",
+    "email": "mailto:vonda.kelly@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -371,7 +389,8 @@
       "mailingAddress": "PO BOX 724Grand Rapids, MN 55744"
     },
     "phone": "218-327-9276",
-    "website": "https://www.judygarlandmuseum.com/",
+    "website": null,
+    "email": "https://www.judygarlandmuseum.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -391,7 +410,8 @@
       "mailingAddress": null
     },
     "phone": "612-215-2520",
-    "website": "mailto:mcba@mnbookarts.org",
+    "website": "https://www.mnbookarts.org/",
+    "email": "mailto:mcba@mnbookarts.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -411,7 +431,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:bwilliams@sibleynaturecenter.org",
+    "website": "https://www.sibleynaturecenter.org/",
+    "email": "mailto:bwilliams@sibleynaturecenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -429,7 +450,8 @@
       "mailingAddress": null
     },
     "phone": "218-727-2497",
-    "website": "https://www.lsmma.com/",
+    "website": null,
+    "email": "https://www.lsmma.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -449,7 +471,8 @@
       "mailingAddress": null
     },
     "phone": "218-733-7586",
-    "website": "mailto:history@thehistorypeople.org",
+    "website": "https://www.thehistorypeople.org/",
+    "email": "mailto:history@thehistorypeople.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -467,7 +490,8 @@
       "mailingAddress": "1900 E. Camp St.Ely, MN 55731"
     },
     "phone": "218-365-3226",
-    "website": "mailto:ewhsmuseum@gmail.com",
+    "website": "https://www.facebook.com/Ely-Winton-Historical-Society-291461494332967/",
+    "email": "mailto:ewhsmuseum@gmail.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/Ely-Winton-Historical-Society-291461494332967/",
       "twitter": null,
@@ -487,7 +511,8 @@
       "mailingAddress": "1303 6th Ave. SWAustin, MN 55912"
     },
     "phone": "507-437-6082",
-    "website": "mailto:mchs@smig.net",
+    "website": "https://www.mowercountyhistory.org/",
+    "email": "mailto:mchs@smig.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -507,7 +532,8 @@
       "mailingAddress": "Edina, MN 55435"
     },
     "phone": "612-928-4577",
-    "website": "mailto:edinahistory@yahoo.org",
+    "website": "https://www.edinahistoricalsociety.org/",
+    "email": "mailto:edinahistory@yahoo.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Edina-Historical-Society/37765306612",
       "twitter": "https://www.twitter.com/edinahistory",
@@ -527,7 +553,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:jim@carpenternaturecenter.org",
+    "website": "https://carpenternaturecenter.org/",
+    "email": "mailto:jim@carpenternaturecenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -547,7 +574,8 @@
       "mailingAddress": "PO BOX 313Two Harbors, MN 55616"
     },
     "phone": "218-834-4898",
-    "website": "mailto:lakehist@lakenet.com",
+    "website": "https://lakecountyhistoricalsociety.org/",
+    "email": "mailto:lakehist@lakenet.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -567,7 +595,8 @@
       "mailingAddress": "555 West First StreetWaconia, MN 55387"
     },
     "phone": null,
-    "website": "https://www.carvercountyhistoricalsociety.org/",
+    "website": null,
+    "email": "https://www.carvercountyhistoricalsociety.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -587,7 +616,8 @@
       "mailingAddress": null
     },
     "phone": "507-282-9447",
-    "website": "mailto:services@olmstedhistory.com",
+    "website": "https://www.olmstedhistory.com/",
+    "email": "mailto:services@olmstedhistory.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/OlmstedHistoryCenter/",
       "twitter": null,
@@ -611,7 +641,8 @@
       "mailingAddress": null
     },
     "phone": "651-228-0263",
-    "website": "mailto:contact@mtmuseum.org",
+    "website": "https://www.mtmuseum.org/",
+    "email": "mailto:contact@mtmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -631,7 +662,8 @@
       "mailingAddress": "Hibbing, MN 55476"
     },
     "phone": "218-263-8522",
-    "website": "https://www.hibbinghistory.org/",
+    "website": null,
+    "email": "https://www.hibbinghistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -649,7 +681,8 @@
       "mailingAddress": null
     },
     "phone": "888-642-2787",
-    "website": "mailto:mmembers@artsmia.org",
+    "website": "https://www.artsmia.org/",
+    "email": "mailto:mmembers@artsmia.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -669,7 +702,8 @@
       "mailingAddress": null
     },
     "phone": "612-624-7434",
-    "website": "mailto:gmd@umn.edu",
+    "website": "https://goldstein.design.umn.edu/",
+    "email": "mailto:gmd@umn.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -689,7 +723,8 @@
       "mailingAddress": null
     },
     "phone": "218-829-3268",
-    "website": "mailto:history@co.crow-wing.mn.us",
+    "website": "https://www.crowwinghistory.org/",
+    "email": "mailto:history@co.crow-wing.mn.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -709,7 +744,8 @@
       "mailingAddress": null
     },
     "phone": "651-793-3930",
-    "website": "mailto:SPPLWeb@ci.stpaul.mn.us",
+    "website": "https://www.sppl.org/",
+    "email": "mailto:SPPLWeb@ci.stpaul.mn.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -729,7 +765,8 @@
       "mailingAddress": null
     },
     "phone": "651-259-3000",
-    "website": "mailto:lory.sutton@mnhs.org",
+    "website": "https://www.mnhs.org/",
+    "email": "mailto:lory.sutton@mnhs.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -758,7 +795,8 @@
       "mailingAddress": "PO BOX 622Detroit Lakes, MN 56502"
     },
     "phone": "218-847-2938",
-    "website": "mailto:mail@beckercountyhistory.org",
+    "website": "https://www.beckercountyhistory.org/",
+    "email": "mailto:mail@beckercountyhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -780,7 +818,8 @@
       "mailingAddress": "PO BOX 501Moorhead, MN 56561"
     },
     "phone": "218-299-5511",
-    "website": "mailto:Markus.Krueger@ci.moorhead.mn.us",
+    "website": "https://www.hcscconline.org/",
+    "email": "mailto:Markus.Krueger@ci.moorhead.mn.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -800,7 +839,8 @@
       "mailingAddress": "PO Box 167Stillwater, MN 55082"
     },
     "phone": "651-439-5956",
-    "website": "mailto:information@wchsmn.org",
+    "website": "https://www.wchsmn.org/",
+    "email": "mailto:information@wchsmn.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -820,7 +860,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.winonahistory.org/",
+    "website": null,
+    "email": "https://www.winonahistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -840,7 +881,8 @@
       "mailingAddress": null
     },
     "phone": "320-634-3293",
-    "website": "https://www.popecountyhistory.com/",
+    "website": null,
+    "email": "https://www.popecountyhistory.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -860,7 +902,8 @@
       "mailingAddress": null
     },
     "phone": "507-697-6147",
-    "website": "mailto:info@renvillecountyhistory.com",
+    "website": "https://www.renvillecountyhistory.com/",
+    "email": "mailto:info@renvillecountyhistory.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -881,7 +924,8 @@
       "mailingAddress": null
     },
     "phone": "507-233-2616",
-    "website": "mailto:BCHS@BrownCountyHistoryMNUSA.org",
+    "website": "https://www.browncountyhistorymn.org/",
+    "email": "mailto:BCHS@BrownCountyHistoryMNUSA.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -901,7 +945,8 @@
       "mailingAddress": "2010 Hwy 61 ETwo Harbors, MN 55616"
     },
     "phone": "218-226-6372",
-    "website": "mailto:splitrock@mnhs.org",
+    "website": "https://www.mnhs.org/splitrock",
+    "email": "mailto:splitrock@mnhs.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/splitrocklighthouse",
       "twitter": null,
@@ -923,7 +968,8 @@
       "mailingAddress": "Minneapolis, MN 55423"
     },
     "phone": "612-861-9365",
-    "website": "mailto:kshragg@cityofrichfield.org",
+    "website": "https://www.woodlakenaturecenter.org/",
+    "email": "mailto:kshragg@cityofrichfield.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -941,7 +987,8 @@
       "mailingAddress": "Minneapolis, MN 55416"
     },
     "phone": "952-926-8198",
-    "website": "mailto:contact@museumofbroadcasting.org",
+    "website": "https://www.pavekmuseum.org/",
+    "email": "mailto:contact@museumofbroadcasting.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Museum-of-Broadcasting/131308431523",
       "twitter": null,
@@ -961,7 +1008,8 @@
       "mailingAddress": null
     },
     "phone": "612-926-3878",
-    "website": "mailto:info@thebakken.org",
+    "website": "https://www.thebakken.org/",
+    "email": "mailto:info@thebakken.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -981,7 +1029,8 @@
       "mailingAddress": "PO BOX 215Aitkin, MN 56431"
     },
     "phone": "218-927-3348",
-    "website": "mailto:achs@aitkincohs.org",
+    "website": "https://aitkincohs.org/",
+    "email": "mailto:achs@aitkincohs.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/AitkinCHS/",
       "twitter": null,
@@ -1004,7 +1053,8 @@
       "mailingAddress": null
     },
     "phone": "612-625-9494",
-    "website": "https://www.weisman.umn.edu/",
+    "website": null,
+    "email": "https://www.weisman.umn.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1024,7 +1074,8 @@
       "mailingAddress": null
     },
     "phone": "320-253-8424",
-    "website": "mailto:info@stearns-museum.org",
+    "website": "https://www.stearns-museum.org/index2.html",
+    "email": "mailto:info@stearns-museum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1044,7 +1095,8 @@
       "mailingAddress": null
     },
     "phone": "612-926-3878",
-    "website": "mailto:infodesk@thebakken.org",
+    "website": "https://www.thebakken.org/",
+    "email": "mailto:infodesk@thebakken.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1069,7 +1121,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.hclib.org/",
+    "website": null,
+    "email": "https://www.hclib.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/hclib",
       "twitter": "https://www.twitter.com/hclib",
@@ -1087,7 +1140,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.hclib.org/",
+    "website": null,
+    "email": "https://www.hclib.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1107,7 +1161,8 @@
       "mailingAddress": null
     },
     "phone": "612-625-9494",
-    "website": "mailto:jtyung@umn.edu",
+    "website": "https://www.weisman.umn.edu/",
+    "email": "mailto:jtyung@umn.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1127,7 +1182,8 @@
       "mailingAddress": null
     },
     "phone": "763-421-0600",
-    "website": "mailto:achs@ac-hs.org",
+    "website": "https://www.ac-hs.org/",
+    "email": "mailto:achs@ac-hs.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Anoka-County-Historical-Society/84118647614",
       "twitter": null,
@@ -1147,7 +1203,8 @@
       "mailingAddress": "75 W 5th St#323Saint Paul, MN 55102"
     },
     "phone": "651-222-0701",
-    "website": "mailto:info@rchs.com",
+    "website": "https://www.rchs.com/",
+    "email": "mailto:info@rchs.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1170,7 +1227,8 @@
       "mailingAddress": "Owatonna, MN 55060"
     },
     "phone": "507-451-0533",
-    "website": "mailto:sharon.stark@oacarts.org",
+    "website": "https://www.oacarts.org/",
+    "email": "mailto:sharon.stark@oacarts.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1190,7 +1248,8 @@
       "mailingAddress": "6431 UNIVERSITY AVE NEMinneapolis, MN 55432"
     },
     "phone": "763-572-3588",
-    "website": "mailto:info@springbrooknaturecenter.org",
+    "website": "https://www.springbrooknaturecenter.org/",
+    "email": "mailto:info@springbrooknaturecenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1210,7 +1269,8 @@
       "mailingAddress": "1910 West County Road BRoseville, MN 55113"
     },
     "phone": null,
-    "website": "https://www.cityofroseville.com/",
+    "website": null,
+    "email": "https://www.cityofroseville.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1232,7 +1292,8 @@
       "mailingAddress": null
     },
     "phone": "218-736-6038",
-    "website": "mailto:otchs@prtel.com",
+    "website": "https://www.otchs.org/",
+    "email": "mailto:otchs@prtel.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1252,7 +1313,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:Tamarack@co.ramsey.mn.us",
+    "website": "https://www.co.ramsey.mn.us/parks/",
+    "email": "mailto:Tamarack@co.ramsey.mn.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1272,7 +1334,8 @@
       "mailingAddress": null
     },
     "phone": "320-363-5011",
-    "website": "mailto:admission@csbsju.edu",
+    "website": "https://www.csbsju.edu/",
+    "email": "mailto:admission@csbsju.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1292,7 +1355,8 @@
       "mailingAddress": null
     },
     "phone": "612-722-2220",
-    "website": "mailto:info@johnhstevenshouse.org",
+    "website": "https://www.johnhstevenshouse.org/",
+    "email": "mailto:info@johnhstevenshouse.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

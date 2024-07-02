@@ -6,7 +6,8 @@
       "mailingAddress": null
     },
     "phone": "918-481-1111",
-    "website": "https://www.hollandhall.org/",
+    "website": null,
+    "email": "https://www.hollandhall.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -26,7 +27,8 @@
       "mailingAddress": "PO Box 52188Tulsa, OK 74152"
     },
     "phone": "918-492-1818",
-    "website": "mailto:info@jewishmuseum.net",
+    "website": "https://www.jewishmuseum.net/",
+    "email": "mailto:info@jewishmuseum.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/TheSherwinMillerMuseumofJewishArt",
       "twitter": "https://www.twitter.com/smmja_tulsa",
@@ -47,7 +49,8 @@
       "mailingAddress": "PO Box 521145Tulsa, OK 74152"
     },
     "phone": "918-712-9484",
-    "website": "mailto:ths@tulsahistory.org",
+    "website": "https://www.tulsahistory.org/",
+    "email": "mailto:ths@tulsahistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -67,7 +70,8 @@
       "mailingAddress": "P Box 594Vinita, OK 74301"
     },
     "phone": "918-256-4911",
-    "website": "https://www.vinnieream.net/",
+    "website": null,
+    "email": "https://www.vinnieream.net/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -87,7 +91,8 @@
       "mailingAddress": "Rt 3 Star Kustom AveAfton, OK 74331"
     },
     "phone": "918-257-4234",
-    "website": "mailto:ldmstar@junct.com",
+    "website": "https://www.darrylstarbird.com/",
+    "email": "mailto:ldmstar@junct.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -105,7 +110,8 @@
       "mailingAddress": "P.O.Box 349Colcord, OK 74338"
     },
     "phone": "918-326-4532",
-    "website": "mailto:talbotlibrary@earthlink.net",
+    "website": "https://www.talbotlibrary.com/",
+    "email": "mailto:talbotlibrary@earthlink.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -127,7 +133,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.har-bervillage.com/",
+    "website": null,
+    "email": "https://www.har-bervillage.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -145,7 +152,8 @@
       "mailingAddress": "Box 608Grove, OK 74345"
     },
     "phone": "918-786-2938",
-    "website": "mailto:info@lendonwood.com",
+    "website": "https://www.lendonwood.com/",
+    "email": "mailto:info@lendonwood.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -165,7 +173,8 @@
       "mailingAddress": null
     },
     "phone": "580-294-3047",
-    "website": "mailto:townofgeneautry@brightok.net",
+    "website": "https://www.geneautryokmuseum.com/",
+    "email": "mailto:townofgeneautry@brightok.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -185,7 +194,8 @@
       "mailingAddress": "P. O. Box 2Miami, OK 74355"
     },
     "phone": "918-540-2425",
-    "website": "mailto:friendsform@colemantheatre.org",
+    "website": "https://www.colemantheatre.org/",
+    "email": "mailto:friendsform@colemantheatre.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -203,7 +213,8 @@
       "mailingAddress": "P.O. BOX 110Miami, OK 74355"
     },
     "phone": "918-540-1536",
-    "website": "mailto:adawetribe@sbcglobal.net",
+    "website": "https://www.ottawatribe.org/",
+    "email": "mailto:adawetribe@sbcglobal.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -223,7 +234,8 @@
       "mailingAddress": "PO Box 1283Miami, OK 74355"
     },
     "phone": "918-787-5452",
-    "website": "mailto:cbrown@sctribe.com",
+    "website": "https://www.sctribe.com/",
+    "email": "mailto:cbrown@sctribe.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -243,7 +255,8 @@
       "mailingAddress": "PO Box 1326Miami, OK 74355"
     },
     "phone": "918-542-1445",
-    "website": "mailto:info@miamination.com",
+    "website": "https://www.miamination.com/",
+    "email": "mailto:info@miamination.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -261,7 +274,8 @@
       "mailingAddress": "Muskogee, OK 74401"
     },
     "phone": "918-683-1701",
-    "website": "mailto:5tribesdirector@sbcglobal.net",
+    "website": "https://www.fivetribes.org/",
+    "email": "mailto:5tribesdirector@sbcglobal.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -279,7 +293,8 @@
       "mailingAddress": "PO Box 1813Muskogee, OK 74402"
     },
     "phone": "918-686-6624",
-    "website": "mailto:staff@3riversmuseum.com",
+    "website": "https://www.3riversmuseum.com/",
+    "email": "mailto:staff@3riversmuseum.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -300,7 +315,8 @@
       "mailingAddress": null
     },
     "phone": "918-781-7283",
-    "website": "mailto:timothyj@bacone.edu",
+    "website": "https://ataloa.bacone.edu/",
+    "email": "mailto:timothyj@bacone.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/ataloalodge",
       "twitter": null,
@@ -328,7 +344,8 @@
       "mailingAddress": null
     },
     "phone": "918-487-5196",
-    "website": "mailto:Greenleafcabins@oklahomaparks.com",
+    "website": "https://www.shopoklahoma.com/greenlea.htm",
+    "email": "mailto:Greenleafcabins@oklahomaparks.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -348,7 +365,8 @@
       "mailingAddress": null
     },
     "phone": "918-473-5572",
-    "website": "mailto:honeysprings@okhistory.org",
+    "website": "https://www.okhistory.org/outreach/military/honeysprings.html",
+    "email": "mailto:honeysprings@okhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -366,7 +384,8 @@
       "mailingAddress": "PO Box 457Fort Gibson, OK 74434"
     },
     "phone": null,
-    "website": "https://www.exploresouthernhistory.com/okfortgibson.html",
+    "website": null,
+    "email": "https://www.exploresouthernhistory.com/okfortgibson.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -384,7 +403,8 @@
       "mailingAddress": "PO Box 459Henryetta, OK 74437"
     },
     "phone": null,
-    "website": "https://www.territorialmuseum.org/",
+    "website": null,
+    "email": "https://www.territorialmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -406,7 +426,8 @@
       "mailingAddress": "Wagoner, OK 74467"
     },
     "phone": "918-485-9111",
-    "website": "mailto:lizmcmahan@windstream.net",
+    "website": "https://www.wagonercity.com/museum.html",
+    "email": "mailto:lizmcmahan@windstream.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -426,7 +447,8 @@
       "mailingAddress": "P.O. Box 5Webbers Falls, OK 74470"
     },
     "phone": "918-464-2728",
-    "website": "mailto:george@webbersfallsmuseum.org",
+    "website": "https://webbersfallsmuseum.org/",
+    "email": "mailto:george@webbersfallsmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -446,7 +468,8 @@
       "mailingAddress": "PO Box 359Webbers Falls, OK 74470"
     },
     "phone": "918-464-2728",
-    "website": "mailto:info@cherokeeheritage.org",
+    "website": "https://www.cherokeeheritage.org/",
+    "email": "mailto:info@cherokeeheritage.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -466,7 +489,8 @@
       "mailingAddress": null
     },
     "phone": "580-298-5595",
-    "website": "mailto:acksan2000@yahoo.com",
+    "website": "https://www.travelok.com/listings/view.profile/id.6130",
+    "email": "mailto:acksan2000@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -488,7 +512,8 @@
       "mailingAddress": "PO Box 245Atoka, OK 74525"
     },
     "phone": "580-889-7192",
-    "website": "mailto:atokamuseum@yahoo.com",
+    "website": "https://civilwaralbum.com/atoka/",
+    "email": "mailto:atokamuseum@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -508,7 +533,8 @@
       "mailingAddress": null
     },
     "phone": "580-931-6312",
-    "website": "mailto:sfolsom@choctawnation.com",
+    "website": "https://www.choctawnationculture.com/default.aspx",
+    "email": "mailto:sfolsom@choctawnation.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -526,7 +552,8 @@
       "mailingAddress": "PO Box 9Wilburton, OK 74578"
     },
     "phone": "918-465-2565",
-    "website": "mailto:robberscave@oklahomaparks.com",
+    "website": "https://www.shopoklahoma.com/robbersc.htm",
+    "email": "mailto:robberscave@oklahomaparks.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -544,7 +571,8 @@
       "mailingAddress": "PO Box 111Ponca City, OK 74602"
     },
     "phone": "580-762-1514",
-    "website": "https://www.standingbearpark.com/",
+    "website": null,
+    "email": "https://www.standingbearpark.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -564,7 +592,8 @@
       "mailingAddress": "Ponca City, OK 74602"
     },
     "phone": null,
-    "website": "mailto:josglaser@sbcglobal.net",
+    "website": "https://www.101ranchota.com/",
+    "email": "mailto:josglaser@sbcglobal.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -582,7 +611,8 @@
       "mailingAddress": "PO Box 1394Ponca City, OK 74602"
     },
     "phone": "580-765-9746",
-    "website": "mailto:pcartcenter@gmail.com",
+    "website": "https://www.poncacityartcenter.org/",
+    "email": "mailto:pcartcenter@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -602,7 +632,8 @@
       "mailingAddress": "PO Box 2Ponca City, OK 74602"
     },
     "phone": "580-765-3311",
-    "website": "mailto:poncainfo@poncacity.com",
+    "website": "https://www.poncacity.com/history/ponca_tribe.htm",
+    "email": "mailto:poncainfo@poncacity.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -622,7 +653,8 @@
       "mailingAddress": null
     },
     "phone": "580-765-6108",
-    "website": "mailto:info@pioneerwomanmuseum.com",
+    "website": "https://www.pioneerwomanmuseum.com/",
+    "email": "mailto:info@pioneerwomanmuseum.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -642,7 +674,8 @@
       "mailingAddress": null
     },
     "phone": "800-422-8340",
-    "website": "https://www.marlandmansion.com/",
+    "website": null,
+    "email": "https://www.marlandmansion.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -662,7 +695,8 @@
       "mailingAddress": "PO Box 50Kaw City, OK 74641"
     },
     "phone": "580-269-2552",
-    "website": "https://kawnation.com/",
+    "website": null,
+    "email": "https://kawnation.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -682,7 +716,8 @@
       "mailingAddress": "PO Box 157Broken Bow, OK 74728"
     },
     "phone": "580-494-6497",
-    "website": "https://www.forestry.ok.gov/fhc",
+    "website": null,
+    "email": "https://www.forestry.ok.gov/fhc",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -702,7 +737,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.caddo-ok-today.org/",
+    "website": null,
+    "email": "https://www.caddo-ok-today.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -724,7 +760,8 @@
       "mailingAddress": "PO Box 274Caddo, OK 74729"
     },
     "phone": "580-367-2787",
-    "website": "https://www.indianterritoryinc.com/",
+    "website": null,
+    "email": "https://www.indianterritoryinc.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -745,7 +782,8 @@
       "mailingAddress": null
     },
     "phone": "580-873-2634",
-    "website": "mailto:fttowson@okhistory.org",
+    "website": "https://www.civilwaralbum.com/indian/towson.htm",
+    "email": "mailto:fttowson@okhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

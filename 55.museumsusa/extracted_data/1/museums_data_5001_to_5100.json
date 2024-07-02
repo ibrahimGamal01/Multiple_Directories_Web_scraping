@@ -6,7 +6,8 @@
       "mailingAddress": null
     },
     "phone": "412-622-6914",
-    "website": "https://phipps.conservatory.org/visit-phipps/index.aspx",
+    "website": null,
+    "email": "https://phipps.conservatory.org/visit-phipps/index.aspx",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -26,7 +27,8 @@
       "mailingAddress": "P.O. Box 915Milford, PA 18337"
     },
     "phone": "570-296-8126",
-    "website": "mailto:pikemuse@ptd.net",
+    "website": "https://www.pikecountyhistoricalsociety.org/",
+    "email": "mailto:pikemuse@ptd.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -46,7 +48,8 @@
       "mailingAddress": "Bedford, PA 15522"
     },
     "phone": "814-623-2011",
-    "website": "mailto:bedfordhistory@embarqmail.com",
+    "website": "https://www.bedfordpahistory.com/",
+    "email": "mailto:bedfordhistory@embarqmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -66,7 +69,8 @@
       "mailingAddress": "P.O. Box 77Columbus, PA 16403"
     },
     "phone": "814-663-1291",
-    "website": "mailto:daveg@neo.rr.com",
+    "website": "https://pioneersteamandgas.com/",
+    "email": "mailto:daveg@neo.rr.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -86,7 +90,8 @@
       "mailingAddress": null
     },
     "phone": "412-361-0873",
-    "website": "mailto:margaret@pghfilmmakers.org",
+    "website": "https://pca.pittsburgharts.org/pca_home",
+    "email": "mailto:margaret@pghfilmmakers.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -106,7 +111,8 @@
       "mailingAddress": "Pittsburgh, PA 15219"
     },
     "phone": "412-471-5808",
-    "website": "mailto:info@phlf.org",
+    "website": "https://www.phlf.org/",
+    "email": "mailto:info@phlf.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -124,7 +130,8 @@
       "mailingAddress": null
     },
     "phone": "412-665-3640",
-    "website": "mailto:edipucci@pittsburghzoo.org",
+    "website": "https://www.pittsburghzoo.org/",
+    "email": "mailto:edipucci@pittsburghzoo.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -144,7 +151,8 @@
       "mailingAddress": "Philadelphia, PA 19131"
     },
     "phone": "215-581-3181",
-    "website": "mailto:info@pleasetouchmuseum.org",
+    "website": "https://www.pleasetouchmuseum.org/",
+    "email": "mailto:info@pleasetouchmuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Philadelphia-PA/Please-Touch-Museum/75500296322",
       "twitter": "https://www.twitter.com/pleasetouch",
@@ -165,7 +173,8 @@
       "mailingAddress": "P.O. BOX 1941York, PA 17401"
     },
     "phone": null,
-    "website": "https://www.policeheritagemuseum.com/",
+    "website": null,
+    "email": "https://www.policeheritagemuseum.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -186,7 +195,8 @@
       "mailingAddress": "P.O. Box 605Coudersport, PA 16915"
     },
     "phone": "814-274-4410",
-    "website": "mailto:pottercohist@zitomedia.net",
+    "website": "https://www.paintedhills.org/",
+    "email": "mailto:pottercohist@zitomedia.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/groups/113040332047342/",
       "twitter": null,
@@ -209,7 +219,8 @@
       "mailingAddress": null
     },
     "phone": "215-683-0211",
-    "website": "https://www.fairmountpark.org/BellaireManor.asp",
+    "website": null,
+    "email": "https://www.fairmountpark.org/BellaireManor.asp",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -229,7 +240,8 @@
       "mailingAddress": null
     },
     "phone": "610-326-4014",
-    "website": "mailto:PottsgroveManor@montcopa.org",
+    "website": "https://historicsites.montcopa.org/historicsites/cwp/view,A,3,Q,24487,historicsitesNav,%7C.asp",
+    "email": "mailto:PottsgroveManor@montcopa.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -249,7 +261,8 @@
       "mailingAddress": null
     },
     "phone": "215-546-1146",
-    "website": "https://www.preservationalliance.com/",
+    "website": null,
+    "email": "https://www.preservationalliance.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -269,7 +282,8 @@
       "mailingAddress": "P.O. Box 286Punxsutawney, PA 15767"
     },
     "phone": "814-938-2555",
-    "website": "mailto:punxsyhistory@verizon.net",
+    "website": "https://www.punxsyhistory.org/",
+    "email": "mailto:punxsyhistory@verizon.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -294,7 +308,8 @@
       "mailingAddress": null
     },
     "phone": "814-944-6830",
-    "website": "mailto:quaintcorner@verizon.net",
+    "website": "https://quaintcorner.org/",
+    "email": "mailto:quaintcorner@verizon.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/quaintcorner",
       "twitter": null,
@@ -316,7 +331,8 @@
       "mailingAddress": "HAVERFORD COLLEGEHaverford, PA 19041"
     },
     "phone": "610-896-1161",
-    "website": "mailto:hc-special@haverford.edu",
+    "website": "https://www.haverford.edu/library/special/",
+    "email": "mailto:hc-special@haverford.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -336,7 +352,8 @@
       "mailingAddress": "PO Box 125Bellefonte, PA 16823"
     },
     "phone": "814-355-4280",
-    "website": "mailto:bellefontemuseum@gmail.com",
+    "website": "https://www.bellefontemuseum.org/",
+    "email": "mailto:bellefontemuseum@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -357,7 +374,8 @@
       "mailingAddress": "PO Box 357Cheltenham, PA 19012"
     },
     "phone": "215-685-0544",
-    "website": "mailto:admin@ryerssmuseum.org",
+    "website": "https://ryerssmuseum.org/",
+    "email": "mailto:admin@ryerssmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -383,7 +401,8 @@
       "mailingAddress": null
     },
     "phone": "412-788-6795",
-    "website": "mailto:historicalsociety@townshipofrobinson.com",
+    "website": "https://www.rootsweb.ancestry.com/~parths/default.htm",
+    "email": "mailto:historicalsociety@townshipofrobinson.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -403,7 +422,8 @@
       "mailingAddress": "P.O. BOX 7646Philadelphia, PA 19101"
     },
     "phone": null,
-    "website": "https://www.rodinmuseum.org/",
+    "website": null,
+    "email": "https://www.rodinmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -423,7 +443,8 @@
       "mailingAddress": null
     },
     "phone": "215-887-4882",
-    "website": "mailto:info@abingtonartcenter.org",
+    "website": "https://abingtonartcenter.org/",
+    "email": "mailto:info@abingtonartcenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -443,7 +464,8 @@
       "mailingAddress": "6245 Ridge Ave.Philadelphia, PA 19128"
     },
     "phone": null,
-    "website": "mailto:rmwhsarchives@gmail.com",
+    "website": "https://rmwhs.org/",
+    "email": "mailto:rmwhsarchives@gmail.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/RoxboroughManayunkWissahickonHistoricalSociety",
       "twitter": null,
@@ -466,7 +488,8 @@
       "mailingAddress": null
     },
     "phone": "724-274-5459",
-    "website": "https://rachel_carson_homestead.myupsite.com/",
+    "website": null,
+    "email": "https://rachel_carson_homestead.myupsite.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -486,7 +509,8 @@
       "mailingAddress": null
     },
     "phone": "610-688-2668",
-    "website": "mailto:info@radnorhistory.org",
+    "website": "https://www.radnorhistory.org/",
+    "email": "mailto:info@radnorhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -506,7 +530,8 @@
       "mailingAddress": "PO Box 15243Reading, PA 19612"
     },
     "phone": null,
-    "website": "https://www.readingrailroad.org/",
+    "website": null,
+    "email": "https://www.readingrailroad.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -526,7 +551,8 @@
       "mailingAddress": null
     },
     "phone": "412-268-3618",
-    "website": "mailto:miller-gallery@andrew.cmu.edu",
+    "website": "https://www.cmu.edu/millergallery",
+    "email": "mailto:miller-gallery@andrew.cmu.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -547,7 +573,8 @@
       "mailingAddress": null
     },
     "phone": "717-762-4723",
-    "website": "mailto:renfrew@innernet.net",
+    "website": "https://www.renfrewmuseum.org/",
+    "email": "mailto:renfrew@innernet.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Renfrew-Museum-and-Park/163425507046128?sk=wall",
       "twitter": null,
@@ -571,7 +598,8 @@
       "mailingAddress": null
     },
     "phone": "610-372-4992",
-    "website": "mailto:info@berks-conservancy.org",
+    "website": "https://www.berks-conservancy.org/",
+    "email": "mailto:info@berks-conservancy.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -589,7 +617,8 @@
       "mailingAddress": "P.O. Box 333Apollo, PA 15613"
     },
     "phone": null,
-    "website": "mailto:roaringrun@gmail.com",
+    "website": "https://www.roaringrun.org/",
+    "email": "mailto:roaringrun@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -609,7 +638,8 @@
       "mailingAddress": "PO Box  62Moylan, PA 19065"
     },
     "phone": null,
-    "website": "mailto:info@rosevalleymuseum.org",
+    "website": "https://www.rosevalleymuseum.org/",
+    "email": "mailto:info@rosevalleymuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Rose-Valley-Museum-and-Historical-Society/107197165970523?fref=ts",
       "twitter": null,
@@ -630,7 +660,8 @@
       "mailingAddress": null
     },
     "phone": "215-732-1600",
-    "website": "https://www.rosenbach.org/",
+    "website": null,
+    "email": "https://www.rosenbach.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Rosenbach-Museum-Library/107394107481",
       "twitter": "https://www.twitter.com/#!/rosenbachmuseum",
@@ -650,7 +681,8 @@
       "mailingAddress": null
     },
     "phone": "610-374-8839",
-    "website": "mailto:parks@countyofberks.com",
+    "website": "https://www.co.berks.pa.us/Dept/Parks/Pages/HeritageCenter.aspx",
+    "email": "mailto:parks@countyofberks.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -670,7 +702,8 @@
       "mailingAddress": "P.O. Box 3003Lancaster, PA 17604"
     },
     "phone": "717-291-3879",
-    "website": "https://www.fieldtrip.com/pa/72913879.htm",
+    "website": null,
+    "email": "https://www.fieldtrip.com/pa/72913879.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -690,7 +723,8 @@
       "mailingAddress": "P.O. Box 966Oaks, PA 19456"
     },
     "phone": "610-917-0021",
-    "website": "mailto:info@schuylkillcanal.com",
+    "website": "https://schuylkillcanal.org/",
+    "email": "mailto:info@schuylkillcanal.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -710,7 +744,8 @@
       "mailingAddress": "Box 9Central City, PA 15924"
     },
     "phone": "814-754-9997",
-    "website": "mailto:lmiscoe@comcast.net",
+    "website": "https://shadecentralcity.org/",
+    "email": "mailto:lmiscoe@comcast.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -734,7 +769,8 @@
       "mailingAddress": null
     },
     "phone": "814-267-5987",
-    "website": "mailto:ssaylor@berlinpa.org",
+    "website": "https://berlinpa.org/",
+    "email": "mailto:ssaylor@berlinpa.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -754,7 +790,8 @@
       "mailingAddress": "P.O. BOX 9Skippack, PA 19474"
     },
     "phone": "610-584-1166",
-    "website": "mailto:info@skippack.org",
+    "website": "https://www.skippack.org/",
+    "email": "mailto:info@skippack.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -774,7 +811,8 @@
       "mailingAddress": "1220 Grandview AvenuePittsburgh, PA 15211"
     },
     "phone": null,
-    "website": "https://www.incline.cc/",
+    "website": null,
+    "email": "https://www.incline.cc/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -795,7 +833,8 @@
       "mailingAddress": "P.O. Box 1000Collegeville, PA 19426"
     },
     "phone": "610-409-3500",
-    "website": "mailto:lhanover@ursinus.edu",
+    "website": "https://www.heritageconservancy.org/route113/berman-museum.php",
+    "email": "mailto:lhanover@ursinus.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -815,7 +854,8 @@
       "mailingAddress": "Spring Grove, PA 17362"
     },
     "phone": "717-225-0732",
-    "website": "https://www.springgroveboro.com/history.htm",
+    "website": null,
+    "email": "https://www.springgroveboro.com/history.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -833,7 +873,8 @@
       "mailingAddress": null
     },
     "phone": "215-787-4436",
-    "website": "mailto:mgoetting@girardcollege.edu",
+    "website": "https://www.girardcollege.com/",
+    "email": "mailto:mgoetting@girardcollege.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -851,7 +892,8 @@
       "mailingAddress": null
     },
     "phone": "610-328-8557",
-    "website": "mailto:wchmiel1@swarthmore.edu",
+    "website": "https://www.swarthmore.edu/library/peace/",
+    "email": "mailto:wchmiel1@swarthmore.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -873,7 +915,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:Info@ColonialSwedes.org",
+    "website": "https://www.colonialswedes.org/",
+    "email": "mailto:Info@ColonialSwedes.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -891,7 +934,8 @@
       "mailingAddress": null
     },
     "phone": "717-704-3000",
-    "website": "mailto:interactiveservices@witf.org",
+    "website": "https://explorepahistory.com/attraction.php?id=1-B-1D58",
+    "email": "mailto:interactiveservices@witf.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -911,7 +955,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:lori@salisburypa.com",
+    "website": "https://www.salisburypa.com/",
+    "email": "mailto:lori@salisburypa.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

@@ -6,7 +6,8 @@
       "mailingAddress": "PO Box 71Sturgeon Bay, WI 54235"
     },
     "phone": "920-495-7330",
-    "website": "https://www.eagleblufflighthouse.org/",
+    "website": null,
+    "email": "https://www.eagleblufflighthouse.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Eagle-Bluff-Lighthouse/123265631036781",
       "twitter": null,
@@ -26,7 +27,8 @@
       "mailingAddress": null
     },
     "phone": "262-594-8961",
-    "website": "mailto:curator@eaglehistoricalsociety.org",
+    "website": "https://eaglehistoricalsociety.org/",
+    "email": "mailto:curator@eaglehistoricalsociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -46,7 +48,8 @@
       "mailingAddress": "PO Box 722East Troy, WI 53120"
     },
     "phone": "262-642-2642",
-    "website": "https://etahs.org/",
+    "website": null,
+    "email": "https://etahs.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -68,7 +71,8 @@
       "mailingAddress": "PO Box 292Brookfield, WI 53008"
     },
     "phone": "262-782-4057",
-    "website": "mailto:elmbrookhistoricalsociety@gmail.com",
+    "website": "https://www.elmbrookhistoricalsociety.org/",
+    "email": "mailto:elmbrookhistoricalsociety@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -90,7 +94,8 @@
       "mailingAddress": "700 6th StreetRacine, WI 53403"
     },
     "phone": "414-637-7395",
-    "website": "https://www.explorewisconsin.com/countypages/racine.asp#museums",
+    "website": null,
+    "email": "https://www.explorewisconsin.com/countypages/racine.asp#museums",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -111,7 +116,8 @@
       "mailingAddress": "906 E. 2nd StreetSuperior, WI 54880"
     },
     "phone": "715-394-5712",
-    "website": "mailto:info@superiorpublicmuseums.org",
+    "website": "https://www.fairlawnmansion.org/Fairlawnmain/FLhistory.htm",
+    "email": "mailto:info@superiorpublicmuseums.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -131,7 +137,8 @@
       "mailingAddress": "5139 Irish LaneFitchburg, WI 53711"
     },
     "phone": null,
-    "website": "mailto:info@history.fitchburg.wi.us",
+    "website": "https://history.fitchburg.wi.us/",
+    "email": "mailto:info@history.fitchburg.wi.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -151,7 +158,8 @@
       "mailingAddress": "P. O. Box 432Crandon, WI 54520"
     },
     "phone": null,
-    "website": "https://www.forestcountyhistory.org/",
+    "website": null,
+    "email": "https://www.forestcountyhistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -171,7 +179,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://chipsandsawdust.com/",
+    "website": null,
+    "email": "https://chipsandsawdust.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -191,7 +200,8 @@
       "mailingAddress": null
     },
     "phone": "715-866-8890",
-    "website": "mailto:fahp@centurytel.net",
+    "website": "https://www.theforts.org/",
+    "email": "mailto:fahp@centurytel.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -217,7 +227,8 @@
       "mailingAddress": "PO Box 320012Franklin, WI 53132"
     },
     "phone": "414-421-6539",
-    "website": "mailto:Luckeyjim@yahoo.com",
+    "website": "https://www.franklinhistory.net/",
+    "email": "mailto:Luckeyjim@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -237,7 +248,8 @@
       "mailingAddress": "P.O. Box 377Fremont, WI 54940"
     },
     "phone": "920-446-3326",
-    "website": "https://www.wisconsinhistory.org/localhistory/directory/viewsociety.asp?id=148",
+    "website": null,
+    "email": "https://www.wisconsinhistory.org/localhistory/directory/viewsociety.asp?id=148",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -257,7 +269,8 @@
       "mailingAddress": "Waunakee, WI 53597"
     },
     "phone": "608-849-4559",
-    "website": "mailto:info@schumacherfarmpark.org",
+    "website": "https://www.schumacherfarmpark.org/",
+    "email": "mailto:info@schumacherfarmpark.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -277,7 +290,8 @@
       "mailingAddress": "P. O. Box 74Beloit, WI 53511"
     },
     "phone": "608-751-1551",
-    "website": "mailto:beckmanmill@yahoo.com",
+    "website": "https://www.beckmanmill.org/",
+    "email": "mailto:beckmanmill@yahoo.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Friends-of-Beckman-Mill-Inc/210673342296507",
       "twitter": null,
@@ -295,7 +309,8 @@
       "mailingAddress": null
     },
     "phone": "608-727-2922",
-    "website": "https://www.wisconsinhistory.org/localhistory/directory/viewsociety.asp?id=151",
+    "website": null,
+    "email": "https://www.wisconsinhistory.org/localhistory/directory/viewsociety.asp?id=151",
     "socialLinks": {
       "facebook": "https://www.facebook.com/http://www.wisconsinhistory.org/localhistory/directory/viewsociety.asp?id=151#",
       "twitter": "https://www.twitter.com/#!/http://www.wisconsinhistory.org/localhistory/directory/viewsociety.asp?id=151#",
@@ -315,7 +330,8 @@
       "mailingAddress": null
     },
     "phone": "262-248-6060",
-    "website": "mailto:staff@genevalakemuseum.org",
+    "website": "https://www.genevalakemuseum.org/",
+    "email": "mailto:staff@genevalakemuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -335,7 +351,8 @@
       "mailingAddress": null
     },
     "phone": "262-248-6060",
-    "website": "mailto:staff@genevalakemuseum.org",
+    "website": "https://www.genevalakemuseum.org/",
+    "email": "mailto:staff@genevalakemuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -355,7 +372,8 @@
       "mailingAddress": "PO Box 31Germantown, WI 53022"
     },
     "phone": "262-628-3170",
-    "website": "mailto:info@bastbellmuseum.com",
+    "website": "https://www.bastbellmuseum.com/",
+    "email": "mailto:info@bastbellmuseum.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -375,7 +393,8 @@
       "mailingAddress": "P. O. Box 222Gordon, WI 54838"
     },
     "phone": "715-376-4249",
-    "website": "mailto:davekarin@centurytel.net",
+    "website": "https://www.gordonwi.us.com/",
+    "email": "mailto:davekarin@centurytel.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -397,7 +416,8 @@
       "mailingAddress": null
     },
     "phone": "608-723-4925",
-    "website": "mailto:arlenesiss@hotmail.com",
+    "website": "https://www.grantcountyhistory.org/",
+    "email": "mailto:arlenesiss@hotmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -417,7 +437,8 @@
       "mailingAddress": "P. O. Box 35Grantsburg, WI 54840"
     },
     "phone": "715-463-2573",
-    "website": "mailto:info@grantsburgareahistoricalsociety.com",
+    "website": "https://www.grantsburgareahistoricalsociety.com/",
+    "email": "mailto:info@grantsburgareahistoricalsociety.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -437,7 +458,8 @@
       "mailingAddress": "PO Box 22304Green Bay, WI 54305"
     },
     "phone": "920-432-4397",
-    "website": "mailto:gbcmuseum@yahoo.com",
+    "website": "https://www.gbchildrensmuseum.org/",
+    "email": "mailto:gbcmuseum@yahoo.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/ChildrensMuseumGB",
       "twitter": null,
@@ -459,7 +481,8 @@
       "mailingAddress": "PO Box 28287Green Bay, WI 54324"
     },
     "phone": "920-209-7463",
-    "website": "https://packershalloffame.com/",
+    "website": null,
+    "email": "https://packershalloffame.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -479,7 +502,8 @@
       "mailingAddress": "P.O. Box 804Monroe, WI 53566"
     },
     "phone": "608-324-4676",
-    "website": "mailto:info@greencountywihistoricalsociety.org",
+    "website": "https://www.greencountywihistoricalsociety.org/",
+    "email": "mailto:info@greencountywihistoricalsociety.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/GCWIHS/?fref=nf",
       "twitter": null,
@@ -502,7 +526,8 @@
       "mailingAddress": null
     },
     "phone": "414-423-7064",
-    "website": "mailto:thegreendalehistoricalsociety@gmail.com",
+    "website": "https://thegreendalehistoricalsociety.org/",
+    "email": "mailto:thegreendalehistoricalsociety@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -522,7 +547,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.historichalescorners.org/",
+    "website": null,
+    "email": "https://www.historichalescorners.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -542,7 +568,8 @@
       "mailingAddress": "P. O. Box 54Hartland, WI 53029"
     },
     "phone": "262-367-2979",
-    "website": "mailto:hartlandhistory@gmail.com",
+    "website": "https://www.hartlandhistory.com/",
+    "email": "mailto:hartlandhistory@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -562,7 +589,8 @@
       "mailingAddress": "PO Box 180104Delafield, WI 53018"
     },
     "phone": "262-646-4794",
-    "website": "mailto:HawksInn@wi.rr.com",
+    "website": "https://hawksinn.org/",
+    "email": "mailto:HawksInn@wi.rr.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -582,7 +610,8 @@
       "mailingAddress": "Madison, WI 53706"
     },
     "phone": "608-262-4847",
-    "website": "mailto:hlatc@mail.sohe.wisc.edu",
+    "website": "https://textilecollection.wisc.edu/",
+    "email": "mailto:hlatc@mail.sohe.wisc.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -600,7 +629,8 @@
       "mailingAddress": null
     },
     "phone": "608-266-4943",
-    "website": "mailto:stafford@co.dane.wi.us",
+    "website": "https://www.vilaszoo.org/",
+    "email": "mailto:stafford@co.dane.wi.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -620,7 +650,8 @@
       "mailingAddress": null
     },
     "phone": "920-448-5150",
-    "website": "mailto:info@heritagehillgb.org",
+    "website": "https://www.heritagehillgb.org/",
+    "email": "mailto:info@heritagehillgb.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -640,7 +671,8 @@
       "mailingAddress": "PO Box 1Sherwood, WI 54169"
     },
     "phone": "920-734-0673",
-    "website": "mailto:karenvanl@juno.com",
+    "website": "https://www.wisconsinhistory.org/localhistory/directory/viewsociety.asp?id=187",
+    "email": "mailto:karenvanl@juno.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -660,7 +692,8 @@
       "mailingAddress": null
     },
     "phone": "608-233-9394",
-    "website": "mailto:mlgajewski@aol.com",
+    "website": "https://www.historicmadison.org/",
+    "email": "mailto:mlgajewski@aol.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/#!/pages/Historic-Madison-Inc/108043525894050",
       "twitter": null,
@@ -680,7 +713,8 @@
       "mailingAddress": "Milwaukee, WI 53201"
     },
     "phone": "414-277-7795",
-    "website": "mailto:anna@historicmilwaukee.org",
+    "website": "https://www.historicmilwaukee.org/",
+    "email": "mailto:anna@historicmilwaukee.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Historic-Milwaukee-Inc/58291515884",
       "twitter": null,
@@ -700,7 +734,8 @@
       "mailingAddress": null
     },
     "phone": "920-980-3382",
-    "website": "https://hccwi.net/",
+    "website": null,
+    "email": "https://hccwi.net/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -720,7 +755,8 @@
       "mailingAddress": null
     },
     "phone": "920-349-3501",
-    "website": "mailto:MaryZastrow@aol.com",
+    "website": "https://www.wisconsinhistory.org/",
+    "email": "mailto:MaryZastrow@aol.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -740,7 +776,8 @@
       "mailingAddress": "PO Box 44Dodgeville, WI 53533"
     },
     "phone": null,
-    "website": "https://www.iowacountyhistoricalsociety.org/",
+    "website": null,
+    "email": "https://www.iowacountyhistoricalsociety.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -760,7 +797,8 @@
       "mailingAddress": "P. O. Box 97Hurley, WI 54534"
     },
     "phone": "715-561-2922",
-    "website": "https://ironcountywi.com/",
+    "website": null,
+    "email": "https://ironcountywi.com/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/ironcountypursuit#!/pages/Iron-County-Pursuit/125799574130211",
       "twitter": null,
@@ -778,7 +816,8 @@
       "mailingAddress": null
     },
     "phone": "715-561-2244",
-    "website": "mailto:genec@chartermi.net",
+    "website": "https://ironcountymuseum.org/",
+    "email": "mailto:genec@chartermi.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -798,7 +837,8 @@
       "mailingAddress": "Cedarburg, WI 53012"
     },
     "phone": "262-677-3957",
-    "website": "mailto:jhsheritage@sbcglobal.net",
+    "website": "https://www.wisconsinhistory.org/",
+    "email": "mailto:jhsheritage@sbcglobal.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -818,7 +858,8 @@
       "mailingAddress": null
     },
     "phone": "213-927-5055",
-    "website": "mailto:jacksonporthistory@charter.net",
+    "website": "https://www.jacksonporthistoricalsociety.org/",
+    "email": "mailto:jacksonporthistory@charter.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -838,7 +879,8 @@
       "mailingAddress": "P. O. Box 284Jefferson, WI 53549"
     },
     "phone": "920-674-7731",
-    "website": "https://www.jeffersonhistoricalsociety.org/",
+    "website": null,
+    "email": "https://www.jeffersonhistoricalsociety.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -858,7 +900,8 @@
       "mailingAddress": "PO Box 113Johnson Creek, WI 53038"
     },
     "phone": null,
-    "website": "mailto:info@johnsoncreekhistory.com",
+    "website": "https://www.johnsoncreekhistory.com/",
+    "email": "mailto:info@johnsoncreekhistory.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -878,7 +921,8 @@
       "mailingAddress": null
     },
     "phone": "920-994-9588",
-    "website": "mailto:summersoff@earthlink.net",
+    "website": "https://home.earthlink.net/~summersoff/",
+    "email": "mailto:summersoff@earthlink.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -898,7 +942,8 @@
       "mailingAddress": null
     },
     "phone": "608-782-1980",
-    "website": "mailto:admin@lchshistory.org",
+    "website": "https://www.lchshistory.org/",
+    "email": "mailto:admin@lchshistory.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/lacrosse.history",
       "twitter": "https://www.twitter.com/laxhistsociety",
@@ -922,7 +967,8 @@
       "mailingAddress": null
     },
     "phone": "608-789-7100",
-    "website": "mailto:k.krieg-sigman@lacrosse.lib.wi.us",
+    "website": "https://www.lacrosselibrary.org/",
+    "email": "mailto:k.krieg-sigman@lacrosse.lib.wi.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -942,7 +988,8 @@
       "mailingAddress": "P. O. Box 804Lac du Flambeau, WI 54538"
     },
     "phone": "715-588-3333",
-    "website": "mailto:bearpaww@hotmail.com",
+    "website": "https://www.ldfojibwe.com/",
+    "email": "mailto:bearpaww@hotmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -962,7 +1009,8 @@
       "mailingAddress": "P. O. Box 541Land O'Lakes, WI 54540"
     },
     "phone": "715-547-6979",
-    "website": "mailto:info@landolakeshistory.org",
+    "website": "https://www.landolakeshistory.org/",
+    "email": "mailto:info@landolakeshistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -982,7 +1030,8 @@
       "mailingAddress": "PO box 269Pepin, WI 54759"
     },
     "phone": "715-442-2142",
-    "website": "https://www.pepinwisconsin.com/",
+    "website": null,
+    "email": "https://www.pepinwisconsin.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1002,7 +1051,8 @@
       "mailingAddress": "P. O. Box 23Lebanon, WI 53036"
     },
     "phone": "920-925-3075",
-    "website": "mailto:eraether@wi.rr.com",
+    "website": "https://townoflebanon.com/lebanon_historical_society/",
+    "email": "mailto:eraether@wi.rr.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1022,7 +1072,8 @@
       "mailingAddress": null
     },
     "phone": "608-437-8211",
-    "website": "mailto:Info@LittleNorway.com",
+    "website": "https://littlenorway.com/",
+    "email": "mailto:Info@LittleNorway.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

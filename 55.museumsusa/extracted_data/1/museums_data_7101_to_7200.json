@@ -6,7 +6,8 @@
       "mailingAddress": null
     },
     "phone": "406-535-3642",
-    "website": "mailto:cmha@midrivers.com",
+    "website": "https://centralmtmuseum.weebly.com/",
+    "email": "mailto:cmha@midrivers.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -31,7 +32,8 @@
       "mailingAddress": "P.O. Box 2293Kalispell, MT 59903"
     },
     "phone": "406-756-8381",
-    "website": "mailto:history@yourmuseum.org",
+    "website": "https://www.yourmuseum.org/",
+    "email": "mailto:history@yourmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -51,7 +53,8 @@
       "mailingAddress": null
     },
     "phone": "406-452-6661",
-    "website": "https://www.childrensmuseumofmontana.org/",
+    "website": null,
+    "email": "https://www.childrensmuseumofmontana.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -71,7 +74,8 @@
       "mailingAddress": "Box 351Culbertson, MT 59218"
     },
     "phone": "406-787-5271",
-    "website": "mailto:culbertsonmt@hotmail.com",
+    "website": "https://www.culbertsonmt.com/museum.htm",
+    "email": "mailto:culbertsonmt@hotmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -89,7 +93,8 @@
       "mailingAddress": "P.O. Box 200Garryowen, MT 59031"
     },
     "phone": null,
-    "website": "https://www.custermuseum.org/",
+    "website": null,
+    "email": "https://www.custermuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -112,7 +117,8 @@
       "mailingAddress": "Route 1, Box 1206AHardin, MT 59034"
     },
     "phone": "800-346-1876",
-    "website": "mailto:info@custercountry.com",
+    "website": "https://www.custercountry.com/",
+    "email": "mailto:info@custercountry.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -130,7 +136,8 @@
       "mailingAddress": "P.O. Box 1284Miles City, MT 59301"
     },
     "phone": "406-234-0635",
-    "website": "https://ccac.milescity.org/information.htm",
+    "website": null,
+    "email": "https://ccac.milescity.org/information.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -154,7 +161,8 @@
       "mailingAddress": "P.O. Box 223Hamilton, MT 59840"
     },
     "phone": "406-363-6004",
-    "website": "mailto:april.johnson@dalymansion.org",
+    "website": "https://dalymansion.org/",
+    "email": "mailto:april.johnson@dalymansion.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Daly-Mansion-Preservation-Trust/153084421420225",
       "twitter": null,
@@ -177,7 +185,8 @@
       "mailingAddress": "Box 208Fort Peck, MT 59223"
     },
     "phone": "406-526-3493",
-    "website": "mailto:michele.l.fromdahl@usace.army.mil",
+    "website": "https://visitmt.com/categories/moreinfo.asp?SiteID=1&IDRRecordID=15147",
+    "email": "mailto:michele.l.fromdahl@usace.army.mil",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -195,7 +204,8 @@
       "mailingAddress": "P.O. Box 1181Glendive, MT 59330"
     },
     "phone": "406-377-8168",
-    "website": "https://www.frontiergatewaymuseum.org/",
+    "website": null,
+    "email": "https://www.frontiergatewaymuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -215,7 +225,8 @@
       "mailingAddress": null
     },
     "phone": "406-265-4000",
-    "website": "mailto:ClackMuseum@co.hill.mt.us",
+    "website": "https://co.hill.mt.us/museum/Heritage_Center.html",
+    "email": "mailto:ClackMuseum@co.hill.mt.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -241,7 +252,8 @@
       "mailingAddress": "PO Box 338Virginia City, MT 59755"
     },
     "phone": "406-843-5247",
-    "website": "mailto:dthyer@mt.gov",
+    "website": "https://virginiacitymt.com/",
+    "email": "mailto:dthyer@mt.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -265,7 +277,8 @@
       "mailingAddress": "Bldg. 322, Fort MissoulaMissoula, MT 59801"
     },
     "phone": "406-728-3476",
-    "website": "mailto:ftmslamuseum@montana.com",
+    "website": "https://www.fortmissoulamuseum.org/",
+    "email": "mailto:ftmslamuseum@montana.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -283,7 +296,8 @@
       "mailingAddress": null
     },
     "phone": "406-755-5268",
-    "website": "mailto:information@hockadaymuseum.org",
+    "website": "https://www.hockadaymuseum.org/",
+    "email": "mailto:information@hockadaymuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/HockadayMuseum",
       "twitter": "https://www.twitter.com/#!/hockadaymuseum",
@@ -308,7 +322,8 @@
       "mailingAddress": null
     },
     "phone": "406-442-6400",
-    "website": "mailto:karenbohlinger@holtermuseum.org",
+    "website": "https://www.holtermuseum.org/",
+    "email": "mailto:karenbohlinger@holtermuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": "https://www.twitter.com/holtermuseum",
@@ -328,7 +343,8 @@
       "mailingAddress": "PO Box 315Stanford, MT 59479"
     },
     "phone": "406-566-2277",
-    "website": "https://www.visitmt.com/listings/general/museum/judith-basin-county-museum.html",
+    "website": null,
+    "email": "https://www.visitmt.com/listings/general/museum/judith-basin-county-museum.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -351,7 +367,8 @@
       "mailingAddress": null
     },
     "phone": "406-495-9090",
-    "website": "mailto:kleffner@mt.net",
+    "website": "https://www.kleffnerranch.com/",
+    "email": "mailto:kleffner@mt.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -372,7 +389,8 @@
       "mailingAddress": "P.O. Box 1806Great Falls, MT 59403"
     },
     "phone": "406-727-8733",
-    "website": "https://www.fs.fed.us/r1/lewisclark/lcic.htm",
+    "website": null,
+    "email": "https://www.fs.fed.us/r1/lewisclark/lcic.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -390,7 +408,8 @@
       "mailingAddress": null
     },
     "phone": "406-535-8278",
-    "website": "mailto:jhswduncan@midrivers.com",
+    "website": "https://lewistownartcenter.org/",
+    "email": "mailto:jhswduncan@midrivers.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -414,7 +433,8 @@
       "mailingAddress": "P.O. Box 628Libby, MT 59923"
     },
     "phone": "406-293-7521",
-    "website": "mailto:heritagemuseum@frontier.com",
+    "website": "https://www.libbyheritagemuseum.org/",
+    "email": "mailto:heritagemuseum@frontier.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -434,7 +454,8 @@
       "mailingAddress": "P.O. Box 1319Livingston, MT 59047"
     },
     "phone": "406-222-2300",
-    "website": "mailto:livingstondepot@gmail.com",
+    "website": "https://livingstonmuseums.org/depot/",
+    "email": "mailto:livingstondepot@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -454,7 +475,8 @@
       "mailingAddress": "P.O. Box 404Butte, MT 59703"
     },
     "phone": "406-723-3231",
-    "website": "mailto:info@maiwah.org",
+    "website": "https://www.maiwah.org/",
+    "email": "mailto:info@maiwah.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -474,7 +496,8 @@
       "mailingAddress": "P.O. Box 1242Glendive, MT 59930"
     },
     "phone": "406-377-6256",
-    "website": "mailto:makoshika@mt.gov",
+    "website": "https://www.makoshika.org/",
+    "email": "mailto:makoshika@mt.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -494,7 +517,8 @@
       "mailingAddress": "PO Box 830Shelby, MT 59474"
     },
     "phone": "406-424-2551",
-    "website": "https://visitmt.com/categories/moreinfo.asp?IDRRecordID=3118&siteid=1",
+    "website": null,
+    "email": "https://visitmt.com/categories/moreinfo.asp?IDRRecordID=3118&siteid=1",
     "socialLinks": {
       "facebook": "https://www.facebook.com/visitmontana",
       "twitter": null,
@@ -514,7 +538,8 @@
       "mailingAddress": "P.O. Box 334Circle, MT 59215"
     },
     "phone": null,
-    "website": "https://www.mccone.mt.gov/museum.html",
+    "website": null,
+    "email": "https://www.mccone.mt.gov/museum.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -532,7 +557,8 @@
       "mailingAddress": "Polson, MT 59860"
     },
     "phone": "406-883-6804",
-    "website": "mailto:info@MiracleOfAmericaMuseum.org",
+    "website": "https://www.miracleofamericamuseum.org/",
+    "email": "mailto:info@MiracleOfAmericaMuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -552,7 +578,8 @@
       "mailingAddress": "P.O. Box 7662Missoula, MT 59807"
     },
     "phone": "406-541-0860",
-    "website": "https://www.missoulacultural.org/",
+    "website": null,
+    "email": "https://www.missoulacultural.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -570,7 +597,8 @@
       "mailingAddress": null
     },
     "phone": "406-433-3500",
-    "website": "mailto:mdhc@richland.org",
+    "website": "https://www.mondakheritagecenter.org/",
+    "email": "mailto:mdhc@richland.org",
     "socialLinks": {
       "facebook": null,
       "twitter": "https://www.twitter.com/#!/MonDakMuseum",
@@ -594,7 +622,8 @@
       "mailingAddress": "P.O. Box 262Fort Benton, MT 59442"
     },
     "phone": "406-622-5316",
-    "website": "mailto:riverplains@mtintouch.net",
+    "website": "https://www.fortbenton.com/museums/center.html",
+    "email": "mailto:riverplains@mtintouch.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -614,7 +643,8 @@
       "mailingAddress": null
     },
     "phone": "406-761-1797",
-    "website": "mailto:montanaart@hotmail.com",
+    "website": "https://www.mt-magda.org/",
+    "email": "mailto:montanaart@hotmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -634,7 +664,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:pubsales@mtech.edu",
+    "website": "https://www.mbmg.mtech.edu/",
+    "email": "mailto:pubsales@mtech.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -654,7 +685,8 @@
       "mailingAddress": null
     },
     "phone": "800-624-6001",
-    "website": "mailto:info@humanitiesmontana.org",
+    "website": "https://www.humanitiesmontana.org/",
+    "email": "mailto:info@humanitiesmontana.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -674,7 +706,8 @@
       "mailingAddress": "P.O. Box 200701Helena, MT 59620"
     },
     "phone": "406-444-2535",
-    "website": "mailto:fwpgen@mt.gov",
+    "website": "https://fwp.mt.gov/",
+    "email": "mailto:fwpgen@mt.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -694,7 +727,8 @@
       "mailingAddress": "PO Box 201201Helena, MT 59620"
     },
     "phone": "406-444-2694",
-    "website": "mailto:mhslibrary@mt.gov",
+    "website": "https://montanahistoricalsociety.org/",
+    "email": "mailto:mhslibrary@mt.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -721,7 +755,8 @@
       "mailingAddress": "Great Falls, MT 59403"
     },
     "phone": "406-231-0736",
-    "website": "mailto:mlemmt@hotmail.com",
+    "website": "https://www.mlem.org/",
+    "email": "mailto:mlemmt@hotmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -739,7 +774,8 @@
       "mailingAddress": "Missoula, MT 59802"
     },
     "phone": "406-327-0405",
-    "website": "https://www.montananaturalist.org/",
+    "website": null,
+    "email": "https://www.montananaturalist.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -759,7 +795,8 @@
       "mailingAddress": null
     },
     "phone": "406-496-4414",
-    "website": "mailto:mineralmuseum@mtech.edu",
+    "website": "https://www.mbmg.mtech.edu/museum/museum.asp",
+    "email": "mailto:mineralmuseum@mtech.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -777,7 +814,8 @@
       "mailingAddress": null
     },
     "phone": "406-256-5100",
-    "website": "mailto:director@mossmansion.com",
+    "website": "https://www.mossmansion.com/",
+    "email": "mailto:director@mossmansion.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Moss-Mansion/128249290541587",
       "twitter": null,
@@ -800,7 +838,8 @@
       "mailingAddress": "713 South 3rd Street, WestMissoula, MT 59801"
     },
     "phone": "406-549-8488",
-    "website": "mailto:MuseumMountainFlying@Gmail.com",
+    "website": "https://museummountainflying.org/",
+    "email": "mailto:MuseumMountainFlying@Gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -825,7 +864,8 @@
       "mailingAddress": null
     },
     "phone": "406-994-2251",
-    "website": "mailto:museum@montana.edu",
+    "website": "https://www.museumoftherockies.org/",
+    "email": "mailto:museum@montana.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Museum-of-the-Rockies/48716420457",
       "twitter": "https://www.twitter.com/#!/mor_montana",
@@ -845,7 +885,8 @@
       "mailingAddress": null
     },
     "phone": "406-248-2015",
-    "website": "mailto:mowh@imt.net",
+    "website": "https://visitmt.com/categories/moreinfo.asp?IDRRecordID=17553&siteid=1",
+    "email": "mailto:mowh@imt.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -865,7 +906,8 @@
       "mailingAddress": null
     },
     "phone": "406-323-1525",
-    "website": "mailto:info@mvhm.us",
+    "website": "https://www.mvhm.us/",
+    "email": "mailto:info@mvhm.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -885,7 +927,8 @@
       "mailingAddress": "Charlo, MT 59824"
     },
     "phone": "406-644-3435",
-    "website": "mailto:ninepipesmuseum@yahoo.com",
+    "website": "https://www.ninepipesmuseum.org/",
+    "email": "mailto:ninepipesmuseum@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -905,7 +948,8 @@
       "mailingAddress": "P.O. Box 8382Missoula, MT 59806"
     },
     "phone": "406-728-3662",
-    "website": "mailto:director@nrhc.org",
+    "website": "https://www.nrhc.org/",
+    "email": "mailto:director@nrhc.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -925,7 +969,8 @@
       "mailingAddress": null
     },
     "phone": "406-727-8255",
-    "website": "mailto:info@the-square.org",
+    "website": "https://www.the-square.org/",
+    "email": "mailto:info@the-square.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -945,7 +990,8 @@
       "mailingAddress": null
     },
     "phone": "406-222-4184",
-    "website": "mailto:museum@imt.net",
+    "website": "https://www.livingstonmuseums.org/pcm/pchsmain.html",
+    "email": "mailto:museum@imt.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -965,7 +1011,8 @@
       "mailingAddress": "P.O. Box 881Red Lodge, MT 59068"
     },
     "phone": "406-446-3667",
-    "website": "mailto:director@carboncountyhistory.com",
+    "website": "https://www.carboncountyhistory.com/",
+    "email": "mailto:director@carboncountyhistory.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -985,7 +1032,8 @@
       "mailingAddress": "P.O. Box 206Polson, MT 59860"
     },
     "phone": "406-883-3049",
-    "website": "mailto:contact@polsonflatheadmuseum.org",
+    "website": "https://www.polsonflatheadmuseum.org/",
+    "email": "mailto:contact@polsonflatheadmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1003,7 +1051,8 @@
       "mailingAddress": null
     },
     "phone": "406-846-3111",
-    "website": "mailto:info@pcmaf.org",
+    "website": "https://www.pcmaf.org/",
+    "email": "mailto:info@pcmaf.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1023,7 +1072,8 @@
       "mailingAddress": "P.O. Box 368Terry, MT 59349"
     },
     "phone": "406-635-4040",
-    "website": "https://prairie.mt.gov/pages/museum.htm",
+    "website": null,
+    "email": "https://prairie.mt.gov/pages/museum.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

@@ -6,7 +6,8 @@
       "mailingAddress": null
     },
     "phone": "843-769-2600",
-    "website": "mailto:info@draytonhall.org",
+    "website": "https://www.draytonhall.org/",
+    "email": "mailto:info@draytonhall.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -29,7 +30,8 @@
       "mailingAddress": "P. O. Box 174Edgefield, SC 29824"
     },
     "phone": null,
-    "website": "https://www.historicedgefield.com/",
+    "website": null,
+    "email": "https://www.historicedgefield.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -49,7 +51,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.edistomuseum.com/",
+    "website": null,
+    "email": "https://www.edistomuseum.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -67,7 +70,8 @@
       "mailingAddress": "P. O. Box 2562Columbia, SC 29202"
     },
     "phone": "803-779-3100",
-    "website": "https://www.edventure.org/",
+    "website": null,
+    "email": "https://www.edventure.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Columbia-SC/EdVenture-Childrens-Museum/43574789050",
       "twitter": null,
@@ -85,7 +89,8 @@
       "mailingAddress": "P.O. Box 6Winnsboro, SC 29180"
     },
     "phone": "803-635-9811",
-    "website": "mailto:fairfieldmus@truvista.net",
+    "website": "https://www.fairfieldsc.com/secondary.aspx?pageID=125",
+    "email": "mailto:fairfieldmus@truvista.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -105,7 +110,8 @@
       "mailingAddress": null
     },
     "phone": "864-355-2551",
-    "website": "mailto:kcassell@greenville.k12.sc.us",
+    "website": "https://www.fineartscenter.net/",
+    "email": "mailto:kcassell@greenville.k12.sc.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -125,7 +131,8 @@
       "mailingAddress": "PO Box 1498Camden, SC 29020"
     },
     "phone": "803-425-7676",
-    "website": "mailto:kcobb@FineArtsCenter.org",
+    "website": "https://www.fineartscenter.org/",
+    "email": "mailto:kcobb@FineArtsCenter.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/FineArtsCenter",
       "twitter": "https://www.twitter.com/FACofKC",
@@ -145,7 +152,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.florencemuseum.org/",
+    "website": null,
+    "email": "https://www.florencemuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -170,7 +178,8 @@
       "mailingAddress": null
     },
     "phone": "843-722-2706",
-    "website": "mailto:admack@gibbesmuseum.org",
+    "website": "https://www.gibbesmuseum.org/",
+    "email": "mailto:admack@gibbesmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -190,7 +199,8 @@
       "mailingAddress": null
     },
     "phone": "803-737-1710",
-    "website": "mailto:emilybrandenburg@gov.sc.gov",
+    "website": "https://www.scgovernorsmansion.org/",
+    "email": "mailto:emilybrandenburg@gov.sc.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -213,7 +223,8 @@
       "mailingAddress": null
     },
     "phone": "864-271-7570",
-    "website": "mailto:info@greenvillemuseum.org",
+    "website": "https://www.greenvillemuseum.org/",
+    "email": "mailto:info@greenvillemuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -233,7 +244,8 @@
       "mailingAddress": "P. O. Box 5482, Station BGreenville, SC 29606"
     },
     "phone": "864-232-9162",
-    "website": "https://www.greenvillesc.gov/Culture/History/CulturalExchangeCenter.aspx",
+    "website": null,
+    "email": "https://www.greenvillesc.gov/Culture/History/CulturalExchangeCenter.aspx",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -253,7 +265,8 @@
       "mailingAddress": null
     },
     "phone": "864-467-4300",
-    "website": "mailto:zooinfo@greenvillesc.gov",
+    "website": "https://www.greenvillezoo.com/",
+    "email": "mailto:zooinfo@greenvillesc.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -273,7 +286,8 @@
       "mailingAddress": "P.O. Box 775Pickens, SC 29671"
     },
     "phone": "864-608-2834",
-    "website": "mailto:pickenscohistory@gmail.com",
+    "website": "https://pickenscountyhistoricalsociety.com/",
+    "email": "mailto:pickenscohistory@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -293,7 +307,8 @@
       "mailingAddress": null
     },
     "phone": "803-943-3387",
-    "website": "https://www.hamptoncountysc.org/index.aspx?NID=457",
+    "website": null,
+    "email": "https://www.hamptoncountysc.org/index.aspx?NID=457",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -313,7 +328,8 @@
       "mailingAddress": "202 Harriet St.Hampton, SC 29924"
     },
     "phone": "803-943-5318",
-    "website": "mailto:hmvc9891@yahoo.com",
+    "website": "https://www.hamptonsc.net/departments/museum/default.aspx",
+    "email": "mailto:hmvc9891@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -334,7 +350,8 @@
       "mailingAddress": "P. O. Box 431Hartsville, SC 29551"
     },
     "phone": "843-383-3005",
-    "website": "https://www.hartsvillemuseum.org/",
+    "website": null,
+    "email": "https://www.hartsvillemuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -354,7 +371,8 @@
       "mailingAddress": "P. O. Box 11Beaufort, SC 29901"
     },
     "phone": "843-379-3331",
-    "website": "mailto:info@historicbeaufort.org",
+    "website": "https://www.historicbeaufort.org/",
+    "email": "mailto:info@historicbeaufort.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -374,7 +392,8 @@
       "mailingAddress": "1444 Brattonsville RoadMcConnells, SC 29726"
     },
     "phone": "803-329-2121",
-    "website": "mailto:scrotts@chmuseums.org",
+    "website": "https://www.chmuseums.org/calendar/brattonsville.htm",
+    "email": "mailto:scrotts@chmuseums.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Rock-Hill-SC/Culture-Heritage-Museums/47582007604",
       "twitter": "https://www.twitter.com/CHMuseums",
@@ -395,7 +414,8 @@
       "mailingAddress": "P. O. Box 710Camden, SC 29020"
     },
     "phone": "803-432-9841",
-    "website": "mailto:hiscamden@truvista.net",
+    "website": "https://www.historic-camden.net/",
+    "email": "mailto:hiscamden@truvista.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -420,7 +440,8 @@
       "mailingAddress": "Charleston, SC 29401"
     },
     "phone": "843-723-1159",
-    "website": "mailto:krobinson@historiccharleston.org",
+    "website": "https://www.historiccharleston.org/experience/arh/",
+    "email": "mailto:krobinson@historiccharleston.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -440,7 +461,8 @@
       "mailingAddress": "1601 Richland StreetColumbia, SC 29201"
     },
     "phone": null,
-    "website": "https://www.historiccolumbia.org/",
+    "website": null,
+    "email": "https://www.historiccolumbia.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -460,7 +482,8 @@
       "mailingAddress": "P. O. Box 8Ninety Six, SC 29666"
     },
     "phone": "864-543-2200",
-    "website": "mailto:info@townofninetysixsc.com",
+    "website": "https://www.townofninetysixsc.com/historic-96/historic-96-development-association/",
+    "email": "mailto:info@townofninetysixsc.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -478,7 +501,8 @@
       "mailingAddress": null
     },
     "phone": "843-546-7891",
-    "website": "https://www.hopsewee.com/",
+    "website": null,
+    "email": "https://www.hopsewee.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -496,7 +520,8 @@
       "mailingAddress": "Conway, SC 29569"
     },
     "phone": "843-915-5320",
-    "website": "mailto:HCGmuseum@horrycounty.org",
+    "website": "https://www.horrycountymuseum.org/",
+    "email": "mailto:HCGmuseum@horrycounty.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -517,7 +542,8 @@
       "mailingAddress": null
     },
     "phone": "843-838-2011",
-    "website": "mailto:huntingisland@scprt.com",
+    "website": "https://www.huntingisland.com/",
+    "email": "mailto:huntingisland@scprt.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -537,7 +563,8 @@
       "mailingAddress": null
     },
     "phone": "843-383-8145",
-    "website": "mailto:kalmia@coker.edu",
+    "website": "https://www.kalmiagardens.org/",
+    "email": "mailto:kalmia@coker.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -557,7 +584,8 @@
       "mailingAddress": "P. O. Box 939Georgetown, SC 29442"
     },
     "phone": "843-546-7706",
-    "website": "https://www.kaminskihousemuseum.org/",
+    "website": null,
+    "email": "https://www.kaminskihousemuseum.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/share.php?u=http://www.kaminskihousemuseum.org",
       "twitter": null,
@@ -577,7 +605,8 @@
       "mailingAddress": "P. O. Box 501Camden, SC 29020"
     },
     "phone": "803-425-1123",
-    "website": "mailto:kchistory@camden.net",
+    "website": "https://www.kershawcountyhistoricalsociety.org/",
+    "email": "mailto:kchistory@camden.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -597,7 +626,8 @@
       "mailingAddress": null
     },
     "phone": "803-222-3209",
-    "website": "https://www.southcarolinaparks.com/kingsmountain/introduction.aspx",
+    "website": null,
+    "email": "https://www.southcarolinaparks.com/kingsmountain/introduction.aspx",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -617,7 +647,8 @@
       "mailingAddress": null
     },
     "phone": "864-388-8810",
-    "website": "mailto:ewohlfor@lander.edu",
+    "website": "https://www.lander.edu/en/Monsanto-Art-Gallery/Overview.aspx",
+    "email": "mailto:ewohlfor@lander.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -637,7 +668,8 @@
       "mailingAddress": null
     },
     "phone": "803-789-5800",
-    "website": "mailto:landsfordcanal@scprt.com",
+    "website": "https://www.southcarolinaparks.com/landsfordcanal/introduction.aspx",
+    "email": "mailto:landsfordcanal@scprt.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -657,7 +689,8 @@
       "mailingAddress": "P. O. Box 637Lexington, SC 29071"
     },
     "phone": "803-359-8369",
-    "website": "mailto:JRFennell@lex-co.com",
+    "website": "https://www.lex-co.com/museum",
+    "email": "mailto:JRFennell@lex-co.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -679,7 +712,8 @@
       "mailingAddress": "P.O. Box 250181Charleston, SC 29425"
     },
     "phone": null,
-    "website": "https://waring.library.musc.edu/",
+    "website": null,
+    "email": "https://waring.library.musc.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -702,7 +736,8 @@
       "mailingAddress": null
     },
     "phone": "800-367-3517",
-    "website": "mailto:tours@magnoliaplantation.com",
+    "website": "https://www.magnoliaplantation.com/",
+    "email": "mailto:tours@magnoliaplantation.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -722,7 +757,8 @@
       "mailingAddress": "P. O. Box 220Marion, SC 29571"
     },
     "phone": "843-423-8299",
-    "website": "https://www.marionsc.org/Musem",
+    "website": null,
+    "email": "https://www.marionsc.org/Musem",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -740,7 +776,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.chmuseums.org/calendar/mccelvey.htm",
+    "website": null,
+    "email": "https://www.chmuseums.org/calendar/mccelvey.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -761,7 +798,8 @@
       "mailingAddress": null
     },
     "phone": "803-777-7251",
-    "website": "mailto:mckscal@mailbox.sc.edu",
+    "website": "https://www.cas.sc.edu/",
+    "email": "mailto:mckscal@mailbox.sc.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -781,7 +819,8 @@
       "mailingAddress": "Charleston, SC 29414"
     },
     "phone": "843-556-6020",
-    "website": "mailto:info@middletonplace.org",
+    "website": "https://www.middletonplace.org/",
+    "email": "mailto:info@middletonplace.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/middletonplacefoundation",
       "twitter": "https://www.twitter.com/middletonplace",
@@ -799,7 +838,8 @@
       "mailingAddress": "P.O. Box 408Mullins, SC 29574"
     },
     "phone": "843-464-8194",
-    "website": "mailto:cityofmullins@mullinssc.us",
+    "website": "https://www.mullinssc.us/sctobaccomuseumindex.html",
+    "email": "mailto:cityofmullins@mullinssc.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -817,7 +857,8 @@
       "mailingAddress": null
     },
     "phone": "803-777-5741",
-    "website": "mailto:museumofeducation@sc.edu",
+    "website": "https://www.ed.sc.edu/museum/",
+    "email": "mailto:museumofeducation@sc.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -837,7 +878,8 @@
       "mailingAddress": null
     },
     "phone": "803-329-2121",
-    "website": "mailto:scrotts@chmuseums.org",
+    "website": "https://www.chmuseums.org/",
+    "email": "mailto:scrotts@chmuseums.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -857,7 +899,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://oconeecountry.com/oconeestatepark.html",
+    "website": null,
+    "email": "https://oconeecountry.com/oconeestatepark.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -877,7 +920,8 @@
       "mailingAddress": "P. O. Box 546Edgefield, SC 29824"
     },
     "phone": "803-637-4010",
-    "website": "mailto:OEDGS85@gmail.com",
+    "website": "https://www.oedgs.org/",
+    "email": "mailto:OEDGS85@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -897,7 +941,8 @@
       "mailingAddress": null
     },
     "phone": "843-727-2165",
-    "website": "mailto:Youmanst@charleston-sc.gov",
+    "website": "https://oldexchange.org/",
+    "email": "mailto:Youmanst@charleston-sc.gov",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/The-Official-Old-Exchange-and-Provost-Dungeon-Page/112202772146166?sk=wall",
       "twitter": null,
@@ -917,7 +962,8 @@
       "mailingAddress": "900 Stony Landing RoadMoncks Corner, SC 29461"
     },
     "phone": null,
-    "website": "https://www.oldsanteecanalpark.org/",
+    "website": null,
+    "email": "https://www.oldsanteecanalpark.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -940,7 +986,8 @@
       "mailingAddress": "PO Box 1881Orangeburg, SC 29116"
     },
     "phone": "803-535-0022",
-    "website": "mailto:ochs@orangeburgh.org",
+    "website": "https://www.orangeburgh.org/",
+    "email": "mailto:ochs@orangeburgh.org",
     "socialLinks": {
       "facebook": null,
       "twitter": "https://www.twitter.com/#!/ochistorical",
@@ -963,7 +1010,8 @@
       "mailingAddress": null
     },
     "phone": "843-881-5922",
-    "website": "https://www.patriotspoint.org/",
+    "website": null,
+    "email": "https://www.patriotspoint.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -984,7 +1032,8 @@
       "mailingAddress": "P.O. Box 444Pendleton, SC 29670"
     },
     "phone": "864-646-7249",
-    "website": "mailto:info@pendletonhistoricfoundation.org",
+    "website": "https://www.pendletonhistoricfoundation.org/",
+    "email": "mailto:info@pendletonhistoricfoundation.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1007,7 +1056,8 @@
       "mailingAddress": "P. O. Box 126Saint Helena Island, SC 29920"
     },
     "phone": "843-838-2432",
-    "website": "mailto:info@penncenter.com",
+    "website": "https://www.penncenter.com/",
+    "email": "mailto:info@penncenter.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1027,7 +1077,8 @@
       "mailingAddress": "P. O. Box 775Pickens, SC 29671"
     },
     "phone": null,
-    "website": "mailto:pickenscohistory@gmail.com",
+    "website": "https://pickenscountyhistoricalsociety.com/",
+    "email": "mailto:pickenscohistory@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1047,7 +1098,8 @@
       "mailingAddress": null
     },
     "phone": "803-494-8177",
-    "website": "mailto:poinsett@scprt.com",
+    "website": "https://www.southcarolinaparks.com/poinsett/introduction.aspx",
+    "email": "mailto:poinsett@scprt.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1067,7 +1119,8 @@
       "mailingAddress": null
     },
     "phone": "803-799-9084",
-    "website": "https://www.richland.lib.sc.us/",
+    "website": null,
+    "email": "https://www.richland.lib.sc.us/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1087,7 +1140,8 @@
       "mailingAddress": "P. O. Box 1060Columbia, SC 29202"
     },
     "phone": null,
-    "website": "https://www.riverbanks.org/",
+    "website": null,
+    "email": "https://www.riverbanks.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/riverbankszoo",
       "twitter": "https://www.twitter.com/#!/riverbankszoo",

@@ -6,7 +6,8 @@
       "mailingAddress": "PO ox 441Georgetown, ME 04548"
     },
     "phone": "207-371-9200",
-    "website": "mailto:info@georgetownhistoricalsociety.org",
+    "website": "https://www.georgetownhistoricalsociety.org/",
+    "email": "mailto:info@georgetownhistoricalsociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -26,7 +27,8 @@
       "mailingAddress": null
     },
     "phone": "207-878-7760",
-    "website": "mailto:davinci@maine.rr.com",
+    "website": "https://www.davinciexperience.com/",
+    "email": "mailto:davinci@maine.rr.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -44,7 +46,8 @@
       "mailingAddress": "P.O. Box 498North Waterboro, ME 04061"
     },
     "phone": "207-247-5878",
-    "website": "mailto:carllj@sacoriver.net",
+    "website": "https://www.waterboro-me.net/historical/",
+    "email": "mailto:carllj@sacoriver.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -62,7 +65,8 @@
       "mailingAddress": "PO Box 156Scarborough, ME 04074"
     },
     "phone": null,
-    "website": "mailto:crbcc@aol.com",
+    "website": "https://www.scarboroughmaine.com/historical/",
+    "email": "mailto:crbcc@aol.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -82,7 +86,8 @@
       "mailingAddress": "PO Box 272Boothbay Harbor, ME 04538"
     },
     "phone": "207-633-0820",
-    "website": "mailto:brhs@gwi.net",
+    "website": "https://www.boothbayhistorical.org/",
+    "email": "mailto:brhs@gwi.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -102,7 +107,8 @@
       "mailingAddress": "PO Box 285Presque Isle, ME 04769"
     },
     "phone": null,
-    "website": "mailto:rrand6@maine.rr.com",
+    "website": "https://www.pihistory.org/",
+    "email": "mailto:rrand6@maine.rr.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -122,7 +128,8 @@
       "mailingAddress": "PO Box 861Caribou, ME 04736"
     },
     "phone": "207-498-2556",
-    "website": "mailto:carhistsoc@ne.twcbc.com",
+    "website": "https://www.visitaroostook.com/article/caribou_historical_center_museum/",
+    "email": "mailto:carhistsoc@ne.twcbc.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -146,7 +153,8 @@
       "mailingAddress": "PO Box 182Dixfield, ME 04224"
     },
     "phone": "207-562-1100",
-    "website": "mailto:perusto@msn.com",
+    "website": "https://www.dixfieldhistory.com/",
+    "email": "mailto:perusto@msn.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -166,7 +174,8 @@
       "mailingAddress": "PMB 367, 190 US Route 1Falmouth, ME 04105"
     },
     "phone": "207-781-4727",
-    "website": "mailto:falmouthhistorical@myfairpoint.net",
+    "website": "https://www.falmouthhistoricalsociety.org/",
+    "email": "mailto:falmouthhistorical@myfairpoint.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -186,7 +195,8 @@
       "mailingAddress": "Box 521Rangeley, ME 04970"
     },
     "phone": "207-864-3091",
-    "website": "mailto:info@rangeleyoutdoormuseum.org",
+    "website": "https://rangeleyoutdoormuseum.org/",
+    "email": "mailto:info@rangeleyoutdoormuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -206,7 +216,8 @@
       "mailingAddress": "PO Box 154Union, ME 04862"
     },
     "phone": "207-785-5444",
-    "website": "mailto:unionhis@midcoast.com",
+    "website": "https://www.midcoast.com/comespring/",
+    "email": "mailto:unionhis@midcoast.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -226,7 +237,8 @@
       "mailingAddress": "P.O. Box 41Peaks Island, ME 04108"
     },
     "phone": "207-766-3330",
-    "website": "mailto:fifthmaine@juno.com",
+    "website": "https://www.fifthmainemuseum.org/",
+    "email": "mailto:fifthmaine@juno.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -246,7 +258,8 @@
       "mailingAddress": "PO Box 464Old Orchard Beach, ME 04064"
     },
     "phone": "207-934-9319",
-    "website": "mailto:info@harmonmuseum.org",
+    "website": "https://www.harmonmuseum.org/",
+    "email": "mailto:info@harmonmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -266,7 +279,8 @@
       "mailingAddress": null
     },
     "phone": "207-443-5141",
-    "website": "mailto:history@patten.lib.me.us",
+    "website": "https://www.patten.lib.me.us/history/",
+    "email": "mailto:history@patten.lib.me.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -286,7 +300,8 @@
       "mailingAddress": "P.O. Box 144Hulls Cove, ME 04644"
     },
     "phone": "207-288-5126",
-    "website": "mailto:curator@davistownmuseum.org",
+    "website": "https://www.davistownmuseum.org/",
+    "email": "mailto:curator@davistownmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -306,7 +321,8 @@
       "mailingAddress": "Alfred, ME 04002"
     },
     "phone": null,
-    "website": "mailto:info@alfredshakermuseum.com",
+    "website": "https://www.alfredshakermuseum.com/Home.html",
+    "email": "mailto:info@alfredshakermuseum.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Alfred-Shaker-Museum/124124194279334",
       "twitter": "https://www.twitter.com/alfredshaker",
@@ -324,7 +340,8 @@
       "mailingAddress": "PO Box 61Wiscasset, ME 04578"
     },
     "phone": "207-882-6817",
-    "website": "https://www.lincolncountyhistory.org/",
+    "website": null,
+    "email": "https://www.lincolncountyhistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -344,7 +361,8 @@
       "mailingAddress": null
     },
     "phone": "207-454-7476",
-    "website": "https://www.mainething.com/alexander/achs.htm",
+    "website": null,
+    "email": "https://www.mainething.com/alexander/achs.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -364,7 +382,8 @@
       "mailingAddress": "P.O. Box 166Lovell, ME 04051"
     },
     "phone": "207-925-3234",
-    "website": "mailto:lovellhist@fairpoint.net",
+    "website": "https://www.lovellhistoricalsociety.org/",
+    "email": "mailto:lovellhist@fairpoint.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -388,7 +407,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:bhhistorical@gwi.net",
+    "website": "https://www.barharborhistorical.org/",
+    "email": "mailto:bhhistorical@gwi.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -408,7 +428,8 @@
       "mailingAddress": "71 South StGorham, ME 04038"
     },
     "phone": "207-222-1190",
-    "website": "https://www.baxter-memorial.lib.me.us/",
+    "website": null,
+    "email": "https://www.baxter-memorial.lib.me.us/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -429,7 +450,8 @@
       "mailingAddress": "PO Box 1377Ellsworth, ME 04605"
     },
     "phone": "207-667-9491",
-    "website": "mailto:switchboard@downeast.net",
+    "website": "https://ellsworthme.org/ringring/",
+    "email": "mailto:switchboard@downeast.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -449,7 +471,8 @@
       "mailingAddress": "PO Box 3Eliot, ME 03903"
     },
     "phone": null,
-    "website": "mailto:info@eliothistoricalsociety.org",
+    "website": "https://www.eliothistoricalsociety.org/",
+    "email": "mailto:info@eliothistoricalsociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -469,7 +492,8 @@
       "mailingAddress": "PO Box 747Rockport, ME 04856"
     },
     "phone": "207-236-2257",
-    "website": "mailto:info@conwayhousemuseum.org",
+    "website": "https://www.crmuseum.org/",
+    "email": "mailto:info@conwayhousemuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -489,7 +513,8 @@
       "mailingAddress": "PO Box 28Chebeague Island, ME 04017"
     },
     "phone": "207-846-5237",
-    "website": "mailto:bjohnson@chebeague.net",
+    "website": "https://www.chebeague.org/Chebeag.html",
+    "email": "mailto:bjohnson@chebeague.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -509,7 +534,8 @@
       "mailingAddress": "PO Box 264Brownfield, ME 04010"
     },
     "phone": "207-935-4392",
-    "website": "mailto:brownfieldhistory@fairpoint.net",
+    "website": "https://brownfieldhistoricalsociety.com/",
+    "email": "mailto:brownfieldhistory@fairpoint.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/Pequawket/",
       "twitter": null,
@@ -531,7 +557,8 @@
       "mailingAddress": null
     },
     "phone": "207-763-3576",
-    "website": "mailto:wijones@tidewater.net",
+    "website": "https://www.hopehist.com/",
+    "email": "mailto:wijones@tidewater.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -551,7 +578,8 @@
       "mailingAddress": "PO Box 339Vinalhaven, ME 04863"
     },
     "phone": "207-863-4410",
-    "website": "mailto:vhhissoc@myfairpoint.net",
+    "website": "https://www.vinalhavenhistoricalsociety.org/",
+    "email": "mailto:vhhissoc@myfairpoint.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -571,7 +599,8 @@
       "mailingAddress": null
     },
     "phone": "207-989-5013",
-    "website": "https://www.brewerme.org/HistoricalSociety/historical_society.htm",
+    "website": null,
+    "email": "https://www.brewerme.org/HistoricalSociety/historical_society.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -591,7 +620,8 @@
       "mailingAddress": "PO Box 194Milbridge, ME 04658"
     },
     "phone": "207-546-4471",
-    "website": "mailto:info@milbridgehistoricalsociety.org",
+    "website": "https://www.milbridgehistoricalsociety.org/",
+    "email": "mailto:info@milbridgehistoricalsociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -611,7 +641,8 @@
       "mailingAddress": "PO Box 301Machiasport, ME 04655"
     },
     "phone": "207-255-8461",
-    "website": "mailto:info@mahciashistory.org",
+    "website": "https://machiasporthistoricalsociety.org/",
+    "email": "mailto:info@mahciashistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -637,7 +668,8 @@
       "mailingAddress": "PO Box 98Woolwich, ME 04579"
     },
     "phone": "207-443-4833",
-    "website": "mailto:whs@gwi.net",
+    "website": "https://woolwichhistoricalsociety.org/",
+    "email": "mailto:whs@gwi.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -657,7 +689,8 @@
       "mailingAddress": "PO Box 82Cumberland Center, ME 04021"
     },
     "phone": "207-200-8006",
-    "website": "https://www.cumberlandmehistory.com/",
+    "website": null,
+    "email": "https://www.cumberlandmehistory.com/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/cumberlandhistoricalsociety",
       "twitter": null,
@@ -679,7 +712,8 @@
       "mailingAddress": "PO Box 48Edgecomb, ME 04556"
     },
     "phone": null,
-    "website": "mailto:edgefofe@edgecombhistorical.org",
+    "website": "https://www.edgecombhistorical.org/FOFE/FOFEmain.htm",
+    "email": "mailto:edgefofe@edgecombhistorical.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -699,7 +733,8 @@
       "mailingAddress": "PO Box 526Presque Isle, ME 04769"
     },
     "phone": "207-768-9400",
-    "website": "mailto:admissions@umpi.edu",
+    "website": "https://www.umpi.edu/",
+    "email": "mailto:admissions@umpi.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -717,7 +752,8 @@
       "mailingAddress": "P.O. Box 710Blue Hill, ME 04614"
     },
     "phone": null,
-    "website": "mailto:info@bluehillhistory.org",
+    "website": "https://www.bluehillhistory.org/",
+    "email": "mailto:info@bluehillhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -737,7 +773,8 @@
       "mailingAddress": "PO Box 537Blue Hill, ME 04614"
     },
     "phone": null,
-    "website": "mailto:info@jonathanfisherhouse.org",
+    "website": "https://www.jonathanfisherhouse.org/",
+    "email": "mailto:info@jonathanfisherhouse.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -759,7 +796,8 @@
       "mailingAddress": "County Building, 2 Turner StreetAuburn, ME 04210"
     },
     "phone": "207-784-0586",
-    "website": "mailto:androhs@myfairpoint.net",
+    "website": "https://www.rootsweb.com/~meandrhs",
+    "email": "mailto:androhs@myfairpoint.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -780,7 +818,8 @@
       "mailingAddress": "c/o 155 Main StreetLubec, ME 04562"
     },
     "phone": "207-733-2994",
-    "website": "mailto:lubechistoricalsociety@yahoo.com",
+    "website": "https://lubechistoricalsociety.com/",
+    "email": "mailto:lubechistoricalsociety@yahoo.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Lubec-Historical-Society/1667307990180845",
       "twitter": null,
@@ -802,7 +841,8 @@
       "mailingAddress": "PO Box 464Stratton, ME 04982"
     },
     "phone": null,
-    "website": "mailto:info@skimuseumofmaine.org",
+    "website": "https://www.skimuseumofmaine.org/",
+    "email": "mailto:info@skimuseumofmaine.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Ski-Museum-of-Maine/170890842959962",
       "twitter": null,
@@ -822,7 +862,8 @@
       "mailingAddress": null
     },
     "phone": "207-453-2998",
-    "website": "mailto:fhs2@myfairpoint.net",
+    "website": "https://www.fairfieldmehistoricalsociety.net/",
+    "email": "mailto:fhs2@myfairpoint.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -843,7 +884,8 @@
       "mailingAddress": "PO Box 453Kittery, ME 03904"
     },
     "phone": "207-439-3080",
-    "website": "mailto:kitterymuseum@netzero.net",
+    "website": "https://www.kitterymuseum.com/",
+    "email": "mailto:kitterymuseum@netzero.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -863,7 +905,8 @@
       "mailingAddress": "P.O. Box 141Gorham, ME 04038"
     },
     "phone": null,
-    "website": "mailto:Society@gorhamhistorical.com",
+    "website": "https://www.gorhamhistorical.com/",
+    "email": "mailto:Society@gorhamhistorical.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -883,7 +926,8 @@
       "mailingAddress": "P.O. Box 43Paris, ME 04271"
     },
     "phone": "207-743-2980",
-    "website": "mailto:hamlinstaff@hamlin.lib.me.us",
+    "website": "https://www.hamlin.lib.me.us/",
+    "email": "mailto:hamlinstaff@hamlin.lib.me.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -905,7 +949,8 @@
       "mailingAddress": "P. O. Box 582Union, ME 04862"
     },
     "phone": "207-542-2379",
-    "website": "mailto:matthewsmuseum@gmail.com",
+    "website": "https://www.matthewsmuseum.org/",
+    "email": "mailto:matthewsmuseum@gmail.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/?ref=home#%21/pages/%20%20%20Matthews-Museum-of-Maine-Heritage/123641767679341",
       "twitter": null,
@@ -925,7 +970,8 @@
       "mailingAddress": "Milo, ME 04463"
     },
     "phone": "207-943-2167",
-    "website": "mailto:society@milohistorical.org",
+    "website": "https://www.milohistorical.org/",
+    "email": "mailto:society@milohistorical.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -945,7 +991,8 @@
       "mailingAddress": "PO Box 211Lincolnville Ctr, ME 04850"
     },
     "phone": "207-789-5445",
-    "website": "https://sites.google.com/site/lincolnvillehistoricalsociety/",
+    "website": null,
+    "email": "https://sites.google.com/site/lincolnvillehistoricalsociety/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Lincolnville-Historical-Society-Schoolhouse-Museum/137521586278043?ref=ts",
       "twitter": null,
@@ -965,7 +1012,8 @@
       "mailingAddress": "PO Box 375Old Town, ME 04468"
     },
     "phone": "207-827-7256",
-    "website": "mailto:oldtownmuseum@gmail.com",
+    "website": "https://www.oldtownmuseum.org/",
+    "email": "mailto:oldtownmuseum@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

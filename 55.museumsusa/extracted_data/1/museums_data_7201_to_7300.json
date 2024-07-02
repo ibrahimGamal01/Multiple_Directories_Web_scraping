@@ -6,7 +6,8 @@
       "mailingAddress": null
     },
     "phone": "406-232-6146",
-    "website": "https://rangeridersmuseum.org/",
+    "website": null,
+    "email": "https://rangeridersmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -29,7 +30,8 @@
       "mailingAddress": "P.O. Box 7263Missoula, MT 59807"
     },
     "phone": "406-549-5346",
-    "website": "https://www.nrhc.org/rmmmh/rmmmh.htm",
+    "website": null,
+    "email": "https://www.nrhc.org/rmmmh/rmmmh.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -49,7 +51,8 @@
       "mailingAddress": "Box 44Rudyard, MT 59540"
     },
     "phone": "406-355-4322",
-    "website": "mailto:1oldsorehead@rudyardmuseum.com",
+    "website": "https://www.rudyardmuseum.com/",
+    "email": "mailto:1oldsorehead@rudyardmuseum.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -69,7 +72,8 @@
       "mailingAddress": "P.O. Box 430Colstrip, MT 50323"
     },
     "phone": "406-748-4822",
-    "website": "mailto:shac400@gmail.com",
+    "website": "https://colstripshac.org/",
+    "email": "mailto:shac400@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -94,7 +98,8 @@
       "mailingAddress": "P.O. Box 1153Plentywood, MT 59254"
     },
     "phone": "406-765-2420",
-    "website": "https://www.co.sheridan.mt.us/index.php?museum",
+    "website": null,
+    "email": "https://www.co.sheridan.mt.us/index.php?museum",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -114,7 +119,8 @@
       "mailingAddress": "P O Box 750Stevensville, MT 59870"
     },
     "phone": "406-777-1007",
-    "website": "mailto:stevensvillemuseum@yahoo.com",
+    "website": "https://www.stevensvillemuseum.com/",
+    "email": "mailto:stevensvillemuseum@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -134,7 +140,8 @@
       "mailingAddress": "P.O. Box 1Columbus, MT 59019"
     },
     "phone": null,
-    "website": "https://museumofthebeartooths.com/",
+    "website": null,
+    "email": "https://museumofthebeartooths.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -154,7 +161,8 @@
       "mailingAddress": null
     },
     "phone": "406-862-0067",
-    "website": "mailto:info@stumptownhistoricalsociety.org",
+    "website": "https://stumptownhistoricalsociety.org/",
+    "email": "mailto:info@stumptownhistoricalsociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -174,7 +182,8 @@
       "mailingAddress": "U.S. Forest Service Condon Work Center6887 MT Highway 83Condon, MT 59826"
     },
     "phone": "406-754-3137",
-    "website": "mailto:info@swanecosystemcenter.org",
+    "website": "https://www.swanecosystemcenter.org/",
+    "email": "mailto:info@swanecosystemcenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -201,7 +210,8 @@
       "mailingAddress": "P.O. Box 83Big Timber, MT 59011"
     },
     "phone": null,
-    "website": "https://sweetgrass.mtgenweb.org/museum.html",
+    "website": null,
+    "email": "https://sweetgrass.mtgenweb.org/museum.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -221,7 +231,8 @@
       "mailingAddress": "P.O. Box 338Bozeman, MT 59771"
     },
     "phone": "406-388-9282",
-    "website": "mailto:bselyem@country-grain-elevator-historical-society.org",
+    "website": "https://www.country-grain-elevator-historical-society.org/about.html",
+    "email": "mailto:bselyem@country-grain-elevator-historical-society.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -241,7 +252,8 @@
       "mailingAddress": "Box 1452Eureka, MT 59917"
     },
     "phone": "406-889-3492",
-    "website": "mailto:llyoung@interbel.net",
+    "website": "https://www.tobaccovalleyhistory.org/",
+    "email": "mailto:llyoung@interbel.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -266,7 +278,8 @@
       "mailingAddress": null
     },
     "phone": "406-243-2693",
-    "website": "mailto:john.douglas@umontana.edu",
+    "website": "https://www.cas.umt.edu/anthro/faculty.cfm",
+    "email": "mailto:john.douglas@umontana.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -286,7 +299,8 @@
       "mailingAddress": null
     },
     "phone": "406-452-8585",
-    "website": "mailto:ursuline@in-tch.com",
+    "website": "https://www.ursulinecentre.com/",
+    "email": "mailto:ursuline@in-tch.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -306,7 +320,8 @@
       "mailingAddress": "P.O. Box 44Glasgow, MT 59230"
     },
     "phone": "406-228-8692",
-    "website": "mailto:vcmuseum@nemont.net",
+    "website": "https://www.valleycountymuseum.com/Home.html",
+    "email": "mailto:vcmuseum@nemont.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -326,7 +341,8 @@
       "mailingAddress": "Box 44Glasgow, MT 59230"
     },
     "phone": "406-228-8692",
-    "website": "mailto:vcmuseum@nemont.net",
+    "website": "https://www.valleycountymuseum.com/Home.html",
+    "email": "mailto:vcmuseum@nemont.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -346,7 +362,8 @@
       "mailingAddress": "P.O. Box 610Victor, MT 59875"
     },
     "phone": "406-642-3997",
-    "website": "mailto:victormuseum@cybernet1.com",
+    "website": "https://visitmt.com/categories/moreinfo.asp?IDRRecordID=3164&siteid=1",
+    "email": "mailto:victormuseum@cybernet1.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -366,7 +383,8 @@
       "mailingAddress": null
     },
     "phone": "406-256-6809",
-    "website": "mailto:jdial@ywhc.org",
+    "website": "https://www.ywhc.org/",
+    "email": "mailto:jdial@ywhc.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -386,7 +404,8 @@
       "mailingAddress": "Box 33Butte, MT 59703"
     },
     "phone": "406-723-7211",
-    "website": "mailto:info@miningmuseum.org",
+    "website": "https://www.miningmuseum.org/",
+    "email": "mailto:info@miningmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -404,7 +423,8 @@
       "mailingAddress": null
     },
     "phone": "406-256-6804",
-    "website": "mailto:artinfo@artmuseum.org",
+    "website": "https://artmuseum.org/",
+    "email": "mailto:artinfo@artmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -424,7 +444,8 @@
       "mailingAddress": "P.O. Box 1299West Yellowstone, MT 59758"
     },
     "phone": "406-646-7461",
-    "website": "mailto:info@yellowstonehistoriccenter.org",
+    "website": "https://www.yellowstonehistoriccenter.org/",
+    "email": "mailto:info@yellowstonehistoriccenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -442,7 +463,8 @@
       "mailingAddress": "P.O. Box 812Coeur d'Alene, ID 83816"
     },
     "phone": null,
-    "website": "mailto:museum@museumni.org",
+    "website": "https://www.museumni.org/",
+    "email": "mailto:museum@museumni.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -462,7 +484,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.museumni.org/",
+    "website": null,
+    "email": "https://www.museumni.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -480,7 +503,8 @@
       "mailingAddress": "465 Keuterville Rd.Cottonwood, ID 83522"
     },
     "phone": "208-962-2050",
-    "website": "mailto:cwilkins@stgertrudes.org",
+    "website": "https://www.historicalmuseumatstgertrude.org/",
+    "email": "mailto:cwilkins@stgertrudes.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -502,7 +526,8 @@
       "mailingAddress": "P.O. Box 212Grangeville, ID 83530"
     },
     "phone": "208-983-0460",
-    "website": "https://www.grangevilleidaho.com/todo/historical_museum.htm",
+    "website": null,
+    "email": "https://www.grangevilleidaho.com/todo/historical_museum.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -522,7 +547,8 @@
       "mailingAddress": "P.O. Box 152Harrison, ID 83833"
     },
     "phone": null,
-    "website": "https://www.idahoheritage.org/assets/popups/north/n_craneharrison.html",
+    "website": null,
+    "email": "https://www.idahoheritage.org/assets/popups/north/n_craneharrison.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -542,7 +568,8 @@
       "mailingAddress": null
     },
     "phone": "208-743-2535",
-    "website": "https://www.npchistsoc.org/",
+    "website": null,
+    "email": "https://www.npchistsoc.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -568,7 +595,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.appaloosamuseum.org/",
+    "website": null,
+    "email": "https://www.appaloosamuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -588,7 +616,8 @@
       "mailingAddress": "P.O. Box 675Mullan, ID 83846"
     },
     "phone": "208-744-1461",
-    "website": "https://www.visitidaho.org/thingstodo/museums/captain-john-mullan-museum.aspx",
+    "website": null,
+    "email": "https://www.visitidaho.org/thingstodo/museums/captain-john-mullan-museum.aspx",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -610,7 +639,8 @@
       "mailingAddress": "P.O. Box 1454Orofino, ID 83544"
     },
     "phone": "208-476-5033",
-    "website": "mailto:info@clearwatermuseum.org",
+    "website": "https://www.clearwatermuseum.org/",
+    "email": "mailto:info@clearwatermuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -630,7 +660,8 @@
       "mailingAddress": "611 South Ella Ave.Sandpoint, ID 83864"
     },
     "phone": "208-263-2344",
-    "website": "mailto:bchs@frontier.com",
+    "website": "https://www.bonnercountyhistory.org/",
+    "email": "mailto:bchs@frontier.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -653,7 +684,8 @@
       "mailingAddress": "Route One, Box 1000Lapwai, ID 83540"
     },
     "phone": "208-843-7001",
-    "website": "https://www.nps.gov/nepe",
+    "website": null,
+    "email": "https://www.nps.gov/nepe",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -675,7 +707,8 @@
       "mailingAddress": "PO BOX 928Osburn, ID 83849"
     },
     "phone": "208-753-0801",
-    "website": "https://www.visitidaho.org/attraction/museums/oasis-bordello-museum/",
+    "website": null,
+    "email": "https://www.visitidaho.org/attraction/museums/oasis-bordello-museum/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -695,7 +728,8 @@
       "mailingAddress": null
     },
     "phone": "208-343-2671",
-    "website": "mailto:info@basquemuseum.com",
+    "website": "https://www.basquemuseum.com/",
+    "email": "mailto:info@basquemuseum.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -713,7 +747,8 @@
       "mailingAddress": "670 S. Julia Davis DriveBoise, ID 83702"
     },
     "phone": "208-345-8330",
-    "website": "https://www.boiseartmuseum.org/",
+    "website": null,
+    "email": "https://www.boiseartmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -733,7 +768,8 @@
       "mailingAddress": "P.O. Box 192Boise, ID 83702"
     },
     "phone": "208-343-9895",
-    "website": "mailto:dcifilter@gmail.com",
+    "website": "https://www.scidaho.org/index.php",
+    "email": "mailto:dcifilter@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -751,7 +787,8 @@
       "mailingAddress": "4040 W. Guard St.Boise, ID 83705"
     },
     "phone": "208-272-4841",
-    "website": "mailto:galvarez@imd.idaho.gov",
+    "website": "https://museum.mil.idaho.gov/",
+    "email": "mailto:galvarez@imd.idaho.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -774,7 +811,8 @@
       "mailingAddress": null
     },
     "phone": "208-368-9876",
-    "website": "mailto:idahorox@yahoo.com",
+    "website": "https://www.idahomuseum.org/",
+    "email": "mailto:idahorox@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -792,7 +830,8 @@
       "mailingAddress": "610 N. Julia Davis Dr.Boise, ID 83702"
     },
     "phone": null,
-    "website": "https://history.idaho.gov/idaho-state-historical-museum",
+    "website": null,
+    "email": "https://history.idaho.gov/idaho-state-historical-museum",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -810,7 +849,8 @@
       "mailingAddress": null
     },
     "phone": "208-334-2844",
-    "website": "https://history.idaho.gov/old-penitentiary-hours-location",
+    "website": null,
+    "email": "https://history.idaho.gov/old-penitentiary-hours-location",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -830,7 +870,8 @@
       "mailingAddress": null
     },
     "phone": "208-362-3716",
-    "website": "mailto:tpf@peregrinefund.org",
+    "website": "https://www.peregrinefund.org/",
+    "email": "mailto:tpf@peregrinefund.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -854,7 +895,8 @@
       "mailingAddress": null
     },
     "phone": "208-678-7172",
-    "website": "https://cassiacounty.org/",
+    "website": null,
+    "email": "https://cassiacounty.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -877,7 +919,8 @@
       "mailingAddress": "201 MunicipalNampa, ID 83687"
     },
     "phone": "208-465-6446",
-    "website": "mailto:admin@warhawkairmuseum.org",
+    "website": "https://warhawkairmuseum.org/",
+    "email": "mailto:admin@warhawkairmuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/WarhawkMuseum",
       "twitter": "https://www.twitter.com/WarhawkMuseum",
@@ -899,7 +942,8 @@
       "mailingAddress": "P.O. Box 252Council, ID 83612"
     },
     "phone": "208-253-4582",
-    "website": "mailto:dafisk@ctcweb.net",
+    "website": "https://home.ctcweb.net/~jcpeart/history.htm",
+    "email": "mailto:dafisk@ctcweb.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -921,7 +965,8 @@
       "mailingAddress": null
     },
     "phone": "208-365-9530",
-    "website": "mailto:gemcountymuseum@gmail.com",
+    "website": "https://www.gemcountymuseum.org/",
+    "email": "mailto:gemcountymuseum@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -944,7 +989,8 @@
       "mailingAddress": "P.O. Box 570Hagerman, ID 83332"
     },
     "phone": "208-933-4100",
-    "website": "https://www.nps.gov/hafo/index.htm",
+    "website": null,
+    "email": "https://www.nps.gov/hafo/index.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -962,7 +1008,8 @@
       "mailingAddress": "P.O. Box 50Jerome, ID 83338"
     },
     "phone": "208-324-5641",
-    "website": "mailto:lhelms@northrim.net",
+    "website": "https://www.historicaljeromecounty.com/",
+    "email": "mailto:lhelms@northrim.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -985,7 +1032,8 @@
       "mailingAddress": "Box 1761McCall, ID 83638"
     },
     "phone": null,
-    "website": "https://www.visitidaho.org/",
+    "website": null,
+    "email": "https://www.visitidaho.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1006,7 +1054,8 @@
       "mailingAddress": "P.O. Box 933Nampa, ID 83653"
     },
     "phone": "208-467-7611",
-    "website": "mailto:info@canyoncountyhistory.com",
+    "website": "https://www.canyoncountyhistory.com/",
+    "email": "mailto:info@canyoncountyhistory.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1026,7 +1075,8 @@
       "mailingAddress": "P.O. Box 608Parma, ID 83660"
     },
     "phone": "208-722-5138",
-    "website": "https://www.visitidaho.org/attraction/museums/fort-boise-replica/",
+    "website": null,
+    "email": "https://www.visitidaho.org/attraction/museums/fort-boise-replica/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1046,7 +1096,8 @@
       "mailingAddress": "P.O. Box 21Rupert, ID 83350"
     },
     "phone": null,
-    "website": "mailto:minidokamuseum@yahoo.com",
+    "website": "https://www.minidoka.id.us/historical-society/default.htm",
+    "email": "mailto:minidokamuseum@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1066,7 +1117,8 @@
       "mailingAddress": "P.O. Box 1238Twin Falls, ID 83303"
     },
     "phone": "208-733-9554",
-    "website": "mailto:info@csi.edu",
+    "website": "https://herrett.csi.edu/",
+    "email": "mailto:info@csi.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1086,7 +1138,8 @@
       "mailingAddress": "21337 A  US Highway 30Filer, ID 83328"
     },
     "phone": "208-736-4675",
-    "website": "mailto:info@twinfallsmuseum.org",
+    "website": "https://www.twinfallsmuseum.org/",
+    "email": "mailto:info@twinfallsmuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/TwinFallsMuseum",
       "twitter": null,
@@ -1107,7 +1160,8 @@
       "mailingAddress": "P.O. Box 124Hailey, ID 83333"
     },
     "phone": "208-788-1801",
-    "website": "mailto:bcmuseum@mindspring.com",
+    "website": "https://www.bchistoricalmuseum.org/",
+    "email": "mailto:bcmuseum@mindspring.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1127,7 +1181,8 @@
       "mailingAddress": "P.O. Box 50220Idaho Falls, ID 83405"
     },
     "phone": null,
-    "website": "https://www.idahofallsidaho.gov/",
+    "website": null,
+    "email": "https://www.idahofallsidaho.gov/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1147,7 +1202,8 @@
       "mailingAddress": "P.O. Box 1784Idaho Falls, ID 83403"
     },
     "phone": "208-522-1400",
-    "website": "https://www.museumofidaho.org/BCHS.php",
+    "website": null,
+    "email": "https://www.museumofidaho.org/BCHS.php",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1167,7 +1223,8 @@
       "mailingAddress": "P.O. Box 387Lava Hot Springs, ID 83246"
     },
     "phone": "208-776-5254",
-    "website": "https://www.lavahotsprings.com/museum.htm",
+    "website": null,
+    "email": "https://www.lavahotsprings.com/museum.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1187,7 +1244,8 @@
       "mailingAddress": "86 West 400 NorthMalad, ID 83252"
     },
     "phone": "208-766-4847",
-    "website": "mailto:admin@maladidaho.org",
+    "website": "https://www.maladidaho.org/",
+    "email": "mailto:admin@maladidaho.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1207,7 +1265,8 @@
       "mailingAddress": "921 S. 8th AveStop 8096Pocatello, ID 83209"
     },
     "phone": "208-282-3168",
-    "website": "mailto:imnh@isu.edu",
+    "website": "https://imnh.isu.edu/",
+    "email": "mailto:imnh@isu.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

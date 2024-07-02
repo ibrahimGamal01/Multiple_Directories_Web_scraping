@@ -6,7 +6,8 @@
       "mailingAddress": null
     },
     "phone": "215-345-0210",
-    "website": "mailto:info@mercermuseum.org",
+    "website": "https://www.mercermuseum.org/",
+    "email": "mailto:info@mercermuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -28,7 +29,8 @@
       "mailingAddress": null
     },
     "phone": "215-348-9461",
-    "website": "mailto:fhmail@fonthillmuseum.org",
+    "website": "https://www.fonthillmuseum.org/",
+    "email": "mailto:fhmail@fonthillmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -54,7 +56,8 @@
       "mailingAddress": "c/o City of Shinnston40 Main StreetShinnston, WV 26431"
     },
     "phone": "304-592-1942",
-    "website": "mailto:dwitter@iastate.edu",
+    "website": "https://museums.iastate.edu/",
+    "email": "mailto:dwitter@iastate.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -76,7 +79,8 @@
       "mailingAddress": null
     },
     "phone": "315-396-0541",
-    "website": "mailto:iminy@twcny.rr.com",
+    "website": "https://sites.google.com/site/iminytravellingexhibits/",
+    "email": "mailto:iminy@twcny.rr.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -97,7 +101,8 @@
       "mailingAddress": "P.O. Box BSedalia, NC 27342"
     },
     "phone": "336-449-4846",
-    "website": "mailto:chb@ncdcr.gov",
+    "website": "https://www.nchistoricsites.org/chb",
+    "email": "mailto:chb@ncdcr.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -121,7 +126,8 @@
       "mailingAddress": null
     },
     "phone": "201-656-2240",
-    "website": "mailto:rfoster@hobokenmuseum.org",
+    "website": "https://www.hobokenmuseum.org/",
+    "email": "mailto:rfoster@hobokenmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -138,40 +144,14 @@
     ]
   },
   {
-    "name": "Institute for the Study of the Ancient World",
-    "address": {
-      "streetAddress": "15 East 84th StreetNew York, NY 10028",
-      "mailingAddress": null
-    },
-    "phone": "212-992-7843",
-    "website": "mailto:isaw@nyu.edu",
-    "socialLinks": {
-      "facebook": null,
-      "twitter": null,
-      "instagram": null,
-      "linkedin": null,
-      "youtube": null
-    },
-    "hours": null,
-    "museumTypes": [
-      "Anthropology",
-      "Archaeology",
-      "Art",
-      "Culture",
-      "History",
-      "Library",
-      "Science",
-      "University"
-    ]
-  },
-  {
     "name": "Our Land Is Our Legacy Museum",
     "address": {
       "streetAddress": "32 East Main StreetBerryville, VA 22611",
       "mailingAddress": "P.O. Box 306Berryville, VA 22611"
     },
     "phone": "540-955-2600",
-    "website": "mailto:ccha@visuallink.com",
+    "website": "https://www.clarkehistory.org/",
+    "email": "mailto:ccha@visuallink.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -196,7 +176,8 @@
       "mailingAddress": "P.O. Box 789Half Moon Bay, CA 94019"
     },
     "phone": "650-726-0329",
-    "website": "mailto:questions@johnstonhouse.org",
+    "website": "https://www.johnstonhouse.org/",
+    "email": "mailto:questions@johnstonhouse.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -219,7 +200,8 @@
       "mailingAddress": null
     },
     "phone": "310-842-8060",
-    "website": "mailto:saml@starinc.org",
+    "website": "https://www.ecostation.org/",
+    "email": "mailto:saml@starinc.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -248,7 +230,8 @@
       "mailingAddress": "P.O. Box 4564Blaine, WA 98231"
     },
     "phone": "360-332-7165",
-    "website": "mailto:exhibit@peacearchpark.org",
+    "website": "https://www.peacearchpark.org/",
+    "email": "mailto:exhibit@peacearchpark.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -272,7 +255,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:wackywackywilsons@hotmail.com",
+    "website": "https://www.wackywackywilsons.com/",
+    "email": "mailto:wackywackywilsons@hotmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -293,7 +277,8 @@
       "mailingAddress": "P.O. Box 266Medfield, MA 02052"
     },
     "phone": null,
-    "website": "mailto:vinelakepreservationtrust@verizon.net",
+    "website": "https://www.vinelakepreservationtrust.org/",
+    "email": "mailto:vinelakepreservationtrust@verizon.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -315,7 +300,8 @@
       "mailingAddress": "PO Box 411East Haddam, CT 06423"
     },
     "phone": null,
-    "website": "mailto:info@ctssar.org",
+    "website": "https://www.connecticutsar.org/sites/2009/06/shaw-mansion.html",
+    "email": "mailto:info@ctssar.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -336,7 +322,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:evan@whoistheoldguy.com",
+    "website": "https://www.connecticutsar.org/sites/2009/06/root-house.html",
+    "email": "mailto:evan@whoistheoldguy.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -357,7 +344,8 @@
       "mailingAddress": null
     },
     "phone": "717-334-6296",
-    "website": "mailto:info@gburgtours.com",
+    "website": "https://www.gettysburgbattlefieldtours.com/hall-of-presidents.php",
+    "email": "mailto:info@gburgtours.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

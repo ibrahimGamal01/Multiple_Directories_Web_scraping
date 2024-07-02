@@ -6,7 +6,8 @@
       "mailingAddress": "PO Box 238Castine, ME 04421"
     },
     "phone": "207-326-4118",
-    "website": "mailto:info@castinehistoricalsociety.org",
+    "website": "https://www.castinehistoricalsociety.org/",
+    "email": "mailto:info@castinehistoricalsociety.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/CastineHistoricalSociety",
       "twitter": null,
@@ -30,7 +31,8 @@
       "mailingAddress": "PO Box 1116Greenville, ME 04441"
     },
     "phone": "207-695-2909",
-    "website": "mailto:mooseheadhistory@myfairpoint.net",
+    "website": "https://mooseheadhistory.org/",
+    "email": "mailto:mooseheadhistory@myfairpoint.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -50,7 +52,8 @@
       "mailingAddress": "P O BOX 250Porter, ME 04047"
     },
     "phone": "207-625-8344",
-    "website": "mailto:pphs@parsonsfieldporterhistorical.org",
+    "website": "https://www.parsonsfieldporterhistorical.org/",
+    "email": "mailto:pphs@parsonsfieldporterhistorical.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -70,7 +73,8 @@
       "mailingAddress": null
     },
     "phone": "207-364-2540",
-    "website": "mailto:rhs@gwi.net",
+    "website": "https://www.rumfordmaine.net/history/history.htm",
+    "email": "mailto:rhs@gwi.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -90,7 +94,8 @@
       "mailingAddress": "PO Box 296South Berwick, ME 03908"
     },
     "phone": "207-384-0000",
-    "website": "mailto:info@oldberwick.org",
+    "website": "https://www.oldberwick.org/",
+    "email": "mailto:info@oldberwick.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -110,7 +115,8 @@
       "mailingAddress": "PO Box 5582Augusta, ME 04332"
     },
     "phone": "207-622-7718",
-    "website": "mailto:mail@kennebechistorical.org",
+    "website": "https://www.kennebechistorical.org/",
+    "email": "mailto:mail@kennebechistorical.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -130,7 +136,8 @@
       "mailingAddress": null
     },
     "phone": "207-854-5588",
-    "website": "https://www.westbrookhistoricalsociety.org/",
+    "website": null,
+    "email": "https://www.westbrookhistoricalsociety.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -150,7 +157,8 @@
       "mailingAddress": "PO Box 456Hampden, ME 04444"
     },
     "phone": "207-862-2027",
-    "website": "mailto:jlondon@tds.net",
+    "website": "https://www.hampdenmaine.com/",
+    "email": "mailto:jlondon@tds.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -176,7 +184,8 @@
       "mailingAddress": "PO Box 280Beals, ME 04611"
     },
     "phone": null,
-    "website": "mailto:bhspresident@moosabec.org",
+    "website": "https://www.moosabec.org/",
+    "email": "mailto:bhspresident@moosabec.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -196,7 +205,8 @@
       "mailingAddress": "PO Box 278North Anson, ME 04958"
     },
     "phone": null,
-    "website": "mailto:quint@tdstelme.net",
+    "website": "https://www.rootsweb.ancestry.com/~meehs/",
+    "email": "mailto:quint@tdstelme.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -216,7 +226,8 @@
       "mailingAddress": "PO Box 572Anson, ME 04911"
     },
     "phone": null,
-    "website": "https://www.rootsweb.com/~meahs/ahsindex.html",
+    "website": null,
+    "email": "https://www.rootsweb.com/~meahs/ahsindex.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -238,7 +249,8 @@
       "mailingAddress": "PO Box 352Monmouth, ME 04259"
     },
     "phone": "207-933-2287",
-    "website": "mailto:monmouthmuseum@gmail.com",
+    "website": "https://www.monmouthmuseuminc.org/",
+    "email": "mailto:monmouthmuseum@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -256,7 +268,8 @@
       "mailingAddress": "PO Box 62Saint Albans, ME 04971"
     },
     "phone": "802-527-7933",
-    "website": "https://www.stamuseum.com/",
+    "website": null,
+    "email": "https://www.stamuseum.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -276,7 +289,8 @@
       "mailingAddress": "PO Box 544Gray, ME 04039"
     },
     "phone": "207-657-4783",
-    "website": "https://www.grayhistorical.org/",
+    "website": null,
+    "email": "https://www.grayhistorical.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -299,7 +313,8 @@
       "mailingAddress": "PO Box 9301Portland, ME 04104"
     },
     "phone": "800-800-4876",
-    "website": "mailto:libraryadmin@usm.maine.edu",
+    "website": "https://usm.maine.edu/libtech",
+    "email": "mailto:libraryadmin@usm.maine.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -319,7 +334,8 @@
       "mailingAddress": "P.O. Box 1478Ellsworth, ME 04605"
     },
     "phone": "207-667-8671",
-    "website": "mailto:info@woodlawnmuseum.org",
+    "website": "https://woodlawnmuseum.com/",
+    "email": "mailto:info@woodlawnmuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/Woodlawn-Museum-34514989765/",
       "twitter": null,
@@ -344,7 +360,8 @@
       "mailingAddress": "Rte 201Hinckley, ME 04944"
     },
     "phone": "207-238-4250",
-    "website": "mailto:dstaber@gwh.org",
+    "website": "https://www.gwh.org/lcabates",
+    "email": "mailto:dstaber@gwh.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -373,7 +390,8 @@
       "mailingAddress": "PO Box 83Limerick, ME 04048"
     },
     "phone": null,
-    "website": "https://www.limerickmaine.com/Community/Historical/historical.html",
+    "website": null,
+    "email": "https://www.limerickmaine.com/Community/Historical/historical.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -393,7 +411,8 @@
       "mailingAddress": "PO Box 583Naples, ME 04055"
     },
     "phone": "207-693-3103",
-    "website": "mailto:naplesmainehistoricalsociety@gmail.com",
+    "website": "https://townofnaples.org/",
+    "email": "mailto:naplesmainehistoricalsociety@gmail.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/napleshs",
       "twitter": null,
@@ -416,7 +435,8 @@
       "mailingAddress": "P. O. Box 17South Berwick, ME 03908"
     },
     "phone": "207-384-2018",
-    "website": "mailto:dunnybrookhistoricalfoundation@myfairpoint.net",
+    "website": "https://www.dunnybrook.org/",
+    "email": "mailto:dunnybrookhistoricalfoundation@myfairpoint.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -437,7 +457,8 @@
       "mailingAddress": null
     },
     "phone": "207-781-4727",
-    "website": "mailto:falmouthhistorical@myfairpoint.net",
+    "website": "https://www.falmouthmehistory.org/",
+    "email": "mailto:falmouthhistorical@myfairpoint.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -457,7 +478,8 @@
       "mailingAddress": "RR 2 Box 130Dover-Foxcroft, ME 04426"
     },
     "phone": null,
-    "website": "https://www.sebechistoricalsociety.com/",
+    "website": null,
+    "email": "https://www.sebechistoricalsociety.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -477,7 +499,8 @@
       "mailingAddress": "PO Box 154Rangeley, ME 04970"
     },
     "phone": "207-864-3939",
-    "website": "mailto:rlrlm.rangeley@gmail.com",
+    "website": "https://www.rlrlm.org/",
+    "email": "mailto:rlrlm.rangeley@gmail.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/RangeleyLoggingMuseum",
       "twitter": null,
@@ -502,7 +525,8 @@
       "mailingAddress": null
     },
     "phone": "864-421-9039",
-    "website": "mailto:confedmuseum@att.net",
+    "website": "https://www.confederatemuseum.org/",
+    "email": "mailto:confedmuseum@att.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -526,7 +550,8 @@
       "mailingAddress": "P. O. Box 247Blackville, SC 29817"
     },
     "phone": "803-584-7315",
-    "website": "https://www.scagheritage.com/",
+    "website": null,
+    "email": "https://www.scagheritage.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -544,7 +569,8 @@
       "mailingAddress": null
     },
     "phone": "803-641-9094",
-    "website": "mailto:ACAExecDir@bellsouth.net",
+    "website": "https://www.aikencenterforthearts.org/",
+    "email": "mailto:ACAExecDir@bellsouth.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -564,7 +590,8 @@
       "mailingAddress": "P.O. Box 1177Aiken, SC 29801"
     },
     "phone": "803-642-7650",
-    "website": "https://www.aikenracinghalloffame.com/",
+    "website": null,
+    "email": "https://www.aikenracinghalloffame.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -584,7 +611,8 @@
       "mailingAddress": "Charleston, SC 29401"
     },
     "phone": "843-577-7000",
-    "website": "mailto:info@americanmilitarymuseum.org",
+    "website": "https://www.americanmilitarymuseum.org/",
+    "email": "mailto:info@americanmilitarymuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -604,7 +632,8 @@
       "mailingAddress": null
     },
     "phone": "864-222-2787",
-    "website": "https://andersonarts.org/",
+    "website": null,
+    "email": "https://andersonarts.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -626,7 +655,8 @@
       "mailingAddress": "P. O. Box 8002Anderson, SC 29670"
     },
     "phone": "864-260-4737",
-    "website": "https://www.andersoncountysc.org/",
+    "website": null,
+    "email": "https://www.andersoncountysc.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -646,7 +676,8 @@
       "mailingAddress": null
     },
     "phone": "803-285-3344",
-    "website": "mailto:andrewjackson@scprt.com",
+    "website": "https://www.southcarolinaparks.com/andrewjackson/introduction.aspx",
+    "email": "mailto:andrewjackson@scprt.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -666,7 +697,8 @@
       "mailingAddress": "P. O. Box 1209Fort Mill, SC 29716"
     },
     "phone": "803-548-7252",
-    "website": "mailto:mike@sciway.net",
+    "website": "https://www.scgreatoutdoors.com/park-closegreenway.html",
+    "email": "mailto:mike@sciway.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -684,7 +716,8 @@
       "mailingAddress": null
     },
     "phone": "843-805-5507",
-    "website": "https://avery.cofc.edu/",
+    "website": null,
+    "email": "https://avery.cofc.edu/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Charleston-SC/Avery-Research-Center-for-African-American-History-and-Culture/1223",
       "twitter": null,
@@ -704,7 +737,8 @@
       "mailingAddress": null
     },
     "phone": "843-546-4623",
-    "website": "mailto:hobcaw@belle.baruch.sc.edu",
+    "website": "https://www.hobcawbarony.org/",
+    "email": "mailto:hobcaw@belle.baruch.sc.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -722,7 +756,8 @@
       "mailingAddress": "102 Garden TrailClemson, SC 29634"
     },
     "phone": null,
-    "website": "https://virtual.clemson.edu/groups/geomuseum/",
+    "website": null,
+    "email": "https://virtual.clemson.edu/groups/geomuseum/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -743,7 +778,8 @@
       "mailingAddress": null
     },
     "phone": "864-770-1331",
-    "website": "mailto:contact@bjumg.org",
+    "website": "https://www.bjumg.org/",
+    "email": "mailto:contact@bjumg.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -763,7 +799,8 @@
       "mailingAddress": null
     },
     "phone": "843-235-6000",
-    "website": "https://www.brookgreen.org/",
+    "website": null,
+    "email": "https://www.brookgreen.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/BrookgreenGardens",
       "twitter": "https://www.twitter.com/#!/BrookgreenSC",
@@ -786,7 +823,8 @@
       "mailingAddress": null
     },
     "phone": "843-238-2510",
-    "website": "mailto:artmuseum@sc.rr.com",
+    "website": "https://www.myrtlebeachartmuseum.org/",
+    "email": "mailto:artmuseum@sc.rr.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -808,7 +846,8 @@
       "mailingAddress": "P. O. Box 164Abbeville, SC 29620"
     },
     "phone": "864-366-0166",
-    "website": "mailto:info@burt-stark.com",
+    "website": "https://www.burt-stark.com/",
+    "email": "mailto:info@burt-stark.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -828,7 +867,8 @@
       "mailingAddress": "8155 Geer HighwayCleveland, SC 29635"
     },
     "phone": "864-836-6115",
-    "website": "mailto:caesarshead@scprt.com",
+    "website": "https://www.southcarolinaparks.com/park-finder/state-park/1648.aspx",
+    "email": "mailto:caesarshead@scprt.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -848,7 +888,8 @@
       "mailingAddress": null
     },
     "phone": "803-874-3964",
-    "website": "mailto:Calmus@oburg.net",
+    "website": "https://www.calhouncountymuseumandculturalcenter.org/",
+    "email": "mailto:Calmus@oburg.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -873,7 +914,8 @@
       "mailingAddress": null
     },
     "phone": "843-722-8205",
-    "website": "mailto:calhounmansion@Yahoo.com",
+    "website": "https://www.calhounmansion.net/",
+    "email": "mailto:calhounmansion@Yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -893,7 +935,8 @@
       "mailingAddress": null
     },
     "phone": "803-425-6050",
-    "website": "https://www.camdenarchives.org/",
+    "website": null,
+    "email": "https://www.camdenarchives.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -913,7 +956,8 @@
       "mailingAddress": "P. O. Box 1162Central, SC 29630"
     },
     "phone": "864-639-2156",
-    "website": "mailto:heritage@innova.net",
+    "website": "https://centralheritage.org/",
+    "email": "mailto:heritage@innova.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -933,7 +977,8 @@
       "mailingAddress": null
     },
     "phone": "843-881-5516",
-    "website": "https://charlespinckney.areaparks.com/",
+    "website": null,
+    "email": "https://charlespinckney.areaparks.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -953,7 +998,8 @@
       "mailingAddress": null
     },
     "phone": "843-852-4200",
-    "website": "mailto:ctlandingsp@scprt.com",
+    "website": "https://www.charlestownelanding.travel/",
+    "email": "mailto:ctlandingsp@scprt.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -978,7 +1024,8 @@
       "mailingAddress": "P.O. Box 8664Columbia, SC 29202"
     },
     "phone": "803-787-6910",
-    "website": "mailto:info@chicora.org",
+    "website": "https://www.chicora.org/",
+    "email": "mailto:info@chicora.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -998,7 +1045,8 @@
       "mailingAddress": "P.O. Box 1781Myrtle Beach, SC 29578"
     },
     "phone": "843-946-9469",
-    "website": "mailto:contactus@cmsckids.org",
+    "website": "https://www.cmsckids.org/",
+    "email": "mailto:contactus@cmsckids.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/ChildrensMuseumofSC",
       "twitter": "https://www.twitter.com/#!/CMSC",
@@ -1018,7 +1066,8 @@
       "mailingAddress": "Hilton Head, SC 29926"
     },
     "phone": "843-689-6767",
-    "website": "mailto:mmarks@coastaldiscovery.org",
+    "website": "https://www.coastaldiscovery.org/",
+    "email": "mailto:mmarks@coastaldiscovery.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Coastal-Discovery-Museum/113196365416965",
       "twitter": null,
@@ -1038,7 +1087,8 @@
       "mailingAddress": null
     },
     "phone": "843-549-2303",
-    "website": "mailto:museum@colletoncounty.org",
+    "website": "https://www.cm-fm.org/",
+    "email": "mailto:museum@colletoncounty.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1061,7 +1111,8 @@
       "mailingAddress": "P. O. Box 2068Columbia, SC 29202"
     },
     "phone": "803-799-2810",
-    "website": "mailto:kbrosius@columbiamuseum.org",
+    "website": "https://www.columbiamuseum.org/",
+    "email": "mailto:kbrosius@columbiamuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1081,7 +1132,8 @@
       "mailingAddress": null
     },
     "phone": "864-421-9039",
-    "website": "mailto:confedmuseum@att.net",
+    "website": "https://www.confederatemuseum.org/",
+    "email": "mailto:confedmuseum@att.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1101,7 +1153,8 @@
       "mailingAddress": null
     },
     "phone": "803-329-2121",
-    "website": "mailto:scrotts@chmuseums.org",
+    "website": "https://chmuseums.org/",
+    "email": "mailto:scrotts@chmuseums.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1121,7 +1174,8 @@
       "mailingAddress": null
     },
     "phone": "843-398-4710",
-    "website": "mailto:DCHC1968J@Juno.com",
+    "website": "https://www.darcosc.com/HistoricalCommission/",
+    "email": "mailto:DCHC1968J@Juno.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1139,7 +1193,8 @@
       "mailingAddress": "P. O. Box 1806Dillon, SC 29536"
     },
     "phone": null,
-    "website": "https://www.dillonmuseum.com/",
+    "website": null,
+    "email": "https://www.dillonmuseum.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

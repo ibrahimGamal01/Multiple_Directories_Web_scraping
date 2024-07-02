@@ -6,7 +6,8 @@
       "mailingAddress": "Newport Beach, CA 92660"
     },
     "phone": "949-675-8915",
-    "website": "mailto:nhnm@nhnm.org",
+    "website": "https://explorocean.org/",
+    "email": "mailto:nhnm@nhnm.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -26,7 +27,8 @@
       "mailingAddress": "Fremont, CA 94536"
     },
     "phone": "510-797-4449",
-    "website": "mailto:tcsme@nilesdepot.org",
+    "website": "https://www.nilesdepot.org/niles/home.html",
+    "email": "mailto:tcsme@nilesdepot.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -46,7 +48,8 @@
       "mailingAddress": null
     },
     "phone": "530-273-4255",
-    "website": "https://nevadacountyhistory.org/NorthStarMiningMuseum.aspx",
+    "website": null,
+    "email": "https://nevadacountyhistory.org/NorthStarMiningMuseum.aspx",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -66,7 +69,8 @@
       "mailingAddress": null
     },
     "phone": "209-878-3015",
-    "website": "mailto:nmchc1@gmail.com",
+    "website": "https://coultervillehistorycenter.org/",
+    "email": "mailto:nmchc1@gmail.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/CoultervilleMuseum/?ref=hl",
       "twitter": null,
@@ -88,7 +92,8 @@
       "mailingAddress": "P.O. Box 397Wilmington, CA 90748"
     },
     "phone": "310-548-7777",
-    "website": "mailto:info@thebanningmuseum.org",
+    "website": "https://www.banningmuseum.org/index.htm",
+    "email": "mailto:info@thebanningmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -110,7 +115,8 @@
       "mailingAddress": null
     },
     "phone": "626-449-6840",
-    "website": "https://www.nortonsimon.org/",
+    "website": null,
+    "email": "https://www.nortonsimon.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -130,7 +136,8 @@
       "mailingAddress": "75 Rowland Way Ste 200Novato, CA 94945"
     },
     "phone": "415-897-4320",
-    "website": "https://www.cityofnovato.org/museum",
+    "website": null,
+    "email": "https://www.cityofnovato.org/museum",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -151,7 +158,8 @@
       "mailingAddress": "200 S. Anaheim Blvd, #433Anaheim, CA 92805"
     },
     "phone": "714-998-8380",
-    "website": "mailto:ocnc@anaheim.net",
+    "website": "https://www.anaheim.net/ocnc/",
+    "email": "mailto:ocnc@anaheim.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -171,7 +179,8 @@
       "mailingAddress": null
     },
     "phone": "909-797-6833",
-    "website": "https://www.oakglen.net/",
+    "website": null,
+    "email": "https://www.oakglen.net/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -191,7 +200,8 @@
       "mailingAddress": null
     },
     "phone": "209-953-8814",
-    "website": "mailto:jrexroth@sjgov.org",
+    "website": "https://www.mgzoo.com/oak-grove-nature-center/default.htm",
+    "email": "mailto:jrexroth@sjgov.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -211,7 +221,8 @@
       "mailingAddress": "PO Box 2212Oakdale, CA 95361"
     },
     "phone": "209-844-5161",
-    "website": "mailto:info@oakdalemuseum.org",
+    "website": "https://oakdalemuseum.org/",
+    "email": "mailto:info@oakdalemuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/friendsofoakdaleheritage",
       "twitter": null,
@@ -233,7 +244,8 @@
       "mailingAddress": null
     },
     "phone": "510-318-8400",
-    "website": "https://www.museumca.org/",
+    "website": null,
+    "email": "https://www.museumca.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Oakland-Museum-of-California/43390038768",
       "twitter": "https://www.twitter.com/oaklandmuseumca",
@@ -253,7 +265,8 @@
       "mailingAddress": "P.O. Box 5238Oakland, CA 94605"
     },
     "phone": "510-632-9525",
-    "website": "https://www.oaklandzoo.org/site/",
+    "website": null,
+    "email": "https://www.oaklandzoo.org/site/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/home.php#/pages/Oakland-CA/Oakland-Zoo/353030440227?ref=search&sid=504509508.2051909438",
       "twitter": "https://www.twitter.com/oakzoo",
@@ -273,7 +286,8 @@
       "mailingAddress": null
     },
     "phone": "415-441-7512",
-    "website": "https://www.nscda.org/museums2/ca-octagonhouse.html",
+    "website": null,
+    "email": "https://www.nscda.org/museums2/ca-octagonhouse.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -293,7 +307,8 @@
       "mailingAddress": null
     },
     "phone": "510-659-6000",
-    "website": "https://www.ohlone.edu/",
+    "website": null,
+    "email": "https://www.ohlone.edu/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/ohlonecollege",
       "twitter": "https://www.twitter.com/ohlonecollege",
@@ -313,7 +328,8 @@
       "mailingAddress": null
     },
     "phone": "323-363-4629",
-    "website": "mailto:barnsdallarts@gmail.com",
+    "website": "https://www.fojac.org/",
+    "email": "mailto:barnsdallarts@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -333,7 +349,8 @@
       "mailingAddress": "P. O. Box 204Ojai, CA 93024"
     },
     "phone": "805-640-1390",
-    "website": "mailto:ojaimuseum@sbcglobal.net",
+    "website": "https://www.ojaivalleymuseum.org%20&%20www.ojaihistory.com/",
+    "email": "mailto:ojaimuseum@sbcglobal.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -355,7 +372,8 @@
       "mailingAddress": "P.O. Box 697San Juan Capistrano, CA 92693"
     },
     "phone": "949-489-2355",
-    "website": "https://www.missionsjc.com/",
+    "website": null,
+    "email": "https://www.missionsjc.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -375,7 +393,8 @@
       "mailingAddress": null
     },
     "phone": "760-757-3651",
-    "website": "https://www.sanluisrey.org/",
+    "website": null,
+    "email": "https://www.sanluisrey.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Oceanside-CA/Mission-San-Luis-Rey-de-Francia/164417795119",
       "twitter": "https://www.twitter.com/MissionSLR",
@@ -395,7 +414,8 @@
       "mailingAddress": "P.O. Box 408Solvang, CA 93464"
     },
     "phone": "805-688-4815",
-    "website": "mailto:office@MissionSantaInes.org",
+    "website": "https://www.missionsantaines.org/",
+    "email": "mailto:office@MissionSantaInes.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -415,7 +435,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:311@lacity.org",
+    "website": "https://www.cityofla.org/lafd/museum2.htm",
+    "email": "mailto:311@lacity.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -435,7 +456,8 @@
       "mailingAddress": null
     },
     "phone": "760-256-0366",
-    "website": "https://www.barstowstation.net/",
+    "website": null,
+    "email": "https://www.barstowstation.net/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -455,7 +477,8 @@
       "mailingAddress": null
     },
     "phone": "916-445-7387",
-    "website": "https://www.parks.ca.gov/?page_id=497",
+    "website": null,
+    "email": "https://www.parks.ca.gov/?page_id=497",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -475,7 +498,8 @@
       "mailingAddress": "P.O. Box 99Ventura, CA 93002"
     },
     "phone": "805-658-4728",
-    "website": "https://www.olivasadobe.org/",
+    "website": null,
+    "email": "https://www.olivasadobe.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -495,7 +519,8 @@
       "mailingAddress": "P.O. Box 1016Novato, CA 94948"
     },
     "phone": "415-898-4363",
-    "website": "mailto:dkopler@parks.ca.gov",
+    "website": "https://parks.ca.gov/",
+    "email": "mailto:dkopler@parks.ca.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -515,7 +540,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:kraig@lighthousefriends.com",
+    "website": "https://www.lighthousefriends.com/light.asp?ID=58",
+    "email": "mailto:kraig@lighthousefriends.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -535,7 +561,8 @@
       "mailingAddress": null
     },
     "phone": "949-759-1122",
-    "website": "mailto:info@ocma.net",
+    "website": "https://www.ocma.net/index.html?page=index",
+    "email": "mailto:info@ocma.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -555,7 +582,8 @@
       "mailingAddress": "P.O. Box 548Perris, CA 92572"
     },
     "phone": "951-943-3020",
-    "website": "mailto:info@oerm.org",
+    "website": "https://www.oerm.org/",
+    "email": "mailto:info@oerm.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -575,7 +603,8 @@
       "mailingAddress": "1735 Montgomery St.Oroville, CA 95965"
     },
     "phone": "530-538-2406",
-    "website": "mailto:museums@cityoforoville.org",
+    "website": "https://www.cityoforoville.org/",
+    "email": "mailto:museums@cityoforoville.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -597,7 +626,8 @@
       "mailingAddress": null
     },
     "phone": "415-339-3900",
-    "website": "mailto:contact@badm.org",
+    "website": "https://www.baykidsmuseum.org/",
+    "email": "mailto:contact@badm.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -622,7 +652,8 @@
       "mailingAddress": null
     },
     "phone": "626-449-2742",
-    "website": "mailto:info@pacificasiamuseum.org",
+    "website": "https://www.pacificasiamuseum.org/",
+    "email": "mailto:info@pacificasiamuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -651,7 +682,8 @@
       "mailingAddress": null
     },
     "phone": "800-468-4743",
-    "website": "https://www.pge.com/pec/",
+    "website": null,
+    "email": "https://www.pge.com/pec/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -671,7 +703,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.pgmuseum.org/",
+    "website": null,
+    "email": "https://www.pgmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -691,7 +724,8 @@
       "mailingAddress": null
     },
     "phone": "831-722-0305",
-    "website": "mailto:pvhahistory@gmail.com",
+    "website": "https://www.pajarovalleyhistory.org/index.php?page=about-vm",
+    "email": "mailto:pvhahistory@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -711,7 +745,8 @@
       "mailingAddress": "P. O. Box 2310Palm Springs, CA 92263"
     },
     "phone": "760-325-4490",
-    "website": "mailto:info@psmuseum.org",
+    "website": "https://www.psmuseum.org/",
+    "email": "mailto:info@psmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -734,7 +769,8 @@
       "mailingAddress": null
     },
     "phone": "415-332-3871",
-    "website": "mailto:susan@susansearway.com",
+    "website": "https://www.spn.usace.army.mil/Missions/Recreation/BayModelVisitorCenter.aspx",
+    "email": "mailto:susan@susansearway.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -758,7 +794,8 @@
       "mailingAddress": "P.O. Box 1498Palm Springs, CA 92263"
     },
     "phone": "760-323-8297",
-    "website": "mailto:pshistoricalsociety@gmail.com",
+    "website": "https://www.pshistoricalsociety.org/contact/index.html",
+    "email": "mailto:pshistoricalsociety@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -778,7 +815,8 @@
       "mailingAddress": "Palomar Mountain, CA 92060"
     },
     "phone": "760-742-2119",
-    "website": "https://www.astro.caltech.edu/palomar/",
+    "website": null,
+    "email": "https://www.astro.caltech.edu/palomar/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -798,7 +836,8 @@
       "mailingAddress": null
     },
     "phone": "510-444-2187",
-    "website": "mailto:info@pardeehome.org",
+    "website": "https://www.pardeehome.org/",
+    "email": "mailto:info@pardeehome.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -818,7 +857,8 @@
       "mailingAddress": null
     },
     "phone": "626-577-1660",
-    "website": "mailto:info@pasadenahistory.org",
+    "website": "https://www.pasadenahistory.org/",
+    "email": "mailto:info@pasadenahistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -838,7 +878,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:info@pmcaonline.org",
+    "website": "https://www.pmcaonline.org/",
+    "email": "mailto:info@pmcaonline.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -858,7 +899,8 @@
       "mailingAddress": "P.O. Box 461Paso Robles, CA 93446"
     },
     "phone": null,
-    "website": "mailto:pioneermuseum@att.net",
+    "website": "https://www.pasoroblespioneermuseum.org/index.htm",
+    "email": "mailto:pioneermuseum@att.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -878,7 +920,8 @@
       "mailingAddress": null
     },
     "phone": "209-892-8355",
-    "website": "https://patterson-ca.com/histsoc/",
+    "website": null,
+    "email": "https://patterson-ca.com/histsoc/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -898,7 +941,8 @@
       "mailingAddress": "Attn. Faye Jonason, Museum OfficerCamp Pendleton, CA 92055"
     },
     "phone": "760-727-7126",
-    "website": "mailto:marinedag@sbcglobal.net",
+    "website": "https://www.camppendletonhistoricalsociety.org/",
+    "email": "mailto:marinedag@sbcglobal.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -918,7 +962,8 @@
       "mailingAddress": null
     },
     "phone": "714-973-3190",
-    "website": "mailto:keyranch@ocparks.com",
+    "website": "https://www.ocparks.com/peraltaadobe/",
+    "email": "mailto:keyranch@ocparks.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -941,7 +986,8 @@
       "mailingAddress": "P.O. Box 343Perris, CA 92572"
     },
     "phone": "951-657-0274",
-    "website": "mailto:perrismuseum@aol.com",
+    "website": "https://www.perrisvalleymuseum.org/",
+    "email": "mailto:perrismuseum@aol.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -961,7 +1007,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.petersen.org/",
+    "website": null,
+    "email": "https://www.petersen.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -981,7 +1028,8 @@
       "mailingAddress": "Petrified Forest Rd.Calistoga, CA 94515"
     },
     "phone": "707-942-6667",
-    "website": "mailto:contact@petrifiedforest.org",
+    "website": "https://www.petrifiedforest.org/",
+    "email": "mailto:contact@petrifiedforest.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1001,7 +1049,8 @@
       "mailingAddress": "Claremont, CA 91711"
     },
     "phone": "909-399-5500",
-    "website": "mailto:jmiura2@verizon.net",
+    "website": "https://www.pilgrimplace.org/petterson_museum.php",
+    "email": "mailto:jmiura2@verizon.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1021,7 +1070,8 @@
       "mailingAddress": null
     },
     "phone": "510-642-3681",
-    "website": "mailto:mlsalvador@berkeley.edu",
+    "website": "https://hearstmuseum.berkeley.edu/index.php",
+    "email": "mailto:mlsalvador@berkeley.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1041,7 +1091,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.dlrca.org/",
+    "website": null,
+    "email": "https://www.dlrca.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1061,7 +1112,8 @@
       "mailingAddress": "P.O. Box 461Paso Robles, CA 93447"
     },
     "phone": "805-239-4556",
-    "website": "mailto:pioneermuseum@att.net",
+    "website": "https://www.pasoroblespioneermuseum.org/index.htm",
+    "email": "mailto:pioneermuseum@att.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1081,7 +1133,8 @@
       "mailingAddress": "P.O. Box 1816Pittsburg, CA 94565"
     },
     "phone": "925-439-7501",
-    "website": "mailto:info@pittsburghistoricalsociety.com",
+    "website": "https://www.pittsburghistoricalsociety.com/content/contact_us/contact_us.asp",
+    "email": "mailto:info@pittsburghistoricalsociety.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

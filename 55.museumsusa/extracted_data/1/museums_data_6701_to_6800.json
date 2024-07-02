@@ -6,7 +6,8 @@
       "mailingAddress": "Box 351150 Univ. of WASeattle, WA 98195"
     },
     "phone": "206-543-2280",
-    "website": "mailto:info@henryart.org",
+    "website": "https://www.henryart.org/",
+    "email": "mailto:info@henryart.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -26,7 +27,8 @@
       "mailingAddress": "Seattle, WA 98112"
     },
     "phone": "206-328-2716",
-    "website": "mailto:gzim@fiskelibrary.org",
+    "website": "https://www.fiskelibrary.org/foundation.htm",
+    "email": "mailto:gzim@fiskelibrary.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -46,7 +48,8 @@
       "mailingAddress": "Seattle, WA 98105"
     },
     "phone": "206-547-6449",
-    "website": "mailto:UFMeeting@gmail.com",
+    "website": "https://www.scn.org/friends/ufm.html",
+    "email": "mailto:UFMeeting@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -66,7 +69,8 @@
       "mailingAddress": "Seattle, WA 98104"
     },
     "phone": "206-622-9250",
-    "website": "mailto:info@fryemuseum.org",
+    "website": "https://www.fryeart.org/",
+    "email": "mailto:info@fryemuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/fryemuseum/",
       "twitter": "https://www.twitter.com/FryeArtMuseum/",
@@ -86,7 +90,8 @@
       "mailingAddress": "PO Box 351410Seattle, WA 98195"
     },
     "phone": "206-543-2280",
-    "website": "mailto:info@henryart.org",
+    "website": "https://www.henryart.org/",
+    "email": "mailto:info@henryart.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/henryartgallery",
       "twitter": "https://www.twitter.com/#!/henryartgallery",
@@ -106,7 +111,8 @@
       "mailingAddress": "Seattle, WA 98101"
     },
     "phone": null,
-    "website": "https://www.historicseattle.org/",
+    "website": null,
+    "email": "https://www.historicseattle.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -126,7 +132,8 @@
       "mailingAddress": "Seattle, WA 98108"
     },
     "phone": "206-764-9453",
-    "website": "https://www.thunderboats.org/",
+    "website": null,
+    "email": "https://www.thunderboats.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -144,7 +151,8 @@
       "mailingAddress": "Seattle, WA 98112"
     },
     "phone": "206-684-4725",
-    "website": "https://www.seattlejapanesegarden.org/",
+    "website": null,
+    "email": "https://www.seattlejapanesegarden.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -162,7 +170,8 @@
       "mailingAddress": "Seattle, WA 98104"
     },
     "phone": "206-220-4240",
-    "website": "https://www.nps.gov/klse/index.htm",
+    "website": null,
+    "email": "https://www.nps.gov/klse/index.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -182,7 +191,8 @@
       "mailingAddress": null
     },
     "phone": "206-764-5720",
-    "website": "https://www.museumofflight.org/",
+    "website": null,
+    "email": "https://www.museumofflight.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/museumofflight",
       "twitter": "https://www.twitter.com/MuseumofFlight",
@@ -207,7 +217,8 @@
       "mailingAddress": "Seattle, WA 98112"
     },
     "phone": null,
-    "website": "https://www.seattlehistory.org/",
+    "website": null,
+    "email": "https://www.seattlehistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -225,7 +236,8 @@
       "mailingAddress": "Seattle, WA 98117"
     },
     "phone": "206-789-5707",
-    "website": "mailto:sandran@nordicmuseum.org",
+    "website": "https://www.nordicmuseum.com/",
+    "email": "mailto:sandran@nordicmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -245,7 +257,8 @@
       "mailingAddress": "Seattle, WA 98109"
     },
     "phone": null,
-    "website": "https://www.nwseaport.org/",
+    "website": null,
+    "email": "https://www.nwseaport.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -263,7 +276,8 @@
       "mailingAddress": "P.O. Box 85457Seattle, WA 98145"
     },
     "phone": null,
-    "website": "mailto:president@pnwhistorians.org",
+    "website": "https://www.pnwhistorians.org/",
+    "email": "mailto:president@pnwhistorians.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -283,7 +297,8 @@
       "mailingAddress": "200 Second Ave NSeattle, WA 98109"
     },
     "phone": null,
-    "website": "https://www.pacsci.org/",
+    "website": null,
+    "email": "https://www.pacsci.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -303,7 +318,8 @@
       "mailingAddress": "Seattle, WA 98103"
     },
     "phone": "206-783-2244",
-    "website": "mailto:leeh@phinneycenter.org",
+    "website": "https://www.phinneycenter.org/",
+    "email": "mailto:leeh@phinneycenter.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Phinney-Neighborhood-Association/151362848235306",
       "twitter": null,
@@ -323,7 +339,8 @@
       "mailingAddress": "Seattle, WA 98144"
     },
     "phone": "206-328-2200",
-    "website": "mailto:info@pratt.org",
+    "website": "https://www.pratt.org/",
+    "email": "mailto:info@pratt.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -343,7 +360,8 @@
       "mailingAddress": "P. O. Box 19432Seattle, WA 98109"
     },
     "phone": null,
-    "website": "https://www.scn.org/neighbors/qahs",
+    "website": null,
+    "email": "https://www.scn.org/neighbors/qahs",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -363,7 +381,8 @@
       "mailingAddress": "P. O. Box 18143Seattle, WA 98118"
     },
     "phone": "206-723-1663",
-    "website": "https://www.rainiervalleyhistory.org/",
+    "website": null,
+    "email": "https://www.rainiervalleyhistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -383,7 +402,8 @@
       "mailingAddress": "Seattle, WA 98101"
     },
     "phone": null,
-    "website": "https://www.seattleaquarium.org/",
+    "website": null,
+    "email": "https://www.seattleaquarium.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -403,7 +423,8 @@
       "mailingAddress": null
     },
     "phone": "206-625-8900",
-    "website": "mailto:webmaster@seattleartmuseum.org",
+    "website": "https://www.seattleartmuseum.org/",
+    "email": "mailto:webmaster@seattleartmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -423,7 +444,8 @@
       "mailingAddress": "P. O. Box 22000Seattle, WA 98122"
     },
     "phone": "206-625-8900",
-    "website": "mailto:webmaster@seattleartmuseum.org",
+    "website": "https://www.seattleartmuseum.org/",
+    "email": "mailto:webmaster@seattleartmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -443,7 +465,8 @@
       "mailingAddress": "P. O. Box 30141Seattle, WA 98103"
     },
     "phone": "206-528-8546",
-    "website": "mailto:web@seafolklore.org",
+    "website": "https://www.seafolklore.org/",
+    "email": "mailto:web@seafolklore.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -463,7 +486,8 @@
       "mailingAddress": "P. O. Box 15329Seattle, WA 98115"
     },
     "phone": null,
-    "website": "https://www.rootsweb.com/~waseags/",
+    "website": null,
+    "email": "https://www.rootsweb.com/~waseags/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -483,7 +507,8 @@
       "mailingAddress": "Seattle, WA 98119"
     },
     "phone": "206-281-2000",
-    "website": "https://www.spu.edu/",
+    "website": null,
+    "email": "https://www.spu.edu/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/seattle.pacific.university?sk=app_250957478268166",
       "twitter": "https://www.twitter.com/SPUnews",
@@ -503,7 +528,8 @@
       "mailingAddress": "Seattle, WA 98104"
     },
     "phone": "206-386-4636",
-    "website": "mailto:sarah.vanwesten@spl.org",
+    "website": "https://www.spl.org/",
+    "email": "mailto:sarah.vanwesten@spl.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/SeattlePublicLibrary",
       "twitter": "https://www.twitter.com/SPLBuzz",
@@ -523,7 +549,8 @@
       "mailingAddress": "Seattle, WA 98106"
     },
     "phone": "206-934-5300",
-    "website": "https://www.southseattle.edu/",
+    "website": null,
+    "email": "https://www.southseattle.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -543,7 +570,8 @@
       "mailingAddress": "Seattle, WA 98106"
     },
     "phone": null,
-    "website": "mailto:elizabeth.pluhta@seattlecolleges.edu",
+    "website": "https://www.southseattle.edu/foundation",
+    "email": "mailto:elizabeth.pluhta@seattlecolleges.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -563,7 +591,8 @@
       "mailingAddress": "Seattle, WA 98116"
     },
     "phone": "206-938-5293",
-    "website": "mailto:loghousemuseum@comcast.net",
+    "website": "https://www.loghousemuseum.info/",
+    "email": "mailto:loghousemuseum@comcast.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -583,7 +612,8 @@
       "mailingAddress": "Seattle, WA 98109"
     },
     "phone": "206-382-2628",
-    "website": "mailto:cwb@cwb.org",
+    "website": "https://cwb.org/",
+    "email": "mailto:cwb@cwb.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Seattle-WA/The-Center-for-Wooden-Boats/110002035684",
       "twitter": "https://www.twitter.com/#!/ctr4woodenboats",
@@ -605,7 +635,8 @@
       "mailingAddress": "Seattle, WA 98109"
     },
     "phone": "206-441-1768",
-    "website": "https://www.thechildrensmuseum.org/",
+    "website": null,
+    "email": "https://www.thechildrensmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": "https://www.twitter.com/tcmseattle",
@@ -625,7 +656,8 @@
       "mailingAddress": "Seattle, WA 98122"
     },
     "phone": null,
-    "website": "https://www.tess.org/",
+    "website": null,
+    "email": "https://www.tess.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -645,7 +677,8 @@
       "mailingAddress": "Seattle, WA 98112"
     },
     "phone": "206-322-4112",
-    "website": "https://www.volunteerparkconservatory.org/",
+    "website": null,
+    "email": "https://www.volunteerparkconservatory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -663,7 +696,8 @@
       "mailingAddress": "Box 352900Seattle, WA 98195"
     },
     "phone": "206-543-0242",
-    "website": "https://www.lib.washington.edu/specialcollections",
+    "website": null,
+    "email": "https://www.lib.washington.edu/specialcollections",
     "socialLinks": {
       "facebook": "https://www.facebook.com/uwspeccoll",
       "twitter": "https://www.twitter.com/uwspeccoll",
@@ -685,7 +719,8 @@
       "mailingAddress": "P.O. Box 24805Seattle, WA 98124"
     },
     "phone": "206-624-9119",
-    "website": "mailto:info@virginiav.org",
+    "website": "https://www.virginiav.org/",
+    "email": "mailto:info@virginiav.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -703,7 +738,8 @@
       "mailingAddress": "Seattle, WA 98104"
     },
     "phone": null,
-    "website": "mailto:info@humanities.org",
+    "website": "https://www.humanities.org/",
+    "email": "mailto:info@humanities.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -725,7 +761,8 @@
       "mailingAddress": "UW Box 358010Seattle, WA 98195"
     },
     "phone": null,
-    "website": "https://depts.washington.edu/wpa",
+    "website": null,
+    "email": "https://depts.washington.edu/wpa",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -745,7 +782,8 @@
       "mailingAddress": "Seattle, WA 98104"
     },
     "phone": "206-623-5124",
-    "website": "https://www.wingluke.org/",
+    "website": null,
+    "email": "https://www.wingluke.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Wing-Luke-Asian-Museum/34549168087",
       "twitter": "https://www.twitter.com/wingluke",
@@ -763,7 +801,8 @@
       "mailingAddress": "Seattle, WA 98103"
     },
     "phone": "206-548-2500",
-    "website": "mailto:webkeeper@zoo.org",
+    "website": "https://www.zoo.org/",
+    "email": "mailto:webkeeper@zoo.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -783,7 +822,8 @@
       "mailingAddress": "Sedro Woolley, WA 98284"
     },
     "phone": "360-854-7200",
-    "website": "https://www.nps.gov/noca/planyourvisit/visitorcenters.htm",
+    "website": null,
+    "email": "https://www.nps.gov/noca/planyourvisit/visitorcenters.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -803,7 +843,8 @@
       "mailingAddress": null
     },
     "phone": "360-855-2390",
-    "website": "mailto:swmuseum@comcast.net",
+    "website": "https://www.sedro-woolleymuseum.com/",
+    "email": "mailto:swmuseum@comcast.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/WoolleyMuseum/",
       "twitter": null,
@@ -825,7 +866,8 @@
       "mailingAddress": "175 W. Cedar St.Sequim, WA 98382"
     },
     "phone": "360-681-2257",
-    "website": "https://www.museumandartscenter.org/",
+    "website": null,
+    "email": "https://www.museumandartscenter.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -850,7 +892,8 @@
       "mailingAddress": "Sequim, WA 98382"
     },
     "phone": "360-683-4295",
-    "website": "mailto:info@olygamefarm.com",
+    "website": "https://www.olygamefarm.com/",
+    "email": "mailto:info@olygamefarm.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -870,7 +913,8 @@
       "mailingAddress": "P. O. Box 844Shaw Island, WA 98286"
     },
     "phone": null,
-    "website": "mailto:rkg@rockisland.com",
+    "website": "https://www.shawislanders.org/index.htm",
+    "email": "mailto:rkg@rockisland.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -892,7 +936,8 @@
       "mailingAddress": "P.O. Box 55594Shoreline, WA 98155"
     },
     "phone": "206-542-7111",
-    "website": "mailto:shm@shorelinehistoricalmuseum.org",
+    "website": "https://www.shorelinehistoricalmuseum.org/",
+    "email": "mailto:shm@shorelinehistoricalmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -917,7 +962,8 @@
       "mailingAddress": "PO Box 247Skykomish, WA 98288"
     },
     "phone": null,
-    "website": "https://www.skykomishhistoricalsociety.org/",
+    "website": null,
+    "email": "https://www.skykomishhistoricalsociety.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -937,7 +983,8 @@
       "mailingAddress": "P. O. Box 174Snohomish, WA 98291"
     },
     "phone": "360-568-5235",
-    "website": "https://www.snohomishhistoricalsociety.org/",
+    "website": null,
+    "email": "https://www.snohomishhistoricalsociety.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -957,7 +1004,8 @@
       "mailingAddress": "P.O. Box 459Snoqualmie, WA 98065"
     },
     "phone": "425-888-3030",
-    "website": "mailto:info@trainmuseum.org",
+    "website": "https://www.trainmuseum.org/",
+    "email": "mailto:info@trainmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -977,7 +1025,8 @@
       "mailingAddress": "P.O. Box 1238Spanaway, WA 98387"
     },
     "phone": "253-536-6655",
-    "website": "mailto:celebratespanaway@earthlink.net",
+    "website": "https://www.celebratespanaway.com/",
+    "email": "mailto:celebratespanaway@earthlink.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1000,7 +1049,8 @@
       "mailingAddress": "Spokane, WA 99204"
     },
     "phone": "509-625-6200",
-    "website": "mailto:parks@spokanecity.org",
+    "website": "https://spokaneparks.org/Parks/page/145/",
+    "email": "mailto:parks@spokanecity.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1020,7 +1070,8 @@
       "mailingAddress": "Spokane, WA 99258"
     },
     "phone": "509-313-6858",
-    "website": "mailto:hebel@gonzaga.edu",
+    "website": "https://crosby.gonzaga.edu/",
+    "email": "mailto:hebel@gonzaga.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1038,7 +1089,8 @@
       "mailingAddress": "P. O. Box 3950Spokane, WA 99220"
     },
     "phone": "509-535-7186",
-    "website": "mailto:ierhs@yahoo.com",
+    "website": "https://www.ierhs.50megs.com/",
+    "email": "mailto:ierhs@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1058,7 +1110,8 @@
       "mailingAddress": "502 E Boone AveSpokane, WA 99258"
     },
     "phone": "509-313-6843",
-    "website": "mailto:jundtartmuseum@gonzaga.edu",
+    "website": "https://www.gonzaga.edu/jundt",
+    "email": "mailto:jundtartmuseum@gonzaga.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/undtmuseum",
       "twitter": "https://www.twitter.com/JundtArtMuseum",
@@ -1082,7 +1135,8 @@
       "mailingAddress": "P. O. Box 5222Spokane, WA 99205"
     },
     "phone": "509-325-2507",
-    "website": "https://www.spokanecivictheatre.com/news/",
+    "website": null,
+    "email": "https://www.spokanecivictheatre.com/news/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1102,7 +1156,8 @@
       "mailingAddress": "Art Dept. 3060Spokane, WA 99204"
     },
     "phone": "509-533-3500",
-    "website": "mailto:sfccinfo@spokanefalls.edu",
+    "website": "https://www.spokanefalls.edu/",
+    "email": "mailto:sfccinfo@spokanefalls.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1122,7 +1177,8 @@
       "mailingAddress": "Spokane, WA 99201"
     },
     "phone": "509-444-5300",
-    "website": "https://www.spokanelibrary.org/index.php",
+    "website": null,
+    "email": "https://www.spokanelibrary.org/index.php",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1142,7 +1198,8 @@
       "mailingAddress": "P. O. Box 69Stanwood, WA 98292"
     },
     "phone": "360-629-6110",
-    "website": "https://www.sahs-fncc.org/",
+    "website": null,
+    "email": "https://www.sahs-fncc.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1162,7 +1219,8 @@
       "mailingAddress": "P. O. Box 88447Steilacoom, WA 98388"
     },
     "phone": "253-582-5838",
-    "website": "mailto:info@historicfortsteilacoom.org",
+    "website": "https://www.historicfortsteilacoom.org/",
+    "email": "mailto:info@historicfortsteilacoom.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1186,7 +1244,8 @@
       "mailingAddress": "P. O. Box 88419Steilacoom, WA 98388"
     },
     "phone": "253-584-6308",
-    "website": "mailto:info@steilacoomtribe.org",
+    "website": "https://www.steilacoomtribe.com/culturalcenter.html",
+    "email": "mailto:info@steilacoomtribe.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/SteilacoomTribe",
       "twitter": null,
@@ -1208,7 +1267,8 @@
       "mailingAddress": "P.O. Box 396Stevenson, WA 98648"
     },
     "phone": "800-991-2338",
-    "website": "https://www.columbiagorge.org/",
+    "website": null,
+    "email": "https://www.columbiagorge.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

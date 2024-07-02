@@ -6,7 +6,8 @@
       "mailingAddress": "P. O. Box 105029Fort Irwin, CA 92310"
     },
     "phone": "760-380-6607",
-    "website": "mailto:IRWIN-Museum@conus.army.mil",
+    "website": "https://www.irwin.army.mil/Community/Pages/11ACRMuseum.aspx",
+    "email": "mailto:IRWIN-Museum@conus.army.mil",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -29,7 +30,8 @@
       "mailingAddress": "1857 Fulton StreetFresno, CA 93710"
     },
     "phone": "559-544-1857",
-    "website": "mailto:aahcmsjv@gmail.com",
+    "website": "https://www.aahcmsjv.org/",
+    "email": "mailto:aahcmsjv@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -54,7 +56,8 @@
       "mailingAddress": null
     },
     "phone": "831-425-1218",
-    "website": "mailto:rdobigbasin@gmail.com",
+    "website": "https://www.ranchodeloso.org/",
+    "email": "mailto:rdobigbasin@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -74,7 +77,8 @@
       "mailingAddress": null
     },
     "phone": "562-431-3541",
-    "website": "mailto:info@rancholosalamitos.com",
+    "website": "https://www.rancholosalamitos.com/",
+    "email": "mailto:info@rancholosalamitos.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -97,7 +101,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.rsabg.org/",
+    "website": null,
+    "email": "https://www.rsabg.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -117,7 +122,8 @@
       "mailingAddress": null
     },
     "phone": "415-554-9600",
-    "website": "mailto:info@randallmuseum.org",
+    "website": "https://www.randallmuseum.org/",
+    "email": "mailto:info@randallmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -137,7 +143,8 @@
       "mailingAddress": "P.O.Box 307Randsburg, CA 93554"
     },
     "phone": "760-371-5559",
-    "website": "mailto:randdesertmuseum@gmail.com",
+    "website": "https://www.randdesertmuseum.com/",
+    "email": "mailto:randdesertmuseum@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -163,7 +170,8 @@
       "mailingAddress": "71 Trevarno Rd.Livermore, CA 94550"
     },
     "phone": "925-373-5708",
-    "website": "https://www.larpd.dst.ca.us/facrentravenswood.html",
+    "website": null,
+    "email": "https://www.larpd.dst.ca.us/facrentravenswood.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -183,7 +191,8 @@
       "mailingAddress": null
     },
     "phone": "909-626-3587",
-    "website": "https://www.alfmuseum.org/",
+    "website": null,
+    "email": "https://www.alfmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -203,7 +212,8 @@
       "mailingAddress": "P.O. Box 3456Eureka, CA 95502"
     },
     "phone": "707-443-9694",
-    "website": "mailto:info@discovery-museum.org",
+    "website": "https://www.discovery-museum.org/",
+    "email": "mailto:info@discovery-museum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -226,7 +236,8 @@
       "mailingAddress": null
     },
     "phone": "707-465-7335",
-    "website": "https://www.nps.gov/redw/planyourvisit/visitorcenters.htm",
+    "website": null,
+    "email": "https://www.nps.gov/redw/planyourvisit/visitorcenters.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -246,7 +257,8 @@
       "mailingAddress": "P.O. Box 877Reedley, CA 93654"
     },
     "phone": "559-638-1913",
-    "website": "https://www.reedley.com/community-interest-museum.html",
+    "website": null,
+    "email": "https://www.reedley.com/community-interest-museum.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -266,7 +278,8 @@
       "mailingAddress": null
     },
     "phone": "510-644-6893",
-    "website": "mailto:info@berkeleyartcenter.org",
+    "website": "https://www.berkeleyartcenter.org/",
+    "email": "mailto:info@berkeleyartcenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -287,7 +300,8 @@
       "mailingAddress": null
     },
     "phone": "619-238-1233",
-    "website": "https://www.rhfleet.org/",
+    "website": null,
+    "email": "https://www.rhfleet.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -307,7 +321,8 @@
       "mailingAddress": "Nelson Gallery UC DavisOne Shields AveDavis, CA 95616"
     },
     "phone": "530-752-8500",
-    "website": "mailto:nelsongallery@ucdavis.edu",
+    "website": "https://nelsongallery.ucdavis.edu/",
+    "email": "mailto:nelsongallery@ucdavis.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -327,7 +342,8 @@
       "mailingAddress": null
     },
     "phone": "714-983-9120",
-    "website": "mailto:nixon@nara.gov",
+    "website": "https://www.nixonlibrary.gov/",
+    "email": "mailto:nixon@nara.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -347,7 +363,8 @@
       "mailingAddress": "P.O. Box 942896Sacramento, CA 94296"
     },
     "phone": "916-653-6995",
-    "website": "mailto:info@parks.ca.gov",
+    "website": "https://www.parks.ca.gov/?page_id=25241",
+    "email": "mailto:info@parks.ca.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -367,7 +384,8 @@
       "mailingAddress": "P.O. Box 202Sierra Madre, CA 91025"
     },
     "phone": "626-355-8129",
-    "website": "https://www.smhps.org/",
+    "website": null,
+    "email": "https://www.smhps.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -388,7 +406,8 @@
       "mailingAddress": "Civic Center PlazaRichmond, CA 94802"
     },
     "phone": "510-620-6772",
-    "website": "mailto:admin@therichmondartcenter.org",
+    "website": "https://www.therac.org/",
+    "email": "mailto:admin@therichmondartcenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -408,7 +427,8 @@
       "mailingAddress": "P.O. Box 1267Richmond, CA 94802"
     },
     "phone": "510-235-7387",
-    "website": "https://www.richmondmuseumofhistory.org/",
+    "website": null,
+    "email": "https://www.richmondmuseumofhistory.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/#!/pages/Richmond-Museum-of-History/139077626158179",
       "twitter": null,
@@ -428,7 +448,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.bampfa.berkeley.edu/",
+    "website": null,
+    "email": "https://www.bampfa.berkeley.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -448,7 +469,8 @@
       "mailingAddress": null
     },
     "phone": "707-374-5169",
-    "website": "mailto:riovistamuseum@yahoo.com",
+    "website": "https://www.riovistamuseum.com/",
+    "email": "mailto:riovistamuseum@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -470,7 +492,8 @@
       "mailingAddress": "700 South Mission StreetSan Miguel, CA 93457"
     },
     "phone": "805-467-3357",
-    "website": "mailto:hermanjah@tcsn.net",
+    "website": "https://www.rios-caledoniaadobe.org/",
+    "email": "mailto:hermanjah@tcsn.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -490,7 +513,8 @@
       "mailingAddress": null
     },
     "phone": "951-684-7111",
-    "website": "https://www.riversideartmuseum.org/",
+    "website": null,
+    "email": "https://www.riversideartmuseum.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/riversideartmuseum",
       "twitter": null,
@@ -510,7 +534,8 @@
       "mailingAddress": "P.O.Box 1190Berkeley, CA 94709"
     },
     "phone": "510-848-0181",
-    "website": "https://www.berkeleyhistoricalsociety.org/",
+    "website": null,
+    "email": "https://www.berkeleyhistoricalsociety.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -533,7 +558,8 @@
       "mailingAddress": null
     },
     "phone": "909-537-7373",
-    "website": "mailto:raffma@csusb.edu",
+    "website": "https://raffma.csusb.edu/",
+    "email": "mailto:raffma@csusb.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -557,7 +583,8 @@
       "mailingAddress": "P.O. Box 1354Eureka, CA 95502"
     },
     "phone": "707-445-8775",
-    "website": "mailto:info@eurekaheritage.org",
+    "website": "https://www.eurekaheritage.org/Romano%20Gabriel.htm",
+    "email": "mailto:info@eurekaheritage.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -577,7 +604,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.ourlosbanos.com/snapromero3.html",
+    "website": null,
+    "email": "https://www.ourlosbanos.com/snapromero3.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -597,7 +625,8 @@
       "mailingAddress": null
     },
     "phone": "800-410-8354",
-    "website": "mailto:reagan.library@nara.gov",
+    "website": "https://www.reagan.utexas.edu/",
+    "email": "mailto:reagan.library@nara.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -617,7 +646,8 @@
       "mailingAddress": null
     },
     "phone": "562-699-0921",
-    "website": "https://www.rosehills.com/",
+    "website": null,
+    "email": "https://www.rosehills.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -637,7 +667,8 @@
       "mailingAddress": null
     },
     "phone": "408-947-3635",
-    "website": "https://www.egyptianmuseum.org/",
+    "website": null,
+    "email": "https://www.egyptianmuseum.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/San-Jose-CA/Rosicrucian-Egyptian-Museum/239173420444",
       "twitter": "https://www.twitter.com/RCEgyptMuseumSJ",
@@ -657,7 +688,8 @@
       "mailingAddress": null
     },
     "phone": "510-238-3739",
-    "website": "mailto:sbenavidez@oaklandnet.com",
+    "website": "https://www.oaklandnet.com/parks/facilities/rnc.asp",
+    "email": "mailto:sbenavidez@oaklandnet.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -678,7 +710,8 @@
       "mailingAddress": "P.O. Box 1Manhattan Beach, CA 90266"
     },
     "phone": "310-379-8117",
-    "website": "mailto:roundhouse.aquarium@verizon.net",
+    "website": "https://www.roundhouseaquarium.org/",
+    "email": "mailto:roundhouse.aquarium@verizon.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Roundhouse-Marine-Studies-Lab-and-Aquarium/64031319675",
       "twitter": "https://www.twitter.com/RoundhouseOTS",
@@ -702,7 +735,8 @@
       "mailingAddress": null
     },
     "phone": "760-327-2156",
-    "website": "https://www.palmsprings.com/points/heritage/ruddy.html",
+    "website": null,
+    "email": "https://www.palmsprings.com/points/heritage/ruddy.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -722,7 +756,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:mmacnaug@scrippscollege.edu",
+    "website": "https://rcwg.scrippscollege.edu/",
+    "email": "mailto:mmacnaug@scrippscollege.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Williamson-Gallery-Scripps-College/126670616671?v=wall",
       "twitter": "https://www.twitter.com/SC_Williamson",
@@ -742,7 +777,8 @@
       "mailingAddress": "SS Lane VictoryP.O. Box 629San Pedro, CA 90733"
     },
     "phone": "310-519-9545",
-    "website": "mailto:info@lanevictory.org",
+    "website": "https://www.lanevictory.org/",
+    "email": "mailto:info@lanevictory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -763,7 +799,8 @@
       "mailingAddress": null
     },
     "phone": "916-638-7225",
-    "website": "mailto:info@sackids.org",
+    "website": "https://www.sackids.org/",
+    "email": "mailto:info@sackids.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/groups/79790456484/",
       "twitter": "https://www.twitter.com/#!/SacKidsMuseum",
@@ -785,7 +822,8 @@
       "mailingAddress": "101 Maple StAuburn, CA 95603"
     },
     "phone": "530-889-6500",
-    "website": "https://www.placer.ca.gov/Departments/Facility/Museums/LocalMuseums/bernhard.aspx",
+    "website": null,
+    "email": "https://www.placer.ca.gov/Departments/Facility/Museums/LocalMuseums/bernhard.aspx",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -810,7 +848,8 @@
       "mailingAddress": "1000 Sale LaneRed Bluff, CA 96080"
     },
     "phone": null,
-    "website": "https://www.srdc.tehama.k12.ca.us/",
+    "website": null,
+    "email": "https://www.srdc.tehama.k12.ca.us/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -832,7 +871,8 @@
       "mailingAddress": "P.O. Box 1437Williams, CA 95987"
     },
     "phone": "530-473-2978",
-    "website": "mailto:sacvalleymuseum@frontiernet.net",
+    "website": "https://www.sacvalleymuseum.org/",
+    "email": "mailto:sacvalleymuseum@frontiernet.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -853,7 +893,8 @@
       "mailingAddress": "P.O. Box 85800San Diego, CA 92186-5800"
     },
     "phone": "858-550-0472",
-    "website": "mailto:giving@salk.edu",
+    "website": "https://www.salk.edu/",
+    "email": "mailto:giving@salk.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -873,7 +914,8 @@
       "mailingAddress": "2841 E StreetEureka, CA 95501"
     },
     "phone": "707-442-1659",
-    "website": "https://www.samoacookhouse.net/",
+    "website": null,
+    "email": "https://www.samoacookhouse.net/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -894,7 +936,8 @@
       "mailingAddress": "San Anselmo, CA 94960"
     },
     "phone": "415-258-4659",
-    "website": "mailto:info@sananselmohistory.org",
+    "website": "https://www.sananselmohistory.org/pages/home.html",
+    "email": "mailto:info@sananselmohistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -914,7 +957,8 @@
       "mailingAddress": "P.O. Box 692Hollister, CA 95024"
     },
     "phone": "831-636-2787",
-    "website": "mailto:info@sanbenitoarts.org",
+    "website": "https://sanbenitoarts.org/",
+    "email": "mailto:info@sanbenitoarts.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -934,7 +978,8 @@
       "mailingAddress": "P.O. Box 273San Juan Bautista, CA 95045"
     },
     "phone": "831-635-0335",
-    "website": "mailto:info@sbchistoricalsociety.org",
+    "website": "https://www.sbchistoricalsociety.org/",
+    "email": "mailto:info@sbchistoricalsociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -954,7 +999,8 @@
       "mailingAddress": null
     },
     "phone": "909-798-8608",
-    "website": "mailto:museum@sbcounty.gov",
+    "website": "https://www.sbcounty.gov/museum",
+    "email": "mailto:museum@sbcounty.gov",
     "socialLinks": {
       "facebook": "https://www.facebook.com/SBCMuseum",
       "twitter": null,
@@ -978,7 +1024,8 @@
       "mailingAddress": null
     },
     "phone": "805-643-4318",
-    "website": "mailto:mission@sanbuenaventuramission.org",
+    "website": "https://www.sanbuenaventuramission.org/visitors_ventura.html",
+    "email": "mailto:mission@sanbuenaventuramission.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

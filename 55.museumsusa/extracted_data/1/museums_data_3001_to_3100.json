@@ -6,7 +6,8 @@
       "mailingAddress": "PO Box 1466Mesa, AZ 85211"
     },
     "phone": "480-644-2467",
-    "website": "mailto:citymgt.info@Mesaaz.gov",
+    "website": "https://arizonamuseumforyouth.com/",
+    "email": "mailto:citymgt.info@Mesaaz.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -24,7 +25,8 @@
       "mailingAddress": "1013 East University BoulevardP.O. Box 210026Tucson, AZ 85721"
     },
     "phone": "520-621-6302",
-    "website": "https://www.statemuseum.arizona.edu/index.shtml",
+    "website": null,
+    "email": "https://www.statemuseum.arizona.edu/index.shtml",
     "socialLinks": {
       "facebook": "https://www.facebook.com/ArizonaStateMuseum",
       "twitter": "https://www.twitter.com/AZStateMuseum",
@@ -42,7 +44,8 @@
       "mailingAddress": null
     },
     "phone": "520-883-1380",
-    "website": "mailto:info@desertmuseum.org",
+    "website": "https://desertmuseum.org/",
+    "email": "mailto:info@desertmuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com//#!/desertmuseum",
       "twitter": null,
@@ -65,7 +68,8 @@
       "mailingAddress": null
     },
     "phone": "520-625-7513",
-    "website": "mailto:amdcinfo@asarco.com",
+    "website": "https://www.mineraldiscovery.com/",
+    "email": "mailto:amdcinfo@asarco.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -85,7 +89,8 @@
       "mailingAddress": "Box 872911Tempe, AZ 85287"
     },
     "phone": "480-965-2787",
-    "website": "mailto:asuartmuseum@asu.edu",
+    "website": "https://asuartmuseum.asu.edu/",
+    "email": "mailto:asuartmuseum@asu.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/asuartmuseum",
       "twitter": "https://www.twitter.com/ASUArtMuseum",
@@ -106,7 +111,8 @@
       "mailingAddress": "P.O. Box 14Bisbee, AZ 85603"
     },
     "phone": null,
-    "website": "mailto:info@bisbeemuseum.org",
+    "website": "https://www.bisbeemuseum.org/",
+    "email": "mailto:info@bisbeemuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -126,7 +132,8 @@
       "mailingAddress": "37615 Highway 60Superior, AZ 85273"
     },
     "phone": "520-689-2723",
-    "website": "mailto:msiegwar@cals.arizona.edu",
+    "website": "https://arboretum.ag.arizona.edu/about_us.html",
+    "email": "mailto:msiegwar@cals.arizona.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -147,7 +154,8 @@
       "mailingAddress": "PO Box 292Buckeye, AZ 85326"
     },
     "phone": "623-349-6315",
-    "website": "mailto:clarson@buckeyeaz.gov",
+    "website": "https://www.buckeyeaz.gov/index.aspx?NID=132",
+    "email": "mailto:clarson@buckeyeaz.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -167,7 +175,8 @@
       "mailingAddress": "P.O. Box 786Miami, AZ 85539"
     },
     "phone": "928-473-3700",
-    "website": "mailto:info@BullionPlazaMuseum.org",
+    "website": "https://www.auctioncatalogcompany.com/museum/",
+    "email": "mailto:info@BullionPlazaMuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/BullionPlazaCulturalCenterMuseum?ref=hl#!/BullionPlazaCulturalCenterMuseum",
       "twitter": null,
@@ -193,7 +202,8 @@
       "mailingAddress": "110 W.  Florence Blvd.Casa Grande, AZ 85222"
     },
     "phone": "520-836-2223",
-    "website": "mailto:info@cgvhs.org",
+    "website": "https://www.cgvhs.org/",
+    "email": "mailto:info@cgvhs.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/people/Casa-Grande/100001257201704#!/profile.php?id=100001257201704&v=wall",
       "twitter": "https://www.twitter.com/CGVHS",
@@ -213,7 +223,8 @@
       "mailingAddress": "P O Box 1Cave Creek, AZ 85327"
     },
     "phone": "480-488-2764",
-    "website": "mailto:info@cavecreekmuseum.com",
+    "website": "https://www.cavecreekmuseum.com/",
+    "email": "mailto:info@cavecreekmuseum.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -233,7 +244,8 @@
       "mailingAddress": "Box 511Cottonwood, AZ 86326"
     },
     "phone": "928-634-2868",
-    "website": "mailto:clemenceauheritagem@qwestoffice.net",
+    "website": "https://www.clemenceaumuseum.org/",
+    "email": "mailto:clemenceauheritagem@qwestoffice.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/#!/clemenceau.musuem",
       "twitter": null,
@@ -253,7 +265,8 @@
       "mailingAddress": "3711 W. Deer Valley RoadPhoenix, AZ 85308"
     },
     "phone": "623-582-8007",
-    "website": "mailto:dvrac@asu.edu",
+    "website": "https://dvrac.asu.edu/",
+    "email": "mailto:dvrac@asu.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/RockArtCenter",
       "twitter": "https://www.twitter.com/rockartcenter",
@@ -279,7 +292,8 @@
       "mailingAddress": null
     },
     "phone": "480-481-8188",
-    "website": "mailto:administration@dbg.org",
+    "website": "https://www.dbg.org/",
+    "email": "mailto:administration@dbg.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/dbgphx?ref=ts",
       "twitter": "https://www.twitter.com/dbgtweet",
@@ -299,7 +313,8 @@
       "mailingAddress": null
     },
     "phone": "928-684-2272",
-    "website": "mailto:info@westernmuseum.org",
+    "website": "https://www.westernmuseum.org/",
+    "email": "mailto:info@westernmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -321,7 +336,8 @@
       "mailingAddress": "P. O. Box 210091, U. of A.Tucson, AZ 85721"
     },
     "phone": "520-626-4092",
-    "website": "mailto:huxman@B2science.org",
+    "website": "https://www.flandrau.org/",
+    "email": "mailto:huxman@B2science.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -342,7 +358,8 @@
       "mailingAddress": null
     },
     "phone": "480-789-7000",
-    "website": "https://www.ftmcdowell.org/",
+    "website": null,
+    "email": "https://www.ftmcdowell.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -367,7 +384,8 @@
       "mailingAddress": null
     },
     "phone": "205-348-7467",
-    "website": "mailto:mjpurser@ua.edu",
+    "website": "https://www.alabamaheritage.com/",
+    "email": "mailto:mjpurser@ua.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -385,7 +403,8 @@
       "mailingAddress": "P.O. Box 808Jackson, AL 36545"
     },
     "phone": "334-246-3583",
-    "website": "mailto:choctaw@fws.gov",
+    "website": "https://www.stateparks.com/choctaw.html",
+    "email": "mailto:choctaw@fws.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -405,7 +424,8 @@
       "mailingAddress": null
     },
     "phone": "334-768-2161",
-    "website": "mailto:tabithatruitt@chamberscountylibrary.org",
+    "website": "https://www.chamberscountylibrary.org/",
+    "email": "mailto:tabithatruitt@chamberscountylibrary.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -425,7 +445,8 @@
       "mailingAddress": null
     },
     "phone": "205-392-2005",
-    "website": "https://www.colemanarts.org/",
+    "website": null,
+    "email": "https://www.colemanarts.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -445,7 +466,8 @@
       "mailingAddress": "P.O. Box 245Sylacauga, AL 35150"
     },
     "phone": "256-245-4016",
-    "website": "https://comermuseum.freeservers.com/index.html",
+    "website": null,
+    "email": "https://comermuseum.freeservers.com/index.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -465,7 +487,8 @@
       "mailingAddress": null
     },
     "phone": "205-755-1990",
-    "website": "mailto:alacmp@bellsouth.net",
+    "website": "https://www.preserveala.org/confederatepark.aspx",
+    "email": "mailto:alacmp@bellsouth.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -494,7 +517,8 @@
       "mailingAddress": null
     },
     "phone": "706-296-1765",
-    "website": "mailto:info@thecorryhouse.com",
+    "website": "https://thecorryhouse.com/Contact_Us.html",
+    "email": "mailto:info@thecorryhouse.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/The-Corry-House/122351104508459",
       "twitter": null,
@@ -512,7 +536,8 @@
       "mailingAddress": null
     },
     "phone": "334-230-2690",
-    "website": "mailto:frank.white@preserveala.org",
+    "website": "https://www.preserveala.org/",
+    "email": "mailto:frank.white@preserveala.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -530,7 +555,8 @@
       "mailingAddress": null
     },
     "phone": "256-739-1258",
-    "website": "mailto:curator@cullmancountymuseum.com",
+    "website": "https://www.cullmancountymuseum.com/",
+    "email": "mailto:curator@cullmancountymuseum.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -548,7 +574,8 @@
       "mailingAddress": "901 Railroad St. NWDecatur, AL"
     },
     "phone": "256-686-1698",
-    "website": "https://www.dancypolkhouseinn.com/",
+    "website": null,
+    "email": "https://www.dancypolkhouseinn.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -566,7 +593,8 @@
       "mailingAddress": "P.O. Box 369-370Dauphin Island, AL 36528"
     },
     "phone": "251-861-2141",
-    "website": "mailto:langelo@disl.org",
+    "website": "https://estuarium.disl.org/",
+    "email": "mailto:langelo@disl.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -584,7 +612,8 @@
       "mailingAddress": null
     },
     "phone": "800-933-2283",
-    "website": "mailto:info@DeSotoCavernsPark.com",
+    "website": "https://desotocavernspark.com/",
+    "email": "mailto:info@DeSotoCavernsPark.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Childersburg-AL/DeSoto-Caverns-Park/102605256467379?v=wall&ref=sgm",
       "twitter": "https://www.twitter.com/desotocaverns",
@@ -602,7 +631,8 @@
       "mailingAddress": "307 South Dean RoadAuburn, AL 36830"
     },
     "phone": "334-501-2963",
-    "website": "mailto:webparksrec@auburnalabama.org",
+    "website": "https://www.auburnalabama.org/arts",
+    "email": "mailto:webparksrec@auburnalabama.org",
     "socialLinks": {
       "facebook": null,
       "twitter": "https://www.twitter.com/CityofAuburnAL",
@@ -622,7 +652,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.dabg.com/",
+    "website": null,
+    "email": "https://www.dabg.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -642,7 +673,8 @@
       "mailingAddress": null
     },
     "phone": "256-564-8100",
-    "website": "https://www.earlyworks.com/",
+    "website": null,
+    "email": "https://www.earlyworks.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -660,7 +692,8 @@
       "mailingAddress": "Post Office Box 131418Birmingham, AL 35213"
     },
     "phone": "205-841-4630",
-    "website": "mailto:ahrs2000@gmail.com",
+    "website": "https://www.alabamahistoricalradiosociety.org/",
+    "email": "mailto:ahrs2000@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -681,7 +714,8 @@
       "mailingAddress": null
     },
     "phone": "251-928-2228",
-    "website": "mailto:kate@esartcenter.com",
+    "website": "https://esartcenter.com/",
+    "email": "mailto:kate@esartcenter.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -701,7 +735,8 @@
       "mailingAddress": "Waterloo, AL 35677"
     },
     "phone": "256-767-6081",
-    "website": "https://www.visitflorenceal.com/things_to_do/edith-newman-culver-memorial-museum/",
+    "website": null,
+    "email": "https://www.visitflorenceal.com/things_to_do/edith-newman-culver-memorial-museum/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -723,7 +758,8 @@
       "mailingAddress": "P.O. Box 310Wetumpka, AL 36092"
     },
     "phone": "334-567-6336",
-    "website": "https://shoanta.org/wetumpka%20black%20history%20museum/Museum%20of%20Black%20History.htm",
+    "website": null,
+    "email": "https://shoanta.org/wetumpka%20black%20history%20museum/Museum%20of%20Black%20History.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -744,7 +780,8 @@
       "mailingAddress": "P.O. Box 486Eufaula, AL 36072"
     },
     "phone": "334-687-3793",
-    "website": "mailto:info@eufaulapilgrimage.com",
+    "website": "https://www.eufaulapilgrimage.com/",
+    "email": "mailto:info@eufaulapilgrimage.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -764,7 +801,8 @@
       "mailingAddress": null
     },
     "phone": "334-687-4065",
-    "website": "mailto:eufaula@fws.gov",
+    "website": "https://www.fws.gov/eufaula/",
+    "email": "mailto:eufaula@fws.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -784,7 +822,8 @@
       "mailingAddress": null
     },
     "phone": "334-899-5108",
-    "website": "https://www.southerncompany.com/about-us/our-business/southern-nuclear/farley.cshtml",
+    "website": null,
+    "email": "https://www.southerncompany.com/about-us/our-business/southern-nuclear/farley.cshtml",
     "socialLinks": {
       "facebook": "https://www.facebook.com/SOCompany",
       "twitter": "https://www.twitter.com/southerncompany",
@@ -806,7 +845,8 @@
       "mailingAddress": null
     },
     "phone": "334-687-8469",
-    "website": "mailto:fendallh@bellsouth.net",
+    "website": "https://fendallhall.com/",
+    "email": "mailto:fendallh@bellsouth.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -830,7 +870,8 @@
       "mailingAddress": null
     },
     "phone": "256-353-7243",
-    "website": "mailto:wheeler@fws.gov",
+    "website": "https://www.fws.gov/ferncave/",
+    "email": "mailto:wheeler@fws.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -848,7 +889,8 @@
       "mailingAddress": null
     },
     "phone": "205-558-3980",
-    "website": "https://www.ahf.net/",
+    "website": null,
+    "email": "https://www.ahf.net/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -866,7 +908,8 @@
       "mailingAddress": "644 Washington AvenueMontgomery, AL 36130"
     },
     "phone": "804-649-1861",
-    "website": "mailto:info@firstwhitehouse.org",
+    "website": "https://www.firstwhitehouse.org/",
+    "email": "mailto:info@firstwhitehouse.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/#!/pages/Montgomery-AL/The-First-White-House-of-the-Confederacy/245290288046",
       "twitter": null,
@@ -886,7 +929,8 @@
       "mailingAddress": "Post Office Box 98Florence, AL 35630"
     },
     "phone": "256-760-6300",
-    "website": "mailto:info@florenceal.org",
+    "website": "https://www.florenceal.org/Administration/City_Boards/Historical_Board/",
+    "email": "mailto:info@florenceal.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -906,7 +950,8 @@
       "mailingAddress": null
     },
     "phone": "843-662-3351",
-    "website": "mailto:flomus@bellsouth.net",
+    "website": "https://www.florencemuseum.org/",
+    "email": "mailto:flomus@bellsouth.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -926,7 +971,8 @@
       "mailingAddress": "P.O. Box 2068Mobile, AL 36652"
     },
     "phone": "334-208-7304",
-    "website": "mailto:rick@forttours.com",
+    "website": "https://www.forttours.com/pages/fortconde.asp",
+    "email": "mailto:rick@forttours.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -946,7 +992,8 @@
       "mailingAddress": "109 Bienville Blvd.Dauphin Island, AL 36528"
     },
     "phone": "251-861-3607",
-    "website": "mailto:admin@dauphinisland.org",
+    "website": "https://www.dauphinisland.org/",
+    "email": "mailto:admin@dauphinisland.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -968,7 +1015,8 @@
       "mailingAddress": null
     },
     "phone": "901-351-4175",
-    "website": "https://www.azaleacity.com/fortmorgan/information.htm",
+    "website": null,
+    "email": "https://www.azaleacity.com/fortmorgan/information.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -997,7 +1045,8 @@
       "mailingAddress": "P.O. Box 681420Fort Payne, AL 35968"
     },
     "phone": "256-845-5714",
-    "website": "mailto:depotmuseum@bellsouth.net",
+    "website": "https://www.fortpaynedepotmuseum.com/",
+    "email": "mailto:depotmuseum@bellsouth.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1021,7 +1070,8 @@
       "mailingAddress": null
     },
     "phone": "334-242-2831",
-    "website": "mailto:aiac@att.net",
+    "website": "https://aiac.state.al.us/#TOP",
+    "email": "mailto:aiac@att.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1039,7 +1089,8 @@
       "mailingAddress": null
     },
     "phone": "334-567-3002",
-    "website": "mailto:ftjack1@bellsouth.net",
+    "website": "https://www.fttoulousejackson.org/",
+    "email": "mailto:ftjack1@bellsouth.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1064,7 +1115,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.hgtv.com/hgtv/remodeling/article/0,1797,HGTV_3659_1914947,00.html",
+    "website": null,
+    "email": "https://www.hgtv.com/hgtv/remodeling/article/0,1797,HGTV_3659_1914947,00.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1084,7 +1136,8 @@
       "mailingAddress": "1010 Forest AvenueMontgomery, AL 36106"
     },
     "phone": "334-625-4799",
-    "website": "mailto:m01planet@troy.edu",
+    "website": "https://www.troy.edu/planetarium/",
+    "email": "mailto:m01planet@troy.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/gayleplanetarium",
       "twitter": null,
@@ -1108,7 +1161,8 @@
       "mailingAddress": "Dothan, AL 36303"
     },
     "phone": "334-712-0933",
-    "website": "https://www.alabamamuseums.org/g_gwcm.htm",
+    "website": null,
+    "email": "https://www.alabamamuseums.org/g_gwcm.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1126,7 +1180,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://museums.ua.edu/gorgas",
+    "website": null,
+    "email": "https://museums.ua.edu/gorgas",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1144,7 +1199,8 @@
       "mailingAddress": "P.O. Box 300100Montgomery, AL 36104"
     },
     "phone": "334-242-4435",
-    "website": "https://www.archives.state.al.us/mansion.html",
+    "website": null,
+    "email": "https://www.archives.state.al.us/mansion.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1162,7 +1218,8 @@
       "mailingAddress": "P.O. Box 1968Mobile, AL 36633"
     },
     "phone": "877-625-4386",
-    "website": "mailto:marketing@exploreum.com",
+    "website": "https://www.exploreum.net/",
+    "email": "mailto:marketing@exploreum.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/Exploreum",
       "twitter": "https://www.twitter.com/TheExploreum",
@@ -1184,7 +1241,8 @@
       "mailingAddress": "P.O. Box 299Gulf Shores, AL 36547"
     },
     "phone": null,
-    "website": "https://www.gulfshoresal.gov/",
+    "website": null,
+    "email": "https://www.gulfshoresal.gov/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1205,7 +1263,8 @@
       "mailingAddress": "Guntersville, AL 35976"
     },
     "phone": "256-571-7597",
-    "website": "mailto:guntersvillemuseum@guntersvilleal.org",
+    "website": "https://www.guntersvillemuseum.org/",
+    "email": "mailto:guntersvillemuseum@guntersvilleal.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1223,7 +1282,8 @@
       "mailingAddress": "300 Water Street, Union StationMontgomery, AL 36104"
     },
     "phone": "334-262-3600",
-    "website": "https://www.thehankwilliamsmuseum.com/",
+    "website": null,
+    "email": "https://www.thehankwilliamsmuseum.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1241,7 +1301,8 @@
       "mailingAddress": "P.O. Box 310Georgiana, AL 36033"
     },
     "phone": "334-376-2396",
-    "website": "mailto:cityofgeorgiana@greenlynk.com",
+    "website": "https://www.hankmuseum.com/",
+    "email": "mailto:cityofgeorgiana@greenlynk.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1261,7 +1322,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:ltucker@jazzhall.com",
+    "website": "https://www.jazzhall.com/",
+    "email": "mailto:ltucker@jazzhall.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1281,7 +1343,8 @@
       "mailingAddress": "P.O. Box 727Calera, AL 35040"
     },
     "phone": null,
-    "website": "https://www.heartofdixierrmuseum.org/",
+    "website": null,
+    "email": "https://www.heartofdixierrmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1303,7 +1366,8 @@
       "mailingAddress": "P.O. Box 20227Tuscaloosa, AL 35401"
     },
     "phone": "205-752-2575",
-    "website": "https://www.tuscaloosaheritage.org/",
+    "website": null,
+    "email": "https://www.tuscaloosaheritage.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1323,7 +1387,8 @@
       "mailingAddress": "P.O. Box 33Eufaula, AL 36027"
     },
     "phone": "334-687-9755",
-    "website": "https://www.hcc-al-ga.org/",
+    "website": null,
+    "email": "https://www.hcc-al-ga.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1343,7 +1408,8 @@
       "mailingAddress": null
     },
     "phone": "251-432-1281",
-    "website": "https://www.historicmobile.org/Oakleigh08.htm",
+    "website": null,
+    "email": "https://www.historicmobile.org/Oakleigh08.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

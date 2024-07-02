@@ -6,7 +6,8 @@
       "mailingAddress": "PO BOX 332Long Lake, MN 55356"
     },
     "phone": "952-473-6557",
-    "website": "https://www.whcpa-museum.org/",
+    "website": null,
+    "email": "https://www.whcpa-museum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -26,7 +27,8 @@
       "mailingAddress": null
     },
     "phone": "651-296-6157",
-    "website": "mailto:info.dnr@state.mn.us",
+    "website": "https://www.dnr.state.mn.us/index.html",
+    "email": "mailto:info.dnr@state.mn.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -44,7 +46,8 @@
       "mailingAddress": "Minneapolis, MN 55403"
     },
     "phone": "612-375-7600",
-    "website": "mailto:info@walkerart.org",
+    "website": "https://www.walkerart.org/",
+    "email": "mailto:info@walkerart.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -64,7 +67,8 @@
       "mailingAddress": "P.O. Box 29345Brooklyn Center, MN 55429"
     },
     "phone": "763-569-3400",
-    "website": "https://www.cityofbrooklyncenter.org/index.aspx?NID=420",
+    "website": null,
+    "email": "https://www.cityofbrooklyncenter.org/index.aspx?NID=420",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -84,7 +88,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.shakopeedakota.org/",
+    "website": null,
+    "email": "https://www.shakopeedakota.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -104,7 +109,8 @@
       "mailingAddress": null
     },
     "phone": "952-445-0378",
-    "website": "https://www.scottcountyhistory.org/",
+    "website": null,
+    "email": "https://www.scottcountyhistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -124,7 +130,8 @@
       "mailingAddress": "408 St Peter StreetSuite 419Saint Paul, MN 55102"
     },
     "phone": "651-797-4057",
-    "website": "mailto:info@mmaa.org",
+    "website": "https://mmaa.org/",
+    "email": "mailto:info@mmaa.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -144,7 +151,8 @@
       "mailingAddress": null
     },
     "phone": "218-879-1938",
-    "website": "mailto:director@carltoncountyhistory.org",
+    "website": "https://www.carltoncountyhistory.org/",
+    "email": "mailto:director@carltoncountyhistory.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/#!/pages/Carlton-County-Historical-Society/87842294437",
       "twitter": "https://www.twitter.com/CarltonCoHist",
@@ -169,7 +177,8 @@
       "mailingAddress": "PO Box 157Moorhead, MN 56560"
     },
     "phone": "218-299-5511",
-    "website": "https://www.hcscconline.org/",
+    "website": null,
+    "email": "https://www.hcscconline.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -191,7 +200,8 @@
       "mailingAddress": "P.O. Box 2019Aberdeen, WA 98520"
     },
     "phone": "800-200-5239",
-    "website": "mailto:ghhsa_admin@historicalseaport.org",
+    "website": "https://www.ladywashington.org/",
+    "email": "mailto:ghhsa_admin@historicalseaport.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -212,7 +222,8 @@
       "mailingAddress": "P. O. Box 296Amboy, WA 98601"
     },
     "phone": "360-247-5800",
-    "website": "https://www.amboywa.com/museum.htm",
+    "website": null,
+    "email": "https://www.amboywa.com/museum.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -235,7 +246,8 @@
       "mailingAddress": "P.O. Box 547Anacortes, WA 98221"
     },
     "phone": null,
-    "website": "https://museum.cityofanacortes.org/",
+    "website": null,
+    "email": "https://museum.cityofanacortes.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -256,7 +268,8 @@
       "mailingAddress": "P.O. Box 217Anacortes, WA 98221"
     },
     "phone": "360-293-6404",
-    "website": "mailto:samishtribe@samishtribe.nsn.us",
+    "website": "https://www.samishtribe.nsn.us/",
+    "email": "mailto:samishtribe@samishtribe.nsn.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -276,7 +289,8 @@
       "mailingAddress": "P.O. Box 34Arlington, WA 98223"
     },
     "phone": "360-435-4838",
-    "website": "mailto:svgs.wa@frontier.com",
+    "website": "https://www.stillygen.org/",
+    "email": "mailto:svgs.wa@frontier.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -299,7 +313,8 @@
       "mailingAddress": null
     },
     "phone": "360-435-7289",
-    "website": "mailto:stillypioneers1@juno.com",
+    "website": "https://www.stillymuseum.org/",
+    "email": "mailto:stillypioneers1@juno.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -322,7 +337,8 @@
       "mailingAddress": "55210 238th Avenue EastAshford, WA 98304"
     },
     "phone": "360-569-6575",
-    "website": "https://www.nps.gov/mora/index.htm",
+    "website": null,
+    "email": "https://www.nps.gov/mora/index.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -342,7 +358,8 @@
       "mailingAddress": "P. O. Box 367Asotin, WA 99402"
     },
     "phone": "509-243-4659",
-    "website": "mailto:asotinmuseum@asotin.com",
+    "website": "https://www.asotincountymuseum.com/",
+    "email": "mailto:asotinmuseum@asotin.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -362,7 +379,8 @@
       "mailingAddress": null
     },
     "phone": "503-325-2323",
-    "website": "mailto:welborn@crmm.org",
+    "website": "https://www.crmm.org/",
+    "email": "mailto:welborn@crmm.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/profile.php?id=118660658188",
       "twitter": null,
@@ -383,7 +401,8 @@
       "mailingAddress": "Green River Community CollegeAuburn, WA 98002"
     },
     "phone": "253-833-9111",
-    "website": "https://www.greenriver.edu/smithgallery/",
+    "website": null,
+    "email": "https://www.greenriver.edu/smithgallery/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -401,7 +420,8 @@
       "mailingAddress": "Auburn, WA 98002"
     },
     "phone": null,
-    "website": "https://www.wrvmuseum.org/",
+    "website": null,
+    "email": "https://www.wrvmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -421,7 +441,8 @@
       "mailingAddress": null
     },
     "phone": "206-842-2773",
-    "website": "mailto:info@bainbridghistory.org",
+    "website": "https://www.bainbridgehistory.org/",
+    "email": "mailto:info@bainbridghistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -441,7 +462,8 @@
       "mailingAddress": null
     },
     "phone": "206-842-7631",
-    "website": "mailto:email@bloedelreserve.org",
+    "website": "https://www.bloedelreserve.org/",
+    "email": "mailto:email@bloedelreserve.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -462,7 +484,8 @@
       "mailingAddress": "Bellevue, WA 98029"
     },
     "phone": "425-519-0770",
-    "website": "mailto:info@bellevuearts.org",
+    "website": "https://www.bellevuearts.org/",
+    "email": "mailto:info@bellevuearts.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -482,7 +505,8 @@
       "mailingAddress": "Bellevue, WA 98007"
     },
     "phone": "425-564-1000",
-    "website": "https://bellevuecollege.edu/",
+    "website": null,
+    "email": "https://bellevuecollege.edu/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/bellevuecollege/",
       "twitter": "https://www.twitter.com/bellevuecollege/",
@@ -502,7 +526,8 @@
       "mailingAddress": "P. O. Box 374Bellevue, WA 98009"
     },
     "phone": "425-885-1861",
-    "website": "https://www.rootsweb.ancestry.com/~wakcegs/",
+    "website": null,
+    "email": "https://www.rootsweb.ancestry.com/~wakcegs/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -520,7 +545,8 @@
       "mailingAddress": "P.O. Box 5637Bellevue, WA 98006"
     },
     "phone": "425-637-8100",
-    "website": "https://www.kidsquestmuseum.org/",
+    "website": null,
+    "email": "https://www.kidsquestmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -540,7 +566,8 @@
       "mailingAddress": "Bellevue, WA 98004"
     },
     "phone": "425-455-1116",
-    "website": "mailto:dollart@dollart.com",
+    "website": "https://www.dollart.com/",
+    "email": "mailto:dollart@dollart.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -558,7 +585,8 @@
       "mailingAddress": "Bellevue, WA 98004"
     },
     "phone": null,
-    "website": "https://www.seattlefirstbaptist.org/",
+    "website": null,
+    "email": "https://www.seattlefirstbaptist.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -578,7 +606,8 @@
       "mailingAddress": "Western Washington UniversityWestern GalleryBellingham, WA 98225"
     },
     "phone": "360-650-3900",
-    "website": "https://westerngallery.wwu.edu/",
+    "website": null,
+    "email": "https://westerngallery.wwu.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -600,7 +629,8 @@
       "mailingAddress": null
     },
     "phone": "360-778-8930",
-    "website": "mailto:museuminfo@cob.org",
+    "website": "https://www.whatcommuseum.org/",
+    "email": "mailto:museuminfo@cob.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -623,7 +653,8 @@
       "mailingAddress": "Bellingham, WA 98225"
     },
     "phone": "360-778-8000",
-    "website": "mailto:info@cob.org",
+    "website": "https://www.cob.org/museum.htm",
+    "email": "mailto:info@cob.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -643,7 +674,8 @@
       "mailingAddress": "P. O. Box 232Black Diamond, WA 98010"
     },
     "phone": null,
-    "website": "mailto:museum@blackdiamondmuseum.org",
+    "website": "https://www.blackdiamondmuseum.org/",
+    "email": "mailto:museum@blackdiamondmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -663,7 +695,8 @@
       "mailingAddress": "Blaine, WA 98230"
     },
     "phone": "360-332-5742",
-    "website": "https://www.draytonharbormaritime.org/",
+    "website": null,
+    "email": "https://www.draytonharbormaritime.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -681,7 +714,8 @@
       "mailingAddress": "P. O. Box 313Bothell, WA 98041"
     },
     "phone": "425-486-1889",
-    "website": "mailto:bothellmuseum@gmail.com",
+    "website": "https://www.bothellhistoricalmuseum.org/",
+    "email": "mailto:bothellmuseum@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -702,7 +736,8 @@
       "mailingAddress": null
     },
     "phone": "360-479-7447",
-    "website": "mailto:lindy.dosher@navy.mil",
+    "website": "https://www.pugetsoundnavymuseum.org;%20http//www.facebook.com/pugetsoundnavymuseum",
+    "email": "mailto:lindy.dosher@navy.mil",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -723,7 +758,8 @@
       "mailingAddress": null
     },
     "phone": "360-479-6226",
-    "website": "mailto:khsinfo@kitsaphistory.org",
+    "website": "https://www.kitsaphistory.org/",
+    "email": "mailto:khsinfo@kitsaphistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -743,7 +779,8 @@
       "mailingAddress": "Bremerton, WA 98310"
     },
     "phone": null,
-    "website": "https://www.krl.org/",
+    "website": null,
+    "email": "https://www.krl.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -763,7 +800,8 @@
       "mailingAddress": "300 Washington Beach Ave. #8Bremerton, WA 98310"
     },
     "phone": "360-792-2457",
-    "website": "mailto:dd951@sinclair.net",
+    "website": "https://www.ussturnerjoy.org/",
+    "email": "mailto:dd951@sinclair.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -786,7 +824,8 @@
       "mailingAddress": "P.O. Box 530Buckley, WA 98321"
     },
     "phone": "360-829-1291",
-    "website": "mailto:foothillsmuseum@cityofbuckley.com",
+    "website": "https://www.buckleychamber.org/history.html",
+    "email": "mailto:foothillsmuseum@cityofbuckley.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/foothillshistoricalmuseum",
       "twitter": null,
@@ -807,7 +846,8 @@
       "mailingAddress": "P. O. Box 91Carnation, WA 98014"
     },
     "phone": "425-333-4436",
-    "website": "mailto:tolthistoricalsociety@gmail.com",
+    "website": "https://tolthistoricalsociety.org/",
+    "email": "mailto:tolthistoricalsociety@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -829,7 +869,8 @@
       "mailingAddress": "Centralia, WA 98531"
     },
     "phone": "360-736-9391",
-    "website": "mailto:admissions@centralia.edu",
+    "website": "https://www.centralia.edu/",
+    "email": "mailto:admissions@centralia.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/CentraliaCollege?sk=wall",
       "twitter": null,
@@ -849,7 +890,8 @@
       "mailingAddress": "P. O. Box 609Centralia, WA 98531"
     },
     "phone": "360-330-7688",
-    "website": "mailto:centparks@cityofcentralia.com",
+    "website": "https://www.cityofcentralia.com/SectionIndex.asp?SectionID=8",
+    "email": "mailto:centparks@cityofcentralia.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -869,7 +911,8 @@
       "mailingAddress": "Centralia, WA 98531"
     },
     "phone": "360-740-8875",
-    "website": "mailto:vmm@compprime.com",
+    "website": "https://www.veteransmuseum.org/",
+    "email": "mailto:vmm@compprime.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -893,7 +936,8 @@
       "mailingAddress": "Chehalis, WA 98532"
     },
     "phone": "360-748-0831",
-    "website": "mailto:Director@lewiscountymuseum.org",
+    "website": "https://lewiscountymuseum.org/",
+    "email": "mailto:Director@lewiscountymuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Lewis-County-Historical-Museum/119497698121579",
       "twitter": null,
@@ -918,7 +962,8 @@
       "mailingAddress": "P. O. Box 1948Chelan, WA 98816"
     },
     "phone": "509-682-5644",
-    "website": "mailto:museum@chelanmuseum.com",
+    "website": "https://chelanmuseum.com/",
+    "email": "mailto:museum@chelanmuseum.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -938,7 +983,8 @@
       "mailingAddress": "Cheney, WA 99004"
     },
     "phone": "509-359-2494",
-    "website": "mailto:jjaynes@ewu.edu",
+    "website": "https://www.ewu.edu/",
+    "email": "mailto:jjaynes@ewu.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -958,7 +1004,8 @@
       "mailingAddress": null
     },
     "phone": "509-850-0314",
-    "website": "mailto:info@cheneymuseum.org",
+    "website": "https://www.cheneymuseum.org/",
+    "email": "mailto:info@cheneymuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -980,7 +1027,8 @@
       "mailingAddress": "P. O. Box 271Chewelah, WA 99109"
     },
     "phone": "509-935-6091",
-    "website": "mailto:info@chewelah.org",
+    "website": "https://www.chewelah.org/",
+    "email": "mailto:info@chewelah.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1004,7 +1052,8 @@
       "mailingAddress": "Clarkston, WA 99403"
     },
     "phone": "360-902-8844",
-    "website": "mailto:infocent@parks.wa.gov",
+    "website": "https://www.parks.wa.gov/",
+    "email": "mailto:infocent@parks.wa.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1024,7 +1073,8 @@
       "mailingAddress": "221 East 1st StreetCle Elum, WA 98922"
     },
     "phone": "509-649-2880",
-    "website": "mailto:info@highcountryartists.com",
+    "website": "https://www.nkcmuseums.org/",
+    "email": "mailto:info@highcountryartists.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1045,7 +1095,8 @@
       "mailingAddress": "P.O. Box 67Colfax, WA 99111"
     },
     "phone": null,
-    "website": "mailto:appeldh@colfax.com",
+    "website": "https://www.whitmancountyhistoricalsociety.org/",
+    "email": "mailto:appeldh@colfax.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1065,7 +1116,8 @@
       "mailingAddress": "P. O. Box 25Colville, WA 99114"
     },
     "phone": "509-684-5968",
-    "website": "mailto:schs@ultraplix.com",
+    "website": "https://www.stevenscountyhistoricalsociety.org/",
+    "email": "mailto:schs@ultraplix.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1085,7 +1137,8 @@
       "mailingAddress": "Coupeville, WA 98239"
     },
     "phone": null,
-    "website": "https://www.parks.wa.gov/",
+    "website": null,
+    "email": "https://www.parks.wa.gov/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1105,7 +1158,8 @@
       "mailingAddress": "P.O. Box 1881Dayton, WA 99328"
     },
     "phone": "509-382-2026",
-    "website": "mailto:info@daytonhistoricdepot.org",
+    "website": "https://www.daytonhistoricdepot.org/",
+    "email": "mailto:info@daytonhistoricdepot.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Dayton-Historic-Depot/190904030951208",
       "twitter": null,
@@ -1125,7 +1179,8 @@
       "mailingAddress": "P. O. Box 98055Des Moines, WA 98198"
     },
     "phone": "206-824-5226",
-    "website": "mailto:info@dmhs.org",
+    "website": "https://www.dmhs.org/",
+    "email": "mailto:info@dmhs.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1143,7 +1198,8 @@
       "mailingAddress": "PO Box 385Duvall, WA 98019"
     },
     "phone": null,
-    "website": "mailto:webmaster@duvallhistoricalsociety.org",
+    "website": "https://www.duvallhistoricalsociety.org/",
+    "email": "mailto:webmaster@duvallhistoricalsociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

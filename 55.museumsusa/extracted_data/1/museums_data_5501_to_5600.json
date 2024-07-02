@@ -6,7 +6,8 @@
       "mailingAddress": "PO Box 1978Wapakoneta, OH 45895"
     },
     "phone": "419-738-8811",
-    "website": "https://www.armstrongmuseum.org/",
+    "website": null,
+    "email": "https://www.armstrongmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -27,7 +28,8 @@
       "mailingAddress": null
     },
     "phone": "419-753-2077",
-    "website": "mailto:nkhist@nktelco.net",
+    "website": "https://user.nktelco.net/historicalsociety/index.htm",
+    "email": "mailto:nkhist@nktelco.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/newknoxvillehistoricalsociety/",
       "twitter": null,
@@ -51,7 +53,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:stoving@ptd.net",
+    "website": "https://nycshs.org/",
+    "email": "mailto:stoving@ptd.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -71,7 +74,8 @@
       "mailingAddress": null
     },
     "phone": "419-528-8107",
-    "website": "mailto:Contact@ncoim.org",
+    "website": "https://www.ncoim.org/",
+    "email": "mailto:Contact@ncoim.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/ncoim",
       "twitter": null,
@@ -93,7 +97,8 @@
       "mailingAddress": "P.O. Box 374Northfield, OH 44067"
     },
     "phone": "330-467-4101",
-    "website": "mailto:info@northfieldpark.com",
+    "website": "https://www.northfieldpark.com/",
+    "email": "mailto:info@northfieldpark.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -113,7 +118,8 @@
       "mailingAddress": "PO Box 1546Ashtabula, OH 44004"
     },
     "phone": "440-964-6847",
-    "website": "mailto:info@ashtabulamaritime.org",
+    "website": "https://www.ashtabulamaritime.org/",
+    "email": "mailto:info@ashtabulamaritime.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -135,7 +141,8 @@
       "mailingAddress": "PO Box 455Oberlin, OH 44074"
     },
     "phone": "440-775-8121",
-    "website": "mailto:communications@oberlin.edu",
+    "website": "https://www.oberlin.edu/",
+    "email": "mailto:communications@oberlin.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -155,7 +162,8 @@
       "mailingAddress": null
     },
     "phone": "740-358-6390",
-    "website": "https://www.historiccamera.com/club/occs/",
+    "website": null,
+    "email": "https://www.historiccamera.com/club/occs/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -178,7 +186,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.ohiocraft.org/museum.html",
+    "website": null,
+    "email": "https://www.ohiocraft.org/museum.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -198,7 +207,8 @@
       "mailingAddress": null
     },
     "phone": "216-831-1245",
-    "website": "https://www.ohiodesigncentre.com/home.cfm",
+    "website": null,
+    "email": "https://www.ohiodesigncentre.com/home.cfm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -218,7 +228,8 @@
       "mailingAddress": "Columbus, OH 43211"
     },
     "phone": "614-297-2300",
-    "website": "mailto:communications@ohiohistory.org",
+    "website": "https://www.ohiohistory.org/",
+    "email": "mailto:communications@ohiohistory.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Ohio-Historical-Society/22003234344",
       "twitter": "https://www.twitter.com/#!/ohiohistory",
@@ -238,7 +249,8 @@
       "mailingAddress": "PO Box 777Worthington, OH 43085"
     },
     "phone": "614-885-7345",
-    "website": "mailto:info@ohiorailwaymuseum.net",
+    "website": "https://www.ohiorailwaymuseum.org/",
+    "email": "mailto:info@ohiorailwaymuseum.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Ohio-Railway-Museum/119071661606",
       "twitter": null,
@@ -258,7 +270,8 @@
       "mailingAddress": "34 Long St.Ashville, OH 43103"
     },
     "phone": "740-983-9864",
-    "website": "mailto:aahs@ohiosmalltownmuseum.org",
+    "website": "https://ohiosmalltownmuseum.org/",
+    "email": "mailto:aahs@ohiosmalltownmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -276,7 +289,8 @@
       "mailingAddress": null
     },
     "phone": "419-882-8313",
-    "website": "mailto:info@olanderpark.com",
+    "website": "https://www.olanderpark.com/",
+    "email": "mailto:info@olanderpark.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -296,7 +310,8 @@
       "mailingAddress": "PO Box 122Beverly, OH 45715"
     },
     "phone": "740-984-4037",
-    "website": "https://www.olivertuckermuseum.com/",
+    "website": null,
+    "email": "https://www.olivertuckermuseum.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -316,7 +331,8 @@
       "mailingAddress": "PO Box 437Orrville, OH 44667"
     },
     "phone": "330-930-0113",
-    "website": "mailto:orrvillehistorypr@gmail.com",
+    "website": "https://www.orrvillehistory.org/",
+    "email": "mailto:orrvillehistorypr@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -336,7 +352,8 @@
       "mailingAddress": "PO Box 11Orrville, OH 44667"
     },
     "phone": "330-683-2426",
-    "website": "mailto:questions@orrvillerailroad.com",
+    "website": "https://www.orrvillerailroad.com/",
+    "email": "mailto:questions@orrvillerailroad.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -356,7 +373,8 @@
       "mailingAddress": "Ohio State University 155 S. OvalColumbus, OH 43210"
     },
     "phone": null,
-    "website": "https://www.geology.ohio-state.edu/museum/",
+    "website": null,
+    "email": "https://www.geology.ohio-state.edu/museum/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -376,7 +394,8 @@
       "mailingAddress": "65 N. Court St.Athens, OH 45701"
     },
     "phone": null,
-    "website": "https://www.athenshistory.org/",
+    "website": null,
+    "email": "https://www.athenshistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -396,7 +415,8 @@
       "mailingAddress": "PO Box 193Port Clinton, OH 43452"
     },
     "phone": null,
-    "website": "mailto:ocgs@cros.net",
+    "website": "https://www.rootsweb.ancestry.com/~ohoccgs/",
+    "email": "mailto:ocgs@cros.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -416,7 +436,8 @@
       "mailingAddress": null
     },
     "phone": "440-946-2044",
-    "website": "mailto:info@croatianmuseum.com",
+    "website": "https://www.croatianmuseum.com/",
+    "email": "mailto:info@croatianmuseum.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -436,7 +457,8 @@
       "mailingAddress": "PO Box 607Gallipolis, OH 45631"
     },
     "phone": "740-446-0586",
-    "website": "https://ohsweb.ohiohistory.org/places/se10/index.shtml",
+    "website": null,
+    "email": "https://ohsweb.ohiohistory.org/places/se10/index.shtml",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -456,7 +478,8 @@
       "mailingAddress": null
     },
     "phone": "937-335-4019",
-    "website": "mailto:info@overfieldtavernmuseum.com",
+    "website": "https://www.overfieldtavernmuseum.com/index.html",
+    "email": "mailto:info@overfieldtavernmuseum.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -476,7 +499,8 @@
       "mailingAddress": null
     },
     "phone": "937-293-2841",
-    "website": "mailto:pribic@daytonhistory.org",
+    "website": "https://www.daytonhistory.org/destinations/patterson-homestead.htm",
+    "email": "mailto:pribic@daytonhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -496,7 +520,8 @@
       "mailingAddress": null
     },
     "phone": "937-376-6403",
-    "website": "https://www.centralstate.edu/prospects/legacy/about/campus_map.html",
+    "website": null,
+    "email": "https://www.centralstate.edu/prospects/legacy/about/campus_map.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -519,7 +544,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://web4.audubon.org/local/sanctuary/aullwood/",
+    "website": null,
+    "email": "https://web4.audubon.org/local/sanctuary/aullwood/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Aullwood-Audubon-Center-and-Farm/74573913622",
       "twitter": null,
@@ -537,7 +563,8 @@
       "mailingAddress": null
     },
     "phone": "937-322-7668",
-    "website": "https://www.pennsylvaniahousemuseum.info/",
+    "website": null,
+    "email": "https://www.pennsylvaniahousemuseum.info/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -557,7 +584,8 @@
       "mailingAddress": "PO Box 449Delaware, OH 43015"
     },
     "phone": "740-363-1257",
-    "website": "https://www.perkins-observatory.org/",
+    "website": null,
+    "email": "https://www.perkins-observatory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -577,7 +605,8 @@
       "mailingAddress": "PO Box 549Put-In-Bay, OH 43456"
     },
     "phone": "419-285-2184",
-    "website": "https://www.nps.gov/",
+    "website": null,
+    "email": "https://www.nps.gov/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -597,7 +626,8 @@
       "mailingAddress": "P.O. Box 497West Liberty, OH 43357"
     },
     "phone": "937-465-2821",
-    "website": "mailto:macochee@logan.net",
+    "website": "https://www.piattcastles.org/",
+    "email": "mailto:macochee@logan.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -617,7 +647,8 @@
       "mailingAddress": null
     },
     "phone": "937-773-2522",
-    "website": "mailto:ahite@ohiohistory.org",
+    "website": "https://www.johnstonfarmohio.com/",
+    "email": "mailto:ahite@ohiohistory.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/johnstonfarm",
       "twitter": null,
@@ -643,7 +674,8 @@
       "mailingAddress": null
     },
     "phone": "614-837-8400",
-    "website": "https://www.edjeffersbarbermuseum.com/",
+    "website": null,
+    "email": "https://www.edjeffersbarbermuseum.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -663,7 +695,8 @@
       "mailingAddress": "Coshocton, OH 43812"
     },
     "phone": "740-622-0326",
-    "website": "mailto:acornell@pomerenearts.org",
+    "website": "https://www.pomerenearts.org/",
+    "email": "mailto:acornell@pomerenearts.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -683,7 +716,8 @@
       "mailingAddress": "2121 George Halas Dr, NWCanton, OH 44708"
     },
     "phone": null,
-    "website": "https://www.profootballhof.com/",
+    "website": null,
+    "email": "https://www.profootballhof.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -703,7 +737,8 @@
       "mailingAddress": "PO Box 1613Chillicothe, OH 45601"
     },
     "phone": "740-772-5783",
-    "website": "mailto:info@pumphouseartgallery.com",
+    "website": "https://www.pumphouseartgallery.com/",
+    "email": "mailto:info@pumphouseartgallery.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -723,7 +758,8 @@
       "mailingAddress": "PO Box 264Kalida, OH 45853"
     },
     "phone": "419-532-3008",
-    "website": "mailto:pchs@bright.net",
+    "website": "https://userpages.bright.net/~pchs/",
+    "email": "mailto:pchs@bright.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -743,7 +779,8 @@
       "mailingAddress": "222 High St.Hamilton, OH 45011"
     },
     "phone": "513-868-8336",
-    "website": "mailto:pyramid@pyramidhill.org",
+    "website": "https://www.pyramidhill.org/",
+    "email": "mailto:pyramid@pyramidhill.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -763,7 +800,8 @@
       "mailingAddress": null
     },
     "phone": "513-733-2787",
-    "website": "https://www.readingohio.org/reading-historical-society-2/",
+    "website": null,
+    "email": "https://www.readingohio.org/reading-historical-society-2/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/City-of-Reading-Ohio/187529471261041",
       "twitter": null,
@@ -784,7 +822,8 @@
       "mailingAddress": "PO Box 40187Bay Village, OH 44140"
     },
     "phone": "440-871-7338",
-    "website": "https://www.bayhistorical.com/",
+    "website": null,
+    "email": "https://www.bayhistorical.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -805,7 +844,8 @@
       "mailingAddress": "PO Box 956Rio Grande, OH 45674"
     },
     "phone": "740-245-7364",
-    "website": "mailto:info@rio.edu",
+    "website": "https://www.rio.edu/academics/page.php?ID=schooloffinearts",
+    "email": "mailto:info@rio.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -825,7 +865,8 @@
       "mailingAddress": "PO Box 176Ripley, OH 45167"
     },
     "phone": "937-392-4660",
-    "website": "https://www.ripleyohio.net/htm/museums.htm",
+    "website": null,
+    "email": "https://www.ripleyohio.net/htm/museums.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -847,7 +888,8 @@
       "mailingAddress": "PO Box 183Granville, OH 43023"
     },
     "phone": "740-587-0430",
-    "website": "mailto:annlowder@robbinshunter.org",
+    "website": "https://www.robbinshunter.org/",
+    "email": "mailto:annlowder@robbinshunter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -867,7 +909,8 @@
       "mailingAddress": "One Key PlazaCleveland, OH 44114"
     },
     "phone": "216-781-7625",
-    "website": "mailto:staff@rockhall.org",
+    "website": "https://www.rockhall.com/",
+    "email": "mailto:staff@rockhall.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/rockandrollhalloffame",
       "twitter": "https://www.twitter.com/rock_hall",
@@ -887,7 +930,8 @@
       "mailingAddress": "PO Box 40187Bay Village, OH 44140"
     },
     "phone": "440-871-7338",
-    "website": "https://www.case.edu/affil/NEOIMC/institution-pages/Rose-Hill.htm",
+    "website": null,
+    "email": "https://www.case.edu/affil/NEOIMC/institution-pages/Rose-Hill.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -907,7 +951,8 @@
       "mailingAddress": "Spiegel GroveFremont, OH 43420"
     },
     "phone": "419-332-2081",
-    "website": "mailto:admin@rbhayes.org",
+    "website": "https://www.rbhayes.org/",
+    "email": "mailto:admin@rbhayes.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -927,7 +972,8 @@
       "mailingAddress": null
     },
     "phone": "216-694-2000",
-    "website": "mailto:glscinfo@glsc.org",
+    "website": "https://www.glsc.org/mather_museum.php",
+    "email": "mailto:glscinfo@glsc.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -947,7 +993,8 @@
       "mailingAddress": null
     },
     "phone": "419-624-0274",
-    "website": "mailto:sanduskymaritime@bex.net",
+    "website": "https://www.sanduskymaritime.org/",
+    "email": "mailto:sanduskymaritime@bex.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -967,7 +1014,8 @@
       "mailingAddress": "Sandusky, OH 44870"
     },
     "phone": "419-625-3834",
-    "website": "https://www.sandusky.lib.oh.us/follett_house/",
+    "website": null,
+    "email": "https://www.sandusky.lib.oh.us/follett_house/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/folletthousemuseum",
       "twitter": null,
@@ -987,7 +1035,8 @@
       "mailingAddress": "PO Box 235Archbold, OH 43502"
     },
     "phone": null,
-    "website": "mailto:info@saudervillage.org",
+    "website": "https://www.saudervillage.com/",
+    "email": "mailto:info@saudervillage.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1005,7 +1054,8 @@
       "mailingAddress": "PO Box 11New Philadelphia, OH 44621"
     },
     "phone": "330-663-6610",
-    "website": "mailto:schoenbrunnvillage@gmail.com",
+    "website": "https://ohsweb.ohiohistory.org/places/ne06/",
+    "email": "mailto:schoenbrunnvillage@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1025,7 +1075,8 @@
       "mailingAddress": null
     },
     "phone": "740-671-3971",
-    "website": "mailto:info@imperialglass.org",
+    "website": "https://www.imperialglass.org/museum.htm",
+    "email": "mailto:info@imperialglass.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1050,7 +1101,8 @@
       "mailingAddress": null
     },
     "phone": "216-229-6527",
-    "website": "mailto:info@sculpturecenter.org",
+    "website": "https://www.sculpturecenter.org/",
+    "email": "mailto:info@sculpturecenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1070,7 +1122,8 @@
       "mailingAddress": null
     },
     "phone": "419-447-5955",
-    "website": "mailto:thoffert@seneca-county.com",
+    "website": "https://www.senecacountymuseum.com/",
+    "email": "mailto:thoffert@seneca-county.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1093,7 +1146,8 @@
       "mailingAddress": "16486 Wapakoneta Rd.PO Box 246Grand Rapids, OH 43522"
     },
     "phone": "419-290-0995",
-    "website": "mailto:martinnagy@aol.com",
+    "website": "https://seven-eagles.com/",
+    "email": "mailto:martinnagy@aol.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/SevenEaglesEARTHCenterOfficial/",
       "twitter": null,
@@ -1115,7 +1169,8 @@
       "mailingAddress": "PO Box 92Rockford, OH 45882"
     },
     "phone": null,
-    "website": "mailto:schs@rockfordohio.org",
+    "website": "https://www.shanescrossinghistorical.org/",
+    "email": "mailto:schs@rockfordohio.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1135,7 +1190,8 @@
       "mailingAddress": "76 Raymond Ave.Shelby, OH 44875"
     },
     "phone": null,
-    "website": "mailto:shelbymuseum@gmail.com",
+    "website": "https://www.shelbyohiomuseum.com/",
+    "email": "mailto:shelbymuseum@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1157,7 +1213,8 @@
       "mailingAddress": "Fairfield Heritage Association 7079 Old MillersportBaltimore, OH 43105"
     },
     "phone": "740-687-5891",
-    "website": "mailto:fairfieldheritage@sbcglobal.net",
+    "website": "https://www.shermanhouse.org/",
+    "email": "mailto:fairfieldheritage@sbcglobal.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1175,7 +1232,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.artcom.com/Museums/nv/sz/45220-24.htm",
+    "website": null,
+    "email": "https://www.artcom.com/Museums/nv/sz/45220-24.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1193,7 +1251,8 @@
       "mailingAddress": null
     },
     "phone": "216-271-9300",
-    "website": "https://www.slavicvillagehistory.org/",
+    "website": null,
+    "email": "https://www.slavicvillagehistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

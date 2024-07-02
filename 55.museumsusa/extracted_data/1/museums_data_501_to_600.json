@@ -6,7 +6,8 @@
       "mailingAddress": null
     },
     "phone": "352-873-5809",
-    "website": "https://www.cf.edu/",
+    "website": null,
+    "email": "https://www.cf.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -26,7 +27,8 @@
       "mailingAddress": null
     },
     "phone": "850-653-2500",
-    "website": "https://www.ammfl.org/",
+    "website": null,
+    "email": "https://www.ammfl.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -51,7 +53,8 @@
       "mailingAddress": "PO Box 186Baker, FL 32531"
     },
     "phone": "850-537-5714",
-    "website": "mailto:bakermuseum@aol.com",
+    "website": "https://www.bakerblockmuseum.org/",
+    "email": "mailto:bakermuseum@aol.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -69,7 +72,8 @@
       "mailingAddress": "400 N Ashley DriveCube 200Tampa, FL 33602"
     },
     "phone": "813-221-2222",
-    "website": "mailto:info@fmopa.org",
+    "website": "https://www.fmopa.org/",
+    "email": "mailto:info@fmopa.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

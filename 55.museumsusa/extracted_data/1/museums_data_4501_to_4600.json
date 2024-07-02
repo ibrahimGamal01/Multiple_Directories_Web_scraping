@@ -6,7 +6,8 @@
       "mailingAddress": "Ligonier, PA 15658"
     },
     "phone": "724-238-9701",
-    "website": "https://fortligonier.org/",
+    "website": null,
+    "email": "https://fortligonier.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -26,7 +27,8 @@
       "mailingAddress": null
     },
     "phone": "717-369-3318",
-    "website": "mailto:secretary@fortloudoun-pa.com",
+    "website": "https://www.fortloudoun-pa.com/",
+    "email": "mailto:secretary@fortloudoun-pa.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -44,7 +46,8 @@
       "mailingAddress": null
     },
     "phone": "610-436-9600",
-    "website": "mailto:info@helicoptermuseum.org",
+    "website": "https://www.helicoptermuseum.org/",
+    "email": "mailto:info@helicoptermuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -64,7 +67,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:donahue.irby@gmail.com",
+    "website": "https://www.fortmifflin.us/",
+    "email": "mailto:donahue.irby@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -88,7 +92,8 @@
       "mailingAddress": null
     },
     "phone": "724-329-5512",
-    "website": "https://www.nps.gov/fone/index.htm",
+    "website": null,
+    "email": "https://www.nps.gov/fone/index.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -106,7 +111,8 @@
       "mailingAddress": "RD 3, Box 391Altoona, PA 16601"
     },
     "phone": "814-946-0048",
-    "website": "https://fortroberdeau.org/",
+    "website": null,
+    "email": "https://fortroberdeau.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -124,7 +130,8 @@
       "mailingAddress": "Philadelphia, PA 19103"
     },
     "phone": "215-448-1200",
-    "website": "mailto:webteam@www.fi.edu",
+    "website": "https://www2.fi.edu/",
+    "email": "mailto:webteam@www.fi.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/search/?q=franklin+institute&init=quick#/TheFranklinInstitute?ref=search&sid=671735097.",
       "twitter": "https://www.twitter.com/thefranklin",
@@ -144,7 +151,8 @@
       "mailingAddress": null
     },
     "phone": "215-686-5322",
-    "website": "https://libwww.freelibrary.org/",
+    "website": null,
+    "email": "https://libwww.freelibrary.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Philadelphia-PA/Free-Library-of-Philadelphia/20680169865",
       "twitter": "https://www.twitter.com/FreeLibrary",
@@ -164,7 +172,8 @@
       "mailingAddress": "RR #2, Box 266Towanda, PA 18848"
     },
     "phone": "570-265-3376",
-    "website": "mailto:frenchazilum@epix.net",
+    "website": "https://www.frenchazilum.com/",
+    "email": "mailto:frenchazilum@epix.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -182,7 +191,8 @@
       "mailingAddress": "RR 2 Box 266Towanda, PA 18848"
     },
     "phone": "570-265-3376",
-    "website": "mailto:frenchazilum@epix.net",
+    "website": "https://www.frenchazilum.com/",
+    "email": "mailto:frenchazilum@epix.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -200,7 +210,8 @@
       "mailingAddress": "Coventryville, PA 19460"
     },
     "phone": "610-933-7577",
-    "website": "mailto:office@frenchandpickering.org",
+    "website": "https://www.frenchandpickering.org/",
+    "email": "mailto:office@frenchandpickering.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -218,7 +229,8 @@
       "mailingAddress": null
     },
     "phone": "412-371-0600",
-    "website": "mailto:info@TheFrickPittsburgh.org",
+    "website": "https://www.frickart.org/",
+    "email": "mailto:info@TheFrickPittsburgh.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -243,7 +255,8 @@
       "mailingAddress": "313 Walnut St.Philadelphia, PA 19106"
     },
     "phone": "215-861-4971",
-    "website": "https://www.friendsofindependence.org/",
+    "website": null,
+    "email": "https://www.friendsofindependence.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -263,7 +276,8 @@
       "mailingAddress": "431 Chestnut StreetPhiladelphia, PA 19106"
     },
     "phone": null,
-    "website": "https://www.amphilsoc.org/exhibitions",
+    "website": null,
+    "email": "https://www.amphilsoc.org/exhibitions",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -286,7 +300,8 @@
       "mailingAddress": "PO Box 68Robertsdale, PA 16674"
     },
     "phone": "814-635-2388",
-    "website": "mailto:info@febt.org",
+    "website": "https://febt.org/",
+    "email": "mailto:info@febt.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/FriendsOfTheEBT",
       "twitter": "https://www.twitter.com/febt",
@@ -308,7 +323,8 @@
       "mailingAddress": "PO Box 162Robesonia, PA 19551"
     },
     "phone": "484-955-7381",
-    "website": "mailto:rgartner30@gmail.com",
+    "website": "https://friendsoftherobesoniafurnace.org/",
+    "email": "mailto:rgartner30@gmail.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/friendsoffurnace/",
       "twitter": null,
@@ -333,7 +349,8 @@
       "mailingAddress": "P.O. Box 115McConnellsburg, PA 17233"
     },
     "phone": null,
-    "website": "https://www.fultonhistory.org/",
+    "website": null,
+    "email": "https://www.fultonhistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -353,7 +370,8 @@
       "mailingAddress": "P.O. BOX 476Green Lane, PA 18054"
     },
     "phone": "215-234-8953",
-    "website": "mailto:redmens_hall@goschenhoppen.org",
+    "website": "https://www.goschenhoppen.org/",
+    "email": "mailto:redmens_hall@goschenhoppen.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -373,7 +391,8 @@
       "mailingAddress": "P.O. BOX 507Gratz, PA 17030"
     },
     "phone": null,
-    "website": "mailto:society@gratzpa.org",
+    "website": "https://www.gratzpa.org/",
+    "email": "mailto:society@gratzpa.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -400,7 +419,8 @@
       "mailingAddress": null
     },
     "phone": "610-384-9282",
-    "website": "mailto:graystone@lukensnhd.org",
+    "website": "https://www.lukensnhd.org/",
+    "email": "mailto:graystone@lukensnhd.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -418,7 +438,8 @@
       "mailingAddress": null
     },
     "phone": "215-389-1776",
-    "website": "mailto:info@americanswedish.org",
+    "website": "https://www.americanswedish.org/",
+    "email": "mailto:info@americanswedish.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -439,7 +460,8 @@
       "mailingAddress": null
     },
     "phone": "800-722-4428",
-    "website": "mailto:info@gcuusa.com",
+    "website": "https://www.gcuusa.com/about-us.html",
+    "email": "mailto:info@gcuusa.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -457,7 +479,8 @@
       "mailingAddress": null
     },
     "phone": "215-545-0391",
-    "website": "mailto:ExecDir@GenPa.org",
+    "website": "https://www.genpa.org/",
+    "email": "mailto:ExecDir@GenPa.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -477,7 +500,8 @@
       "mailingAddress": null
     },
     "phone": "215-627-2332",
-    "website": "mailto:info@germansociety.org",
+    "website": "https://www.germansociety.org/",
+    "email": "mailto:info@germansociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -495,7 +519,8 @@
       "mailingAddress": null
     },
     "phone": "215-844-1683",
-    "website": "mailto:info@germantownhistory.org",
+    "website": "https://www.germantownhistory.org/",
+    "email": "mailto:info@germantownhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -515,7 +540,8 @@
       "mailingAddress": null
     },
     "phone": "215-843-0943",
-    "website": "mailto:gmht@meetinghouse.info",
+    "website": "https://www.meetinghouse.info/",
+    "email": "mailto:gmht@meetinghouse.info",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -535,7 +561,8 @@
       "mailingAddress": "P.O. Box 2804Gettysburg, PA 17325"
     },
     "phone": "717-334-0909",
-    "website": "https://www.nps.gov/PWR/sendmail.htm?o=%3B3%28%23%2FKZ%2B%20NJR1J1JA%5B1%2AEJ4%2E34J%5D2II%5F16%21%22X%0A&r=/gett/contacts.htm",
+    "website": null,
+    "email": "https://www.nps.gov/PWR/sendmail.htm?o=%3B3%28%23%2FKZ%2B%20NJR1J1JA%5B1%2AEJ4%2E34J%5D2II%5F16%21%22X%0A&r=/gett/contacts.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -555,7 +582,8 @@
       "mailingAddress": "P.O. Box MHellertown, PA 18055"
     },
     "phone": "610-838-8767",
-    "website": "https://www.lostcave.com/",
+    "website": null,
+    "email": "https://www.lostcave.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -573,7 +601,8 @@
       "mailingAddress": null
     },
     "phone": "215-632-5330",
-    "website": "mailto:info@glenfoerd.org",
+    "website": "https://www.glenfoerd.org/",
+    "email": "mailto:info@glenfoerd.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -591,7 +620,8 @@
       "mailingAddress": "BOX 757Bryn Athyn, PA 19009"
     },
     "phone": "267-502-2600",
-    "website": "mailto:info@glencairnmuseum.org",
+    "website": "https://www.glencairnmuseum.org/",
+    "email": "mailto:info@glencairnmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -611,7 +641,8 @@
       "mailingAddress": "PO Box 134Bath, PA 18014"
     },
     "phone": "610-837-9015",
-    "website": "mailto:govwolf@yahoo.com",
+    "website": "https://www.govwolf.org/",
+    "email": "mailto:govwolf@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -633,7 +664,8 @@
       "mailingAddress": null
     },
     "phone": "215-343-0965",
-    "website": "https://www.ushistory.org/graeme",
+    "website": null,
+    "email": "https://www.ushistory.org/graeme",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -653,7 +685,8 @@
       "mailingAddress": null
     },
     "phone": "215-289-6484",
-    "website": "mailto:garmuslib@verizon.net",
+    "website": "https://garmuslib.org/",
+    "email": "mailto:garmuslib@verizon.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -673,7 +706,8 @@
       "mailingAddress": "P O Box 401Bird-in-Hand, PA 17505"
     },
     "phone": "717-391-9780",
-    "website": "https://bird-in-hand.com/americanamuseum/",
+    "website": null,
+    "email": "https://bird-in-hand.com/americanamuseum/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -694,7 +728,8 @@
       "mailingAddress": "P.O. Box 127Waynesburg, PA 15370"
     },
     "phone": "724-627-3204",
-    "website": "mailto:gchsmuseum@windstream.net",
+    "website": "https://www.greenecountyhistory.com/",
+    "email": "mailto:gchsmuseum@windstream.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -714,7 +749,8 @@
       "mailingAddress": null
     },
     "phone": "570-282-2768",
-    "website": "https://www.greenfieldtownship.org/Historical%20Society/Historical%20Society%20Merchandise.pdf",
+    "website": null,
+    "email": "https://www.greenfieldtownship.org/Historical%20Society/Historical%20Society%20Merchandise.pdf",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -734,7 +770,8 @@
       "mailingAddress": "P.O. Box 25Greenville, PA 16125"
     },
     "phone": "724-588-3230",
-    "website": "mailto:homerpj@gmail.com",
+    "website": "https://www.greenvillehistoricalsociety.org/",
+    "email": "mailto:homerpj@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -757,7 +794,8 @@
       "mailingAddress": "P.O. Box 764Grove City, PA 16125"
     },
     "phone": "724-458-1798",
-    "website": "mailto:gcahs@zoominternet.net",
+    "website": "https://www.grovecityhistoricalsociety.org/",
+    "email": "mailto:gcahs@zoominternet.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -777,7 +815,8 @@
       "mailingAddress": null
     },
     "phone": "215-788-7891",
-    "website": "mailto:dm@grundymuseum.org",
+    "website": "https://www.grundymuseum.org/",
+    "email": "mailto:dm@grundymuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -795,7 +834,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:hcfgs1@comcast.net",
+    "website": "https://thenostalgialeague.com/fryglass/society.htm",
+    "email": "mailto:hcfgs1@comcast.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -813,7 +853,8 @@
       "mailingAddress": "P. O. Box 305Hanover, PA 17331"
     },
     "phone": null,
-    "website": "mailto:office@hanoverareahistoricalsociety.org",
+    "website": "https://www.hanoverareahistoricalsociety.org/",
+    "email": "mailto:office@hanoverareahistoricalsociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -834,7 +875,8 @@
       "mailingAddress": "P.O. BOX 1364Bryn Mawr, PA 19010"
     },
     "phone": "610-525-0201",
-    "website": "mailto:info@harritonhouse.org",
+    "website": "https://www.harritonhouse.org/",
+    "email": "mailto:info@harritonhouse.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -852,7 +894,8 @@
       "mailingAddress": null
     },
     "phone": "215-597-1877",
-    "website": "https://www.hatboro-pa.com/hathist.htm",
+    "website": null,
+    "email": "https://www.hatboro-pa.com/hathist.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -872,7 +915,8 @@
       "mailingAddress": null
     },
     "phone": "610-286-0388",
-    "website": "mailto:info@haycreek.org",
+    "website": "https://www.haycreek.org/",
+    "email": "mailto:info@haycreek.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -892,7 +936,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.nature.org/",
+    "website": null,
+    "email": "https://www.nature.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -910,7 +955,8 @@
       "mailingAddress": null
     },
     "phone": "412-675-8556",
-    "website": "mailto:elroda@mycs.org",
+    "website": "https://www.angoragardens.org/",
+    "email": "mailto:elroda@mycs.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -931,7 +977,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:rsmicker@hcpa.org",
+    "website": "https://www.hcpa.org/",
+    "email": "mailto:rsmicker@hcpa.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -949,7 +996,8 @@
       "mailingAddress": "HGAC, Inc. PO Box 4611Gettysburg, PA 17325"
     },
     "phone": "717-334-7854",
-    "website": "mailto:bwk@gmail..com",
+    "website": "https://www.hgaconline.org/",
+    "email": "mailto:bwk@gmail..com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -969,7 +1017,8 @@
       "mailingAddress": null
     },
     "phone": "724-443-2481",
-    "website": "https://www.manta.com/c/mt441p5/richland-history-landmarks",
+    "website": null,
+    "email": "https://www.manta.com/c/mt441p5/richland-history-landmarks",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -987,7 +1036,8 @@
       "mailingAddress": null
     },
     "phone": "215-757-1888",
-    "website": "https://hla.buxcom.net/",
+    "website": null,
+    "email": "https://hla.buxcom.net/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1007,7 +1057,8 @@
       "mailingAddress": "Wilkes-Barre, PA 18701"
     },
     "phone": "570-822-1727",
-    "website": "https://luzernehistory.org/",
+    "website": null,
+    "email": "https://luzernehistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1027,7 +1078,8 @@
       "mailingAddress": null
     },
     "phone": "215-925-7788",
-    "website": "mailto:pastor@historicstgeorges.org",
+    "website": "https://www.historicstgeorges.org/",
+    "email": "mailto:pastor@historicstgeorges.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1047,7 +1099,8 @@
       "mailingAddress": "19 MONUMENT AVENUEMalvern, PA 19355"
     },
     "phone": "610-640-2667",
-    "website": "mailto:info@HistoricSugartown.org",
+    "website": "https://historicsugartown.org/",
+    "email": "mailto:info@HistoricSugartown.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1067,7 +1120,8 @@
       "mailingAddress": "27 PLEASANT LANELevittown, PA 19054"
     },
     "phone": "215-547-7823",
-    "website": "https://www.threearches.org/",
+    "website": null,
+    "email": "https://www.threearches.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1087,7 +1141,8 @@
       "mailingAddress": "Stroudsburg, PA 18360"
     },
     "phone": "570-992-6161",
-    "website": "mailto:farm@quietvalley.org",
+    "website": "https://www.quietvalley.org/",
+    "email": "mailto:farm@quietvalley.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1107,7 +1162,8 @@
       "mailingAddress": "P.O. BOX 1101Bensalem, PA 19020"
     },
     "phone": "215-639-6575",
-    "website": "mailto:svansant@thsbt.org",
+    "website": "https://www.thsbt.org/",
+    "email": "mailto:svansant@thsbt.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1127,7 +1183,8 @@
       "mailingAddress": null
     },
     "phone": "215-646-6065",
-    "website": "https://www.amblerhistory.com/",
+    "website": null,
+    "email": "https://www.amblerhistory.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1147,7 +1204,8 @@
       "mailingAddress": null
     },
     "phone": "215-743-6030",
-    "website": "mailto:info@frankfordhistoricalsociety.org",
+    "website": "https://www.frankfordhistoricalsociety.org/",
+    "email": "mailto:info@frankfordhistoricalsociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1167,7 +1225,8 @@
       "mailingAddress": "P.O. Box 260Hilltown, PA 18927"
     },
     "phone": "215-453-6000",
-    "website": "mailto:info@hilltown.org",
+    "website": "https://www.hilltown.org/",
+    "email": "mailto:info@hilltown.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1187,7 +1246,8 @@
       "mailingAddress": "P.O. Box 311Blue Bell, PA 19422"
     },
     "phone": "215-646-7315",
-    "website": "mailto:hermoni@verizon.net",
+    "website": "https://histsocwhitpain.org/",
+    "email": "mailto:hermoni@verizon.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

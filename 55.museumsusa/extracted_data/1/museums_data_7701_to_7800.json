@@ -6,7 +6,8 @@
       "mailingAddress": null
     },
     "phone": "864-355-8900",
-    "website": "mailto:education@ropermountain.org",
+    "website": "https://www.ropermountain.org/",
+    "email": "mailto:education@ropermountain.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -35,7 +36,8 @@
       "mailingAddress": null
     },
     "phone": "864-427-5966",
-    "website": "mailto:rosehill@scprt.com",
+    "website": "https://www.southcarolinaparks.com/rosehill/introduction.aspx",
+    "email": "mailto:rosehill@scprt.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -55,7 +57,8 @@
       "mailingAddress": null
     },
     "phone": "803-478-2217",
-    "website": "mailto:santee@fws.gov",
+    "website": "https://www.fws.gov/santee/",
+    "email": "mailto:santee@fws.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -80,7 +83,8 @@
       "mailingAddress": "P.O. Box 130001Charleston, SC 29413"
     },
     "phone": "843-720-1990",
-    "website": "mailto:guestservices@scaquarium.org",
+    "website": "https://scaquarium.org/default.aspx",
+    "email": "mailto:guestservices@scaquarium.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -100,7 +104,8 @@
       "mailingAddress": null
     },
     "phone": "803-896-6196",
-    "website": "https://scdah.sc.gov/Pages/default.aspx",
+    "website": null,
+    "email": "https://scdah.sc.gov/Pages/default.aspx",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/South-Carolina-Department-of-Archives-and-History/118232443651",
       "twitter": "https://www.twitter.com/#!/SCArchives",
@@ -118,7 +123,8 @@
       "mailingAddress": null
     },
     "phone": "803-484-4497",
-    "website": "mailto:SCCOTTONMUS@FTC-I.NET",
+    "website": "https://www.sccotton.org/",
+    "email": "mailto:SCCOTTONMUS@FTC-I.NET",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -138,7 +144,8 @@
       "mailingAddress": "P. O. Box 2115Myrtle Beach, SC 29578"
     },
     "phone": "843-626-7444",
-    "website": "https://theofficialschalloffame.com/",
+    "website": null,
+    "email": "https://theofficialschalloffame.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -158,7 +165,8 @@
       "mailingAddress": "PO Box 5287Columbia, SC 29204"
     },
     "phone": "803-771-2477",
-    "website": "mailto:info@schumanities.org",
+    "website": "https://www.schumanities.org/",
+    "email": "mailto:info@schumanities.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/The-Humanities-Council-SC/135389839848814?ref=ts&v=wall",
       "twitter": null,
@@ -178,7 +186,8 @@
       "mailingAddress": null
     },
     "phone": "803-806-4440",
-    "website": "https://scmilitarymuseum.com/",
+    "website": null,
+    "email": "https://scmilitarymuseum.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -198,7 +207,8 @@
       "mailingAddress": "P. O. Box 7246Columbia, SC 29202"
     },
     "phone": null,
-    "website": "mailto:info@scrm.org",
+    "website": "https://www.scrm.org/",
+    "email": "mailto:info@scrm.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -216,7 +226,8 @@
       "mailingAddress": "301 Gervais St, Loading Zone DColumbia, SC 29201"
     },
     "phone": "803-898-4921",
-    "website": "mailto:webmaster@scmuseum.org",
+    "website": "https://www.southcarolinastatemuseum.org/",
+    "email": "mailto:webmaster@scmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -239,7 +250,8 @@
       "mailingAddress": "385 Spring StreetSpartanburg, SC 29301"
     },
     "phone": "864-582-7616",
-    "website": "mailto:museuminfo@spartanburgartmuseum.org",
+    "website": "https://www.spartanburgartmuseum.org/",
+    "email": "mailto:museuminfo@spartanburgartmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -264,7 +276,8 @@
       "mailingAddress": "PO Box 887Spartanburg, SC 29304"
     },
     "phone": "864-596-3501",
-    "website": "mailto:regionalmuseum@spartanburghistory.org",
+    "website": "https://www.spartanburghistory.org/",
+    "email": "mailto:regionalmuseum@spartanburghistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -284,7 +297,8 @@
       "mailingAddress": null
     },
     "phone": "864-583-2777",
-    "website": "mailto:science@spartanburgsciencecenter.org",
+    "website": "https://www.spartanburgsciencecenter.org/",
+    "email": "mailto:science@spartanburgsciencecenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -304,7 +318,8 @@
       "mailingAddress": "P. O. Box 1873Summerville, SC 29484"
     },
     "phone": "843-875-9666",
-    "website": "https://www.summervilledorchestermuseum.org/",
+    "website": null,
+    "email": "https://www.summervilledorchestermuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -322,7 +337,8 @@
       "mailingAddress": "P. O. Box 1456Sumter, SC 29151"
     },
     "phone": "803-775-0908",
-    "website": "mailto:rgood@sumtercountymuseum.org",
+    "website": "https://www.sumtercountymuseum.org/",
+    "email": "mailto:rgood@sumtercountymuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Sumter-County-Museum/118526471506807",
       "twitter": null,
@@ -351,7 +367,8 @@
       "mailingAddress": "P. O. Box 1316Sumter, SC 29151"
     },
     "phone": "803-775-0543",
-    "website": "mailto:scgadirector@gmail.com",
+    "website": "https://www.sumtergallery.org/",
+    "email": "mailto:scgadirector@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -371,7 +388,8 @@
       "mailingAddress": null
     },
     "phone": "843-953-6846",
-    "website": "mailto:archives@citadel.edu",
+    "website": "https://www3.citadel.edu/museum/",
+    "email": "mailto:archives@citadel.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -391,7 +409,8 @@
       "mailingAddress": null
     },
     "phone": "843-722-2996",
-    "website": "mailto:info@charlestonmuseum.org",
+    "website": "https://www.charlestonmuseum.org/home",
+    "email": "mailto:info@charlestonmuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/charlestonmuseum",
       "twitter": "https://www.twitter.com/chasmuseum",
@@ -411,7 +430,8 @@
       "mailingAddress": "P. O. Drawer 220Union, SC 29379"
     },
     "phone": "864-429-5081",
-    "website": "mailto:uncomus@bellsouth.net",
+    "website": "https://unioncountymuseum.com/",
+    "email": "mailto:uncomus@bellsouth.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -436,7 +456,8 @@
       "mailingAddress": "P. O. Box 400Wagener, SC 29164"
     },
     "phone": "803-564-3412",
-    "website": "https://www.wagenersc.com/wagener-museum",
+    "website": null,
+    "email": "https://www.wagenersc.com/wagener-museum",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -454,7 +475,8 @@
       "mailingAddress": "P. O. Box 887Spartanburg, SC 29304"
     },
     "phone": "864-596-3501",
-    "website": "mailto:scha@spartanburghistory.org",
+    "website": "https://www.spartanburghistory.org/",
+    "email": "mailto:scha@spartanburghistory.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/spartanburghistory",
       "twitter": "https://www.twitter.com/sptbghistory",
@@ -476,7 +498,8 @@
       "mailingAddress": null
     },
     "phone": "803-323-2493",
-    "website": "mailto:derksenk@winthrop.edu",
+    "website": "https://www2.winthrop.edu/vpa/galleries/WUG_F11.htm",
+    "email": "mailto:derksenk@winthrop.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/home.php#!/winthrop.galleries",
       "twitter": "https://www.twitter.com/#!/winthropgallery",
@@ -496,7 +519,8 @@
       "mailingAddress": "P.O. Box 444Pendleton, SC 29670"
     },
     "phone": "803-331-0760",
-    "website": "mailto:info@pendletonhistoricfoundation.org",
+    "website": "https://www.pendletonhistoricfoundation.org/",
+    "email": "mailto:info@pendletonhistoricfoundation.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -519,7 +543,8 @@
       "mailingAddress": "Columbia, SC 29201"
     },
     "phone": "803-252-7742",
-    "website": "https://www.historiccolumbia.org/site/visit/houses/woodrow-wilson-family-home/overview/index",
+    "website": null,
+    "email": "https://www.historiccolumbia.org/site/visit/houses/woodrow-wilson-family-home/overview/index",
     "socialLinks": {
       "facebook": "https://www.facebook.com/HistoricColumbia",
       "twitter": "https://www.twitter.com/histcolumbia",
@@ -537,7 +562,8 @@
       "mailingAddress": "P.O. Box 530Edgefield, SC 29824"
     },
     "phone": "803-637-3106",
-    "website": "mailto:info@nwtf.net",
+    "website": "https://www.nwtf.org/",
+    "email": "mailto:info@nwtf.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/http://www.nwtf.org/contests/rafter_t_ranch_video_contest.html",
       "twitter": null,
@@ -557,7 +583,8 @@
       "mailingAddress": "P.O. Box 158Beech Island, SC 29842"
     },
     "phone": "803-867-3600",
-    "website": "mailto:bihs@comcast.net",
+    "website": "https://www.beech-islandhistory.org/",
+    "email": "mailto:bihs@comcast.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -577,7 +604,8 @@
       "mailingAddress": null
     },
     "phone": "864-936-7921",
-    "website": "https://www.nps.gov/kimo/index.htm",
+    "website": null,
+    "email": "https://www.nps.gov/kimo/index.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -597,7 +625,8 @@
       "mailingAddress": null
     },
     "phone": "803-776-4396",
-    "website": "https://www.nps.gov/cong",
+    "website": null,
+    "email": "https://www.nps.gov/cong",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -618,7 +647,8 @@
       "mailingAddress": "P.O. Box 418Ninety Six, SC 29666"
     },
     "phone": "864-543-4068",
-    "website": "https://www.nps.gov/nisi/index.htm",
+    "website": null,
+    "email": "https://www.nps.gov/nisi/index.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -638,7 +668,8 @@
       "mailingAddress": "P.O. Box 335Belton, SC 29627"
     },
     "phone": null,
-    "website": "mailto:beltonmuseum@bellsouth.net",
+    "website": "https://www.beltonsc.com/south.htm",
+    "email": "mailto:beltonmuseum@bellsouth.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -656,7 +687,8 @@
       "mailingAddress": null
     },
     "phone": "843-953-4422",
-    "website": "mailto:halsey@cofc.edu",
+    "website": "https://halsey.cofc.edu/",
+    "email": "mailto:halsey@cofc.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/halseyinstitute/",
       "twitter": "https://www.twitter.com/HalseyArt",
@@ -678,7 +710,8 @@
       "mailingAddress": null
     },
     "phone": "843-723-3225",
-    "website": "https://www.southcarolinahistoricalsociety.org/",
+    "website": null,
+    "email": "https://www.southcarolinahistoricalsociety.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -698,7 +731,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.clemson.edu/centers-institutes/cva/",
+    "website": null,
+    "email": "https://www.clemson.edu/centers-institutes/cva/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -718,7 +752,8 @@
       "mailingAddress": "U.S. Army Financial Management School10000 Hampton ParkwayFort Jackson, SC 29207"
     },
     "phone": "803-751-3771",
-    "website": "mailto:robert.s.mcconnell4.civ@mail.mil",
+    "website": "https://www.finance.army.mil/Museum/index.html",
+    "email": "mailto:robert.s.mcconnell4.civ@mail.mil",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -739,7 +774,8 @@
       "mailingAddress": null
     },
     "phone": "843-546-9361",
-    "website": "mailto:hampton@scprt.com",
+    "website": "https://www.southcarolinaparks.com/hampton/introduction.aspx",
+    "email": "mailto:hampton@scprt.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -757,7 +793,8 @@
       "mailingAddress": "318 Wichman StWalterboro, SC 29488"
     },
     "phone": "843-549-0011",
-    "website": "mailto:info@scartisanscenter.com",
+    "website": "https://www.scartisanscenter.com/",
+    "email": "mailto:info@scartisanscenter.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -777,7 +814,8 @@
       "mailingAddress": "P.O. Box 887Spartanburg, SC 29304"
     },
     "phone": "864-596-3501",
-    "website": "mailto:scha@spartanburghistory.org",
+    "website": "https://www.spartanburghistory.org/seayhouse.php",
+    "email": "mailto:scha@spartanburghistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -800,7 +838,8 @@
       "mailingAddress": null
     },
     "phone": "608-363-2000",
-    "website": "mailto:webreq@beloit.edu",
+    "website": "https://www.beloit.edu/logan/",
+    "email": "mailto:webreq@beloit.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -820,7 +859,8 @@
       "mailingAddress": null
     },
     "phone": "414-354-6453",
-    "website": "mailto:browndeerhistoricalsociety@gmail.com",
+    "website": "https://www.browndeerwi.org/",
+    "email": "mailto:browndeerhistoricalsociety@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -840,7 +880,8 @@
       "mailingAddress": "P. O. 416Cable, WI 54821"
     },
     "phone": "715-798-3890",
-    "website": "mailto:info@cablemuseum.org",
+    "website": "https://www.cablemuseum.org/",
+    "email": "mailto:info@cablemuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -860,7 +901,8 @@
       "mailingAddress": null
     },
     "phone": "262-375-3676",
-    "website": "mailto:CCCMail@ArtMusicHistory.org",
+    "website": "https://www.cedarburgculturalcenter.org/",
+    "email": "mailto:CCCMail@ArtMusicHistory.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/#!/pages/Cedarburg-Cultural-Center/274772584957",
       "twitter": null,
@@ -884,7 +926,8 @@
       "mailingAddress": null
     },
     "phone": "608-356-8341",
-    "website": "mailto:ringmaster@circusworldmuseum.com",
+    "website": "https://www.wisconsinhistory.org/circusworld/index.asp",
+    "email": "mailto:ringmaster@circusworldmuseum.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Wisconsin-Historic-Sites-Museums/105175346181297?v=wall&ref=ts",
       "twitter": "https://www.twitter.com/#!/WISitesMuseums",
@@ -904,7 +947,8 @@
       "mailingAddress": null
     },
     "phone": "920-887-1266",
-    "website": "mailto:dchs@powercom.net",
+    "website": "https://www2.powercom.net/~dchs/Index.htm",
+    "email": "mailto:dchs@powercom.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -924,7 +968,8 @@
       "mailingAddress": null
     },
     "phone": "920-743-5958",
-    "website": "mailto:info@dcmm.org",
+    "website": "https://www.dcmm.org/",
+    "email": "mailto:info@dcmm.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -946,7 +991,8 @@
       "mailingAddress": "Box 1652Superior, WI 54880"
     },
     "phone": "715-392-8449",
-    "website": "mailto:dchs@douglashistory.org",
+    "website": "https://www.douglashistory.org/",
+    "email": "mailto:dchs@douglashistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -966,7 +1012,8 @@
       "mailingAddress": "P. O. Box 437Menomonie, WI 54751"
     },
     "phone": "715-232-8685",
-    "website": "mailto:dchs@dunnhistory.org",
+    "website": "https://www.dunnhistory.org/",
+    "email": "mailto:dchs@dunnhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -986,7 +1033,8 @@
       "mailingAddress": "PO Box 3086Oshkosh, WI 54903"
     },
     "phone": "920-426-4818",
-    "website": "mailto:museum@eaa.org",
+    "website": "https://www.airventuremuseum.org/",
+    "email": "mailto:museum@eaa.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1013,7 +1061,8 @@
       "mailingAddress": "800 University AvenueMadison, WI 53706"
     },
     "phone": null,
-    "website": "https://www.chazen.wisc.edu/",
+    "website": null,
+    "email": "https://www.chazen.wisc.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1033,7 +1082,8 @@
       "mailingAddress": "P. O. Box 165Ephraim, WI 54211"
     },
     "phone": "920-854-9688",
-    "website": "mailto:info@ephraim.org",
+    "website": "https://www.ephraim.org/",
+    "email": "mailto:info@ephraim.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1053,7 +1103,8 @@
       "mailingAddress": "Fond du Lac, WI 54935"
     },
     "phone": "920-922-0991",
-    "website": "https://www.fdl.com/history/",
+    "website": null,
+    "email": "https://www.fdl.com/history/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1073,7 +1124,8 @@
       "mailingAddress": "P. O. Box 323Fish Creek, WI 54212"
     },
     "phone": "920-868-2091",
-    "website": "mailto:noblehousefc@gmail.com",
+    "website": "https://www.historicnoblehouse.org/",
+    "email": "mailto:noblehousefc@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1093,7 +1145,8 @@
       "mailingAddress": "P. O. Box 12644Green Bay, WI 54307"
     },
     "phone": "920-490-9457",
-    "website": "mailto:info@gbbg.org",
+    "website": "https://www.gbbg.org/",
+    "email": "mailto:info@gbbg.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1113,7 +1166,8 @@
       "mailingAddress": "P. O. Box 147Wisconsin Dells, WI 53965"
     },
     "phone": "608-253-3523",
-    "website": "mailto:hhbennett@wisconsinhistory.org",
+    "website": "https://hhbennettstudio.wisconsinhistory.org/",
+    "email": "mailto:hhbennett@wisconsinhistory.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Wisconsin-Historic-Sites-Museums/105175346181297?v=wall&ref=ts",
       "twitter": "https://www.twitter.com/#!/WISitesMuseums",
@@ -1133,7 +1187,8 @@
       "mailingAddress": null
     },
     "phone": "262-673-7999",
-    "website": "https://wisconsinautomuseum.com/",
+    "website": null,
+    "email": "https://wisconsinautomuseum.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1153,7 +1208,8 @@
       "mailingAddress": "625 W. Prospect AvenueAppleton, WI 54911"
     },
     "phone": "920-730-8204",
-    "website": "mailto:hearthdirector@att.net",
+    "website": "https://www.hearthstonemuseum.org/",
+    "email": "mailto:hearthdirector@att.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1173,7 +1229,8 @@
       "mailingAddress": "Fort Atkinson, WI 53538"
     },
     "phone": "920-563-7769",
-    "website": "mailto:info@hoardmuseum.org",
+    "website": "https://www.hoardmuseum.org/page.asp?content=1.asp",
+    "email": "mailto:info@hoardmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1191,7 +1248,8 @@
       "mailingAddress": "608 New York AvenueSheboygan, WI 53082"
     },
     "phone": "920-458-6144",
-    "website": "mailto:rkohler@jmkac.org",
+    "website": "https://www.jmkac.org/",
+    "email": "mailto:rkohler@jmkac.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1211,7 +1269,8 @@
       "mailingAddress": "Kenosha, WI 53143"
     },
     "phone": "262-654-5770",
-    "website": "mailto:tschleif@kenoshahistorycenter.org",
+    "website": "https://www.kenoshahistorycenter.org/",
+    "email": "mailto:tschleif@kenoshahistorycenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1231,7 +1290,8 @@
       "mailingAddress": null
     },
     "phone": "262-653-4140",
-    "website": "mailto:pgregorski@kenosha.org",
+    "website": "https://museums.kenosha.org/public/",
+    "email": "mailto:pgregorski@kenosha.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/KPMKenosha",
       "twitter": null,
@@ -1260,7 +1320,8 @@
       "mailingAddress": null
     },
     "phone": "715-845-7010",
-    "website": "mailto:museum@lywam.org",
+    "website": "https://www.lywam.org/",
+    "email": "mailto:museum@lywam.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1280,7 +1341,8 @@
       "mailingAddress": null
     },
     "phone": "715-536-5652",
-    "website": "mailto:merrillhs@frontier.com",
+    "website": "https://www.merrillhistoricalsoc.com/",
+    "email": "mailto:merrillhs@frontier.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1303,7 +1365,8 @@
       "mailingAddress": "375 City Center, Suite KP.O. Box 2194Oshkosh, WI 54903"
     },
     "phone": "920-426-8615",
-    "website": "mailto:thomas.schultz@mvmwisconsin.com",
+    "website": "https://mvmwisconsin.com/",
+    "email": "mailto:thomas.schultz@mvmwisconsin.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1321,7 +1384,8 @@
       "mailingAddress": null
     },
     "phone": "920-746-0707",
-    "website": "mailto:bmam@dcwis.com",
+    "website": "https://www.millerartmuseum.org/",
+    "email": "mailto:bmam@dcwis.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1341,7 +1405,8 @@
       "mailingAddress": "Milton House MuseumMilton, WI 53563"
     },
     "phone": "608-868-7772",
-    "website": "mailto:miltonhouse@miltonhouse.org",
+    "website": "https://www.miltonhouse.org/",
+    "email": "mailto:miltonhouse@miltonhouse.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1361,7 +1426,8 @@
       "mailingAddress": null
     },
     "phone": "414-224-3200",
-    "website": "mailto:mam@mam.org",
+    "website": "https://mam.org/",
+    "email": "mailto:mam@mam.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1381,7 +1447,8 @@
       "mailingAddress": "910 N. Old World Third StreetMilwaukee, WI 53203"
     },
     "phone": "414-273-8288",
-    "website": "https://www.milwaukeecountyhistsoc.org/",
+    "website": null,
+    "email": "https://www.milwaukeecountyhistsoc.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1405,7 +1472,8 @@
       "mailingAddress": null
     },
     "phone": "414-256-5414",
-    "website": "https://www.milwaukeezoo.org/",
+    "website": null,
+    "email": "https://www.milwaukeezoo.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

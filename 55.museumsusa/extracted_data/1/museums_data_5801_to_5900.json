@@ -6,7 +6,8 @@
       "mailingAddress": "Harrington, DE 19952"
     },
     "phone": "302-398-3729",
-    "website": "mailto:taylormessick@taylormessick.com",
+    "website": "https://www.taylormessick.com/messick-museum/",
+    "email": "mailto:taylormessick@taylormessick.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -24,7 +25,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.destatemuseums.org/",
+    "website": null,
+    "email": "https://www.destatemuseums.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -42,7 +44,8 @@
       "mailingAddress": "Dover, DE 19901"
     },
     "phone": "302-736-7400",
-    "website": "https://history.delaware.gov/preservation/",
+    "website": null,
+    "email": "https://history.delaware.gov/preservation/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -60,7 +63,8 @@
       "mailingAddress": null
     },
     "phone": "302-875-1344",
-    "website": "mailto:comments@laurelhistoricalsociety.com",
+    "website": "https://www.laurelhistoricalsociety.com/",
+    "email": "mailto:comments@laurelhistoricalsociety.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -78,7 +82,8 @@
       "mailingAddress": "P.O. Box 8Port Penn, DE 19731"
     },
     "phone": "302-834-3669",
-    "website": "mailto:portpenn@gmail.com",
+    "website": "https://www.portpenn.org/",
+    "email": "mailto:portpenn@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -98,7 +103,8 @@
       "mailingAddress": "RD4 Box 396Georgetown, DE 19947"
     },
     "phone": null,
-    "website": "https://www.marvelmuseum.com/",
+    "website": null,
+    "email": "https://www.marvelmuseum.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -116,7 +122,8 @@
       "mailingAddress": null
     },
     "phone": "302-734-1736",
-    "website": "mailto:csmall@visitdover.com",
+    "website": "https://www.visitdover.com/",
+    "email": "mailto:csmall@visitdover.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -142,7 +149,8 @@
       "mailingAddress": "P.O. Box 240Georgetown, DE 19947"
     },
     "phone": "302-856-1818",
-    "website": "mailto:southdel@visitsoutherndelaware.com",
+    "website": "https://www.visitsoutherndelaware.com/",
+    "email": "mailto:southdel@visitsoutherndelaware.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Southern-Delaware-Tourism/109992785729660",
       "twitter": "https://www.twitter.com/VisitSouthDel",
@@ -160,7 +168,8 @@
       "mailingAddress": "6812 Williamsville RdMilford, DE 19963"
     },
     "phone": "302-424-1080",
-    "website": "https://www.downtownmilford.org/milford_museum.html",
+    "website": null,
+    "email": "https://www.downtownmilford.org/milford_museum.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -178,7 +187,8 @@
       "mailingAddress": null
     },
     "phone": "302-655-7161",
-    "website": "mailto:deinfo@dehistory.org",
+    "website": "https://www.hsd.org/",
+    "email": "mailto:deinfo@dehistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -198,7 +208,8 @@
       "mailingAddress": "P.O. Box 420Dagsboro, DE 19939"
     },
     "phone": null,
-    "website": "https://www.princegeorgeschapelde.org/",
+    "website": null,
+    "email": "https://www.princegeorgeschapelde.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -216,7 +227,8 @@
       "mailingAddress": "PO Box 749Anadarko, OK 73005"
     },
     "phone": null,
-    "website": "https://www.doi.gov/iacb/museums/museum_s_plains.html",
+    "website": null,
+    "email": "https://www.doi.gov/iacb/museums/museum_s_plains.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -236,7 +248,8 @@
       "mailingAddress": "PO Box 101Apache, OK 73006"
     },
     "phone": "580-588-3392",
-    "website": "https://www.travelok.com/listings/view.profile/id.218",
+    "website": null,
+    "email": "https://www.travelok.com/listings/view.profile/id.218",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -259,7 +272,8 @@
       "mailingAddress": "PO Box 82345Chickasha, OK 73018"
     },
     "phone": "405-224-3140",
-    "website": "https://usao.edu/faculty/layne-thrift",
+    "website": null,
+    "email": "https://usao.edu/faculty/layne-thrift",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -279,7 +293,8 @@
       "mailingAddress": "Norman, OK 73019"
     },
     "phone": "405-325-3272",
-    "website": "mailto:museuminfo@ou.edu",
+    "website": "https://www.ou.edu/fjjma",
+    "email": "mailto:museuminfo@ou.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Fred-Jones-Jr-Museum-of-Art/20828418223",
       "twitter": "https://www.twitter.com/#!/fjjma",
@@ -299,7 +314,8 @@
       "mailingAddress": "PO Box 221Coyle, OK 73027"
     },
     "phone": "405-547-2402",
-    "website": "mailto:gallery@iowanation.org",
+    "website": "https://www.iowanation.org/home/tribal-commerce/enterprises/gallery",
+    "email": "mailto:gallery@iowanation.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -317,7 +333,8 @@
       "mailingAddress": null
     },
     "phone": "405-340-0078",
-    "website": "mailto:edmondhistory@edmondhistory.org",
+    "website": "https://www.edmondhistory.org/museum-information/",
+    "email": "mailto:edmondhistory@edmondhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -337,7 +354,8 @@
       "mailingAddress": null
     },
     "phone": "405-341-2143",
-    "website": "mailto:DLGALLERY@AOL.COM",
+    "website": "https://www.deanlively.com/",
+    "email": "mailto:DLGALLERY@AOL.COM",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -355,7 +373,8 @@
       "mailingAddress": "El Reno, OK 73036"
     },
     "phone": "405-262-2552",
-    "website": "https://www.redlandscc.edu/index.php?q=content/art-gallery",
+    "website": null,
+    "email": "https://www.redlandscc.edu/index.php?q=content/art-gallery",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -375,7 +394,8 @@
       "mailingAddress": "PO Box 1199El Reno, OK 73036"
     },
     "phone": "405-262-3987",
-    "website": "mailto:info@fortreno.org",
+    "website": "https://www.fortreno.org/",
+    "email": "mailto:info@fortreno.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -393,7 +413,8 @@
       "mailingAddress": null
     },
     "phone": "405-282-4123",
-    "website": "mailto:publishingmuseum@yahoo.com",
+    "website": "https://www.okhistory.org/sites/publishingmuseum",
+    "email": "mailto:publishingmuseum@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -413,7 +434,8 @@
       "mailingAddress": "Guthrie, OK 73044"
     },
     "phone": "405-282-1889",
-    "website": "mailto:guthriecomplex@okhistory.org",
+    "website": "https://www.okhistory.org/outreach/museums/territorialmuseum.html",
+    "email": "mailto:guthriecomplex@okhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -433,7 +455,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.nationallightermuseum.com/",
+    "website": null,
+    "email": "https://www.nationallightermuseum.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -453,7 +476,8 @@
       "mailingAddress": "PO Box 70Guthrie, OK 73044"
     },
     "phone": "405-282-1281",
-    "website": "mailto:gsrite@sbcglobal.net",
+    "website": "https://www.guthriescottishrite.org/",
+    "email": "mailto:gsrite@sbcglobal.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -473,7 +497,8 @@
       "mailingAddress": "PO Box 1512Guthrie, OK 73044"
     },
     "phone": "405-282-6000",
-    "website": "mailto:melissa.trolley@yahoo.com",
+    "website": "https://www.logancountyhistoricalsociety.com/",
+    "email": "mailto:melissa.trolley@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -498,7 +523,8 @@
       "mailingAddress": "P.O. Box 846Harrah, OK 73045"
     },
     "phone": "405-454-6911",
-    "website": "mailto:HarrahHistoricalSociety@gmail.com",
+    "website": "https://www.harrahhistoricalsociety.com/",
+    "email": "mailto:HarrahHistoricalSociety@gmail.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/harrahhistory",
       "twitter": null,
@@ -518,7 +544,8 @@
       "mailingAddress": null
     },
     "phone": "405-424-8222",
-    "website": "mailto:oklahoma.museum@att.net",
+    "website": "https://www.oklahomarailwaymuseum.org/",
+    "email": "mailto:oklahoma.museum@att.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -540,7 +567,8 @@
       "mailingAddress": "PO Box 663Noble, OK 73068"
     },
     "phone": "405-872-9838",
-    "website": "mailto:okart73071@yahoo.com",
+    "website": "https://www.roserockmuseum.com/",
+    "email": "mailto:okart73071@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -560,7 +588,8 @@
       "mailingAddress": "PO Box 423Norman, OK 73069"
     },
     "phone": "405-307-9320",
-    "website": "https://www.pasnorman.org/",
+    "website": null,
+    "email": "https://www.pasnorman.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -580,7 +609,8 @@
       "mailingAddress": null
     },
     "phone": "405-325-4712",
-    "website": "https://www.snomnh.ou.edu/",
+    "website": null,
+    "email": "https://www.snomnh.ou.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": "https://www.twitter.com/SamNobleMuseum",
@@ -600,7 +630,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.paulsvalley.com/historical.html",
+    "website": null,
+    "email": "https://www.paulsvalley.com/historical.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -620,7 +651,8 @@
       "mailingAddress": null
     },
     "phone": "580-336-2405",
-    "website": "mailto:csmuseum@okhistory.org",
+    "website": "https://www.cherokee-strip-museum.org/",
+    "email": "mailto:csmuseum@okhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -647,7 +679,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:williamfrancais@gmail.com",
+    "website": "https://www.mcclaincountymuseum.org/",
+    "email": "mailto:williamfrancais@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -667,7 +700,8 @@
       "mailingAddress": "P.O. Box 311Edmond, OK 73083"
     },
     "phone": null,
-    "website": "https://www.edmondfinearts.com/",
+    "website": null,
+    "email": "https://www.edmondfinearts.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -687,7 +721,8 @@
       "mailingAddress": "PO Box 4101Edmond, OK 73083"
     },
     "phone": "405-715-1889",
-    "website": "https://www.edmondhistoricpreservationtrust.com/",
+    "website": null,
+    "email": "https://www.edmondhistoricpreservationtrust.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -705,7 +740,8 @@
       "mailingAddress": "402 W. Muskogee AveSulphur, OK 73086"
     },
     "phone": "580-622-5593",
-    "website": "mailto:ahsmc@brightok.net",
+    "website": "https://www.ahsmc.org/",
+    "email": "mailto:ahsmc@brightok.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/Arbuckle-Historical-Society-of-Murray-County-OK-245424560366/",
       "twitter": null,
@@ -728,7 +764,8 @@
       "mailingAddress": null
     },
     "phone": "580-622-5593",
-    "website": "mailto:ahsmc@brightok.net",
+    "website": "https://www.ahsmc.org/",
+    "email": "mailto:ahsmc@brightok.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -748,7 +785,8 @@
       "mailingAddress": "3000 E. Logan RdWeatherford, OK 73096"
     },
     "phone": "580-772-5871",
-    "website": "mailto:brandi@cityofweatherford.com",
+    "website": "https://www.staffordmuseum.com/",
+    "email": "mailto:brandi@cityofweatherford.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Stafford-Air-Space-Museum/78012062987?ref=hl",
       "twitter": null,

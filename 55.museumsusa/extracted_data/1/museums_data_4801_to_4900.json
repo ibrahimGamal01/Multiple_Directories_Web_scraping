@@ -6,7 +6,8 @@
       "mailingAddress": "P. O. Box 65Media, MD 21919"
     },
     "phone": "410-275-8819",
-    "website": "mailto:info@mountharmon.org",
+    "website": "https://www.mountharmon.org/",
+    "email": "mailto:info@mountharmon.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -27,7 +28,8 @@
       "mailingAddress": "PO Box 355Macungie, PA 18062"
     },
     "phone": null,
-    "website": "https://www.macungie.org/",
+    "website": null,
+    "email": "https://www.macungie.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -47,7 +49,8 @@
       "mailingAddress": "PO Box 143Dalmatia, PA 17017"
     },
     "phone": null,
-    "website": "https://www.mahantongo.org/mmhps/index.htm",
+    "website": null,
+    "email": "https://www.mahantongo.org/mmhps/index.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -65,7 +68,8 @@
       "mailingAddress": "712 Montrose StreetPhiladelphia, PA 19147"
     },
     "phone": "215-238-9691",
-    "website": "https://www.mario-lanza-institute.org/",
+    "website": null,
+    "email": "https://www.mario-lanza-institute.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -85,7 +89,8 @@
       "mailingAddress": "P.O.Box 755Broomall, PA 19008"
     },
     "phone": "610-353-3644",
-    "website": "https://www.marplehistoricalsociety.org/",
+    "website": null,
+    "email": "https://www.marplehistoricalsociety.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -105,7 +110,8 @@
       "mailingAddress": null
     },
     "phone": "215-685-4830",
-    "website": "mailto:info@philadelphiahistory.org",
+    "website": "https://www.philadelphiahistory.org/",
+    "email": "mailto:info@philadelphiahistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -123,7 +129,8 @@
       "mailingAddress": "P.O. BOX 175Greencastle, PA 17225"
     },
     "phone": "717-762-9711",
-    "website": "mailto:denise@WDCC.comcastbiz.net",
+    "website": "https://www.waynesborodaycarecenter.com/martinsmill.html",
+    "email": "mailto:denise@WDCC.comcastbiz.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -143,7 +150,8 @@
       "mailingAddress": null
     },
     "phone": "215-988-1900",
-    "website": "https://www.pagrandlodge.org/mlam/",
+    "website": null,
+    "email": "https://www.pagrandlodge.org/mlam/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -163,7 +171,8 @@
       "mailingAddress": null
     },
     "phone": "814-865-3853",
-    "website": "mailto:fmaring@la.psu.edu",
+    "website": "https://www.anthro.psu.edu/matson_museum/index.shtml",
+    "email": "mailto:fmaring@la.psu.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -181,7 +190,8 @@
       "mailingAddress": "P.O. Box 273Jim Thorpe, PA 18229-0273"
     },
     "phone": null,
-    "website": "mailto:info@mauchchunkhistory.com",
+    "website": "https://www.mauchchunkhistory.com/",
+    "email": "mailto:info@mauchchunkhistory.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -204,7 +214,8 @@
       "mailingAddress": null
     },
     "phone": "570-325-9190",
-    "website": "mailto:jdrury@ptd.net",
+    "website": "https://www.mauchchunkmuseum.com/",
+    "email": "mailto:jdrury@ptd.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -222,7 +233,8 @@
       "mailingAddress": "500 West Main StreetThe CourthouseSmethport, PA 16749"
     },
     "phone": null,
-    "website": "mailto:mchsmuseum@verizon.net",
+    "website": "https://www.facebook.com/McKean.County.Historical.Society.",
+    "email": "mailto:mchsmuseum@verizon.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/McKean.County.Historical.Society.1902http",
       "twitter": null,
@@ -244,7 +256,8 @@
       "mailingAddress": null
     },
     "phone": "412-678-1832",
-    "website": "mailto:mckheritage@yahoo.com",
+    "website": "https://www.mckeesportheritage.org/",
+    "email": "mailto:mckheritage@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -264,7 +277,8 @@
       "mailingAddress": null
     },
     "phone": "570-969-1040",
-    "website": "https://artistsforart.org/",
+    "website": null,
+    "email": "https://artistsforart.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -284,7 +298,8 @@
       "mailingAddress": "Mechanicsburg, PA 17055"
     },
     "phone": "717-697-6088",
-    "website": "mailto:mechanicsburgmuseum@verizon.net",
+    "website": "https://www.mechanicsburgmuseum.org/",
+    "email": "mailto:mechanicsburgmuseum@verizon.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -304,7 +319,8 @@
       "mailingAddress": null
     },
     "phone": "215-256-3020",
-    "website": "mailto:info@mhep.org",
+    "website": "https://community.franconiaconference.org/conference-related-ministries/other-ministries/mennonite-historians-of-eastern-pennsylv",
+    "email": "mailto:info@mhep.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -322,7 +338,8 @@
       "mailingAddress": null
     },
     "phone": "724-662-3490",
-    "website": "mailto:info@mchspa.org",
+    "website": "https://www.mchspa.org/",
+    "email": "mailto:info@mchspa.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -342,7 +359,8 @@
       "mailingAddress": "29 East Main St.Middletown, PA 17057"
     },
     "phone": "717-574-6716",
-    "website": "mailto:rvlady227@gmail.com",
+    "website": "https://www.middletownareahistoricalsociety.org/",
+    "email": "mailto:rvlady227@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -364,7 +382,8 @@
       "mailingAddress": null
     },
     "phone": "717-242-1022",
-    "website": "mailto:info@mifflincountyhistoricalsociety.org",
+    "website": "https://www.rootsweb.ancestry.com/~pamchs/MCHS/Home.html",
+    "email": "mailto:info@mifflincountyhistoricalsociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -384,7 +403,8 @@
       "mailingAddress": "PO Box 56033922 W. Main St.Belleville, PA 17004"
     },
     "phone": "717-935-2598",
-    "website": "https://mifflincomhs.mennonite.net/",
+    "website": null,
+    "email": "https://mifflincomhs.mennonite.net/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -404,7 +424,8 @@
       "mailingAddress": null
     },
     "phone": "570-966-1355",
-    "website": "mailto:buggymuseum@windstream.net",
+    "website": "https://www.buggymuseum.org/",
+    "email": "mailto:buggymuseum@windstream.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -426,7 +447,8 @@
       "mailingAddress": "PO Box 152Monongahela, PA 15063"
     },
     "phone": "724-322-4247",
-    "website": "mailto:mahs1837@gmail.com",
+    "website": "https://www.monongahelahistoricalsociety.com/",
+    "email": "mailto:mahs1837@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -446,7 +468,8 @@
       "mailingAddress": null
     },
     "phone": "570-421-7703",
-    "website": "mailto:mcha@ptd.net",
+    "website": "https://www.monroehistorical.org/",
+    "email": "mailto:mcha@ptd.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -468,7 +491,8 @@
       "mailingAddress": null
     },
     "phone": "215-849-2855",
-    "website": "https://www.awbury.org/",
+    "website": null,
+    "email": "https://www.awbury.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Awbury-Arboretum/119358071258",
       "twitter": "https://www.twitter.com/#%21/awburyarboretum",
@@ -488,7 +512,8 @@
       "mailingAddress": null
     },
     "phone": "412-856-1000",
-    "website": "mailto:lchan@windstream.net",
+    "website": "https://monroevillehistorical.org/",
+    "email": "mailto:lchan@windstream.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -508,7 +533,8 @@
       "mailingAddress": "P.O. Box 678Montgomeryville, PA 18936"
     },
     "phone": "610-272-0297",
-    "website": "https://www.hsmcpa.org/",
+    "website": null,
+    "email": "https://www.hsmcpa.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -528,7 +554,8 @@
       "mailingAddress": "PO Box 8, Bloom St.Danville, PA 17821"
     },
     "phone": "570-275-6177",
-    "website": "mailto:mcgsceld@aol.com",
+    "website": "https://www.rootsweb.ancestry.com/~pamcgs/",
+    "email": "mailto:mcgsceld@aol.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -548,7 +575,8 @@
       "mailingAddress": null
     },
     "phone": "215-965-4000",
-    "website": "mailto:info@moore.edu",
+    "website": "https://www.moore.edu/",
+    "email": "mailto:info@moore.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -568,7 +596,8 @@
       "mailingAddress": "100 East Northwestern AvenuePhiladelphia, PA 19118"
     },
     "phone": "215-247-5777",
-    "website": "mailto:info@morrisarboretum.org",
+    "website": "https://www.business-services.upenn.edu/arboretum/index.shtml",
+    "email": "mailto:info@morrisarboretum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -593,7 +622,8 @@
       "mailingAddress": null
     },
     "phone": "610-906-3415",
-    "website": "mailto:info@bahrsmill.org",
+    "website": "https://www.bahrsmill.org/",
+    "email": "mailto:info@bahrsmill.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -616,7 +646,8 @@
       "mailingAddress": "P.O. Box 11Muncy, PA 17756"
     },
     "phone": "570-546-5917",
-    "website": "mailto:MuncyHistorical@aol.com",
+    "website": "https://muncyhistoricalsociety.org/",
+    "email": "mailto:MuncyHistorical@aol.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -636,7 +667,8 @@
       "mailingAddress": null
     },
     "phone": "814-875-2494",
-    "website": "https://www.visitpa.com/pa-museums/museum-erie-ge-history",
+    "website": null,
+    "email": "https://www.visitpa.com/pa-museums/museum-erie-ge-history",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -658,7 +690,8 @@
       "mailingAddress": null
     },
     "phone": "215-831-7819",
-    "website": "mailto:Sdavis10@earthlink.net",
+    "website": "https://www.nursinghistory.org/",
+    "email": "mailto:Sdavis10@earthlink.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -678,7 +711,8 @@
       "mailingAddress": null
     },
     "phone": "215-563-3737",
-    "website": "mailto:museumref@collphyphil.org",
+    "website": "https://www.collphyphil.org/site/mutter_museum.html",
+    "email": "mailto:museumref@collphyphil.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -698,7 +732,8 @@
       "mailingAddress": null
     },
     "phone": "215-229-6115",
-    "website": "https://www.woodfordmansion.org/collection.php",
+    "website": null,
+    "email": "https://www.woodfordmansion.org/collection.php",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -716,7 +751,8 @@
       "mailingAddress": "9TH & MARKET STS., ROOM 1Philadelphia, PA 19107"
     },
     "phone": "215-606-0100",
-    "website": "https://www.archives.gov/midatlantic/",
+    "website": null,
+    "email": "https://www.archives.gov/midatlantic/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -736,7 +772,8 @@
       "mailingAddress": "P. O. Box 202Marianna, PA 15345"
     },
     "phone": "724-267-4780",
-    "website": "https://www.nationalpike.com/",
+    "website": null,
+    "email": "https://www.nationalpike.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -761,7 +798,8 @@
       "mailingAddress": "P.O. BOX 496Biglerville, PA 17307"
     },
     "phone": "940-325-4003",
-    "website": "mailto:info@nationalvnwarmuseum.org",
+    "website": "https://www.nationalvnwarmuseum.org/index.htm",
+    "email": "mailto:info@nationalvnwarmuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Mineral-Wells-TX/National-Vietnam-War-Museum/118735428875",
       "twitter": null,
@@ -781,7 +819,8 @@
       "mailingAddress": null
     },
     "phone": "302-547-3822",
-    "website": "mailto:newlondontwp@comcast.net",
+    "website": "https://newlondontwp.net/new-london-historical-society/",
+    "email": "mailto:newlondontwp@comcast.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -803,7 +842,8 @@
       "mailingAddress": null
     },
     "phone": "814-865-7931",
-    "website": "https://www.visitpa.com/north-american-society-sports-history-archives",
+    "website": null,
+    "email": "https://www.visitpa.com/north-american-society-sports-history-archives",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -823,7 +863,8 @@
       "mailingAddress": null
     },
     "phone": "610-459-2359",
-    "website": "mailto:info@newlingristmill.org",
+    "website": "https://www.newlingristmill.org/",
+    "email": "mailto:info@newlingristmill.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -843,7 +884,8 @@
       "mailingAddress": null
     },
     "phone": "215-732-6200",
-    "website": "mailto:mkeys@hsp.org",
+    "website": "https://www.hsp.org/",
+    "email": "mailto:mkeys@hsp.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Historical-Society-of-Pennsylvania/92804058780",
       "twitter": "https://www.twitter.com/historicalpa",
@@ -864,7 +906,8 @@
       "mailingAddress": null
     },
     "phone": "717-684-8261",
-    "website": "https://www.museumoftime.org/",
+    "website": null,
+    "email": "https://www.museumoftime.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -887,7 +930,8 @@
       "mailingAddress": null
     },
     "phone": "412-323-7235",
-    "website": "https://www.aviary.org/",
+    "website": null,
+    "email": "https://www.aviary.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -907,7 +951,8 @@
       "mailingAddress": null
     },
     "phone": "610-559-6613",
-    "website": "mailto:toms@canals.org",
+    "website": "https://canals.org/",
+    "email": "mailto:toms@canals.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -925,7 +970,8 @@
       "mailingAddress": null
     },
     "phone": "412-261-1776",
-    "website": "mailto:flag@americanflags.org",
+    "website": "https://www.americanflags.org/",
+    "email": "mailto:flag@americanflags.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -945,7 +991,8 @@
       "mailingAddress": null
     },
     "phone": "215-923-3811",
-    "website": "https://www.nmajh.org/",
+    "website": null,
+    "email": "https://www.nmajh.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/NMAJH",
       "twitter": "https://www.twitter.com/NMAJH",
@@ -965,7 +1012,8 @@
       "mailingAddress": null
     },
     "phone": "412-241-4508",
-    "website": "mailto:nmbpgh@verizon.net",
+    "website": "https://www.nmbpgh.org/",
+    "email": "mailto:nmbpgh@verizon.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -985,7 +1033,8 @@
       "mailingAddress": "PO Box 24Brownsville, PA 15417"
     },
     "phone": "724-785-6882",
-    "website": "https://www.nemacolincastle.org/",
+    "website": null,
+    "email": "https://www.nemacolincastle.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Bowmans-Castle/107572582605521",
       "twitter": null,
@@ -1009,7 +1058,8 @@
       "mailingAddress": "Greensburg, PA 15601"
     },
     "phone": "724-836-6915",
-    "website": "mailto:baltzermeyer@juno.com",
+    "website": "https://baltzermeyer.pa-roots.com/Pages/home.html",
+    "email": "mailto:baltzermeyer@juno.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1029,7 +1079,8 @@
       "mailingAddress": "P.O. Box 41New Hope, PA 18938"
     },
     "phone": "215-862-5652",
-    "website": "mailto:newhopehs@verizon.net",
+    "website": "https://www.newhopehs.org/",
+    "email": "mailto:newhopehs@verizon.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1049,7 +1100,8 @@
       "mailingAddress": "P.O. Box 303Newtown, PA 18940"
     },
     "phone": "215-968-4004",
-    "website": "https://www.newtownhistoric.org/",
+    "website": null,
+    "email": "https://www.newtownhistoric.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1069,7 +1121,8 @@
       "mailingAddress": "PO Box 3Newtown Square, PA 19073"
     },
     "phone": "610-975-0290",
-    "website": "mailto:info@historicnewtownsquare.org",
+    "website": "https://www.historicnewtownsquare.org/",
+    "email": "mailto:info@historicnewtownsquare.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1092,7 +1145,8 @@
       "mailingAddress": null
     },
     "phone": "570-645-7074",
-    "website": "mailto:no9minmuseum@windstream.net",
+    "website": "https://no9minemuseum.wixsite.com/museum",
+    "email": "mailto:no9minmuseum@windstream.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1114,7 +1168,8 @@
       "mailingAddress": "P.O. Box 3003Lancaster, PA 17604"
     },
     "phone": "717-291-3941",
-    "website": "mailto:info@northmuseum.org",
+    "website": "https://www.northmuseum.org/",
+    "email": "mailto:info@northmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1134,7 +1189,8 @@
       "mailingAddress": "211 Plymouth Street SuiteBethlehem, PA 18015"
     },
     "phone": "610-332-1300",
-    "website": "mailto:info@artsquest.org",
+    "website": "https://www.bananafactory.org/",
+    "email": "mailto:info@artsquest.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

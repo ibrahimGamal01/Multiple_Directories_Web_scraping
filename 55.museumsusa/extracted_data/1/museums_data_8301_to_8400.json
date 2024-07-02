@@ -1,0 +1,1670 @@
+[
+  {
+    "name": "Italian American Historical Society",
+    "address": {
+      "streetAddress": "3100 Albany AvenueWest Hartford, CT 06117",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": null,
+    "email": "https://www.southernct.edu/ethnic_heritage_center/italianam/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Mystic Seaport",
+    "address": {
+      "streetAddress": "75 Greenmanville AvenueMystic, CT 06355-0990",
+      "mailingAddress": "PO Box 6000Mystic, CT 06355-0990"
+    },
+    "phone": "860-572-5315",
+    "website": "https://www.mysticseaport.org/",
+    "email": "mailto:info@mysticseaport.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Nellie Mcknight Museum",
+    "address": {
+      "streetAddress": "70 Main StreetEllington, CT 06029",
+      "mailingAddress": "PO Box 73Ellington, CT 06029"
+    },
+    "phone": null,
+    "website": "https://www.ellingtonhistsoc.org/Museum/Museum.htm",
+    "email": "mailto:president@ellingtonhistsoc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The museum is also open by appointment.",
+    "museumTypes": [
+      "Cemetery",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Montville Historical Society",
+    "address": {
+      "streetAddress": "11 Depot RoadUncasville, CT 06382",
+      "mailingAddress": "P.O. Box 51Montville, CT 06353"
+    },
+    "phone": "860-848-9943",
+    "website": null,
+    "email": "https://homepage.ct.metrocast.net/~kamaba/NewLondonCo/montville.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Cemetery",
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Academy Hall & Rocky Hill Hist Society",
+    "address": {
+      "streetAddress": "785 Old Main StreetRocky Hill, CT 06067",
+      "mailingAddress": "Post Office Box 185Rocky Hill, CT 06067-0185"
+    },
+    "phone": "860-563-6704",
+    "website": "https://www.rockyhillhistory.org/",
+    "email": "mailto:info@rockyhillhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Ridgefield Library",
+    "address": {
+      "streetAddress": "472 Main StreetRidgefield, CT 06877",
+      "mailingAddress": null
+    },
+    "phone": "203-438-2282",
+    "website": null,
+    "email": "https://www.biblio.org/rdgfld",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Stanton House Museum and Store",
+    "address": {
+      "streetAddress": "63 East Main St.Clinton, CT 06413",
+      "mailingAddress": null
+    },
+    "phone": "860-669-2132",
+    "website": null,
+    "email": "https://www.stantonhousect.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open by Appointment.",
+    "museumTypes": [
+      "Art",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "New England Carousel Museum",
+    "address": {
+      "streetAddress": "95 Riverside Avenue, Rt. 72Bristol, CT 06010",
+      "mailingAddress": null
+    },
+    "phone": "860-585-5411",
+    "website": "https://www.thecarouselmuseum.org/",
+    "email": "mailto:info@thecarouselmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Branford Historical Society",
+    "address": {
+      "streetAddress": "The Harrison House124 Main StreetBranford, CT 06405",
+      "mailingAddress": null
+    },
+    "phone": "203-488-4828",
+    "website": "https://www.branfordhistory.org/contact.html",
+    "email": "mailto:branfordhistory@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Bristol Historical Society",
+    "address": {
+      "streetAddress": "98 Summer StreetBristol, CT 06011-1393",
+      "mailingAddress": "P.O. Box 139398 Summer StreetBristol, CT 06010"
+    },
+    "phone": "860-583-6309",
+    "website": "https://www.bristolhistoricalsociety.org/contact.html",
+    "email": "mailto:ellen@bristolhistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Bruce Museum of Arts and Science",
+    "address": {
+      "streetAddress": "One Museum DriveGreenwich, CT 06830",
+      "mailingAddress": null
+    },
+    "phone": "203-869-6786",
+    "website": "https://www.brucemuseum.org/",
+    "email": "mailto:webmaster@brucemuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Last admission 4:30 pm",
+    "museumTypes": [
+      "Aquarium",
+      "Archaeology",
+      "Art",
+      "Botanical Garden",
+      "Children's",
+      "General",
+      "Natural History",
+      "Nature Centers",
+      "Science"
+    ]
+  },
+  {
+    "name": "Nathan Hale Schoolhouse",
+    "address": {
+      "streetAddress": "29 Main StEast Haddam, CT 06423",
+      "mailingAddress": null
+    },
+    "phone": "860-873-3399",
+    "website": "https://www.connecticutsar.org/sites/eh-schoolhouse.htm",
+    "email": "mailto:info@connecticutsar.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Weston Historical Society",
+    "address": {
+      "streetAddress": "Weston, CT 06883",
+      "mailingAddress": "PO Box 1092Weston, CT 06883"
+    },
+    "phone": "203-226-1804",
+    "website": "https://www.westonhistoricalsociety.org/",
+    "email": "mailto:info@westonhistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sat 10:30 a.m. - 12:30 a.m. and by appointment",
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Ledyard Water-Powered Sawmill",
+    "address": {
+      "streetAddress": "Sawmill ParkLedyard, CT 06339",
+      "mailingAddress": "34R Tanager LaneGales Ferry, CT 06335"
+    },
+    "phone": "860-464-0485",
+    "website": "https://sites.google.com/site/ledyardsawmill/",
+    "email": "mailto:ledyardsawmill@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "The sawmill is operating and open to the public",
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Natural History",
+      "Park",
+      "Science",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Connecticut's Old State House",
+    "address": {
+      "streetAddress": "800 Main StreetHartford, CT 06103",
+      "mailingAddress": "21 Oak StreetSuite 605Hartford, CT 06106"
+    },
+    "phone": "860-522-6766",
+    "website": "https://www.ctoldstatehouse.org/",
+    "email": "mailto:CToldstatehouse@cga.ct.gov",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/home.php?#!/pages/Connecticuts-Old-State-House/136140506412952",
+      "twitter": "https://www.twitter.com/#ctoldstatehouse",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Following Columbus Day weekend to July 4th holiday",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Whitney Museum Of American Art",
+    "address": {
+      "streetAddress": "945 Madison Avenue at 75th StreetStamford, CT 06921",
+      "mailingAddress": "Stamford, CT 06921"
+    },
+    "phone": "212-570-3600",
+    "website": "https://whitney.org/About/History",
+    "email": "mailto:info@whitney.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Litchfield Historical Society Museum",
+    "address": {
+      "streetAddress": "7 South Street7 South StreetLitchfield, CT 06759",
+      "mailingAddress": "The Litchfield Historical SocietyP.O. Box 385Litchfield, CT 06759"
+    },
+    "phone": "860-567-4501",
+    "website": "https://www.litchfieldhistoricalsociety.org/",
+    "email": "mailto:cfields@litchfieldhistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Waterford Historical Society",
+    "address": {
+      "streetAddress": "55 Rope Ferry Rd.Waterford, CT 06385",
+      "mailingAddress": "P.O.Box 117Waterford, CT 06385-0117"
+    },
+    "phone": "860-447-9222",
+    "website": null,
+    "email": "https://www.neighborhoodlink.com/public/clubhome.html?nclubid=622652009&nsupercity=768595146",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "By Appointment.",
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Gaylordsville Historical Society",
+    "address": {
+      "streetAddress": "Gaylordsville, CT 06755",
+      "mailingAddress": "Gaylordsville Historical SocietyP.O. Box 25Gaylordsville, CT 06755"
+    },
+    "phone": "860-350-0300",
+    "website": "https://www.gaylordsville.org/",
+    "email": "mailto:kosier@usa.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Sarah Whitman Hooker Homestead",
+    "address": {
+      "streetAddress": "1237 New Britain AvenueWest Hartford, CT 06107",
+      "mailingAddress": null
+    },
+    "phone": "860-523-5887",
+    "website": "https://www.sarahwhitmanhooker.com/",
+    "email": "mailto:Administrator@sarahwhitmanhooker.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Mansfield Historical Society",
+    "address": {
+      "streetAddress": "954 Storrs RoadStorrs, CT 06268",
+      "mailingAddress": "P.O. Box 145Storrs, CT 06268"
+    },
+    "phone": "860-429-6575",
+    "website": "https://www.mansfieldct-history.org/",
+    "email": "mailto:mansfield.historical@snet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Cornwall Historical Society",
+    "address": {
+      "streetAddress": "7 Pine StCornwall, CT 06753",
+      "mailingAddress": "P.O. Box 115Cornwall, CT 06753"
+    },
+    "phone": "860-672-0505",
+    "website": "https://www.cornwallhistoricalsociety.org/",
+    "email": "mailto:CornHistSoc@optonline.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Slater Memorial Museum",
+    "address": {
+      "streetAddress": "108 Crescent StreetNorwich, CT 06360",
+      "mailingAddress": null
+    },
+    "phone": "860-887-2506",
+    "website": "https://www.norwichfreeacademy.com/slater_museum",
+    "email": "mailto:hallm@norwichfreeacademy.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Wilton Historical Society",
+    "address": {
+      "streetAddress": "224 Danbury RoadWilton, CT 06897",
+      "mailingAddress": "Wilton, CT 06897"
+    },
+    "phone": "203-762-7257",
+    "website": "https://www.wiltonhistorical.org/",
+    "email": "mailto:info@wiltonhistorical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Gunn Memorial Library and Museum",
+    "address": {
+      "streetAddress": "5 Wykeham RoadWashington, CT 06793",
+      "mailingAddress": "P. O. Box 1273Washington, CT 06793"
+    },
+    "phone": "860-868-7586",
+    "website": "https://www.gunnlibrary.org/contact.html",
+    "email": "mailto:GunnLib@biblio.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Library"
+    ]
+  },
+  {
+    "name": "Darien Historical Society",
+    "address": {
+      "streetAddress": "45 Old Kings Highway NorthDarien, CT 06820",
+      "mailingAddress": null
+    },
+    "phone": "203-655-9233",
+    "website": null,
+    "email": "https://historical.darien.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Silvermine Guild Arts Center",
+    "address": {
+      "streetAddress": "1037 Silvermine Rd.New Canaan, CT 06840-4398",
+      "mailingAddress": null
+    },
+    "phone": "203-966-9700",
+    "website": "https://www.silvermineart.org/",
+    "email": "mailto:sgac@silvermineart.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Lock Museum Of America",
+    "address": {
+      "streetAddress": "230 Main Street, Route 6Terryville, CT 06786-0104",
+      "mailingAddress": null
+    },
+    "phone": "860-589-6359",
+    "website": null,
+    "email": "https://www.lockmuseum.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Irish-American Hist. Society",
+    "address": {
+      "streetAddress": "270 Fitch St.New Haven, CT 06512",
+      "mailingAddress": "P.O. Box 120020New Haven, CT 06512"
+    },
+    "phone": "203-392-6126",
+    "website": "https://www.ctiahs.com/",
+    "email": "mailto:ctiahs@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture"
+    ]
+  },
+  {
+    "name": "Mystic River Historical Society",
+    "address": {
+      "streetAddress": "74 High StreetMystic, CT 06355",
+      "mailingAddress": "MRHS, P. O. Box 245Mystic, CT 06355"
+    },
+    "phone": "860-536-4779",
+    "website": "https://www.mystichistory.org/",
+    "email": "mailto:info@mystichistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Dinosaur State Park",
+    "address": {
+      "streetAddress": "400 West StreetRocky Hill, CT 06067-3506",
+      "mailingAddress": "400 West StreetRocky Hill, CT 06067"
+    },
+    "phone": "860-529-8423",
+    "website": null,
+    "email": "https://www.dinosaurstatepark.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "The Amistad Center for Art & Culture at the Wadswo",
+    "address": {
+      "streetAddress": "Wadsworth Atheneum Museum of Art, 600 Main StreetHartford, CT 06103-2990",
+      "mailingAddress": "Wadsworth AtheneumHartford, CT 06103"
+    },
+    "phone": "860-838-4233",
+    "website": "https://www.amistadartandculture.org/",
+    "email": "mailto:amistadcenter@wadsworthatheneum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Plainville Historical Society",
+    "address": {
+      "streetAddress": "29 Pierce StreetPlainville, CT 06062",
+      "mailingAddress": null
+    },
+    "phone": "860-747-6577",
+    "website": "https://www.plainvillehistoricalsociety.org/",
+    "email": "mailto:programschair@plainvillehistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Office Hours:\nTour Hours - Winter - By Appointment Only",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Putnam Cottage",
+    "address": {
+      "streetAddress": "243 East Putnam AvenueGreenwich, CT 06830",
+      "mailingAddress": null
+    },
+    "phone": "203-869-9697",
+    "website": "https://www.putnamcottage.org/",
+    "email": "mailto:info@putnamcottage.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Connecticut Fire Museum",
+    "address": {
+      "streetAddress": "58 North Road (Rte 140)East Windsor, CT 06088",
+      "mailingAddress": "P.O. Box 360East Windsor, CT 06088-0360"
+    },
+    "phone": "860-627-6540",
+    "website": "https://www.ct-trolley.org/Firemuseum/fm4.htm",
+    "email": "mailto:office@ceraweb.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Prudence Crandall Museum",
+    "address": {
+      "streetAddress": "1 South Canterbury RoadCanterbury, CT 06331",
+      "mailingAddress": "P. O. Box 58Canterbury, CT 06331"
+    },
+    "phone": "860-546-7800",
+    "website": "https://www.cultureandtourism.org/cct/cwp/view.asp?a=2127&q=302260",
+    "email": "mailto:crandall.museum@ct.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Until spring 2011, museum open weekdays by appointment only. Please call 860-546-7800 to schedule an appointment.",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Brooklyn Historical Society",
+    "address": {
+      "streetAddress": "4 Wolf Den Rd.Brooklyn, CT 06234",
+      "mailingAddress": "PO Box 356Brooklyn, CT 06234"
+    },
+    "phone": "860-774-7728",
+    "website": "https://www.brooklynct.org/",
+    "email": "mailto:s.soucy@brooklynct.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Wadsworth Atheneum",
+    "address": {
+      "streetAddress": "600 Main StreetHartford, CT 06103",
+      "mailingAddress": null
+    },
+    "phone": "860-278-2670",
+    "website": "https://www.wadsworthatheneum.org/",
+    "email": "mailto:info@wadsworthatheneum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "General David Humphrey's House",
+    "address": {
+      "streetAddress": "37 Elm StreetAnsonia, CT 06401",
+      "mailingAddress": null
+    },
+    "phone": "203-735-1908",
+    "website": null,
+    "email": "https://www.derbyhistorical.org/humphrey.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "New Canaan Historical Society",
+    "address": {
+      "streetAddress": "13 Oenoke RidgeNew Canaan, CT 06840",
+      "mailingAddress": null
+    },
+    "phone": "203-966-1776",
+    "website": "https://www.nchistory.org/",
+    "email": "mailto:newcanaan.historical@snet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Middlesex County Historical Society",
+    "address": {
+      "streetAddress": "151 Main StreetMiddletown, CT 06457",
+      "mailingAddress": "Monroe Historical SocietyBox 212Monroe, CT 06468"
+    },
+    "phone": "860-346-0746",
+    "website": "https://www.middlesexhistory.org/",
+    "email": "mailto:middlesexhistory@wesleyan.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society",
+      "Library",
+      "Military"
+    ]
+  },
+  {
+    "name": "Trumbull Historical Society",
+    "address": {
+      "streetAddress": "1856 Huntington Tpke.Trumbull, CT 06611",
+      "mailingAddress": "P.O. Box 312Trumbull, CT 06611"
+    },
+    "phone": "203-377-6620",
+    "website": null,
+    "email": "https://www.trumbullhistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Sundays 2:00 p.m.-4:00 p.m. and by appointment",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Hill-Stead Museum",
+    "address": {
+      "streetAddress": "35 Mountain RoadFarmington, CT 06032",
+      "mailingAddress": null
+    },
+    "phone": "860-677-4787",
+    "website": null,
+    "email": "https://www.hillstead.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art"
+    ]
+  },
+  {
+    "name": "Essex Historical Society",
+    "address": {
+      "streetAddress": "22 Prospect StEssex, CT 06426",
+      "mailingAddress": null
+    },
+    "phone": "860-767-0681",
+    "website": "https://www.essexhistory.org/",
+    "email": "mailto:webmaster@essexhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "East Haven Historical Society",
+    "address": {
+      "streetAddress": "200 Tyler StEast Haven, CT 06512",
+      "mailingAddress": "PO box 120052East Haven, CT 06512"
+    },
+    "phone": "203-467-1766",
+    "website": "https://easthavenhistoricalsociety.com/",
+    "email": "mailto:easthavenhistoricalsociety@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "The Maritime Aquarium at Norwalk",
+    "address": {
+      "streetAddress": "10 North Water StreetSouth Norwalk, CT 06854",
+      "mailingAddress": null
+    },
+    "phone": "203-852-0700",
+    "website": null,
+    "email": "https://www.maritimeaquarium.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Aquarium"
+    ]
+  },
+  {
+    "name": "Middlebury Historical Society",
+    "address": {
+      "streetAddress": "located near the Middlebury Green on Library RoadMiddlebury, CT 06762",
+      "mailingAddress": "The Middlebury Historical Society PO Box 104Middlebury, CT 06762"
+    },
+    "phone": null,
+    "website": null,
+    "email": "https://www.middlebury-ct.org/historical.shtml",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "East Windsor Historical Society",
+    "address": {
+      "streetAddress": "54 North Main StreetEast Windsor, CT 06028",
+      "mailingAddress": "P. O. Box 363East Windsor, CT 06028"
+    },
+    "phone": "860-623-8122",
+    "website": null,
+    "email": "https://www.eastwindsorhistory.tk/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Henry Whitfield State Museum",
+    "address": {
+      "streetAddress": "248 Old Whitfield StreetGuilford, CT 06437",
+      "mailingAddress": null
+    },
+    "phone": "203-453-2457",
+    "website": "https://www.cultureandtourism.org/",
+    "email": "mailto:whitfield.museum@ct.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Until spring 2011, museum is open weekdays by appointment only.",
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Library",
+      "Military"
+    ]
+  },
+  {
+    "name": "Torrington Historical Society",
+    "address": {
+      "streetAddress": "192 Main StreetTorrington, CT 06790",
+      "mailingAddress": null
+    },
+    "phone": "860-482-8260",
+    "website": null,
+    "email": "https://www.torringtonct.org/Public_Documents/TorringtonCT_Places/historical",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "New Milford Historical Society",
+    "address": {
+      "streetAddress": "6 Aspetuck AvenueNew Milford, CT 06776-0359",
+      "mailingAddress": "The New Milford Historical Society & MuseumP.O. Box 359New Milford, CT 06776-0359"
+    },
+    "phone": "860-354-3069",
+    "website": null,
+    "email": "https://www.nmhistorical.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Wethersfield Historical Society",
+    "address": {
+      "streetAddress": "150 Main StreetWethersfield, CT 06109",
+      "mailingAddress": null
+    },
+    "phone": "860-529-7656",
+    "website": "https://www.wethhist.org/",
+    "email": "mailto:society@wethhist.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Aspinock Historical Society",
+    "address": {
+      "streetAddress": "206 School St,Putnam, CT 06260",
+      "mailingAddress": "Aspinock Historical Society of PutnamPO Box 465Putnam, CT 06260"
+    },
+    "phone": "860-963-0092",
+    "website": "https://aspinockhs-putnam.weebly.com/",
+    "email": "mailto:fabcutler@att.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Children's Museum of SE Connecticut",
+    "address": {
+      "streetAddress": "409 Main StreetNiantic, CT 06357",
+      "mailingAddress": null
+    },
+    "phone": "860-691-1111",
+    "website": null,
+    "email": "https://www.childrensmuseumsect.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Children's"
+    ]
+  },
+  {
+    "name": "Antiquarian & Landmarks Society",
+    "address": {
+      "streetAddress": "255 Main StreetHartford, CT 06106",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": null,
+    "email": "https://www.hartnet.org/als",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "General",
+      "History",
+      "Historic House",
+      "Military"
+    ]
+  },
+  {
+    "name": "Old Bethlehem Historical Society",
+    "address": {
+      "streetAddress": "Located on the northeast corner of the green on Route  61.Bethlehem, CT 06751",
+      "mailingAddress": "PO Box 132Bethlehem, CT 06751"
+    },
+    "phone": "203-266-5196",
+    "website": null,
+    "email": "https://www.ci.bethlehem.ct.us/OBHSI/old.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Benton Homestead",
+    "address": {
+      "streetAddress": "Metcalf RoadTolland, CT 06084",
+      "mailingAddress": "P.O. Box 107Tolland, CT 06084"
+    },
+    "phone": "860-974-1875",
+    "website": "https://pages.cthome.net/tollandhistorical/Benton.htm",
+    "email": "mailto:tolland.historical@snet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "West Haven Historical Society",
+    "address": {
+      "streetAddress": "686 Savin AvenueWest Haven, CT 06516",
+      "mailingAddress": "P.O. Box 584West Haven, CT 06516"
+    },
+    "phone": "203-932-0088",
+    "website": null,
+    "email": "https://www.westhavenhistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Science Center of Eastern Connecticut",
+    "address": {
+      "streetAddress": "33 Gallows LaneNew London, CT 06320",
+      "mailingAddress": null
+    },
+    "phone": "860-442-0391",
+    "website": null,
+    "email": "https://www.fieldtrip.com/ct/34420391.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Science"
+    ]
+  },
+  {
+    "name": "Museum of Fife & Drum",
+    "address": {
+      "streetAddress": "62 N. Main StIvoryton, CT 06442",
+      "mailingAddress": "P.O. Box 277Ivoryton, CT 06442"
+    },
+    "phone": null,
+    "website": "https://companyoffifeanddrum.org/museum",
+    "email": "mailto:CompanyHQ@companyoffifeanddrum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/companyfifersdrummers/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/channel/UCppii5QkLRTg_UZfSwTTd9w"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Military",
+      "Specialized"
+    ]
+  },
+  {
+    "name": "Connecticut River Museum",
+    "address": {
+      "streetAddress": "67 Main St.Essex, CT 06426",
+      "mailingAddress": null
+    },
+    "phone": "860-767-8269",
+    "website": "https://www.ctrivermuseum.org/",
+    "email": "mailto:crm@ctrivermuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General"
+    ]
+  },
+  {
+    "name": "Monte Cristo Cottage Museum",
+    "address": {
+      "streetAddress": "325 Pequot AvenueNew London, CT 06320",
+      "mailingAddress": null
+    },
+    "phone": "860-443-0051",
+    "website": null,
+    "email": "https://www.oneilltheatercenter.org/prog/monte/montprog.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Denison Pequotsepos Nature Center",
+    "address": {
+      "streetAddress": "109 Pequotsepos RoadMystic, CT 06355",
+      "mailingAddress": "P.O. Box 122Mystic, CT 06355"
+    },
+    "phone": "860-536-1216",
+    "website": "https://www.dpnc.org/",
+    "email": "mailto:info@dpnc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Nature Centers"
+    ]
+  },
+  {
+    "name": "Watertown Hisorical Society Museum",
+    "address": {
+      "streetAddress": "22 Deforest StreetWatertown, CT 06795",
+      "mailingAddress": null
+    },
+    "phone": "860-274-1050",
+    "website": "https://www.watertownhistoricalsociety.org/",
+    "email": "mailto:watertownctmuseum@sbcglobal.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Wednesday afternoons 2:00 pm - 4:00 pm",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Webb-Deane-Stevens Museum",
+    "address": {
+      "streetAddress": "211 Main StreetWethersfield, CT 06109",
+      "mailingAddress": null
+    },
+    "phone": "860-529-0612",
+    "website": "https://www.webb-deane-stevens.org/",
+    "email": "mailto:info@webb-deane-stevens.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "New Hartford Historical Society",
+    "address": {
+      "streetAddress": "2 Paris RdNew Hartford, NY 13413",
+      "mailingAddress": "P.O. Box 238New Hartford, NY 13413"
+    },
+    "phone": "315-724-7258",
+    "website": "https://www.newhartfordpubliclibrary.org/History.html",
+    "email": "mailto:historicalnh@yahoo.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/New-Hartford-Historical-Society/85569161495?ref=share",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Yale Collection Of Musical Instr.",
+    "address": {
+      "streetAddress": "15 Hillhouse AvenueNew Haven, CT 06520",
+      "mailingAddress": "P.O. Box 208278New Haven, CT 06520"
+    },
+    "phone": "203-432-0822",
+    "website": "https://www.yale.edu/musicalinstruments/hourslocation.htm",
+    "email": "mailto:musinst@pantheon.yale.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "CT State Museum of Natural History",
+    "address": {
+      "streetAddress": "2019 Hillside Rd., Unit 1023Storrs, CT 06269-1023",
+      "mailingAddress": null
+    },
+    "phone": "860-486-4460",
+    "website": "https://www.cac.uconn.edu/",
+    "email": "mailto:CSMNHinfo@uconn.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Natural History"
+    ]
+  },
+  {
+    "name": "Keeler Tavern Museum",
+    "address": {
+      "streetAddress": "132 Main StreetRidgefield, CT 06877",
+      "mailingAddress": "P.O. Box 204Ridgefield, CT 06877"
+    },
+    "phone": "203-438-5485",
+    "website": "https://www.keelertavernmuseum.org/",
+    "email": "mailto:info@keelertavernmuseum.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Columbia Historical Society",
+    "address": {
+      "streetAddress": "486 Route 66Columbia, CT 06237",
+      "mailingAddress": "P.O. Box 551Columbia, CT 06237"
+    },
+    "phone": "860-228-9385",
+    "website": "https://www.columbia-history.org/",
+    "email": "mailto:p_ewing_grabel@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Danbury Museum & Historical Society",
+    "address": {
+      "streetAddress": "43 Main StreetDanbury, CT 06810",
+      "mailingAddress": null
+    },
+    "phone": "203-743-5200",
+    "website": "https://www.danburymuseum.org/",
+    "email": "mailto:info@danburymuseum.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/home.php",
+      "twitter": "https://www.twitter.com/#!/DanburyMuseum",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "The Aldrich Museum of Contemporary Art",
+    "address": {
+      "streetAddress": "258 Main StreetRidgefield, CT 06877",
+      "mailingAddress": null
+    },
+    "phone": "203-438-4519",
+    "website": "https://www.aldrichart.org/",
+    "email": "mailto:eventnews@aldrichart.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Culture"
+    ]
+  },
+  {
+    "name": "Bowen House",
+    "address": {
+      "streetAddress": "556 Route 169Woodstock, CT 06281",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": "https://tps.cr.nps.gov/nhl/detail.cfm?ResourceId=1735&ResourceType=Building",
+    "email": "mailto:NHL_info@nps.gov",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historic House"
+    ]
+  },
+  {
+    "name": "Harwinton Historical Society",
+    "address": {
+      "streetAddress": "Harwinton, CT 06791",
+      "mailingAddress": "P.O. Box 84Harwinton, CT 06791"
+    },
+    "phone": "860-485-9636",
+    "website": "https://www.harwintonhistory.com/",
+    "email": "mailto:Harwintonhistory@aol.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Canterbury Historical Society",
+    "address": {
+      "streetAddress": "11 North Canterbury RoadCanterbury, CT 06331",
+      "mailingAddress": "P.O. Box 2Canterbury, CT 06331"
+    },
+    "phone": null,
+    "website": "https://www.canterburyhistorical.org/",
+    "email": "mailto:info@canterburyhistorical.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Fort Nathan Hale Restoration Projects, Inc.",
+    "address": {
+      "streetAddress": "New Haven, CT 06532",
+      "mailingAddress": "P.O. Box 9181New Haven, CT 06532"
+    },
+    "phone": null,
+    "website": "https://www.fort-nathan-hale.org/",
+    "email": "mailto:info@fort-nathan-hale.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Sharon Historical Society",
+    "address": {
+      "streetAddress": "18 Main StreetSharon, CT 06069",
+      "mailingAddress": null
+    },
+    "phone": "860-364-5688",
+    "website": "https://www.sharonhist.org/",
+    "email": "mailto:sharonhistoricalsociety@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  }
+]

@@ -6,7 +6,8 @@
       "mailingAddress": "Eatonville, WA 98328"
     },
     "phone": null,
-    "website": "mailto:info@nwtrek.org",
+    "website": "https://www.nwtrek.org/",
+    "email": "mailto:info@nwtrek.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/NWtrek",
       "twitter": null,
@@ -26,7 +27,8 @@
       "mailingAddress": "Eatonville, WA 98328"
     },
     "phone": "360-832-6300",
-    "website": "mailto:pioneer@rainierconnect.com",
+    "website": "https://www.pioneerfarmmuseum.org/",
+    "email": "mailto:pioneer@rainierconnect.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -46,7 +48,8 @@
       "mailingAddress": "P.O. Box 250Mineral, WA 98355"
     },
     "phone": "360-492-5588",
-    "website": "mailto:admin@mrsr.org",
+    "website": "https://www.mrsr.com/",
+    "email": "mailto:admin@mrsr.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -69,7 +72,8 @@
       "mailingAddress": null
     },
     "phone": "425-775-6267",
-    "website": "mailto:askus@snoislegenealogy.org",
+    "website": "https://snoislegenealogy.org/",
+    "email": "mailto:askus@snoislegenealogy.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -91,7 +95,8 @@
       "mailingAddress": null
     },
     "phone": "509-925-6789",
-    "website": "mailto:childrensmuseum@kvalley.com",
+    "website": "https://www.thechildrensactivitymuseum.org/",
+    "email": "mailto:childrensmuseum@kvalley.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -111,7 +116,8 @@
       "mailingAddress": "416 N. Pearl St.Ellensburg, WA 98926"
     },
     "phone": "509-962-6416",
-    "website": "mailto:clymermuseum3@charter.net",
+    "website": "https://www.clymermuseum.org/",
+    "email": "mailto:clymermuseum3@charter.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -132,7 +138,8 @@
       "mailingAddress": null
     },
     "phone": "509-962-7250",
-    "website": "mailto:library@ci.ellensburg.wa.us",
+    "website": "https://www.ci.ellensburg.wa.us/index.aspx?nid=144",
+    "email": "mailto:library@ci.ellensburg.wa.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -152,7 +159,8 @@
       "mailingAddress": null
     },
     "phone": "509-925-3778",
-    "website": "mailto:kchm@kchm.org",
+    "website": "https://www.kchm.org/",
+    "email": "mailto:kchm@kchm.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -170,7 +178,8 @@
       "mailingAddress": "P. O. Box 878Ephrata, WA 98823"
     },
     "phone": "509-793-1532",
-    "website": "mailto:sparker@gcpud.org",
+    "website": "https://www.gcpud.org/naturalResources/archaeology/wanapumHeritageCenter.html",
+    "email": "mailto:sparker@gcpud.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -195,7 +204,8 @@
       "mailingAddress": null
     },
     "phone": "425-258-1006",
-    "website": "mailto:info@ImagineCM.org",
+    "website": "https://www.imaginecm.org/",
+    "email": "mailto:info@ImagineCM.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/ImagineChildrensMuseum",
       "twitter": null,
@@ -215,7 +225,8 @@
       "mailingAddress": "P.O. Box 5038Everett, WA 98206"
     },
     "phone": "425-259-5050",
-    "website": "mailto:artsinfo@schack.org",
+    "website": "https://www.schack.org/",
+    "email": "mailto:artsinfo@schack.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/schackartcenter",
       "twitter": null,
@@ -236,7 +247,8 @@
       "mailingAddress": "P. O. Box 471Everett, WA 98206"
     },
     "phone": "360-793-1534",
-    "website": "https://www.mcpa.us/",
+    "website": null,
+    "email": "https://www.mcpa.us/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Monte-Cristo-Preservation-Association/113058038711440",
       "twitter": null,
@@ -254,7 +266,8 @@
       "mailingAddress": "P. O. Box 5556Everett, WA 98206"
     },
     "phone": null,
-    "website": "https://www.cmiregistration.com/user/splash.jxp?org=249",
+    "website": null,
+    "email": "https://www.cmiregistration.com/user/splash.jxp?org=249",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -274,7 +287,8 @@
       "mailingAddress": "Everett, WA 98201"
     },
     "phone": "425-257-8005",
-    "website": "mailto:libnw@ci.everett.wa.us",
+    "website": "https://www.epls.org/nw/",
+    "email": "mailto:libnw@ci.everett.wa.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -294,7 +308,8 @@
       "mailingAddress": "Everett, WA 98204"
     },
     "phone": "425-348-3427",
-    "website": "https://www.trestlehomeschoolassociation.org/",
+    "website": null,
+    "email": "https://www.trestlehomeschoolassociation.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -314,7 +329,8 @@
       "mailingAddress": "C/O Fairfield LibraryFairfield, WA 99012"
     },
     "phone": null,
-    "website": "mailto:info@fairfieldmuseumwa.org",
+    "website": "https://www.fairfieldhs.org/",
+    "email": "mailto:info@fairfieldmuseumwa.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -334,7 +350,8 @@
       "mailingAddress": "P. O. Box 3798Federal Way, WA 98063"
     },
     "phone": "253-661-9377",
-    "website": "mailto:steve@rhodygarden.org",
+    "website": "https://www.rhodygarden.org/",
+    "email": "mailto:steve@rhodygarden.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -359,7 +376,8 @@
       "mailingAddress": "P. O. Box 3127Ferndale, WA 98248"
     },
     "phone": "360-384-3693",
-    "website": "mailto:park@ferndaleheritagesociety.com",
+    "website": "https://ferndaleheritagesociety.com/",
+    "email": "mailto:park@ferndaleheritagesociety.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -379,7 +397,8 @@
       "mailingAddress": "P. O. Box 873Forks, WA 98331"
     },
     "phone": "360-374-9663",
-    "website": "https://www.forks-web.com/fg/timbermuseum.htm",
+    "website": null,
+    "email": "https://www.forks-web.com/fg/timbermuseum.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -399,7 +418,8 @@
       "mailingAddress": "P. O. Box 331001Fort Lewis, WA 98433"
     },
     "phone": null,
-    "website": "mailto:JBLMWebmaster@conus.army.mil",
+    "website": "https://www.lewis.army.mil/DPTMS/POMFI/museum.htm",
+    "email": "mailto:JBLMWebmaster@conus.army.mil",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -417,7 +437,8 @@
       "mailingAddress": "P. O. Box 441Friday Harbor, WA 98250"
     },
     "phone": "360-378-3949",
-    "website": "https://sjmuseum.org/",
+    "website": null,
+    "email": "https://sjmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -437,7 +458,8 @@
       "mailingAddress": "P. O. Box 429Friday Harbor, WA 98250"
     },
     "phone": null,
-    "website": "https://www.nps.gov/sajh/home.htm",
+    "website": null,
+    "email": "https://www.nps.gov/sajh/home.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -457,7 +479,8 @@
       "mailingAddress": "P. O. Box 945Friday Harbor, WA 98250"
     },
     "phone": null,
-    "website": "https://www.whale-museum.org/",
+    "website": null,
+    "email": "https://www.whale-museum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -475,7 +498,8 @@
       "mailingAddress": "P. O. Box 744Gig Harbor, WA 98335"
     },
     "phone": "253-858-6722",
-    "website": "mailto:info@harborhistorymuseum.org",
+    "website": "https://www.harborhistorymuseum.org/",
+    "email": "mailto:info@harborhistorymuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -496,7 +520,8 @@
       "mailingAddress": "Goldendale, WA 98620"
     },
     "phone": "509-773-3141",
-    "website": "mailto:goldendale.observatory@parks.wa.gov",
+    "website": "https://www.parks.wa.gov/",
+    "email": "mailto:goldendale.observatory@parks.wa.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -514,7 +539,8 @@
       "mailingAddress": "P. O. Box 86Goldendale, WA 98620"
     },
     "phone": null,
-    "website": "https://jeffreylelmer@yahoo.com/",
+    "website": null,
+    "email": "https://jeffreylelmer@yahoo.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -534,7 +560,8 @@
       "mailingAddress": "Goldendale, WA 98620"
     },
     "phone": null,
-    "website": "mailto:maryhill@maryhillmuseum.org",
+    "website": "https://www.maryhillmuseum.org/",
+    "email": "mailto:maryhill@maryhillmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -554,7 +581,8 @@
       "mailingAddress": "207 West Second StreetGrandview, WA 98930"
     },
     "phone": "509-882-2070",
-    "website": "mailto:carteaga@grandview.wa.us",
+    "website": "https://www.grandview.wa.us/",
+    "email": "mailto:carteaga@grandview.wa.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -574,7 +602,8 @@
       "mailingAddress": "P. O. Box 1414Granite Falls, WA 98252"
     },
     "phone": "360-691-2603",
-    "website": "mailto:info@gfhistory.org",
+    "website": "https://www.gfhistory.org/",
+    "email": "mailto:info@gfhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -592,7 +621,8 @@
       "mailingAddress": "P. O. Box 154Greenbank, WA 98253"
     },
     "phone": "360-678-1912",
-    "website": "mailto:meerkerk@whidbey.net",
+    "website": "https://www.meerkerkgardens.org/",
+    "email": "mailto:meerkerk@whidbey.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -610,7 +640,8 @@
       "mailingAddress": "P. O. Box 488Ilwaco, WA 98624"
     },
     "phone": null,
-    "website": "https://www.parks.wa.gov/",
+    "website": null,
+    "email": "https://www.parks.wa.gov/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -628,7 +659,8 @@
       "mailingAddress": "P. O. Box 488Ilwaco, WA 98624"
     },
     "phone": "360-642-3078",
-    "website": "https://lewisandclarktrail.com/section4/wacities/chinook/lewisclarkcenter/",
+    "website": null,
+    "email": "https://lewisandclarktrail.com/section4/wacities/chinook/lewisclarkcenter/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -648,7 +680,8 @@
       "mailingAddress": "P.O. Box 695Issaquah, WA 98027"
     },
     "phone": "425-392-3500?",
-    "website": "https://www.issaquahhistory.org/",
+    "website": null,
+    "email": "https://www.issaquahhistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -668,7 +701,8 @@
       "mailingAddress": "Kelso, WA 98626"
     },
     "phone": null,
-    "website": "https://www.co.cowlitz.wa.us/museum",
+    "website": null,
+    "email": "https://www.co.cowlitz.wa.us/museum",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -686,7 +720,8 @@
       "mailingAddress": null
     },
     "phone": "253-854-4330",
-    "website": "mailto:ctyofknt@msn.com",
+    "website": "https://www.kenthistoricalmuseum.org/",
+    "email": "mailto:ctyofknt@msn.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -706,7 +741,8 @@
       "mailingAddress": "P. O. Box 498Kettle Falls, WA 99141"
     },
     "phone": "509-738-6964",
-    "website": "mailto:kfhc@kettlefallshistoricalcenter.com",
+    "website": "https://www.kettlefallshistoricalcenter.com/",
+    "email": "mailto:kfhc@kettlefallshistoricalcenter.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/kettlefallshistoricalcenter",
       "twitter": null,
@@ -727,7 +763,8 @@
       "mailingAddress": "1103 Hunley RoadSilverdale, WA 98315-1103"
     },
     "phone": "360-396-4148",
-    "website": "mailto:NHHCWebmaster@navy.mil",
+    "website": "https://www.history.navy.mil/museums/keyport/index1.htm",
+    "email": "mailto:NHHCWebmaster@navy.mil",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -751,7 +788,8 @@
       "mailingAddress": "Kirkland, WA 98033"
     },
     "phone": "425-822-7161",
-    "website": "mailto:info@kirklandartscenter.org",
+    "website": "https://www.kirklandartscenter.org/",
+    "email": "mailto:info@kirklandartscenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -771,7 +809,8 @@
       "mailingAddress": "P. O. Box 1270La Conner, WA 98257"
     },
     "phone": "360-466-4288",
-    "website": "mailto:director@laconnerquilts.com",
+    "website": "https://www.laconnerquilts.com/",
+    "email": "mailto:director@laconnerquilts.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -791,7 +830,8 @@
       "mailingAddress": "P. O. Box 969La Conner, WA 98257"
     },
     "phone": "360-466-4078",
-    "website": "mailto:marketing@museumofnwart.org",
+    "website": "https://museumofnwart.org/",
+    "email": "mailto:marketing@museumofnwart.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -812,7 +852,8 @@
       "mailingAddress": "P. O. Box 818La Conner, WA 98257"
     },
     "phone": "360-466-3365",
-    "website": "mailto:Museum@co.skagit.wa.us",
+    "website": "https://www.skagitcounty.net/",
+    "email": "mailto:Museum@co.skagit.wa.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -834,7 +875,8 @@
       "mailingAddress": "P. O. Box 279La Push, WA 98350"
     },
     "phone": "800-487-1267",
-    "website": "mailto:resort@quileutenation.org",
+    "website": "https://www.quileutenation.org/",
+    "email": "mailto:resort@quileutenation.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -854,7 +896,8 @@
       "mailingAddress": "P. O. Box 874Lake Stevens, WA 98258"
     },
     "phone": "425-212-3320",
-    "website": "mailto:lakestevenshistoricalsociety@gmail.com",
+    "website": "https://lakestevenshistoricalmuseum.org/",
+    "email": "mailto:lakestevenshistoricalsociety@gmail.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/Lakestevenshistoricalmuseum/",
       "twitter": null,
@@ -875,7 +918,8 @@
       "mailingAddress": "P. O. Box 612Langley, WA 98260"
     },
     "phone": null,
-    "website": "https://www.southwhidbeyhistory.org/SWHS/Welcome.html",
+    "website": null,
+    "email": "https://www.southwhidbeyhistory.org/SWHS/Welcome.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -895,7 +939,8 @@
       "mailingAddress": "Long Beach, WA 98631"
     },
     "phone": "360-642-5553",
-    "website": "mailto:cranberries@willapabay.org",
+    "website": "https://www.cranberrymuseum.com/",
+    "email": "mailto:cranberries@willapabay.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -915,7 +960,8 @@
       "mailingAddress": "Lynden, WA 98264"
     },
     "phone": "360-354-3675",
-    "website": "mailto:troy@lyndenpioneermuseum.com",
+    "website": "https://www.lyndenpioneermuseum.com/",
+    "email": "mailto:troy@lyndenpioneermuseum.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Lynden-WA/Lynden-Pioneer-Museum/38506439789",
       "twitter": "https://www.twitter.com/lyndenmuseum",
@@ -935,7 +981,8 @@
       "mailingAddress": "P.O. Box 2206Lynnwood, WA 98036"
     },
     "phone": "425-775-4694",
-    "website": "mailto:info@alderwood.org",
+    "website": "https://www.alderwood.org/",
+    "email": "mailto:info@alderwood.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -953,7 +1000,8 @@
       "mailingAddress": "P.O. Box 123Maple Valley, WA 98038"
     },
     "phone": "425-432-3470",
-    "website": "mailto:pilgrim.dskc@gmail.com",
+    "website": "https://www.maplevalleyhistorical.com/",
+    "email": "mailto:pilgrim.dskc@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -973,7 +1021,8 @@
       "mailingAddress": "P.O. Box 41Marysville, WA 98270"
     },
     "phone": "360-659-3090",
-    "website": "mailto:info@marysvillehistory.org",
+    "website": "https://www.marysvillehistory.org/",
+    "email": "mailto:info@marysvillehistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -993,7 +1042,8 @@
       "mailingAddress": "P.O. Box 4205McChord AFB, WA 98438"
     },
     "phone": "253-982-2485",
-    "website": "mailto:mamfound@mcchordairmuseum.org",
+    "website": "https://www.mcchordairmuseum.org/",
+    "email": "mailto:mamfound@mcchordairmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1013,7 +1063,8 @@
       "mailingAddress": "P O Box 554McCleary, WA 98557"
     },
     "phone": "360-495-4569",
-    "website": "mailto:McCleary.museum@gmail.com",
+    "website": "https://mcclearymuseum.org/",
+    "email": "mailto:McCleary.museum@gmail.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/McClearyMuseum/",
       "twitter": null,
@@ -1034,7 +1085,8 @@
       "mailingAddress": "Mead, WA 99021"
     },
     "phone": null,
-    "website": "https://www.parks.wa.gov/",
+    "website": null,
+    "email": "https://www.parks.wa.gov/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1054,7 +1106,8 @@
       "mailingAddress": "PO Box 111Mercer Island, WA 98040"
     },
     "phone": "206-236-3274",
-    "website": "https://www.mihistory.org/",
+    "website": null,
+    "email": "https://www.mihistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1074,7 +1127,8 @@
       "mailingAddress": "P. O. Box 219Metaline Falls, WA 99153"
     },
     "phone": null,
-    "website": "https://www.seattle.gov/light/tours/boundary/",
+    "website": null,
+    "email": "https://www.seattle.gov/light/tours/boundary/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1092,7 +1146,8 @@
       "mailingAddress": "P. O. Box 1044Monroe, WA 98272"
     },
     "phone": "360-217-7223",
-    "website": "mailto:webmaster@monroehistoricalsociety.org",
+    "website": "https://www.monroehistoricalsociety.org/",
+    "email": "mailto:webmaster@monroehistoricalsociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

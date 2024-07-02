@@ -6,7 +6,8 @@
       "mailingAddress": "P.O.Box 203Tujunga, CA 91043"
     },
     "phone": "818-951-1041",
-    "website": "https://www.verdugo-online.com/",
+    "website": null,
+    "email": "https://www.verdugo-online.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -27,7 +28,8 @@
       "mailingAddress": null
     },
     "phone": "657-278-3896",
-    "website": "mailto:kcornell@exchange.fullerton.edu",
+    "website": "https://www.tuckerwildlife.org/",
+    "email": "mailto:kcornell@exchange.fullerton.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -47,7 +49,8 @@
       "mailingAddress": "P. O. Box 248Tulare, CA 93275"
     },
     "phone": "559-686-2074",
-    "website": "mailto:lthullen@tularehistoricalmuseum.org",
+    "website": "https://www.tularehistoricalmuseum.org/",
+    "email": "mailto:lthullen@tularehistoricalmuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Tulare-Historical-Museum/130492753687040",
       "twitter": null,
@@ -69,7 +72,8 @@
       "mailingAddress": "P.O. Box 1174Tuolumne, CA 95379"
     },
     "phone": "209-928-3515",
-    "website": "https://www.tuolumnemuseum.org/",
+    "website": null,
+    "email": "https://www.tuolumnemuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -89,7 +93,8 @@
       "mailingAddress": "P.O. Box 695Sonora, CA 95370"
     },
     "phone": "209-532-1317",
-    "website": "mailto:info@tchistory.org",
+    "website": "https://tchistory.org/index.html",
+    "email": "mailto:info@tchistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -109,7 +114,8 @@
       "mailingAddress": "1335 Arboretum DriveSuite ARedding, CA 96003"
     },
     "phone": "530-243-8850",
-    "website": "https://www.turtlebay.org/",
+    "website": null,
+    "email": "https://www.turtlebay.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -135,7 +141,8 @@
       "mailingAddress": null
     },
     "phone": "760-762-5810",
-    "website": "mailto:director@20muleteammuseum.com",
+    "website": "https://20muleteammuseum.com/",
+    "email": "mailto:director@20muleteammuseum.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -155,7 +162,8 @@
       "mailingAddress": null
     },
     "phone": "510-643-2755",
-    "website": "mailto:garden@berkeley.edu",
+    "website": "https://botanicalgarden.berkeley.edu/",
+    "email": "mailto:garden@berkeley.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -175,7 +183,8 @@
       "mailingAddress": "Box 951549Los Angeles, CA 90025"
     },
     "phone": "310-825-4361",
-    "website": "https://www.fowler.ucla.edu/",
+    "website": null,
+    "email": "https://www.fowler.ucla.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -197,7 +206,8 @@
       "mailingAddress": "P.O. Box 1Death Valley, CA 92328"
     },
     "phone": null,
-    "website": "https://www.letsgoseeit.com/index/county/inyo/death_valley/loc03/museum.htm",
+    "website": null,
+    "email": "https://www.letsgoseeit.com/index/county/inyo/death_valley/loc03/museum.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -217,7 +227,8 @@
       "mailingAddress": null
     },
     "phone": "310-393-6149",
-    "website": "https://healthebay.org/smpa/default.asp",
+    "website": null,
+    "email": "https://healthebay.org/smpa/default.asp",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -239,7 +250,8 @@
       "mailingAddress": null
     },
     "phone": "951-827-4787",
-    "website": "https://www.cmp.ucr.edu/",
+    "website": null,
+    "email": "https://www.cmp.ucr.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -259,7 +271,8 @@
       "mailingAddress": null
     },
     "phone": "831-427-2998",
-    "website": "https://www2.ucsc.edu/arboretum",
+    "website": null,
+    "email": "https://www2.ucsc.edu/arboretum",
     "socialLinks": {
       "facebook": "https://www.facebook.com/group.php?v=wall&gid=146236564503",
       "twitter": null,
@@ -279,7 +292,8 @@
       "mailingAddress": "P.O. Box 907Alleghany, CA 95910"
     },
     "phone": null,
-    "website": "https://www.origsix.com/ugmm.asp?d=2",
+    "website": null,
+    "email": "https://www.origsix.com/ugmm.asp?d=2",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -299,7 +313,8 @@
       "mailingAddress": "SDSU School of Art, Design & Art Hist., 5500 Campanile DriveSan Diego, CA 92182"
     },
     "phone": "858-534-0419",
-    "website": "mailto:uag@ucsd.edu",
+    "website": "https://uag.ucsd.edu/exhibitions/current.shtml",
+    "email": "mailto:uag@ucsd.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -319,7 +334,8 @@
       "mailingAddress": null
     },
     "phone": "310-243-3696",
-    "website": "https://www.csudh.edu/",
+    "website": null,
+    "email": "https://www.csudh.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -339,7 +355,8 @@
       "mailingAddress": null
     },
     "phone": "858-534-2860",
-    "website": "https://visarts.ucsd.edu/",
+    "website": null,
+    "email": "https://visarts.ucsd.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -359,7 +376,8 @@
       "mailingAddress": null
     },
     "phone": "562-985-5761",
-    "website": "mailto:uam@csulb.edu",
+    "website": "https://www.csulb.edu/org/uam/",
+    "email": "mailto:uam@csulb.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/uam.fans",
       "twitter": "https://www.twitter.com/uamcsulb",
@@ -379,7 +397,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.uam.ucsb.edu/",
+    "website": null,
+    "email": "https://www.uam.ucsb.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -399,7 +418,8 @@
       "mailingAddress": null
     },
     "phone": "707-447-4513",
-    "website": "mailto:vminfo@vacavillemuseum.org",
+    "website": "https://www.vacavillemuseum.org/",
+    "email": "mailto:vminfo@vacavillemuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -419,7 +439,8 @@
       "mailingAddress": null
     },
     "phone": "707-643-0077",
-    "website": "mailto:valmuse@pacbell.net",
+    "website": "https://www.vallejomuseum.org/",
+    "email": "mailto:valmuse@pacbell.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Vallejo-Naval-and-Historical-Museum/128869639437?ref=hl",
       "twitter": null,
@@ -444,7 +465,8 @@
       "mailingAddress": null
     },
     "phone": "925-935-4311",
-    "website": "mailto:valleyart@valleyartgallery.org",
+    "website": "https://www.valleyartgallery.org/home.htm",
+    "email": "mailto:valleyart@valleyartgallery.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -464,7 +486,8 @@
       "mailingAddress": "1620 Pan American PlazaSan Diego, CA 92101"
     },
     "phone": "619-239-0512",
-    "website": "https://www.balboapark.org/in-the-park/botanical-building",
+    "website": null,
+    "email": "https://www.balboapark.org/in-the-park/botanical-building",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -484,7 +507,8 @@
       "mailingAddress": "5655 Lindero Canyon Road, Suite 422Thousand Oaks, CA 91360"
     },
     "phone": "818-879-2021",
-    "website": "mailto:volunteers@discoverycntr.org",
+    "website": "https://www.vcdc.org/",
+    "email": "mailto:volunteers@discoverycntr.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -504,7 +528,8 @@
       "mailingAddress": null
     },
     "phone": "805-984-6260",
-    "website": "mailto:vcmmarts@aol.com",
+    "website": "https://cimmvc.org/",
+    "email": "mailto:vcmmarts@aol.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -527,7 +552,8 @@
       "mailingAddress": null
     },
     "phone": "805-653-0323",
-    "website": "https://venturamuseum.org/",
+    "website": null,
+    "email": "https://venturamuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -547,7 +573,8 @@
       "mailingAddress": null
     },
     "phone": "707-937-0697",
-    "website": "mailto:innkeeper@victorianfarmhouse.com",
+    "website": "https://www.victorianfarmhouse.com/",
+    "email": "mailto:innkeeper@victorianfarmhouse.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -567,7 +594,8 @@
       "mailingAddress": "San Diego, CA 92102"
     },
     "phone": null,
-    "website": "mailto:Friends@VillaMontezuma.org",
+    "website": "https://villamontezuma.org/",
+    "email": "mailto:Friends@VillaMontezuma.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/VillaMontezuma",
       "twitter": null,
@@ -587,7 +615,8 @@
       "mailingAddress": null
     },
     "phone": "310-550-2068",
-    "website": "mailto:info@robinsongardens.org",
+    "website": "https://www.robinsongardens.org/",
+    "email": "mailto:info@robinsongardens.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -608,7 +637,8 @@
       "mailingAddress": null
     },
     "phone": "818-677-3496",
-    "website": "mailto:botanicgarden@csun.edu",
+    "website": "https://www.csun.edu/botanicgarden/",
+    "email": "mailto:botanicgarden@csun.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -628,7 +658,8 @@
       "mailingAddress": null
     },
     "phone": "209-742-7625",
-    "website": "https://www.parks.ca.gov/Default.asp?page_id=586",
+    "website": null,
+    "email": "https://www.parks.ca.gov/Default.asp?page_id=586",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -656,7 +687,8 @@
       "mailingAddress": null
     },
     "phone": "213-847-4646",
-    "website": "mailto:cadwattsctr@earthlink.net",
+    "website": "https://www.wattstowers.org/Watts_Towers_Arts_Center.php",
+    "email": "mailto:cadwattsctr@earthlink.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -676,7 +708,8 @@
       "mailingAddress": "420 Montgomery Street / MAC A0101-026San Francisco, CA 94163"
     },
     "phone": "415-396-2619",
-    "website": "https://www.wellsfargohistory.com/museums/sfmuseum.html",
+    "website": null,
+    "email": "https://www.wellsfargohistory.com/museums/sfmuseum.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -696,7 +729,8 @@
       "mailingAddress": null
     },
     "phone": "707-942-4575",
-    "website": "https://www.parks.ca.gov/?page_id=477",
+    "website": null,
+    "email": "https://www.parks.ca.gov/?page_id=477",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -716,7 +750,8 @@
       "mailingAddress": "420 Montgomery Street (A0101-106)San Francisco, CA 94163"
     },
     "phone": "213-253-7166",
-    "website": "https://www.wellsfargohistory.com/",
+    "website": null,
+    "email": "https://www.wellsfargohistory.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -736,7 +771,8 @@
       "mailingAddress": "P.O. Box 491Taft, CA 93268"
     },
     "phone": "661-765-6664",
-    "website": "https://www.westkern-oilmuseum.org/",
+    "website": null,
+    "email": "https://www.westkern-oilmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -760,7 +796,8 @@
       "mailingAddress": "P.O. Box 14264Oakland, CA 94614"
     },
     "phone": "310-336-5000",
-    "website": "https://www.aerospace.org/",
+    "website": null,
+    "email": "https://www.aerospace.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -780,7 +817,8 @@
       "mailingAddress": null
     },
     "phone": "707-374-2978",
-    "website": "https://www.wrm.org/",
+    "website": null,
+    "email": "https://www.wrm.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -800,7 +838,8 @@
       "mailingAddress": "P.O. Box 829Soda Springs, CA 95728"
     },
     "phone": "530-426-3313",
-    "website": "mailto:m.mccay-moran@assoc.auburnskiclub.org",
+    "website": "https://www.auburnskiclub.org/?option=com_content&task=view&id=20&Itemid=34",
+    "email": "mailto:m.mccay-moran@assoc.auburnskiclub.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -820,7 +859,8 @@
       "mailingAddress": "P. O. Box 576Boulder Creek, CA 95006"
     },
     "phone": "831-338-8382",
-    "website": "mailto:slvmuseum@sbcglobal.net",
+    "website": "https://www.slvmuseum.com/",
+    "email": "mailto:slvmuseum@sbcglobal.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -840,7 +880,8 @@
       "mailingAddress": null
     },
     "phone": "866-338-7227",
-    "website": "https://www.pointlobos.org/education/teachers/whalers-cabin",
+    "website": null,
+    "email": "https://www.pointlobos.org/education/teachers/whalers-cabin",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Point-Lobos-Foundation/115691978490949?ref=ts",
       "twitter": "https://www.twitter.com/Point_Lobos",
@@ -860,7 +901,8 @@
       "mailingAddress": null
     },
     "phone": "562-945-3871",
-    "website": "mailto:info@whittiermuseum.org",
+    "website": "https://www.whittiermuseum.org/",
+    "email": "mailto:info@whittiermuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -881,7 +923,8 @@
       "mailingAddress": null
     },
     "phone": "909-652-6492",
-    "website": "mailto:wignall.staff@chaffey.edu",
+    "website": "https://www.chaffey.edu/wignall",
+    "email": "mailto:wignall.staff@chaffey.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/#!/group.php?gid=39071133317",
       "twitter": null,
@@ -901,7 +944,8 @@
       "mailingAddress": null
     },
     "phone": "818-899-5201",
-    "website": "https://wildlifewaystation.org/",
+    "website": null,
+    "email": "https://wildlifewaystation.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -921,7 +965,8 @@
       "mailingAddress": "2002 N. Main St.Santa Ana, CA 92706"
     },
     "phone": "714-567-3600",
-    "website": "https://www.bowers.org/",
+    "website": null,
+    "email": "https://www.bowers.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/home.php#/pages/Santa-Ana-CA/Bowers-Museum/101778233870",
       "twitter": "https://www.twitter.com/bowersmuseum",
@@ -941,7 +986,8 @@
       "mailingAddress": null
     },
     "phone": "530-529-8599",
-    "website": "https://www.ideadobe.tehama.k12.ca.us/",
+    "website": null,
+    "email": "https://www.ideadobe.tehama.k12.ca.us/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -964,7 +1010,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.nhm.org/",
+    "website": null,
+    "email": "https://www.nhm.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -984,7 +1031,8 @@
       "mailingAddress": "P.O. Box 102Willow Creek, CA 95573"
     },
     "phone": "530-629-2653",
-    "website": "https://bigfootcountry.net/home/bigfoot_collection",
+    "website": null,
+    "email": "https://bigfootcountry.net/home/bigfoot_collection",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1004,7 +1052,8 @@
       "mailingAddress": null
     },
     "phone": "408-683-2290",
-    "website": "mailto:inquiry@wingsofhistory.org",
+    "website": "https://www.wingsofhistory.org/",
+    "email": "mailto:inquiry@wingsofhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1024,7 +1073,8 @@
       "mailingAddress": "P.O.Box 190038San Francisco, CA 94119"
     },
     "phone": "415-543-4669",
-    "website": "mailto:info@imow.org",
+    "website": "https://www.imow.org/home/index",
+    "email": "mailto:info@imow.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1044,7 +1094,8 @@
       "mailingAddress": "P.O. Box 1425Woodland, CA 95695"
     },
     "phone": "530-666-9617",
-    "website": "mailto:operahouse@afes.com",
+    "website": "https://www.wohtheatre.org/",
+    "email": "mailto:operahouse@afes.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1064,7 +1115,8 @@
       "mailingAddress": null
     },
     "phone": "714-567-3600",
-    "website": "mailto:info@bowers.org",
+    "website": "https://www.bowers.org/",
+    "email": "mailto:info@bowers.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1089,7 +1141,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.homesteadmuseum.org/",
+    "website": null,
+    "email": "https://www.homesteadmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

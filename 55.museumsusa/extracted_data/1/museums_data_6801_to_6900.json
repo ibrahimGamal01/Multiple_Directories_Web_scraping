@@ -6,7 +6,8 @@
       "mailingAddress": "P. O. Box 498Suquamish, WA 98392"
     },
     "phone": "360-394-8499",
-    "website": "mailto:clewis@suquamish.nsn.us",
+    "website": "https://suquamishmuseum.org/",
+    "email": "mailto:clewis@suquamish.nsn.us",
     "socialLinks": {
       "facebook": "https://www.facebook.com/SuquamishMuseum/",
       "twitter": "https://www.twitter.com/SuquamishMuseum",
@@ -33,7 +34,8 @@
       "mailingAddress": "Tacoma, WA 98402"
     },
     "phone": null,
-    "website": "https://www.aamuseumtacoma.org/",
+    "website": null,
+    "email": "https://www.aamuseumtacoma.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -55,7 +57,8 @@
       "mailingAddress": "1501 Pacific AvenueSuite 202Tacoma, WA 98402"
     },
     "phone": "253-627-6031",
-    "website": "https://www.playtacoma.org/",
+    "website": null,
+    "email": "https://www.playtacoma.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/ChildrensMuseumofTacoma",
       "twitter": "https://www.twitter.com/#!/CMTacoma",
@@ -75,7 +78,8 @@
       "mailingAddress": "Tacoma, WA 98407"
     },
     "phone": "253-591-5339",
-    "website": "mailto:fortnisqually@tacomaparks.com",
+    "website": "https://www.fortnisqually.org/",
+    "email": "mailto:fortnisqually@tacomaparks.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -95,7 +99,8 @@
       "mailingAddress": "Tacoma, WA 98402"
     },
     "phone": "253-591-5666",
-    "website": "https://www.tpl.lib.wa.us/Default.aspx",
+    "website": null,
+    "email": "https://www.tpl.lib.wa.us/Default.aspx",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -115,7 +120,8 @@
       "mailingAddress": "P.O. Box 7609Tacoma, WA 98406"
     },
     "phone": "253-627-5405",
-    "website": "mailto:mbowlby@jobcarrmuseum.org",
+    "website": "https://www.jobcarrmuseum.org/",
+    "email": "mailto:mbowlby@jobcarrmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -135,7 +141,8 @@
       "mailingAddress": "1500 N. Warner Street, #1072Tacoma, WA 98416"
     },
     "phone": null,
-    "website": "https://www.pugetsound.edu/about/campus--the-northwest/places-spaces/kittredge-gallery/",
+    "website": null,
+    "email": "https://www.pugetsound.edu/about/campus--the-northwest/places-spaces/kittredge-gallery/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -155,7 +162,8 @@
       "mailingAddress": null
     },
     "phone": "253-284-4750",
-    "website": "mailto:info@museumofglass.org",
+    "website": "https://www.museumofglass.org/",
+    "email": "mailto:info@museumofglass.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -179,7 +187,8 @@
       "mailingAddress": "12303 SE Auburn-Black Diamond RdAuburn, WA 98071"
     },
     "phone": "253-833-9404",
-    "website": "https://www.neelymansion.org/",
+    "website": null,
+    "email": "https://www.neelymansion.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -203,7 +212,8 @@
       "mailingAddress": "Tacoma, WA 98407"
     },
     "phone": "253-591-5337",
-    "website": "mailto:pdzacomments@tacomaparks.com",
+    "website": "https://www.pdza.org/",
+    "email": "mailto:pdzacomments@tacomaparks.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -223,7 +233,8 @@
       "mailingAddress": "Tacoma, WA 98422"
     },
     "phone": "253-927-2536",
-    "website": "mailto:pointsnortheast@comcast.net",
+    "website": "https://www.pnehs.dreamhosters.com/lighthouse/",
+    "email": "mailto:pointsnortheast@comcast.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -243,7 +254,8 @@
       "mailingAddress": "PLUTacoma, WA 98447"
     },
     "phone": "253-535-7532",
-    "website": "mailto:scancntr@plu.edu",
+    "website": "https://www.plu.edu/scancenter/",
+    "email": "mailto:scancntr@plu.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -263,7 +275,8 @@
       "mailingAddress": "Tacoma, WA 98402"
     },
     "phone": null,
-    "website": "https://www.tacomaartmuseum.org/",
+    "website": null,
+    "email": "https://www.tacomaartmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -283,7 +296,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.tacomahistory.org/",
+    "website": null,
+    "email": "https://www.tacomahistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -304,7 +318,8 @@
       "mailingAddress": "1911 Pacific AvenueTacoma, WA 98402"
     },
     "phone": "888-238-4373",
-    "website": "mailto:receptionist@wshs.wa.gov",
+    "website": "https://www.washingtonhistory.org/wshm/default.aspx",
+    "email": "mailto:receptionist@wshs.wa.gov",
     "socialLinks": {
       "facebook": "https://www.facebook.com/historymuseum",
       "twitter": "https://www.twitter.com/historymuseum",
@@ -326,7 +341,8 @@
       "mailingAddress": "P.O. Box 7Thorp, WA 98946"
     },
     "phone": "509-964-9640",
-    "website": "mailto:info@thorp.org",
+    "website": "https://www.thorp.org/",
+    "email": "mailto:info@thorp.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -344,7 +360,8 @@
       "mailingAddress": "P. O. Box 151Toppenish, WA 98948"
     },
     "phone": "509-865-2800",
-    "website": "mailto:pamela@yakama.com",
+    "website": "https://www.yakamamuseum.com/",
+    "email": "mailto:pamela@yakama.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -367,7 +384,8 @@
       "mailingAddress": "P. O. Box 58426Tukwila, WA 98138"
     },
     "phone": "206-244-4478",
-    "website": "mailto:tukwilahistsociety@tukwilahistory.org",
+    "website": "https://tukwilahistory.org/",
+    "email": "mailto:tukwilahistsociety@tukwilahistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -387,7 +405,8 @@
       "mailingAddress": null
     },
     "phone": "360-716-2600",
-    "website": "mailto:info@hibulbculturalcenter.org",
+    "website": "https://hibulbculturalcenter.org/",
+    "email": "mailto:info@hibulbculturalcenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": "https://www.twitter.com/intent/session?return_to=%2Fintent%2Ftweet%3Fstatus%3DHibulb%2BCultural%2BCenter%2BAnd%2BNatural%2BHistory%2BPre",
@@ -411,7 +430,8 @@
       "mailingAddress": "Tumwater, WA 98501"
     },
     "phone": "360-754-4217",
-    "website": "https://www.ci.tumwater.wa.us/historicalcrosbyhouse.htm",
+    "website": null,
+    "email": "https://www.ci.tumwater.wa.us/historicalcrosbyhouse.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -429,7 +449,8 @@
       "mailingAddress": "555 Israel Road SWTumwater, WA 98501"
     },
     "phone": "360-754-4217",
-    "website": "mailto:museum@ci.tumwater.wa.us",
+    "website": "https://www.ci.tumwater.wa.us/",
+    "email": "mailto:museum@ci.tumwater.wa.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -452,7 +473,8 @@
       "mailingAddress": "P. O.  Box 4315Tumwater, WA 98501"
     },
     "phone": "360-943-6951",
-    "website": "mailto:dontrosper@q.com",
+    "website": "https://tumwaterhistoricalassociation.org/",
+    "email": "mailto:dontrosper@q.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -470,7 +492,8 @@
       "mailingAddress": "P.O. Box 3008Union Gap, WA 98903"
     },
     "phone": "509-457-8735",
-    "website": "mailto:info@centralwaagmuseum.org",
+    "website": "https://www.centralwaagmuseum.org/",
+    "email": "mailto:info@centralwaagmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -492,7 +515,8 @@
       "mailingAddress": "1933 Fort Vancouver Way, FAC 101Vancouver, WA 98663"
     },
     "phone": "360-992-2246",
-    "website": "mailto:bshell@clark.edu",
+    "website": "https://www.clark.edu/news_events/archer/index.php",
+    "email": "mailto:bshell@clark.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -510,7 +534,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.ccrh.org/",
+    "website": null,
+    "email": "https://www.ccrh.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -530,7 +555,8 @@
       "mailingAddress": "6100 Foreland GarthColumbia, MD 21045"
     },
     "phone": "410-730-0075",
-    "website": "mailto:art.staff@columbiaassociation.com",
+    "website": "https://www.columbiaartcenter.org/",
+    "email": "mailto:art.staff@columbiaassociation.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -550,7 +576,8 @@
       "mailingAddress": "Vancouver, WA 98661"
     },
     "phone": "360-694-7026",
-    "website": "mailto:Info@fortvan.org",
+    "website": "https://www.pearsonairmuseum.org/",
+    "email": "mailto:Info@fortvan.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -570,7 +597,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.vancouverhistoricreserve.org/",
+    "website": null,
+    "email": "https://www.vancouverhistoricreserve.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -591,7 +619,8 @@
       "mailingAddress": "Vantage, WA 98950"
     },
     "phone": "509-856-2700",
-    "website": "https://www.parks.wa.gov/",
+    "website": null,
+    "email": "https://www.parks.wa.gov/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -609,7 +638,8 @@
       "mailingAddress": "P. O. Box 576Vashon Island, WA 98070"
     },
     "phone": null,
-    "website": "https://www.vashonalliedarts.com/",
+    "website": null,
+    "email": "https://www.vashonalliedarts.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -629,7 +659,8 @@
       "mailingAddress": "P. O. Box 723Vashon Island, WA 98070"
     },
     "phone": "206-463-7808",
-    "website": "mailto:admin@vashonheritage.org",
+    "website": "https://www.vashonheritage.org/",
+    "email": "mailto:admin@vashonheritage.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -649,7 +680,8 @@
       "mailingAddress": "P.O. Box 577Vaughn, WA 98394"
     },
     "phone": "253-884-3272",
-    "website": "mailto:info@keypeninsulamuseum.org",
+    "website": "https://www.keypeninsulamuseum.org/",
+    "email": "mailto:info@keypeninsulamuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -669,7 +701,8 @@
       "mailingAddress": "P.O. Box 441Waitsburg, WA 99361"
     },
     "phone": "509-337-6157",
-    "website": "https://www.cityofwaitsburg.com/Attraction_Event/attraction_event.html",
+    "website": null,
+    "email": "https://www.cityofwaitsburg.com/Attraction_Event/attraction_event.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -692,7 +725,8 @@
       "mailingAddress": "Walla Walla, WA 99362"
     },
     "phone": "509-525-7703",
-    "website": "mailto:info@fortwallawallamuseum.org",
+    "website": "https://www.fortwallawallamuseum.org/",
+    "email": "mailto:info@fortwallawallamuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -710,7 +744,8 @@
       "mailingAddress": "Walla Walla, WA 99362"
     },
     "phone": "509-529-4373",
-    "website": "mailto:khm@kirkmanhousemuseum.org",
+    "website": "https://www.kirkmanhousemuseum.org/",
+    "email": "mailto:khm@kirkmanhousemuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/group.php?gid=30286894862#!/pages/Walla-Walla-WA/Kirkman-House-Museum/50508935968?ref=t",
       "twitter": null,
@@ -730,7 +765,8 @@
       "mailingAddress": "Walla Walla, WA 99362"
     },
     "phone": null,
-    "website": "https://www.nps.gov/whmi",
+    "website": null,
+    "email": "https://www.nps.gov/whmi",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -750,7 +786,8 @@
       "mailingAddress": "PO Box 204Washougal, WA 98671"
     },
     "phone": "360-835-8742",
-    "website": "mailto:referenceroom@trhm.comcastbiz.net",
+    "website": "https://www.2rhm.com/",
+    "email": "mailto:referenceroom@trhm.comcastbiz.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/2rhmuseum",
       "twitter": null,
@@ -777,7 +814,8 @@
       "mailingAddress": "P.O. Box 63Waterville, WA 98858"
     },
     "phone": "509-745-8435",
-    "website": "mailto:info@watervillewashington.org",
+    "website": "https://www.watervillewashington.org/history.html",
+    "email": "mailto:info@watervillewashington.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -801,7 +839,8 @@
       "mailingAddress": "Wenatchee, WA 98801"
     },
     "phone": "509-888-6240",
-    "website": "mailto:info@wvmcc.org",
+    "website": "https://www.wvmcc.org/",
+    "email": "mailto:info@wvmcc.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -825,7 +864,8 @@
       "mailingAddress": "Wenatchee, WA 98801"
     },
     "phone": "509-662-5785",
-    "website": "mailto:ohmegardens@charter.net",
+    "website": "https://www.ohmegardens.com/",
+    "email": "mailto:ohmegardens@charter.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -845,7 +885,8 @@
       "mailingAddress": "P. O. Box 1074Westport, WA 98595"
     },
     "phone": null,
-    "website": "mailto:kraig@lighthousefriends.com",
+    "website": "https://www.lighthousefriends.com/light.asp?ID=117",
+    "email": "mailto:kraig@lighthousefriends.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -865,7 +906,8 @@
       "mailingAddress": "P. O. Box 1074Westport, WA 98595"
     },
     "phone": null,
-    "website": "https://www.westportwa.com/museum",
+    "website": null,
+    "email": "https://www.westportwa.com/museum",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -885,7 +927,8 @@
       "mailingAddress": "White Swan, WA 98952"
     },
     "phone": "509-874-2372",
-    "website": "mailto:infocent@parks.wa.gov",
+    "website": "https://www.parks.wa.gov/",
+    "email": "mailto:infocent@parks.wa.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -903,7 +946,8 @@
       "mailingAddress": "P. O. Box 523Wilbur, WA 99185"
     },
     "phone": "509-647-5401",
-    "website": "mailto:bbhs@accima.com",
+    "website": "https://www.wilburwa.com/page17.html",
+    "email": "mailto:bbhs@accima.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -923,7 +967,8 @@
       "mailingAddress": "P. O. Box 46Winthrop, WA 98862"
     },
     "phone": "509-996-2712",
-    "website": "mailto:staff@shafermuseum.com",
+    "website": "https://www.shafermuseum.com/",
+    "email": "mailto:staff@shafermuseum.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -941,7 +986,8 @@
       "mailingAddress": "P. O. Box 216Woodinville, WA 98072"
     },
     "phone": "425-408-1820",
-    "website": "mailto:info@woodinvilleheritage.org",
+    "website": "https://www.woodinvilleheritage.org/",
+    "email": "mailto:info@woodinvilleheritage.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -962,7 +1008,8 @@
       "mailingAddress": "P. O. Box 828Woodland, WA 98674"
     },
     "phone": "360-225-8996",
-    "website": "mailto:gardener@lilacgardens.com",
+    "website": "https://www.lilacgardens.com/",
+    "email": "mailto:gardener@lilacgardens.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -982,7 +1029,8 @@
       "mailingAddress": "Yacolt, WA 98675"
     },
     "phone": null,
-    "website": "https://www.pomeroyfarm.org/",
+    "website": null,
+    "email": "https://www.pomeroyfarm.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1000,7 +1048,8 @@
       "mailingAddress": "Yakima, WA 98908"
     },
     "phone": "509-966-0930",
-    "website": "https://www.alliedartsyakima.org/",
+    "website": null,
+    "email": "https://www.alliedartsyakima.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/allied.arts.yakima",
       "twitter": null,
@@ -1020,7 +1069,8 @@
       "mailingAddress": "P.O Box 22520Yakima, WA 98907"
     },
     "phone": "509-574-4875",
-    "website": "mailto:gallery@yvcc.edu",
+    "website": "https://www.larsongallery.org/",
+    "email": "mailto:gallery@yvcc.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/larsongallery",
       "twitter": "https://www.twitter.com/LarsonGalleryG",
@@ -1043,7 +1093,8 @@
       "mailingAddress": "Yakima, WA 98901"
     },
     "phone": "509-248-7337",
-    "website": "mailto:info@ahtrees.org",
+    "website": "https://www.ahtrees.org/",
+    "email": "mailto:info@ahtrees.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1063,7 +1114,8 @@
       "mailingAddress": null
     },
     "phone": "509-248-0747",
-    "website": "mailto:info@yvmuseum.org",
+    "website": "https://www.yvmuseum.org/",
+    "email": "mailto:info@yvmuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/YakimaValleyMuseum/",
       "twitter": null,
@@ -1089,7 +1141,8 @@
       "mailingAddress": null
     },
     "phone": "505-599-1174",
-    "website": "https://www.farmingtonmuseum.org/",
+    "website": null,
+    "email": "https://www.farmingtonmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1109,7 +1162,8 @@
       "mailingAddress": "3041 E. MainFarmington, NM 87402"
     },
     "phone": null,
-    "website": "https://www.fmtn.org/city_government/parks_recreation_and_cultural_affairs/2977/nature_center.html",
+    "website": null,
+    "email": "https://www.fmtn.org/city_government/parks_recreation_and_cultural_affairs/2977/nature_center.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1129,7 +1183,8 @@
       "mailingAddress": "P.O. Box 5430Alamogordo, NM 88310-5430"
     },
     "phone": null,
-    "website": "https://www.nmspacemuseum.org/",
+    "website": null,
+    "email": "https://www.nmspacemuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1150,7 +1205,8 @@
       "mailingAddress": null
     },
     "phone": "888-207-3564",
-    "website": "mailto:railfanewmexico@hotmail.com",
+    "website": "https://www.toytraindepot.homestead.com/",
+    "email": "mailto:railfanewmexico@hotmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1175,7 +1231,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.alamogordomuseum.org/",
+    "website": null,
+    "email": "https://www.alamogordomuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1195,7 +1252,8 @@
       "mailingAddress": "202 Harvard SEAlbuquerque, NM 87106"
     },
     "phone": "505-268-9557",
-    "website": "mailto:dtwm@earthlink.net",
+    "website": "https://abqpeaceandjustice.org/",
+    "email": "mailto:dtwm@earthlink.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1217,7 +1275,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.nps.gov/museum/exhibits/chcu/index1.html",
+    "website": null,
+    "email": "https://www.nps.gov/museum/exhibits/chcu/index1.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1237,7 +1296,8 @@
       "mailingAddress": null
     },
     "phone": "505-224-8300",
-    "website": "mailto:explora@explora.us",
+    "website": "https://www.explora.mus.nm.us/",
+    "email": "mailto:explora@explora.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1260,7 +1320,8 @@
       "mailingAddress": "Dept. of Geology, Northrup Hall, University of New MexicoAlbuquerque, NM 87131"
     },
     "phone": "505-277-0111",
-    "website": "mailto:epsdept@unm.edu",
+    "website": "https://epswww.unm.edu/museum.htm",
+    "email": "mailto:epsdept@unm.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

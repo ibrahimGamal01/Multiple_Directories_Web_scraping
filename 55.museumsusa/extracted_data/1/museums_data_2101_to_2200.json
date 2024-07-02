@@ -6,7 +6,8 @@
       "mailingAddress": "13548 Centerville Rd.Chico, CA 95928"
     },
     "phone": "530-893-9667",
-    "website": "mailto:colmanmuseum@aol.com",
+    "website": "https://www.colmanmuseum.com/",
+    "email": "mailto:colmanmuseum@aol.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -26,7 +27,8 @@
       "mailingAddress": "111 \"I\" StreetSacramento, CA 95814"
     },
     "phone": "916-445-6645",
-    "website": "https://www.csrmf.org/",
+    "website": null,
+    "email": "https://www.csrmf.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -46,7 +48,8 @@
       "mailingAddress": null
     },
     "phone": "510-336-7300",
-    "website": "mailto:VisitorInfo@ChabotSpace.org",
+    "website": "https://www.chabotspace.org/",
+    "email": "mailto:VisitorInfo@ChabotSpace.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -66,7 +69,8 @@
       "mailingAddress": null
     },
     "phone": "559-498-5910",
-    "website": "mailto:info@fresnochaffeezoo.org",
+    "website": "https://www.chaffeezoo.org/",
+    "email": "mailto:info@fresnochaffeezoo.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/fresnochaffeezoo",
       "twitter": "https://www.twitter.com/fresnozoo",
@@ -89,7 +93,8 @@
       "mailingAddress": "P.O. Box 772Upland, CA 91785"
     },
     "phone": "909-982-8010",
-    "website": "https://www.coopermuseum.org/",
+    "website": null,
+    "email": "https://www.coopermuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -110,7 +115,8 @@
       "mailingAddress": null
     },
     "phone": "805-470-3182",
-    "website": "mailto:info@charlespaddockzoo.org",
+    "website": "https://www.charlespaddockzoo.org/",
+    "email": "mailto:info@charlespaddockzoo.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -130,7 +136,8 @@
       "mailingAddress": "PO Box 1191Chester, CA 96020"
     },
     "phone": "800-350-4838",
-    "website": "mailto:mquadrio@digitalpath.net",
+    "website": "https://www.lakealmanorarea.com/museums.htm",
+    "email": "mailto:mquadrio@digitalpath.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/lakealmanorarea",
       "twitter": null,
@@ -150,7 +157,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:info@bidwellpark.org",
+    "website": "https://www.bidwellpark.org/",
+    "email": "mailto:info@bidwellpark.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -170,7 +178,8 @@
       "mailingAddress": null
     },
     "phone": "530-891-4336",
-    "website": "mailto:manager@chicomuseum.org",
+    "website": "https://www.chicomuseum.org/html/contact_us.html",
+    "email": "mailto:manager@chicomuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -190,7 +199,8 @@
       "mailingAddress": null
     },
     "phone": "626-796-5541",
-    "website": "mailto:helpdesk@byways.org",
+    "website": "https://byways.org/about/contact.html",
+    "email": "mailto:helpdesk@byways.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -210,7 +220,8 @@
       "mailingAddress": null
     },
     "phone": "408-298-5437",
-    "website": "mailto:contactus@cdm.org",
+    "website": "https://www.cdm.org/",
+    "email": "mailto:contactus@cdm.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -230,7 +241,8 @@
       "mailingAddress": null
     },
     "phone": "760-233-7755",
-    "website": "mailto:info@sdcdm.org",
+    "website": "https://www.sdcdm.org/",
+    "email": "mailto:info@sdcdm.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/sdcdm",
       "twitter": "https://www.twitter.com/sdcdm320",
@@ -253,7 +265,8 @@
       "mailingAddress": "P.O. Box 6689, 1550 West Alhambra RoadAlhambra, CA 91802"
     },
     "phone": "626-300-8845",
-    "website": "mailto:alhambrahistsocinc@sbcglobal.net",
+    "website": "https://www.cityofalhambra.org/government/parks_recreation/parks/historical_society.html",
+    "email": "mailto:alhambrahistsocinc@sbcglobal.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -273,7 +286,8 @@
       "mailingAddress": null
     },
     "phone": "760-321-0602",
-    "website": "mailto:cdminfo@cdmod.org",
+    "website": "https://www.cdmod.org/",
+    "email": "mailto:cdminfo@cdmod.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -293,7 +307,8 @@
       "mailingAddress": null
     },
     "phone": "562-383-4236",
-    "website": "mailto:museumstaff@lahabraca.gov",
+    "website": "https://www.lhcm.org/",
+    "email": "mailto:museumstaff@lahabraca.gov",
     "socialLinks": {
       "facebook": "https://www.facebook.com/ChildrensMuseumLH/",
       "twitter": "https://www.twitter.com/cmlahabra",
@@ -316,7 +331,8 @@
       "mailingAddress": "P.O. Box 1200Oakhurst, CA 93644"
     },
     "phone": null,
-    "website": "https://www.childrensmuseumofthesierra.org/",
+    "website": null,
+    "email": "https://www.childrensmuseumofthesierra.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -336,7 +352,8 @@
       "mailingAddress": null
     },
     "phone": "619-233-8792",
-    "website": "mailto:adawson@thinkplaycreate.org",
+    "website": "https://www.childrensmuseumsd.org/",
+    "email": "mailto:adawson@thinkplaycreate.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -356,7 +373,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.camla.org/",
+    "website": null,
+    "email": "https://www.camla.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -377,7 +395,8 @@
       "mailingAddress": null
     },
     "phone": "415-986-1822",
-    "website": "mailto:info@c-c-c.org",
+    "website": "https://www.c-c-c.org/",
+    "email": "mailto:info@c-c-c.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/CCCSanFrancisco",
       "twitter": "https://www.twitter.com/#!/cccsanfrancisco",
@@ -397,7 +416,8 @@
       "mailingAddress": "San Francisco, CA 94133"
     },
     "phone": "415-391-1188",
-    "website": "mailto:info@chsa.org",
+    "website": "https://www.chsa.org/",
+    "email": "mailto:info@chsa.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -417,7 +437,8 @@
       "mailingAddress": null
     },
     "phone": "209-245-6489",
-    "website": "https://www.fiddletown.info/",
+    "website": null,
+    "email": "https://www.fiddletown.info/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -441,7 +462,8 @@
       "mailingAddress": null
     },
     "phone": "619-409-5900",
-    "website": "mailto:cvncinfo@cvnc.us",
+    "website": "https://www.chulavistanaturecenter.org/",
+    "email": "mailto:cvncinfo@cvnc.us",
     "socialLinks": {
       "facebook": "https://www.facebook.com/http://www.youtube.com/user/TheCVNC",
       "twitter": "https://www.twitter.com/#search?q=CVNatureCenter",
@@ -467,7 +489,8 @@
       "mailingAddress": "58 Chester WaySan Mateo, CA 94402"
     },
     "phone": "650-579-0536",
-    "website": "mailto:info@sanmateoarboretum.org",
+    "website": "https://www.sanmateoarboretum.org/",
+    "email": "mailto:info@sanmateoarboretum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -487,7 +510,8 @@
       "mailingAddress": null
     },
     "phone": "559-582-4915",
-    "website": "mailto:info@ccjac.org",
+    "website": "https://www.ccjac.org/",
+    "email": "mailto:info@ccjac.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -508,7 +532,8 @@
       "mailingAddress": null
     },
     "phone": "707-443-1947",
-    "website": "https://www.clarkemuseum.org/",
+    "website": null,
+    "email": "https://www.clarkemuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -528,7 +553,8 @@
       "mailingAddress": "P.O. Box 94Clayton, CA 94517"
     },
     "phone": "925-672-0240",
-    "website": "https://claytonhistory.org/default.aspx",
+    "website": null,
+    "email": "https://claytonhistory.org/default.aspx",
     "socialLinks": {
       "facebook": "https://www.facebook.com/#%21/pages/Clayton-Historical-Society-Museum/261178512964",
       "twitter": null,
@@ -548,7 +574,8 @@
       "mailingAddress": "P.O. Box 54Friant, CA 93626"
     },
     "phone": "559-822-2315",
-    "website": "mailto:info@topiaryzoo.com",
+    "website": "https://www.topiaryzoo.com/",
+    "email": "mailto:info@topiaryzoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -568,7 +595,8 @@
       "mailingAddress": null
     },
     "phone": "415-386-3330",
-    "website": "mailto:Ralph@cliffhouse.com",
+    "website": "https://www.cliffhouse.com/",
+    "email": "mailto:Ralph@cliffhouse.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -588,7 +616,8 @@
       "mailingAddress": "PO Box 628Cloverdale, CA 95425"
     },
     "phone": "707-894-2067",
-    "website": "mailto:office@cloverdalehistory.org",
+    "website": "https://www.cloverdalehistory.org/",
+    "email": "mailto:office@cloverdalehistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -608,7 +637,8 @@
       "mailingAddress": "P.O. Box 595Indio, CA 92202"
     },
     "phone": "760-342-6651",
-    "website": "mailto:jesse@cvhm.org",
+    "website": "https://www.cvhm.org/",
+    "email": "mailto:jesse@cvhm.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -631,7 +661,8 @@
       "mailingAddress": "P. O. Box 117Coarsegold, CA 93614"
     },
     "phone": "559-642-4448",
-    "website": "https://coarsegoldhistoricmuseum.com/",
+    "website": null,
+    "email": "https://coarsegoldhistoricmuseum.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -654,7 +685,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.cohenbrayhouse.info/",
+    "website": null,
+    "email": "https://www.cohenbrayhouse.info/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -674,7 +706,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.redwoods.edu/Departments/art/gallery/index.htm",
+    "website": null,
+    "email": "https://www.redwoods.edu/Departments/art/gallery/index.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -694,7 +727,8 @@
       "mailingAddress": "1500 Hillside Blvd.Daly City, CA 94014"
     },
     "phone": "650-757-1676",
-    "website": "mailto:colmahist@sbcglobal.net",
+    "website": "https://colmahistory.org/",
+    "email": "mailto:colmahist@sbcglobal.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -716,7 +750,8 @@
       "mailingAddress": "Star Route 1, Box 148Earlimart, CA 93219"
     },
     "phone": "661-849-3433",
-    "website": "https://www.parks.ca.gov/?page_id=583",
+    "website": null,
+    "email": "https://www.parks.ca.gov/?page_id=583",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -739,7 +774,8 @@
       "mailingAddress": "Museums and Cultural Arts - City of Monterey570 Pacific StreetMonterey, CA 93940"
     },
     "phone": "831-646-5640",
-    "website": "mailto:rygg@monterey.org",
+    "website": "https://www.monterey.org/museums/Home.aspx",
+    "email": "mailto:rygg@monterey.org",
     "socialLinks": {
       "facebook": null,
       "twitter": "https://www.twitter.com/intent/tweet?text=City+of+Monterey+%7C+Museums+%7C+Home&url=http%3A%2F%2Fwww.monterey.org%2Fmuseums%2FHome.aspx%",
@@ -761,7 +797,8 @@
       "mailingAddress": "P.O. Box 155Columbia, CA 95310"
     },
     "phone": "209-588-9128",
-    "website": "https://www.parks.ca.gov/?page_id=552",
+    "website": null,
+    "email": "https://www.parks.ca.gov/?page_id=552",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -781,7 +818,8 @@
       "mailingAddress": "P.O. Box 1555Yuba City, CA 95992"
     },
     "phone": "530-822-7141",
-    "website": "https://www.co.sutter.ca.us/doc/government/depts/museum/museum",
+    "website": null,
+    "email": "https://www.co.sutter.ca.us/doc/government/depts/museum/museum",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -801,7 +839,8 @@
       "mailingAddress": "P.O. Box 404Concord, CA 94522"
     },
     "phone": "925-827-3380",
-    "website": "mailto:lindhiggins@astound.net",
+    "website": "https://www.concordhistorical.org/",
+    "email": "mailto:lindhiggins@astound.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -821,7 +860,8 @@
       "mailingAddress": null
     },
     "phone": "323-466-2157",
-    "website": "mailto:sasha@corita.org",
+    "website": "https://www.corita.org/",
+    "email": "mailto:sasha@corita.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -843,7 +883,8 @@
       "mailingAddress": "Coronado, CA 92118"
     },
     "phone": "619-435-7242",
-    "website": "https://coronadohistory.org/",
+    "website": null,
+    "email": "https://coronadohistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -863,7 +904,8 @@
       "mailingAddress": "P.O. Box 1764Costa Mesa, CA 92628"
     },
     "phone": "949-631-5918",
-    "website": "mailto:cmhistory@sbcglobal.net",
+    "website": "https://www.costamesahistory.org/",
+    "email": "mailto:cmhistory@sbcglobal.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -883,7 +925,8 @@
       "mailingAddress": "Attn: Museum 1320 N. Eastern Ave.Alhambra, CA 91803"
     },
     "phone": "562-925-0234",
-    "website": "mailto:Info@LACountyFireMuseum.com",
+    "website": "https://www.clafma.org/",
+    "email": "mailto:Info@LACountyFireMuseum.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -903,7 +946,8 @@
       "mailingAddress": "P.O. Box 1862Covina, CA 91722"
     },
     "phone": "626-966-9871",
-    "website": "mailto:covinamuseum@gmail.com",
+    "website": "https://firehousejailmuseum.tripod.com/covinamuseum/",
+    "email": "mailto:covinamuseum@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -923,7 +967,8 @@
       "mailingAddress": null
     },
     "phone": "661-867-2410",
-    "website": "https://www.cowboymemorial.org/",
+    "website": null,
+    "email": "https://www.cowboymemorial.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -943,7 +988,8 @@
       "mailingAddress": null
     },
     "phone": "650-342-7755",
-    "website": "mailto:info@coyoteptmuseum.org",
+    "website": "https://www.coyoteptmuseum.org/",
+    "email": "mailto:info@coyoteptmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -963,7 +1009,8 @@
       "mailingAddress": null
     },
     "phone": "323-937-4230",
-    "website": "mailto:info@cafam.org",
+    "website": "https://www.cafam.org/",
+    "email": "mailto:info@cafam.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -984,7 +1031,8 @@
       "mailingAddress": null
     },
     "phone": "916-808-7000",
-    "website": "mailto:cam@crockerartmuseum.org",
+    "website": "https://www.crockerartmuseum.org/",
+    "email": "mailto:cam@crockerartmuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/crockerart",
       "twitter": "https://www.twitter.com/crockerart",
@@ -1005,7 +1053,8 @@
       "mailingAddress": "P.O. Box 1990Santa Barbara, CA 93101"
     },
     "phone": "805-564-5418",
-    "website": "mailto:sjlodge@cox.net",
+    "website": "https://www.sbrose.org/rosegarden.htm",
+    "email": "mailto:sjlodge@cox.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1025,7 +1074,8 @@
       "mailingAddress": null
     },
     "phone": "408-268-6541",
-    "website": "https://www.newalmaden.org/AQSPark/newalmmus.html",
+    "website": null,
+    "email": "https://www.newalmaden.org/AQSPark/newalmmus.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1045,7 +1095,8 @@
       "mailingAddress": "Garden Grove, CA 92640"
     },
     "phone": "714-971-4000",
-    "website": "https://www.crystalcathedral.org/",
+    "website": null,
+    "email": "https://www.crystalcathedral.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1065,7 +1116,8 @@
       "mailingAddress": null
     },
     "phone": "949-494-3539",
-    "website": "https://www.parks.ca.gov/?page_id=644",
+    "website": null,
+    "email": "https://www.parks.ca.gov/?page_id=644",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1085,7 +1137,8 @@
       "mailingAddress": "P.O. Box 4150Fullerton, CA 92834"
     },
     "phone": "657-278-2633",
-    "website": "https://library.fullerton.edu/",
+    "website": null,
+    "email": "https://library.fullerton.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1107,7 +1160,8 @@
       "mailingAddress": null
     },
     "phone": "408-973-1495",
-    "website": "mailto:info@cupertinohistoricalsociety.org",
+    "website": "https://www.cupertinohistoricalsociety.org/",
+    "email": "mailto:info@cupertinohistoricalsociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1129,7 +1183,8 @@
       "mailingAddress": "P.O. Box 517Markleeville, CA 96120"
     },
     "phone": "530-694-2317",
-    "website": "https://www.alpinecountyca.gov/departments/museum",
+    "website": null,
+    "email": "https://www.alpinecountyca.gov/departments/museum",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

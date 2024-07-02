@@ -6,7 +6,8 @@
       "mailingAddress": null
     },
     "phone": "319-527-5247",
-    "website": "mailto:LCHS@louisacomm.net",
+    "website": "https://www.louisacountyhistory.com/",
+    "email": "mailto:LCHS@louisacomm.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -26,7 +27,8 @@
       "mailingAddress": null
     },
     "phone": "563-387-1805",
-    "website": "mailto:vagtsrac@luther.edu",
+    "website": "https://archives.luther.edu/",
+    "email": "mailto:vagtsrac@luther.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -46,7 +48,8 @@
       "mailingAddress": null
     },
     "phone": "563-387-1781",
-    "website": "mailto:cleala01@luther.edu",
+    "website": "https://geology.luther.edu/",
+    "email": "mailto:cleala01@luther.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -66,7 +69,8 @@
       "mailingAddress": null
     },
     "phone": "515-462-2134",
-    "website": "https://www.madisoncountyhistoricalsociety.com/",
+    "website": null,
+    "email": "https://www.madisoncountyhistoricalsociety.com/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Madison-County-Historical-Complex/306743068805",
       "twitter": null,
@@ -86,7 +90,8 @@
       "mailingAddress": "P.O. Box 278Oskaloosa, IA 52577"
     },
     "phone": "641-672-2989",
-    "website": "mailto:curator@nelsonpioneer.org",
+    "website": "https://www.nelsonpioneer.org/",
+    "email": "mailto:curator@nelsonpioneer.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -106,7 +111,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.marion-historical-society.org/",
+    "website": null,
+    "email": "https://www.marion-historical-society.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -126,7 +132,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.uni.edu/museum/school.html",
+    "website": null,
+    "email": "https://www.uni.edu/museum/school.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -146,7 +153,8 @@
       "mailingAddress": "PO Box 304Marshalltown, IA 50158"
     },
     "phone": "641-752-6664",
-    "website": "mailto:marshallhistory@marshallnet.com",
+    "website": "https://www.marshallhistory.org/",
+    "email": "mailto:marshallhistory@marshallnet.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -169,7 +177,8 @@
       "mailingAddress": null
     },
     "phone": "607-756-7551",
-    "website": "mailto:the1890house@gmail.com",
+    "website": "https://www.the1890house.org/",
+    "email": "mailto:the1890house@gmail.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/The-1890-House-Museum/46821126995",
       "twitter": null,
@@ -194,7 +203,8 @@
       "mailingAddress": "321 State Rte 37Hogansburg, NY 13655"
     },
     "phone": "518-358-2461",
-    "website": "mailto:info@akwesasneculturalcenter.org",
+    "website": "https://www.akwesasneculturalcenter.org/",
+    "email": "mailto:info@akwesasneculturalcenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -217,7 +227,8 @@
       "mailingAddress": null
     },
     "phone": "518-673-2314",
-    "website": "mailto:canlib@sals.edu",
+    "website": "https://www.clag.org/",
+    "email": "mailto:canlib@sals.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": "https://www.twitter.com/canajoharie",
@@ -237,7 +248,8 @@
       "mailingAddress": "2527 Cherry Valley TurnpikeMarcellus, NY 13108"
     },
     "phone": "315-730-4495",
-    "website": "mailto:mbeilman@twcny.rr.com",
+    "website": "https://www.newyorkcanals.org/",
+    "email": "mailto:mbeilman@twcny.rr.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -255,7 +267,8 @@
       "mailingAddress": "Box 816Katonah, NY 10536"
     },
     "phone": "914-232-5035",
-    "website": "mailto:info@caramoor.org",
+    "website": "https://www.caramoor.org/",
+    "email": "mailto:info@caramoor.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Caramoor/17577926707",
       "twitter": "https://www.twitter.com/Caramoor",
@@ -275,7 +288,8 @@
       "mailingAddress": null
     },
     "phone": "716-286-8200",
-    "website": "https://www.castellaniartmuseum.org/",
+    "website": null,
+    "email": "https://www.castellaniartmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -295,7 +309,8 @@
       "mailingAddress": null
     },
     "phone": "212-316-7540",
-    "website": "mailto:info@stjohndivine.org",
+    "website": "https://www.stjohndivine.org/",
+    "email": "mailto:info@stjohndivine.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -315,7 +330,8 @@
       "mailingAddress": "P.O. Box 12955447 Old Rt 17Livingston Manor, NY 12758"
     },
     "phone": "845-439-4810",
-    "website": "mailto:flyfish@catskill.net",
+    "website": "https://www.cffcm.net/",
+    "email": "mailto:flyfish@catskill.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -338,7 +354,8 @@
       "mailingAddress": null
     },
     "phone": "518-943-4230",
-    "website": "mailto:cplcatskill@mhcable.com",
+    "website": "https://catskillpubliclibrary.org/",
+    "email": "mailto:cplcatskill@mhcable.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -358,7 +375,8 @@
       "mailingAddress": null
     },
     "phone": "315-253-8051",
-    "website": "mailto:cayugamuseum@roadrunner.com",
+    "website": "https://www.cayuganet.org/cayugamuseum",
+    "email": "mailto:cayugamuseum@roadrunner.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -378,7 +396,8 @@
       "mailingAddress": null
     },
     "phone": "607-273-6260",
-    "website": "mailto:info@cayuganaturecenter.org",
+    "website": "https://www.cayuganaturecenter.org/",
+    "email": "mailto:info@cayuganaturecenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -398,7 +417,8 @@
       "mailingAddress": "P.O. Box 247Moravia, NY 13118"
     },
     "phone": "315-497-3906",
-    "website": "https://www.colhs.org/",
+    "website": null,
+    "email": "https://www.colhs.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -418,7 +438,8 @@
       "mailingAddress": "626 Broadway, 5th Fl.New York, NY 10012"
     },
     "phone": "212-481-0295",
-    "website": "mailto:info@centerforbookarts.org",
+    "website": "https://centerforbookarts.org/",
+    "email": "mailto:info@centerforbookarts.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/New-York-NY/The-Center-for-Book-Arts/12308381870",
       "twitter": "https://www.twitter.com/center4bookarts",
@@ -438,7 +459,8 @@
       "mailingAddress": "Bard CollegeAnnandale On Hudson, NY 12504"
     },
     "phone": "845-758-7598",
-    "website": "mailto:ccs@bard.edu",
+    "website": "https://www.bard.edu/ccs",
+    "email": "mailto:ccs@bard.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -458,7 +480,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://cepa.buffnet.com/",
+    "website": null,
+    "email": "https://cepa.buffnet.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -478,7 +501,8 @@
       "mailingAddress": null
     },
     "phone": "518-463-4478",
-    "website": "mailto:information@albanyinstitute.org",
+    "website": "https://www.albanyinstitute.org/",
+    "email": "mailto:information@albanyinstitute.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -498,7 +522,8 @@
       "mailingAddress": null
     },
     "phone": "845-679-9957",
-    "website": "mailto:info@cpw.org",
+    "website": "https://www.cpw.org/",
+    "email": "mailto:info@cpw.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -518,7 +543,8 @@
       "mailingAddress": null
     },
     "phone": "212-337-6620",
-    "website": "mailto:info@nymasoniclibrary.org",
+    "website": "https://www.nymasoniclibrary.org/",
+    "email": "mailto:info@nymasoniclibrary.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -538,7 +564,8 @@
       "mailingAddress": null
     },
     "phone": "518-793-2826",
-    "website": "mailto:ContactUs@ChapmanMuseum.org",
+    "website": "https://www.chapmanmuseum.org/",
+    "email": "mailto:ContactUs@ChapmanMuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/#!/pages/Glens-Falls-NY/Chapman-Historical-Museum/99824364388?ref=search&sid=1202247441",
       "twitter": null,
@@ -558,7 +585,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.chemungvalleymuseum.org/",
+    "website": null,
+    "email": "https://www.chemungvalleymuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -578,7 +606,8 @@
       "mailingAddress": null
     },
     "phone": "716-882-8700",
-    "website": "mailto:info@albrightknox.org",
+    "website": "https://www.albrightknox.org/",
+    "email": "mailto:info@albrightknox.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -599,7 +628,8 @@
       "mailingAddress": null
     },
     "phone": "315-724-6129",
-    "website": "mailto:ebrando@uticacm.org",
+    "website": "https://www.uticacm.org/",
+    "email": "mailto:ebrando@uticacm.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/uticachildrensmuseum",
       "twitter": "https://www.twitter.com/UticaCM",
@@ -619,7 +649,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.cmssny.org/",
+    "website": null,
+    "email": "https://www.cmssny.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -639,7 +670,8 @@
       "mailingAddress": null
     },
     "phone": "212-721-1223",
-    "website": "https://cmom.org/",
+    "website": null,
+    "email": "https://cmom.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/New-York-NY/Childrens-Museum-of-Manhattan/172122241940?ref=ts",
       "twitter": null,
@@ -659,7 +691,8 @@
       "mailingAddress": null
     },
     "phone": "212-744-8181",
-    "website": "https://www.chinainstitute.org/",
+    "website": null,
+    "email": "https://www.chinainstitute.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -679,7 +712,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.chittenangolandingcanalboatmuseum.com/",
+    "website": null,
+    "email": "https://www.chittenangolandingcanalboatmuseum.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -699,7 +733,8 @@
       "mailingAddress": "P.O. Box 82Bronx, NY 10464"
     },
     "phone": "718-885-0008",
-    "website": "mailto:CIHS@cityislandmuseum.org",
+    "website": "https://www.cityislandmuseum.org/",
+    "email": "mailto:CIHS@cityislandmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -719,7 +754,8 @@
       "mailingAddress": null
     },
     "phone": "212-529-1955",
-    "website": "mailto:citylore@citylore.org",
+    "website": "https://www.citylore.org/",
+    "email": "mailto:citylore@citylore.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -739,7 +775,8 @@
       "mailingAddress": null
     },
     "phone": "516-484-8600",
-    "website": "mailto:darcyj@northhempstead.com",
+    "website": "https://www.northhempsteadny.gov/content/7354/7125/4697/default.aspx",
+    "email": "mailto:darcyj@northhempstead.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -765,7 +802,8 @@
       "mailingAddress": null
     },
     "phone": "631-324-6850",
-    "website": "https://www.easthampton.com/",
+    "website": null,
+    "email": "https://www.easthampton.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -783,7 +821,8 @@
       "mailingAddress": null
     },
     "phone": "518-561-0340",
-    "website": "mailto:info@clintoncountyhistorical.org",
+    "website": "https://www.clintoncountyhistorical.org/",
+    "email": "mailto:info@clintoncountyhistorical.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -804,7 +843,8 @@
       "mailingAddress": "PO Box 58Oyster Bay, NY 11771"
     },
     "phone": null,
-    "website": "https://www.plantingfields.com/",
+    "website": null,
+    "email": "https://www.plantingfields.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -824,7 +864,8 @@
       "mailingAddress": null
     },
     "phone": "908-337-0039",
-    "website": "mailto:collectorsclub@verizon.net",
+    "website": "https://www.collectorsclub.org/",
+    "email": "mailto:collectorsclub@verizon.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -842,7 +883,8 @@
       "mailingAddress": "PO Box 311Kinderhook, NY 12106"
     },
     "phone": "518-758-9265",
-    "website": "mailto:cchs@cchsny.org",
+    "website": "https://www.cchsny.org/historic-properties.html",
+    "email": "mailto:cchs@cchsny.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/cchsny",
       "twitter": "https://www.twitter.com/cchs_ny",
@@ -870,7 +912,8 @@
       "mailingAddress": "Staten Island, NY 10307"
     },
     "phone": "718-984-6046",
-    "website": "mailto:info@conferencehouse.org",
+    "website": "https://conferencehouse.org/",
+    "email": "mailto:info@conferencehouse.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -890,7 +933,8 @@
       "mailingAddress": "West Point, NY 10996"
     },
     "phone": "845-938-3590",
-    "website": "mailto:museum@usma.edu",
+    "website": "https://www.usma.edu/garrison/sites/mwr/conisland.asp",
+    "email": "mailto:museum@usma.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -913,7 +957,8 @@
       "mailingAddress": null
     },
     "phone": "212-849-8400",
-    "website": "https://www.cooperhewitt.org/",
+    "website": null,
+    "email": "https://www.cooperhewitt.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -933,7 +978,8 @@
       "mailingAddress": null
     },
     "phone": "607-255-2400",
-    "website": "https://www.cornellplantations.org/",
+    "website": null,
+    "email": "https://www.cornellplantations.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Ithaca-NY/Cornell-Plantations/51302842282",
       "twitter": null,
@@ -951,7 +997,8 @@
       "mailingAddress": null
     },
     "phone": "607-937-5371",
-    "website": "mailto:info@cmog.org",
+    "website": "https://www.cmog.org/",
+    "email": "mailto:info@cmog.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/corningmuseumofglass",
       "twitter": "https://www.twitter.com/corningmuseum",
@@ -976,7 +1023,8 @@
       "mailingAddress": null
     },
     "phone": "607-756-6071",
-    "website": "mailto:Info@CortlandHistory.com",
+    "website": "https://cortlandhistory.com/",
+    "email": "mailto:Info@CortlandHistory.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -998,7 +1046,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.minermuseum.org/",
+    "website": null,
+    "email": "https://www.minermuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1016,7 +1065,8 @@
       "mailingAddress": "P.O. Box 489New York, NY 10013"
     },
     "phone": "303-871-3015",
-    "website": "mailto:cajm@jewishculture.org",
+    "website": "https://www.cajm.net./",
+    "email": "mailto:cajm@jewishculture.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1034,7 +1084,8 @@
       "mailingAddress": null
     },
     "phone": "516-365-9074",
-    "website": "mailto:chris@cowneck.org",
+    "website": "https://cowneck.org/",
+    "email": "mailto:chris@cowneck.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/#!/group.php?gid=108931715796376&ref=ts",
       "twitter": null,
@@ -1054,7 +1105,8 @@
       "mailingAddress": null
     },
     "phone": "518-463-8738",
-    "website": "https://nysparks.com/historic-sites/30/details.aspx",
+    "website": null,
+    "email": "https://nysparks.com/historic-sites/30/details.aspx",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1072,7 +1124,8 @@
       "mailingAddress": "P.O. Box 23High Falls, NY 12440"
     },
     "phone": "845-687-9311",
-    "website": "mailto:info@canalmuseum.org",
+    "website": "https://www.canalmuseum.org/",
+    "email": "mailto:info@canalmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1092,7 +1145,8 @@
       "mailingAddress": "RD 2, Box 201 CDelhi, NY 13753"
     },
     "phone": "607-746-3849",
-    "website": "mailto:dcha@delhi.net",
+    "website": "https://www.dcha-ny.org/",
+    "email": "mailto:dcha@delhi.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1112,7 +1166,8 @@
       "mailingAddress": "Belmont, NY 14813"
     },
     "phone": "585-268-9293",
-    "website": "mailto:Historian@alleganyco.com",
+    "website": "https://www.alleganyco.com/",
+    "email": "mailto:Historian@alleganyco.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1132,7 +1187,8 @@
       "mailingAddress": null
     },
     "phone": "315-443-1870",
-    "website": "mailto:help@syr.edu",
+    "website": "https://www.syr.edu/",
+    "email": "mailto:help@syr.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1152,7 +1208,8 @@
       "mailingAddress": null
     },
     "phone": "607-273-8284",
-    "website": "https://www.tompkinscountyhistory.org/",
+    "website": null,
+    "email": "https://www.tompkinscountyhistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1176,7 +1233,8 @@
       "mailingAddress": "New York, NY 10025"
     },
     "phone": "212-989-5566",
-    "website": "https://www.diacenter.org/",
+    "website": null,
+    "email": "https://www.diacenter.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": "https://www.twitter.com/diaartfndn",
@@ -1196,7 +1254,8 @@
       "mailingAddress": null
     },
     "phone": "607-773-8661",
-    "website": "mailto:help@thediscoverycenter.org",
+    "website": "https://www.thediscoverycenter.org/",
+    "email": "mailto:help@thediscoverycenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1216,7 +1275,8 @@
       "mailingAddress": null
     },
     "phone": "212-219-2166",
-    "website": "mailto:info@drawingcenter.org",
+    "website": "https://www.drawingcenter.org/",
+    "email": "mailto:info@drawingcenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1234,7 +1294,8 @@
       "mailingAddress": "PO Box 88Poughkeepsie, NY 12602"
     },
     "phone": "845-471-1630",
-    "website": "mailto:dchistorical@verizon.net",
+    "website": "https://www.dutchesscountyhistoricalsociety.org/",
+    "email": "mailto:dchistorical@verizon.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1254,7 +1315,8 @@
       "mailingAddress": "228-06 Northern Blvd.Douglaston, NY 11363"
     },
     "phone": "718-229-4000",
-    "website": "mailto:contact@alleypond.com",
+    "website": "https://www.alleypond.com/",
+    "email": "mailto:contact@alleypond.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1274,7 +1336,8 @@
       "mailingAddress": null
     },
     "phone": "212-304-9422",
-    "website": "mailto:info@dyckmanfarmhouse.org",
+    "website": "https://dyckmanfarmhouse.org/",
+    "email": "mailto:info@dyckmanfarmhouse.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/edit/?id=125644364175253&sk=basic#!/pages/Dyckman-Farmhouse-Museum/12564436417525",
       "twitter": null,

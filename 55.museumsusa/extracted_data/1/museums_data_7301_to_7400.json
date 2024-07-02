@@ -6,7 +6,8 @@
       "mailingAddress": "P.O. Box 253Pocatello, ID 83204"
     },
     "phone": "208-233-0434",
-    "website": "mailto:bancohismus@gmail.com",
+    "website": "https://sites.google.com/site/bannockcounty",
+    "email": "mailto:bancohismus@gmail.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Bannock-County-Historical-Museum/270262812498?ref=hl",
       "twitter": null,
@@ -28,7 +29,8 @@
       "mailingAddress": "P.O. Box 4169Pocatello, ID 83205"
     },
     "phone": "208-234-6264",
-    "website": "mailto:rpatton@pocatello.us",
+    "website": "https://www.pocatellozoo.org/",
+    "email": "mailto:rpatton@pocatello.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -48,7 +50,8 @@
       "mailingAddress": "35 N 1st ERexburg, ID 83440"
     },
     "phone": "208-356-3063",
-    "website": "mailto:customerservices@rexburg.org",
+    "website": "https://rexburg.org/rexburg-museum",
+    "email": "mailto:customerservices@rexburg.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/museumofrexburg/",
       "twitter": null,
@@ -72,7 +75,8 @@
       "mailingAddress": "P.O. Box 656Sun Valley, ID 83353"
     },
     "phone": "208-726-9491",
-    "website": "mailto:information@sunvalleycenter.org",
+    "website": "https://www.sunvalleycenter.org/",
+    "email": "mailto:information@sunvalleycenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -92,7 +96,8 @@
       "mailingAddress": "1551 N 1500 ETerreton, ID 83450"
     },
     "phone": "208-243-1942",
-    "website": "mailto:mudlakemuseum@gmail.com",
+    "website": "https://mudlakemuseum.com/",
+    "email": "mailto:mudlakemuseum@gmail.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/groups/mudlakemuseum/",
       "twitter": null,
@@ -116,7 +121,8 @@
       "mailingAddress": "P.O. Box 101Salina, KS 67402"
     },
     "phone": null,
-    "website": "https://www.smokyhillmuseum.org/",
+    "website": null,
+    "email": "https://www.smokyhillmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -136,7 +142,8 @@
       "mailingAddress": null
     },
     "phone": "913-755-6781",
-    "website": "https://kansascity.citysearch.com/profile/4150246/osawatomie_ks/osawatomie_museum_foundation.html?publisher=innovectra&reference_",
+    "website": null,
+    "email": "https://kansascity.citysearch.com/profile/4150246/osawatomie_ks/osawatomie_museum_foundation.html?publisher=innovectra&reference_",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -156,7 +163,8 @@
       "mailingAddress": null
     },
     "phone": "316-265-9314",
-    "website": "mailto:wschm@wichitahistory.org",
+    "website": "https://wichitahistory.org/",
+    "email": "mailto:wschm@wichitahistory.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/wichitahistory",
       "twitter": "https://www.twitter.com/wichitahistory",
@@ -176,7 +184,8 @@
       "mailingAddress": null
     },
     "phone": "620-285-2054",
-    "website": "mailto:museum@santafetrailcenter.org",
+    "website": "https://www.santafetrailcenter.org/",
+    "email": "mailto:museum@santafetrailcenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -198,7 +207,8 @@
       "mailingAddress": "P.O. Box 1091Great Bend, KS 67530"
     },
     "phone": "620-793-5125",
-    "website": "mailto:bchsdirector@gmail.com",
+    "website": "https://bartoncountymuseum.org/",
+    "email": "mailto:bchsdirector@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -218,7 +228,8 @@
       "mailingAddress": null
     },
     "phone": "785-272-8681",
-    "website": "https://www.kshs.org/",
+    "website": null,
+    "email": "https://www.kshs.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -243,7 +254,8 @@
       "mailingAddress": "P.O. Box 499Garden City, KS 67846"
     },
     "phone": "620-276-1250",
-    "website": "mailto:zoo@garden-city.org",
+    "website": "https://www.garden-city.org/zoo/zoolayout.html?home.html",
+    "email": "mailto:zoo@garden-city.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -264,7 +276,8 @@
       "mailingAddress": "Dodge City, KS 67801"
     },
     "phone": "620-225-6388",
-    "website": "mailto:carnegie@dodgecityarts.org",
+    "website": "https://www.dodgecityarts.org/",
+    "email": "mailto:carnegie@dodgecityarts.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -284,7 +297,8 @@
       "mailingAddress": "Front StreetDodge City, KS 67801"
     },
     "phone": "620-227-8188",
-    "website": "mailto:info@boothill.org",
+    "website": "https://www.boothill.org/",
+    "email": "mailto:info@boothill.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -304,7 +318,8 @@
       "mailingAddress": null
     },
     "phone": "785-368-9180",
-    "website": "https://topekazoo.org/",
+    "website": null,
+    "email": "https://topekazoo.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -324,7 +339,8 @@
       "mailingAddress": "Manhattan, KS 66502"
     },
     "phone": "785-565-6490",
-    "website": "https://www.rileycountyks.gov/index.aspx?nid=328",
+    "website": null,
+    "email": "https://www.rileycountyks.gov/index.aspx?nid=328",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -344,7 +360,8 @@
       "mailingAddress": "PO Box 1161Junction City, KS 66441"
     },
     "phone": "785-238-1666",
-    "website": "mailto:gearyhistoy@gmail.com",
+    "website": "https://www.gchsweb.org/",
+    "email": "mailto:gearyhistoy@gmail.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/GearyHistory",
       "twitter": null,
@@ -367,7 +384,8 @@
       "mailingAddress": "1845 FairmountWichita, KS 67260"
     },
     "phone": "316-978-7827",
-    "website": "https://www.wichita.edu/lapo",
+    "website": null,
+    "email": "https://www.wichita.edu/lapo",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -388,7 +406,8 @@
       "mailingAddress": null
     },
     "phone": "620-873-2359",
-    "website": "mailto:meademuseums@yahoo.com",
+    "website": "https://www.oldmeadecounty.com/museum.htm",
+    "email": "mailto:meademuseums@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -408,7 +427,8 @@
       "mailingAddress": null
     },
     "phone": "785-524-5383",
-    "website": "mailto:rxmuseumist@yahoo.com",
+    "website": "https://crispinsdrugstoremuseum.com/",
+    "email": "mailto:rxmuseumist@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -434,7 +454,8 @@
       "mailingAddress": null
     },
     "phone": "316-265-9314",
-    "website": "mailto:wschm@wichitahistory.org",
+    "website": "https://wichitahistory.org/",
+    "email": "mailto:wschm@wichitahistory.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/wichitahistory",
       "twitter": "https://www.twitter.com/wichitahistory",
@@ -454,7 +475,8 @@
       "mailingAddress": "105 W. LyonLyons, KS 67554"
     },
     "phone": "620-257-3941",
-    "website": "mailto:director@cqmuseum.org",
+    "website": "https://www.cqmuseum.org/",
+    "email": "mailto:director@cqmuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/CoronadoQuiviraMuseum",
       "twitter": null,
@@ -478,7 +500,8 @@
       "mailingAddress": "P.O. Box 271Wilson, KS 67490"
     },
     "phone": "785-658-3505",
-    "website": "mailto:ecofc@eaglecom.net",
+    "website": "https://www.ellsworthcounty.net/czech_heritage.htm",
+    "email": "mailto:ecofc@eaglecom.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -496,7 +519,8 @@
       "mailingAddress": null
     },
     "phone": "785-565-6490",
-    "website": "https://www.rileycountyks.gov/index.asp?NID=328",
+    "website": null,
+    "email": "https://www.rileycountyks.gov/index.asp?NID=328",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -519,7 +543,8 @@
       "mailingAddress": "Hays, KS 67601"
     },
     "phone": "785-628-2624",
-    "website": "mailto:office@elliscountyhistoricalsociety.org",
+    "website": "https://www.elliscountyhistoricalmuseum.org/",
+    "email": "mailto:office@elliscountyhistoricalsociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -537,7 +562,8 @@
       "mailingAddress": "Box 52Wichita, KS 67260"
     },
     "phone": "316-978-3195",
-    "website": "mailto:holmes.museum@wichita.edu",
+    "website": "https://holmes.anthropology.museum/",
+    "email": "mailto:holmes.museum@wichita.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -560,7 +586,8 @@
       "mailingAddress": "403 N. OttawaMinneapolis, KS 67467"
     },
     "phone": "785-392-3621",
-    "website": "mailto:otcomu@networksplus.net",
+    "website": "https://www.ottawacountyksmuseum.com/",
+    "email": "mailto:otcomu@networksplus.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -580,7 +607,8 @@
       "mailingAddress": null
     },
     "phone": "785-864-4450",
-    "website": "mailto:naturalhistory@ku.edu",
+    "website": "https://nhm.ku.edu/",
+    "email": "mailto:naturalhistory@ku.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -600,7 +628,8 @@
       "mailingAddress": null
     },
     "phone": "913-715-2550",
-    "website": "mailto:jcmuseum@jocogov.org",
+    "website": "https://www.jocomuseum.org/",
+    "email": "mailto:jcmuseum@jocogov.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -620,7 +649,8 @@
       "mailingAddress": "P.O. Box 806Johnson, KS 67855"
     },
     "phone": "620-492-1785",
-    "website": "https://users.pld.com/scmuse/",
+    "website": null,
+    "email": "https://users.pld.com/scmuse/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -642,7 +672,8 @@
       "mailingAddress": null
     },
     "phone": "913-492-0038",
-    "website": "mailto:info@LeglerBarn.org",
+    "website": "https://www.leglerbarn.org/",
+    "email": "mailto:info@LeglerBarn.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/LenexaHistoricalSociety",
       "twitter": "https://www.twitter.com/#!/spinfest",
@@ -668,7 +699,8 @@
       "mailingAddress": "PO Box 396Montezuma, KS 67867"
     },
     "phone": "620-846-2527",
-    "website": "mailto:stauthm@ucom.net",
+    "website": "https://www.stauthmemorialmuseum.org/",
+    "email": "mailto:stauthm@ucom.net",
     "socialLinks": {
       "facebook": null,
       "twitter": "https://www.twitter.com/stauthmemorialmuseum",
@@ -690,7 +722,8 @@
       "mailingAddress": null
     },
     "phone": "913-299-0373",
-    "website": "mailto:grinter@kshs.org",
+    "website": "https://www.kshs.org/portal_grinter_place",
+    "email": "mailto:grinter@kshs.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -712,7 +745,8 @@
       "mailingAddress": null
     },
     "phone": "785-580-4400",
-    "website": "https://www.tscpl.org/",
+    "website": null,
+    "email": "https://www.tscpl.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -733,7 +767,8 @@
       "mailingAddress": null
     },
     "phone": "785-565-6490",
-    "website": "mailto:RCHSinfo@rileychs.com",
+    "website": "https://www.rileychs.com/",
+    "email": "mailto:RCHSinfo@rileychs.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -753,7 +788,8 @@
       "mailingAddress": null
     },
     "phone": "785-243-2866",
-    "website": "mailto:museum@cloudcountyks.org",
+    "website": "https://www.cloudcountymuseum.org/",
+    "email": "mailto:museum@cloudcountyks.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -782,7 +818,8 @@
       "mailingAddress": null
     },
     "phone": "785-272-8681",
-    "website": "mailto:information@kshs.org",
+    "website": "https://www.kshs.org/",
+    "email": "mailto:information@kshs.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -805,7 +842,8 @@
       "mailingAddress": "P.O. Box 94Lindsborg, KS 67456"
     },
     "phone": null,
-    "website": "mailto:oldmillmuseum@hotmail.com",
+    "website": "https://www.oldmillmuseum.org/",
+    "email": "mailto:oldmillmuseum@hotmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -828,7 +866,8 @@
       "mailingAddress": "P.O. Box 796Garden City, KS 67846"
     },
     "phone": "620-272-3664",
-    "website": "mailto:fico.historical@gcnet.com",
+    "website": "https://www.finneycounty.org/index.aspx?NID=170",
+    "email": "mailto:fico.historical@gcnet.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -848,7 +887,8 @@
       "mailingAddress": "P.O. Box 664Hutchinson, KS 67504"
     },
     "phone": "620-662-1184",
-    "website": "https://www.renocomuseum.org/",
+    "website": null,
+    "email": "https://www.renocomuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -868,7 +908,8 @@
       "mailingAddress": null
     },
     "phone": "814-454-1813",
-    "website": "mailto:echs@eriecountyhistory.org",
+    "website": "https://www.eriecountyhistory.org/",
+    "email": "mailto:echs@eriecountyhistory.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/#!/eriehistory",
       "twitter": null,
@@ -888,7 +929,8 @@
       "mailingAddress": "216 New York Ave.Holton, KS 66436"
     },
     "phone": "785-364-4991",
-    "website": "mailto:jacohistsoc@gmail.com",
+    "website": "https://www.holtonks.net/jchs/",
+    "email": "mailto:jacohistsoc@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -908,7 +950,8 @@
       "mailingAddress": null
     },
     "phone": "785-527-5971",
-    "website": "mailto:repcomuse@nckcn.com",
+    "website": "https://www.nckcn.com/homepage/repcomuse/home.htm",
+    "email": "mailto:repcomuse@nckcn.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -934,7 +977,8 @@
       "mailingAddress": "Topeka, KS 66612"
     },
     "phone": "785-296-3481",
-    "website": "https://www.kansascommerce.com/",
+    "website": null,
+    "email": "https://www.kansascommerce.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -954,7 +998,8 @@
       "mailingAddress": "Bethel CollegeNorth Newton, KS 67117"
     },
     "phone": null,
-    "website": "https://www.bethelks.edu/kauffman",
+    "website": null,
+    "email": "https://www.bethelks.edu/kauffman",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -974,7 +1019,8 @@
       "mailingAddress": null
     },
     "phone": "316-262-5221",
-    "website": "mailto:ascott@wichita.gov",
+    "website": "https://theindiancenter.org/",
+    "email": "mailto:ascott@wichita.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -997,7 +1043,8 @@
       "mailingAddress": "Building 205 CusterFort Riley, KS 66442"
     },
     "phone": null,
-    "website": "https://www.riley.army.mil/AboutUs/Museums.aspx",
+    "website": null,
+    "email": "https://www.riley.army.mil/AboutUs/Museums.aspx",
     "socialLinks": {
       "facebook": "https://www.facebook.com/FtRileyMuseums",
       "twitter": null,
@@ -1022,7 +1069,8 @@
       "mailingAddress": null
     },
     "phone": "316-778-1751",
-    "website": "https://oldcowtown.org/",
+    "website": null,
+    "email": "https://oldcowtown.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Wichita-KS/Old-Cowtown-Museum/47805314681",
       "twitter": "https://www.twitter.com/wichitacowtown",
@@ -1042,7 +1090,8 @@
       "mailingAddress": "1845 Fairmount StWichita, KS 67260"
     },
     "phone": "316-978-3664",
-    "website": "mailto:ulrich@wichita.edu",
+    "website": "https://www.ulrich.wichita.edu/",
+    "email": "mailto:ulrich@wichita.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1063,7 +1112,8 @@
       "mailingAddress": "P.O. Box 44Bridgton, ME 04009"
     },
     "phone": "207-647-3699",
-    "website": "mailto:info@bridgtonhistory.org",
+    "website": "https://www.bridgtonhistory.org/",
+    "email": "mailto:info@bridgtonhistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1084,7 +1134,8 @@
       "mailingAddress": "PO Box 1062Caribou, ME 04736"
     },
     "phone": "207-493-4209",
-    "website": "mailto:nylander@maine.rr.com",
+    "website": "https://www.nylandermuseum.org/",
+    "email": "mailto:nylander@maine.rr.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1104,7 +1155,8 @@
       "mailingAddress": "PO Box 384Thomaston, ME 04861"
     },
     "phone": null,
-    "website": "https://thomastonhistoricalsociety.com/",
+    "website": null,
+    "email": "https://thomastonhistoricalsociety.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1125,7 +1177,8 @@
       "mailingAddress": "P.O. Box 300Patten, ME 04765"
     },
     "phone": "207-528-2650",
-    "website": "https://lumbermensmuseum.org/",
+    "website": null,
+    "email": "https://lumbermensmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1145,7 +1198,8 @@
       "mailingAddress": null
     },
     "phone": "207-772-1953",
-    "website": "mailto:info@episcopalmaine.org",
+    "website": "https://episcopalmaine.org/",
+    "email": "mailto:info@episcopalmaine.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1165,7 +1219,8 @@
       "mailingAddress": "Waterville, ME 04901"
     },
     "phone": "207-872-9439",
-    "website": "https://www.redingtonmuseum.org/",
+    "website": null,
+    "email": "https://www.redingtonmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1185,7 +1240,8 @@
       "mailingAddress": "PO Box 9Fort Fairfield, ME 04742"
     },
     "phone": null,
-    "website": "mailto:wtroicke@mfx.net",
+    "website": "https://www.mainemediaresources.com/fhhs.htm",
+    "email": "mailto:wtroicke@mfx.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1205,7 +1261,8 @@
       "mailingAddress": null
     },
     "phone": "207-338-9229",
-    "website": "mailto:info@belfastmuseum.org",
+    "website": "https://www.belfastmuseum.org/",
+    "email": "mailto:info@belfastmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1226,7 +1283,8 @@
       "mailingAddress": "P.O. Box 122Nobleboro, ME 04555"
     },
     "phone": "207-563-5376",
-    "website": "mailto:sheldon@tidewater.net",
+    "website": "https://www.nobleborohistoricalsociety.org/",
+    "email": "mailto:sheldon@tidewater.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1246,7 +1304,8 @@
       "mailingAddress": "225 Main St Box 11Warren, ME 04864"
     },
     "phone": "207-273-3061",
-    "website": "https://www.warrenmaine.org/Warren_Historical_Society.html",
+    "website": null,
+    "email": "https://www.warrenmaine.org/Warren_Historical_Society.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1266,7 +1325,8 @@
       "mailingAddress": "PO Box 94Gouldsboro, ME 04607"
     },
     "phone": "207-263-7789",
-    "website": "mailto:gouldsborohistoricalsociety@gmail.com",
+    "website": "https://gouldsborohistory.org/",
+    "email": "mailto:gouldsborohistoricalsociety@gmail.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/GouldsboroMaine/?ref=bookmarks",
       "twitter": null,
@@ -1292,7 +1352,8 @@
       "mailingAddress": "P O Box 51Paris, ME 04271"
     },
     "phone": "207-743-2980",
-    "website": "mailto:museum@hamlin.lib.me.us",
+    "website": "https://www.hamlin.lib.me.us/",
+    "email": "mailto:museum@hamlin.lib.me.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1312,7 +1373,8 @@
       "mailingAddress": "PO Box 95Eastport, ME 04631"
     },
     "phone": null,
-    "website": "mailto:borderhistoricalsociety@yahoo.com",
+    "website": "https://www.borderhistoricalsociety.com/",
+    "email": "mailto:borderhistoricalsociety@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

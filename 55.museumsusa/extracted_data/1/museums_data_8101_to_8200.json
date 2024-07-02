@@ -1,0 +1,1263 @@
+[
+  {
+    "name": "Poynette Area Historical Society",
+    "address": {
+      "streetAddress": "Poynette, WI 53955",
+      "mailingAddress": "P. O. Box 162Poynette, WI 53955"
+    },
+    "phone": "608-635-2336",
+    "website": "https://www.wisconsinhistory.org/",
+    "email": "mailto:farmerphil@juno.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Prairie du Chien Historical Society, I",
+    "address": {
+      "streetAddress": "211 S. MainPrairie du Chien, WI 53821",
+      "mailingAddress": "P. O. Box 298Prairie du Chien, WI 53821"
+    },
+    "phone": "800-732-1673",
+    "website": "https://www.prairieduchien.org/visitors/history.htm",
+    "email": "mailto:info@prairieduchien.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Price County Historical Society",
+    "address": {
+      "streetAddress": "W7213 Pine StreetFifield, WI 54524",
+      "mailingAddress": "P. O. 156Fifield, WI 54524"
+    },
+    "phone": "715-339-3761",
+    "website": "https://www.pricecountyhistoricalsociety.org/",
+    "email": "mailto:dabkbrayton03@pctcnet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Pulaski Area Historical Society",
+    "address": {
+      "streetAddress": "129 West Pulaski StreetPulaski, WI 54162",
+      "mailingAddress": "P. O. Box 944Pulaski, WI 54162"
+    },
+    "phone": "920-822-5856",
+    "website": "https://pulaskiwihistory.com/",
+    "email": "mailto:dynamictammy@netnet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "General",
+      "History",
+      "Historical Society",
+      "Library",
+      "Military"
+    ]
+  },
+  {
+    "name": "Racine Zoological Gardens",
+    "address": {
+      "streetAddress": "200 Goold StreetRacine, WI 53402",
+      "mailingAddress": "Racine, WI 53402"
+    },
+    "phone": "262-636-9189",
+    "website": "https://www.racinezoo.org/",
+    "email": "mailto:jaychristie@racinezoo.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Zoo"
+    ]
+  },
+  {
+    "name": "Rahr-West Art Museum",
+    "address": {
+      "streetAddress": "610 North 8th St.Manitowoc, WI 54220",
+      "mailingAddress": null
+    },
+    "phone": "920-686-3090",
+    "website": "https://www.rahrwestartmuseum.org/",
+    "email": "mailto:rahrwest@manitowoc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Children's",
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  },
+  {
+    "name": "Rhinelander Historical Society",
+    "address": {
+      "streetAddress": "9 South Pelham StreetRhinelander, WI 54501",
+      "mailingAddress": null
+    },
+    "phone": "715-369-3833",
+    "website": null,
+    "email": "https://www.wisconsinhistory.org/localhistory/directory/viewsociety.asp?id=266",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Rhinelander Logging Museum",
+    "address": {
+      "streetAddress": "450 West Kemp StreetRhinelander, WI 54501",
+      "mailingAddress": "Rhinelander, WI 54501"
+    },
+    "phone": "715-365-7464",
+    "website": "https://www.rhinelanderchamber.com/",
+    "email": "mailto:info@rhinelanderchamber.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Richfield Historical Society",
+    "address": {
+      "streetAddress": "4399 Pleasant Hill Rd.Richfield, WI 53076",
+      "mailingAddress": "PO Box 268Richfield, WI 53076"
+    },
+    "phone": "262-628-2841",
+    "website": "https://www.richfieldhistoricalsociety.org/",
+    "email": "mailto:historyrhs@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Tours of Messer/Mayer Mill, House, outbuildings, and other structures located in the Richfield Historical Park will be open for tours in 2011 on the dates listed below. However, tours can be scheduled between April 15 and November 15 by appointment (weather permitting). Call 262-628-2077. The price of a scheduled tour is $5.00 per person or $3.00 per person for groups of 25 or more. If admission is charged for an event, the tour is included in the price.",
+    "museumTypes": [
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Park"
+    ]
+  },
+  {
+    "name": "Richland County Historical Society",
+    "address": {
+      "streetAddress": "29448 Pronold DriveRichland Center, WI 53581",
+      "mailingAddress": null
+    },
+    "phone": "608-647-4860",
+    "website": "https://www.wisconsinhistory.org/localhistory/directory/viewsociety.asp?id=264",
+    "email": "mailto:bowerpost@countryspeed.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Ripon College",
+    "address": {
+      "streetAddress": "300 Seward StreetRipon, WI 54971",
+      "mailingAddress": "PO Box 248Ripon, WI 54971"
+    },
+    "phone": "800-947-4766",
+    "website": "https://ripon.edu/index.html",
+    "email": "mailto:adminfo@ripon.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/ripon.college",
+      "twitter": "https://www.twitter.com/riponcollege",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "The Riverside Museum and Visitor's Bureau",
+    "address": {
+      "streetAddress": "410 East Veteran's Dr.La Crosse, WI 54601",
+      "mailingAddress": "145 West Avenue SouthLa Crosse, WI 54601"
+    },
+    "phone": "608-782-1980",
+    "website": "https://www.lchshistory.org/",
+    "email": "mailto:admin@lchshistory.org",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/lacrosse.history",
+      "twitter": "https://www.twitter.com/laxhistsociety",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Archaeology",
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library",
+      "Military"
+    ]
+  },
+  {
+    "name": "Rock County Historical Society",
+    "address": {
+      "streetAddress": "Janesville, WI 53547",
+      "mailingAddress": "PO Box 8096Janesville, WI 53547"
+    },
+    "phone": "608-756-4509",
+    "website": null,
+    "email": "https://www.rchs.us/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Rock Island State Park",
+    "address": {
+      "streetAddress": "1924 Indian Point Rd.Washington Island, WI 54246",
+      "mailingAddress": "Rt 1, Box 118AWashington Island, WI 54246"
+    },
+    "phone": "920-847-2235",
+    "website": null,
+    "email": "https://dnr.wi.gov/org/land/parks/specific/rockisland/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Park"
+    ]
+  },
+  {
+    "name": "Rusk Co. Historical Society",
+    "address": {
+      "streetAddress": "W 7891 Old 8 RoadLadysmith, WI 54848",
+      "mailingAddress": null
+    },
+    "phone": "715-532-3633",
+    "website": "https://www.rootsweb.ancestry.com/~wirusk/rchs_books.htm",
+    "email": "mailto:msrms@charter.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Sauk County Historical Society",
+    "address": {
+      "streetAddress": "531 4th Ave.Baraboo, WI 53913",
+      "mailingAddress": "P. O. Box 651Baraboo, WI 53913"
+    },
+    "phone": "608-356-1001",
+    "website": "https://saukcountyhistory.org/",
+    "email": "mailto:history@saukcountyhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Saukville Area Historical Society",
+    "address": {
+      "streetAddress": "200 N. Mill St.Saukville, WI 53080",
+      "mailingAddress": "P. O. Box 80015Saukville, WI 53080"
+    },
+    "phone": "262-483-4570",
+    "website": "https://www.saukvillehistory.org/",
+    "email": "mailto:annabelle7@wi.rr.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Currently by appointment only.  Future hours will be announced on website.",
+    "museumTypes": [
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Seymour Community Museum",
+    "address": {
+      "streetAddress": "337 Washington St.Seymour, WI 54165",
+      "mailingAddress": "P. O. Box 237Seymour, WI 54165"
+    },
+    "phone": "920-833-6064",
+    "website": null,
+    "email": "https://www.seymourhistory.org/museum/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Sharon Historical Preservation Society",
+    "address": {
+      "streetAddress": "Sharon, WI 53585",
+      "mailingAddress": "P. O. Box 109Sharon, WI 53585"
+    },
+    "phone": "262-736-4032",
+    "website": null,
+    "email": "https://www.sharonwisconsin.com/HS/home.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Sheboygan County Hist. Research Center",
+    "address": {
+      "streetAddress": "518 Water StreetSheboygan Falls, WI 53085",
+      "mailingAddress": null
+    },
+    "phone": "920-467-4667",
+    "website": "https://schrc.org/",
+    "email": "mailto:schrc@att.net",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Sheboygan-County-Historical-Research-Center/186006916978",
+      "twitter": "https://www.twitter.com/#!/ResearchCenter2",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Shorewood Historical Society",
+    "address": {
+      "streetAddress": "3930 North Murray AvenueShorewood, WI 53211",
+      "mailingAddress": "3930 North Murray AvenuShorewood, WI 53211"
+    },
+    "phone": "414-964-5258",
+    "website": "https://www.shorewoodhistory.org/history/index.html",
+    "email": "mailto:shorewoodhistory@yahoo.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Sinsinawa Dominican Archives",
+    "address": {
+      "streetAddress": "585 County Road ZSinsinawa, WI 53824",
+      "mailingAddress": "Sinsinawa, WI 53824"
+    },
+    "phone": "608-748-4411",
+    "website": "https://www.sinsinawa.org/",
+    "email": "mailto:archives@sinsinawa.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Solon Springs Historical Society",
+    "address": {
+      "streetAddress": "S. Railroad Street & Jackpine Ave.Solon Springs, WI 54873",
+      "mailingAddress": "Solon Springs, WI 54873"
+    },
+    "phone": "715-378-2787",
+    "website": null,
+    "email": "https://www.wisconsinhistory.org/localhistory/directory/viewsociety.asp?id=221",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "South Milwaukee Historical Society",
+    "address": {
+      "streetAddress": "717 Milwaukee AvenueSouth Milwaukee, WI 53172",
+      "mailingAddress": "South Milwaukee, WI 53172"
+    },
+    "phone": "414-762-5214",
+    "website": "https://www.southmilwaukee.org/historical_society/",
+    "email": "mailto:sziarek@wi.rr.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "South Milwaukee Historical Society Mus",
+    "address": {
+      "streetAddress": "717 Milwaukee AveMilwaukee, WI 53172",
+      "mailingAddress": null
+    },
+    "phone": "414-762-5214",
+    "website": null,
+    "email": "https://www.southmilwaukee.org/historical_society/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "St. Croix National Riverway",
+    "address": {
+      "streetAddress": "401 North Hamilton StreetSaint Croix, WI 54024",
+      "mailingAddress": "PO Box 708Saint Croix, WI 54024"
+    },
+    "phone": "715-483-3284",
+    "website": null,
+    "email": "https://www.nps.gov/sacn/index.htm",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "St. Francis Historical Society",
+    "address": {
+      "streetAddress": "4235 South NicholsonSaint Francis, WI 53235",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": null,
+    "email": "https://www.wisconsinhistory.org/localhistory/directory/viewsociety.asp?id=241",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "State Historical Society of Wisconsin",
+    "address": {
+      "streetAddress": "816 State StreetMadison, WI 53706",
+      "mailingAddress": null
+    },
+    "phone": "608-264-6400",
+    "website": "https://www.wisconsinhistory.org/",
+    "email": "mailto:bob.granflaten@wisconsinhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Stone Lake Area Historical Society",
+    "address": {
+      "streetAddress": "Stone Lake, WI 54876",
+      "mailingAddress": "P. O. Box 95Stone Lake, WI 54876"
+    },
+    "phone": "715-865-3922",
+    "website": null,
+    "email": "https://www.stonelakeareahistoricalsociety.com/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Stonefield Village",
+    "address": {
+      "streetAddress": "12195 Hwy VVCassville, WI 53806",
+      "mailingAddress": "PO Box 125Cassville, WI 53806"
+    },
+    "phone": "608-725-5210",
+    "website": "https://stonefield.wisconsinhistory.org/",
+    "email": "mailto:stonefield@wisconsinhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "The Octagon House",
+    "address": {
+      "streetAddress": "919 Charles StreetWatertown, WI 53094",
+      "mailingAddress": "Watertown, WI 54016"
+    },
+    "phone": "920-261-2796",
+    "website": "https://www.watertownhistory.org/",
+    "email": "mailto:whs@watertownhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Thorp Area Historical Society",
+    "address": {
+      "streetAddress": "307 W Birch St,Thorp, WI 54771",
+      "mailingAddress": "PO Box 334Thorp, WI 54771"
+    },
+    "phone": "715-773-0102",
+    "website": "https://www.cityofthorp.com/visitors/history",
+    "email": "mailto:sueklapatauskas@hotmail.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Thorp%20Area%20Historical%20Society/932743933451889/",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "First Saturday and Sunday of the month, June to September, 1-4 PM",
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Three Lakes Historical Society Museum",
+    "address": {
+      "streetAddress": "Three Lakes, WI 54562",
+      "mailingAddress": "PO Box 250Three Lakes, WI 54562"
+    },
+    "phone": null,
+    "website": null,
+    "email": "https://www.threelakeshistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "May 29 to June 20\nSaturday & Sunday: 11:00 AM to 3:00 PM\n\nJune 20 to September 6\nTuesday to Saturday: 11:00 AM to 3:00 PM\n\nSeptember 6 to October 10\nSaturday & Sunday: 11:00 AM to 3:00 PM\n\n\nSpecial tours by arrangement",
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Tomah Area Historical Society",
+    "address": {
+      "streetAddress": "1112 South Superior AveTomah, WI 54660",
+      "mailingAddress": null
+    },
+    "phone": "608-372-1880",
+    "website": "https://business.tomahwisconsin.com/list/Member/tomah-area-historical-society-tomah.htm",
+    "email": "mailto:tahsmuseum@centurylink.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Tomahawk Area Historical Society",
+    "address": {
+      "streetAddress": "1614 Riverview LnTomahawk, WI 54487",
+      "mailingAddress": "Tomahawk, WI 54487"
+    },
+    "phone": "715-453-2056",
+    "website": "https://www.tomahawkhistoricalsoc.org/",
+    "email": "mailto:rcomeau@tomahawkhistoricalsoc.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Two Rivers Historical Society",
+    "address": {
+      "streetAddress": "1622 Jefferson StreetTwo Rivers, WI 54241",
+      "mailingAddress": null
+    },
+    "phone": "920-793-2490",
+    "website": null,
+    "email": "https://www.woodtype.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "University of WI Center - Marathon Co",
+    "address": {
+      "streetAddress": "518 S. 7th AvenueWausau, WI 54401",
+      "mailingAddress": null
+    },
+    "phone": "715-261-6235",
+    "website": "https://www.marathon.uwc.edu/",
+    "email": "mailto:uwmc@uwc.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "University"
+    ]
+  },
+  {
+    "name": "UW- Eau Claire",
+    "address": {
+      "streetAddress": "Hibbard Hall, 701Eau Claire, WI 54701",
+      "mailingAddress": null
+    },
+    "phone": null,
+    "website": null,
+    "email": "https://www.uwec.edu/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "UW- Madison",
+    "address": {
+      "streetAddress": "3211 HumanitiesMadison, WI 53706",
+      "mailingAddress": null
+    },
+    "phone": "608-263-2400",
+    "website": "https://www.wisc.edu/",
+    "email": "mailto:askbucky@uwmad.wisc.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/UWMadison",
+      "twitter": "https://www.twitter.com/UWMadison",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/uwmadison"
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "UW- Parkside Museum Studies Programs",
+    "address": {
+      "streetAddress": "900 Wood RoadKenosha, WI 53140",
+      "mailingAddress": "P.O. Box 2000Kenosha, WI 53140"
+    },
+    "phone": "262-595-2337",
+    "website": "https://www.uwp.edu/learn/programs/museumstudies.cfm",
+    "email": "mailto:dana@uwp.edu",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Kenosha-WI/University-of-Wisconsin-Parkside/48268626662?ref=mf",
+      "twitter": "https://www.twitter.com/uwparkside",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/uwparkside"
+    },
+    "hours": null,
+    "museumTypes": [
+      "Anthropology",
+      "Archaeology",
+      "Art",
+      "Culture",
+      "History",
+      "Natural History",
+      "Science",
+      "University"
+    ]
+  },
+  {
+    "name": "UW Stevens Point",
+    "address": {
+      "streetAddress": "2100 Main StreetStevens Point, WI 54481",
+      "mailingAddress": "Stevens Point, WI 54481"
+    },
+    "phone": "715-346-0123",
+    "website": "https://www.uwsp.edu/Pages/default.aspx",
+    "email": "mailto:webmaster@uwsp.edu",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Vernon County Historical Museum",
+    "address": {
+      "streetAddress": "Viroqua, WI 54665",
+      "mailingAddress": "PO Box 444Viroqua, WI 54665"
+    },
+    "phone": "608-637-7396",
+    "website": "https://www.co.vernon.wi.gov/museum/museum.htm",
+    "email": "mailto:webmaster@vernoncounty.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "History"
+    ]
+  },
+  {
+    "name": "Vernon County Historical Society",
+    "address": {
+      "streetAddress": "Viroqua, WI 54665",
+      "mailingAddress": "P. O. Box 444Viroqua, WI 54665"
+    },
+    "phone": "608-637-8736",
+    "website": "https://www.frontiernet.net/~vcmuseum/",
+    "email": "mailto:vcmuseum@frontiernet.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Villa Louis Historic Site",
+    "address": {
+      "streetAddress": "521 Villa Louis RoadPrairie du Chien, WI 53821",
+      "mailingAddress": "PO Box 65Prairie du Chien, WI 53821"
+    },
+    "phone": "608-326-2721",
+    "website": "https://villalouis.wisconsinhistory.org/",
+    "email": "mailto:villalouis@wisconsinhistory.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": "https://www.twitter.com/#!/WISitesMuseums",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": "https://www.youtube.com/user/WiscHistSociety?feature=mhsn#p/u/2/tEgE_FA832Y"
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Villa Terrace Decorative Arts Museum",
+    "address": {
+      "streetAddress": "2220 N. Terrace Ave.Milwaukee, WI 53202",
+      "mailingAddress": null
+    },
+    "phone": "414-271-3656",
+    "website": null,
+    "email": "https://www.villaterracemuseum.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Art",
+      "Botanical Garden",
+      "Culture",
+      "History",
+      "Historic House",
+      "Library"
+    ]
+  },
+  {
+    "name": "Walworth County Historical Society",
+    "address": {
+      "streetAddress": "210 South Washington StreetElkhorn, WI 53121",
+      "mailingAddress": "P.O. Box 273Elkhorn, WI 53121"
+    },
+    "phone": "262-723-7848",
+    "website": null,
+    "email": "https://www.walcohistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "General",
+      "History",
+      "Historic House",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Washburn County Historical Museum and Society",
+    "address": {
+      "streetAddress": "102 W 2nd AveShell Lake, WI 54871",
+      "mailingAddress": "PO Box 366Shell Lake, WI 54871"
+    },
+    "phone": "715-468-2982",
+    "website": null,
+    "email": "https://washburn.wigenweb.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Church",
+      "Culture",
+      "General",
+      "History",
+      "Historical Society",
+      "Library"
+    ]
+  },
+  {
+    "name": "Waterloo Area Historical Society",
+    "address": {
+      "streetAddress": "130 Polk StreetWaterloo, WI 53594",
+      "mailingAddress": "PO Box 52Waterloo, WI 53594"
+    },
+    "phone": null,
+    "website": null,
+    "email": "https://www.waterloowisconsinhistory.org/waterloo/Home.html",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Waukesha Co Tech. Inst",
+    "address": {
+      "streetAddress": "800 Main StreetWaukesha, WI 53072",
+      "mailingAddress": null
+    },
+    "phone": "262-691-5566",
+    "website": null,
+    "email": "https://www.wctc.edu/",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/pages/Pewaukee-WI/WCTC-Waukesha-County-Technical-College/157935618954",
+      "twitter": "https://www.twitter.com/wctc",
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": []
+  },
+  {
+    "name": "Waukesha Engine Historical Society",
+    "address": {
+      "streetAddress": "1101 West St. Paul AvenWaukesha, WI 53188",
+      "mailingAddress": "Waukesha, WI 53188"
+    },
+    "phone": null,
+    "website": "https://www.waukeshaenginehistoricalsociety.org/",
+    "email": "mailto:wehs@wehs.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Waupaca County Historical Society",
+    "address": {
+      "streetAddress": "321 South Main StreetWaupaca, WI 54981",
+      "mailingAddress": "823 Depot StreetManawa, WI 54949"
+    },
+    "phone": "715-256-9980",
+    "website": null,
+    "email": "https://waupacahistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Waupaca Historical Society",
+    "address": {
+      "streetAddress": "321 South Main St.Waupaca, WI 54981",
+      "mailingAddress": "P. O. Box 313Waupaca, WI 54981"
+    },
+    "phone": "715-256-9980",
+    "website": null,
+    "email": "https://waupacahistory.org/",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Waushara County Historical Society",
+    "address": {
+      "streetAddress": "221 South Saint Marie StreetWautoma, WI 54982",
+      "mailingAddress": "P.O. Box 616Wautoma, WI 54982"
+    },
+    "phone": "920-787-7584",
+    "website": "https://wausharamuseum.angelfire.com/wausharamuseum/",
+    "email": "mailto:wausharamuseum@yahoo.com",
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/WausharaMuseum",
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Culture",
+      "History",
+      "Historic House",
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Wauwatosa Historical Society",
+    "address": {
+      "streetAddress": "7406 Hillcrest DriveWauwatosa, WI 53213",
+      "mailingAddress": null
+    },
+    "phone": "414-774-8672",
+    "website": "https://wauwatosahistoricalsociety.org/",
+    "email": "mailto:staff@wauwatosahistoricalsociety.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "West Allis Historical Society Museum",
+    "address": {
+      "streetAddress": "8405 West National Ave.West Allis, WI 53227",
+      "mailingAddress": null
+    },
+    "phone": "414-541-6970",
+    "website": "https://www.westallishistory.org/",
+    "email": "mailto:wahs8405@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "West Salem Historical Society",
+    "address": {
+      "streetAddress": "360 N. Leonard St.West Salem, WI 54669",
+      "mailingAddress": "West Salem, WI 54669"
+    },
+    "phone": "608-786-1399",
+    "website": "https://westsalemhistoricalsociety.org/",
+    "email": "mailto:errolwstslm@charter.net",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Western Kenosha Co. Historical Society",
+    "address": {
+      "streetAddress": "25905 114th StreetTrevor, WI 53179",
+      "mailingAddress": "PO Box 232Trevor, WI 53179"
+    },
+    "phone": "262-862-7165",
+    "website": "https://WKCHSgroup@googlegroups.com/",
+    "email": "mailto:wkenoshachs@gmail.com",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": null,
+    "museumTypes": [
+      "Historical Society"
+    ]
+  },
+  {
+    "name": "Mayville Limestone School Museum",
+    "address": {
+      "streetAddress": "215 N. Main StreetMayville, WI 53050",
+      "mailingAddress": "P.O. Box 102Mayville, WI 53050"
+    },
+    "phone": null,
+    "website": "https://www.mlsm.org/",
+    "email": "mailto:info@mlsm.org",
+    "socialLinks": {
+      "facebook": null,
+      "twitter": null,
+      "instagram": null,
+      "linkedin": null,
+      "youtube": null
+    },
+    "hours": "Open 1st and 3rd Sundays of the month from 1:30 - 4:30 P.m. May thru October.  Other times by appointment.",
+    "museumTypes": [
+      "General",
+      "History",
+      "Specialized"
+    ]
+  }
+]

@@ -101,7 +101,8 @@ const fs = require('fs');
                         const streetAddress = getTextContent('#ctl04_ctl00_icStreetAddress');
                         const mailingAddress = getTextContent('#ctl04_ctl00_icMailingAddress');
                         const phone = getTextContent('#ctl04_ctl00_icPhoneEmailWeb .phone');
-                        const website = getHref('#ctl04_ctl00_icPhoneEmailWeb a');
+                        const website = getHref('#ctl04_ctl00_icPhoneEmailWeb a:nth-of-type(1)');
+                        const email = getHref('#ctl04_ctl00_icPhoneEmailWeb a:nth-of-type(2)');
                         const socialLinks = {
                             facebook: getHref('a[title="Facebook"]'),
                             twitter: getHref('a[title="Twitter"]'),
@@ -119,6 +120,7 @@ const fs = require('fs');
                                 mailingAddress,
                             },
                             phone,
+                            email,
                             website,
                             socialLinks,
                             hours,

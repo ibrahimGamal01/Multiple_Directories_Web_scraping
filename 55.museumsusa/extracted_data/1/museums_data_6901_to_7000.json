@@ -6,7 +6,8 @@
       "mailingAddress": null
     },
     "phone": "505-843-7270",
-    "website": "https://www.indianpueblo.org/",
+    "website": null,
+    "email": "https://www.indianpueblo.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Albuquerque-NM/Indian-Pueblo-Cultural-Center/65392431754",
       "twitter": "https://www.twitter.com/indianpueblo",
@@ -24,7 +25,8 @@
       "mailingAddress": "Albuquerque, NM 87131"
     },
     "phone": "505-277-4001",
-    "website": "mailto:artmuse@unm.edu",
+    "website": "https://www.unm.edu/~artmuse/Jonson.html",
+    "email": "mailto:artmuse@unm.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -44,7 +46,8 @@
       "mailingAddress": "University of New MexicoAlbuquerque, NM 87131"
     },
     "phone": "505-277-4405",
-    "website": "mailto:maxwell@unm.edu",
+    "website": "https://www.unm.edu/~maxwell/",
+    "email": "mailto:maxwell@unm.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -62,7 +65,8 @@
       "mailingAddress": null
     },
     "phone": "505-277-1360",
-    "website": "mailto:admin@msb.unm.edu",
+    "website": "https://www.msb.unm.edu/",
+    "email": "mailto:admin@msb.unm.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -80,7 +84,8 @@
       "mailingAddress": "601 Eubank SEAlbuquerque, NM 87123"
     },
     "phone": "505-245-2137",
-    "website": "mailto:info@nuclearmuseum.org",
+    "website": "https://www.nuclearmuseum.org/",
+    "email": "mailto:info@nuclearmuseum.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/nationalnuclearmuseum",
       "twitter": "https://www.twitter.com/nuclearmuseum",
@@ -103,7 +108,8 @@
       "mailingAddress": null
     },
     "phone": "505-345-0037",
-    "website": "https://thenewmexicomuseumofmilitaryhistory.bbnow.org/index.php",
+    "website": null,
+    "email": "https://thenewmexicomuseumofmilitaryhistory.bbnow.org/index.php",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -123,7 +129,8 @@
       "mailingAddress": null
     },
     "phone": "505-841-2800",
-    "website": "https://www.nmnaturalhistory.org/",
+    "website": null,
+    "email": "https://www.nmnaturalhistory.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/NMMNHS",
       "twitter": "https://www.twitter.com/nmmnhs",
@@ -143,7 +150,8 @@
       "mailingAddress": "6001 Unser Blvd., NWAlbuquerque, NM 87120"
     },
     "phone": "505-899-0205",
-    "website": "https://www.nps.gov/petr/index.htm",
+    "website": null,
+    "email": "https://www.nps.gov/petr/index.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -163,7 +171,8 @@
       "mailingAddress": null
     },
     "phone": "505-242-6569",
-    "website": "https://www.rattlesnakes.com/",
+    "website": null,
+    "email": "https://www.rattlesnakes.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -183,7 +192,8 @@
       "mailingAddress": null
     },
     "phone": "505-344-7240",
-    "website": "https://www.rgnc.org/",
+    "website": null,
+    "email": "https://www.rgnc.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -203,7 +213,8 @@
       "mailingAddress": "P.O. Box 7007Albuquerque, NM 87194"
     },
     "phone": null,
-    "website": "mailto:dgarcia@sanfelipedeneri.org",
+    "website": "https://www.sanfelipedeneri.org/",
+    "email": "mailto:dgarcia@sanfelipedeneri.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -223,7 +234,8 @@
       "mailingAddress": "Albuquerque, NM 87194"
     },
     "phone": "505-247-8650",
-    "website": "mailto:turquoisemuseumabq@gmail.com",
+    "website": "https://turquoisemuseumcom.siteprotect.net/wordpress/",
+    "email": "mailto:turquoisemuseumabq@gmail.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -241,7 +253,8 @@
       "mailingAddress": null
     },
     "phone": "505-277-4001",
-    "website": "mailto:artmuse@unm.edu",
+    "website": "https://unmartmuseum.unm.edu/",
+    "email": "mailto:artmuse@unm.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -265,7 +278,8 @@
       "mailingAddress": "P.O. Box 640Aztec, NM 87410"
     },
     "phone": "505-334-9829",
-    "website": "https://aztecmuseum.org/",
+    "website": null,
+    "email": "https://aztecmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -283,7 +297,8 @@
       "mailingAddress": "104 N. First St.Belen, NM 87002"
     },
     "phone": "505-861-0581",
-    "website": "https://www.belen-nm.gov/",
+    "website": null,
+    "email": "https://www.belen-nm.gov/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/belenharveyhouse",
       "twitter": null,
@@ -305,7 +320,8 @@
       "mailingAddress": "P.O. Box 125Bloomfield, NM 87413"
     },
     "phone": "505-632-2013",
-    "website": "https://www.sanjuancollege.edu/Lib/salmonruins.htm",
+    "website": null,
+    "email": "https://www.sanjuancollege.edu/Lib/salmonruins.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -329,7 +345,8 @@
       "mailingAddress": "Carlsbad, NM 88220"
     },
     "phone": "575-785-2232",
-    "website": "https://www.carlsbad.caverns.national-park.com/",
+    "website": null,
+    "email": "https://www.carlsbad.caverns.national-park.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -349,7 +366,8 @@
       "mailingAddress": null
     },
     "phone": "575-887-0276",
-    "website": "mailto:museum.staff@cityofcarlsbadnm.com",
+    "website": "https://www.cityofcarlsbadnm.com/CommDevMuseum.cfm",
+    "email": "mailto:museum.staff@cityofcarlsbadnm.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -370,7 +388,8 @@
       "mailingAddress": "P.O. Box 100Carlsbad, NM 88221"
     },
     "phone": "575-887-5516",
-    "website": "mailto:ken.britt@state.nm.us",
+    "website": "https://www.emnrd.state.nm.us/prd/livingdesert.htm",
+    "email": "mailto:ken.britt@state.nm.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -390,7 +409,8 @@
       "mailingAddress": "P.O. Box 131Cerrillos, NM 87010"
     },
     "phone": null,
-    "website": "https://www.casagrandetradingpost.com/",
+    "website": null,
+    "email": "https://www.casagrandetradingpost.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -410,7 +430,8 @@
       "mailingAddress": "P.O. Box 58Cimarron, NM 87714"
     },
     "phone": null,
-    "website": "https://newmexico.org/western/learn/old_mill_museum.php",
+    "website": null,
+    "email": "https://newmexico.org/western/learn/old_mill_museum.php",
     "socialLinks": {
       "facebook": "https://www.facebook.com/NewMexico?sk=app_137324693050115",
       "twitter": null,
@@ -430,7 +451,8 @@
       "mailingAddress": "P.O. Box 287Cleveland, NM 87715"
     },
     "phone": "575-387-2645",
-    "website": "mailto:dancas@nnmt.net",
+    "website": "https://www.clevelandrollermillmuseum.com/",
+    "email": "mailto:dancas@nnmt.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -450,7 +472,8 @@
       "mailingAddress": null
     },
     "phone": "575-762-0066",
-    "website": "mailto:philipw@3lefties.com",
+    "website": "https://www.clovisdepot.com/",
+    "email": "mailto:philipw@3lefties.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -470,7 +493,8 @@
       "mailingAddress": "P.O. Box 203Columbus, NM 88029"
     },
     "phone": "575-531-2414",
-    "website": "mailto:rbdean@vtc.net",
+    "website": "https://www.columbushistoricalsociety.org/",
+    "email": "mailto:rbdean@vtc.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -493,7 +517,8 @@
       "mailingAddress": "P.O.Box 2993Corrales, NM 87048"
     },
     "phone": "505-898-3335",
-    "website": "mailto:info@lightningfield.org",
+    "website": "https://www.diaart.org/sites/main/lightningfield",
+    "email": "mailto:info@lightningfield.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -513,7 +538,8 @@
       "mailingAddress": "Rt. 1, Box 36Fort Sumner, NM 88119"
     },
     "phone": "575-355-2380",
-    "website": "mailto:info@billythekidmuseumfortsumner.com",
+    "website": "https://www.billythekidmuseumfortsumner.com/",
+    "email": "mailto:info@billythekidmuseumfortsumner.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -533,7 +559,8 @@
       "mailingAddress": "Holloman AFB, NM 88330"
     },
     "phone": null,
-    "website": "https://www.holloman.af.mil/",
+    "website": null,
+    "email": "https://www.holloman.af.mil/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/HollomanonFB",
       "twitter": null,
@@ -551,7 +578,8 @@
       "mailingAddress": "HC66 Box 119BHillsboro, NM 88042"
     },
     "phone": null,
-    "website": "https://www.perchabank.com/",
+    "website": null,
+    "email": "https://www.perchabank.com/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -571,7 +599,8 @@
       "mailingAddress": "PO Box 20000Las Cruces, NM 88004"
     },
     "phone": "575-541-2154",
-    "website": "https://www.las-cruces.org/museums",
+    "website": null,
+    "email": "https://www.las-cruces.org/museums",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -593,7 +622,8 @@
       "mailingAddress": null
     },
     "phone": "505-522-4100",
-    "website": "mailto:craig.massey@state.nm.us",
+    "website": "https://www.nmfarmandranchmuseum.org/",
+    "email": "mailto:craig.massey@state.nm.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -616,7 +646,8 @@
       "mailingAddress": "P.O. Box 30001, Dept. 3564Las Cruces, NM 88003"
     },
     "phone": "575-646-5161",
-    "website": "mailto:museum@nmsu.edu",
+    "website": "https://www.nmsu.edu/museum/",
+    "email": "mailto:museum@nmsu.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -636,7 +667,8 @@
       "mailingAddress": "NM State Univ., Box 30001, MSC 3572Las Cruces, NM 88003"
     },
     "phone": "575-646-2545",
-    "website": "mailto:artglry@nmsu.edu",
+    "website": "https://www.nmsu.edu/~artgal/",
+    "email": "mailto:artglry@nmsu.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -656,7 +688,8 @@
       "mailingAddress": "Box 148Las Vegas, NM 87701"
     },
     "phone": "505-426-3205",
-    "website": "mailto:lgegick@desertgate.com",
+    "website": "https://www.lasvegasmuseum.org/",
+    "email": "mailto:lgegick@desertgate.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -674,7 +707,8 @@
       "mailingAddress": "HCR1, Box 1, Suite 15Los Alamos, NM 87544"
     },
     "phone": "505-672-0343",
-    "website": "https://www.nps.gov/band/index.htm",
+    "website": null,
+    "email": "https://www.nps.gov/band/index.htm",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -692,7 +726,8 @@
       "mailingAddress": "Mailstop C330; Los Alamos National LaboratoryLos Alamos, NM 87545"
     },
     "phone": "505-667-4444",
-    "website": "https://bsm.lanl.gov/",
+    "website": null,
+    "email": "https://bsm.lanl.gov/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -712,7 +747,8 @@
       "mailingAddress": "P.O. Box 43Los Alamos, NM 87544"
     },
     "phone": "505-662-6272",
-    "website": "mailto:historicalsociety@losalamoshistory.org",
+    "website": "https://www.losalamoshistory.org/",
+    "email": "mailto:historicalsociety@losalamoshistory.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -737,7 +773,8 @@
       "mailingAddress": "Lovington, NM 88260"
     },
     "phone": null,
-    "website": "mailto:leacomuseum@leaco.net",
+    "website": "https://www.leacountymuseum.org/",
+    "email": "mailto:leacomuseum@leaco.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -759,7 +796,8 @@
       "mailingAddress": "Madrid, NM 87010"
     },
     "phone": "505-438-3780",
-    "website": "mailto:enchantment@newmexico.org",
+    "website": "https://www.newmexico.org/experience/museums/old_coal_mine.php#",
+    "email": "mailto:enchantment@newmexico.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -777,7 +815,8 @@
       "mailingAddress": "P.O. Box 147Mesilla, NM 88046"
     },
     "phone": "575-526-6293",
-    "website": "https://www.gadsdenmuseum.org/",
+    "website": null,
+    "email": "https://www.gadsdenmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -795,7 +834,8 @@
       "mailingAddress": "P.O. Box 1366Moriarty, NM 87035"
     },
     "phone": "505-832-0839",
-    "website": "mailto:mormuseum@yahoo.com",
+    "website": "https://www.moriartymuseum.org/",
+    "email": "mailto:mormuseum@yahoo.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -815,7 +855,8 @@
       "mailingAddress": "P. O Box 418Pecos, NM 87552"
     },
     "phone": "505-757-7200",
-    "website": "mailto:peco_visitor_information@nps.gov",
+    "website": "https://www.nps.gov/",
+    "email": "mailto:peco_visitor_information@nps.gov",
     "socialLinks": {
       "facebook": null,
       "twitter": null,

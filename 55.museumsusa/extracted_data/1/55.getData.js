@@ -7,7 +7,7 @@ const fs = require('fs');
     const maxRetries = 3;
     const batchSize = 100; // Process 100 URLs at a time
 
-    for (let startId = 1; startId <= 18000; startId += batchSize) {
+    for (let startId = 8001; startId <= 9300; startId += batchSize) {
         const endId = Math.min(startId + batchSize - 1, 18000);
         console.log(`Processing batch: ${startId} to ${endId}`);
         const batchData = [];
@@ -29,7 +29,8 @@ const fs = require('fs');
                         const streetAddress = getTextContent('#ctl04_ctl00_icStreetAddress');
                         const mailingAddress = getTextContent('#ctl04_ctl00_icMailingAddress');
                         const phone = getTextContent('#ctl04_ctl00_icPhoneEmailWeb .phone');
-                        const website = getHref('#ctl04_ctl00_icPhoneEmailWeb a');
+                        const email = getHref('#ctl04_ctl00_icPhoneEmailWeb a:nth-of-type(1)');
+                        const website = getHref('#ctl04_ctl00_icPhoneEmailWeb a:nth-of-type(2)');
                         const socialLinks = {
                             facebook: getHref('a[title="Facebook"]'),
                             twitter: getHref('a[title="Twitter"]'),
@@ -48,6 +49,7 @@ const fs = require('fs');
                             },
                             phone,
                             website,
+                            email,
                             socialLinks,
                             hours,
                             museumTypes,

@@ -6,7 +6,8 @@
       "mailingAddress": "PO Box 800, Lake RoadCooperstown, NY 13326"
     },
     "phone": "607-547-1400",
-    "website": "mailto:info@nysha.org",
+    "website": "https://www.nysha.org/",
+    "email": "mailto:info@nysha.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -26,7 +27,8 @@
       "mailingAddress": null
     },
     "phone": "518-474-5877",
-    "website": "https://www.nysm.nysed.gov/",
+    "website": null,
+    "email": "https://www.nysm.nysed.gov/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/nysmuseum/",
       "twitter": null,
@@ -46,7 +48,8 @@
       "mailingAddress": null
     },
     "phone": "212-673-6466",
-    "website": "mailto:info@nyss.org",
+    "website": "https://www.nyss.org/",
+    "email": "mailto:info@nyss.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -64,7 +67,8 @@
       "mailingAddress": "347 Madison AvenueNew York, NY 10017"
     },
     "phone": null,
-    "website": "https://www.mta.info/mta/museum/",
+    "website": null,
+    "email": "https://www.mta.info/mta/museum/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -82,7 +86,8 @@
       "mailingAddress": null
     },
     "phone": "718-265-2663",
-    "website": "mailto:guestrelations@wcs.org",
+    "website": "https://www.nyaquarium.com/",
+    "email": "mailto:guestrelations@wcs.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/nyaquarium",
       "twitter": null,
@@ -102,7 +107,8 @@
       "mailingAddress": "P.O. Box 222Newark Valley, NY 13811"
     },
     "phone": "607-642-9516",
-    "website": "mailto:NVHistory@stny.rr.com",
+    "website": "https://www.nvhistory.org/",
+    "email": "mailto:NVHistory@stny.rr.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -122,7 +128,8 @@
       "mailingAddress": null
     },
     "phone": "212-873-3400",
-    "website": "mailto:info@nyhistory.org",
+    "website": "https://www.nyhistory.org/",
+    "email": "mailto:info@nyhistory.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/nyhistory",
       "twitter": "https://www.twitter.com/nyhistory",
@@ -142,7 +149,8 @@
       "mailingAddress": null
     },
     "phone": "716-297-1324",
-    "website": "mailto:niagaerospacemu@verizon.net",
+    "website": "https://www.wnyaerospace.org/",
+    "email": "mailto:niagaerospacemu@verizon.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Ira-G-Ross-Niagara-Aerospace-Museum/87126225996?sk=info",
       "twitter": null,
@@ -166,7 +174,8 @@
       "mailingAddress": null
     },
     "phone": "212-864-7752",
-    "website": "mailto:director@roerich.org",
+    "website": "https://www.roerich.org/",
+    "email": "mailto:director@roerich.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -186,7 +195,8 @@
       "mailingAddress": null
     },
     "phone": "914-273-3001",
-    "website": "mailto:supervisor@northcastleny.com",
+    "website": "https://www.northcastleny.com/",
+    "email": "mailto:supervisor@northcastleny.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -206,7 +216,8 @@
       "mailingAddress": null
     },
     "phone": "718-885-0701",
-    "website": "https://www.museumregister.com/US/NewYork/Bronx/NorthWindUnderseaInstitute/Info.html",
+    "website": null,
+    "email": "https://www.museumregister.com/US/NewYork/Bronx/NorthWindUnderseaInstitute/Info.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -226,7 +237,8 @@
       "mailingAddress": "PO Box 219, Peebles IslandWaterford, NY 12188"
     },
     "phone": "518-237-8643",
-    "website": "https://nysparks.com/historic-preservation/bhs/",
+    "website": null,
+    "email": "https://nysparks.com/historic-preservation/bhs/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -246,7 +258,8 @@
       "mailingAddress": null
     },
     "phone": "917-880-5985",
-    "website": "mailto:info@amnyc.org",
+    "website": "https://www.amnyc.org/",
+    "email": "mailto:info@amnyc.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -266,7 +279,8 @@
       "mailingAddress": "RD 2Hudson, NY 12534"
     },
     "phone": null,
-    "website": "https://www.olana.org/",
+    "website": null,
+    "email": "https://www.olana.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -287,7 +301,8 @@
       "mailingAddress": "P.O. Box 196Amsterdam, NY 12070"
     },
     "phone": "518-843-0300",
-    "website": "mailto:museum@oldfortjohnson.org",
+    "website": "https://www.oldfortjohnson.org/",
+    "email": "mailto:museum@oldfortjohnson.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -310,7 +325,8 @@
       "mailingAddress": "PO  Box 169Youngstown, NY 14174"
     },
     "phone": "716-745-7611",
-    "website": "https://www.oldfortniagara.org/",
+    "website": null,
+    "email": "https://www.oldfortniagara.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -330,7 +346,8 @@
       "mailingAddress": null
     },
     "phone": "518-295-7192",
-    "website": "mailto:office@schohariehistory.net",
+    "website": "https://www.theoldstonefort.org/",
+    "email": "mailto:office@schohariehistory.net",
     "socialLinks": {
       "facebook": "https://www.facebook.com/oldstonefort",
       "twitter": null,
@@ -348,7 +365,8 @@
       "mailingAddress": "PO Box 150613Brooklyn, NY 11215"
     },
     "phone": "718-768-3195",
-    "website": "mailto:info@theoldstonehouse.org",
+    "website": "https://theoldstonehouse.org/",
+    "email": "mailto:info@theoldstonehouse.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -368,7 +386,8 @@
       "mailingAddress": "P.O. Box 296Lindenhurst, NY 11757"
     },
     "phone": "212-677-7307",
-    "website": "mailto:info@theoldvillagehall.com",
+    "website": "https://www.theoldvillagehall.com/",
+    "email": "mailto:info@theoldvillagehall.com",
     "socialLinks": {
       "facebook": "https://www.facebook.com/#!/pages/New-York-NY/Old-Village-Hall/195884847259?ref=ts",
       "twitter": "https://www.twitter.com/oldvillagehall",
@@ -388,7 +407,8 @@
       "mailingAddress": null
     },
     "phone": "516-333-0048",
-    "website": "mailto:jnorbeck@oldwestburygardens.org",
+    "website": "https://oldwestburygardens.org/",
+    "email": "mailto:jnorbeck@oldwestburygardens.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/pages/Old-Westbury-NY/Old-Westbury-Gardens/440558790012",
       "twitter": null,
@@ -406,7 +426,8 @@
       "mailingAddress": null
     },
     "phone": "212-288-6400",
-    "website": "mailto:info@asiasociety.org",
+    "website": "https://asiasociety.org/",
+    "email": "mailto:info@asiasociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -426,7 +447,8 @@
       "mailingAddress": null
     },
     "phone": "315-363-0745",
-    "website": "mailto:ocmh@oneidacommunity.org",
+    "website": "https://www.oneidacommunity.org/",
+    "email": "mailto:ocmh@oneidacommunity.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -446,7 +468,8 @@
       "mailingAddress": null
     },
     "phone": "315-735-3642",
-    "website": "mailto:ochs@midyork.org",
+    "website": "https://www.oneidacountyhistory.org/",
+    "email": "mailto:ochs@midyork.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -466,7 +489,8 @@
       "mailingAddress": "Syracuse, NY 13202"
     },
     "phone": "315-428-1864",
-    "website": "https://www.cnyhistory.org/",
+    "website": null,
+    "email": "https://www.cnyhistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -486,7 +510,8 @@
       "mailingAddress": null
     },
     "phone": "585-394-4975",
-    "website": "mailto:ochs@ochs.org",
+    "website": "https://www.ochs.org/",
+    "email": "mailto:ochs@ochs.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -506,7 +531,8 @@
       "mailingAddress": "P.O. Box 1263East Hampton, NY 11937"
     },
     "phone": null,
-    "website": "https://www.easthampton.com/history/osborn-jackson.html",
+    "website": null,
+    "email": "https://www.easthampton.com/history/osborn-jackson.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -526,7 +552,8 @@
       "mailingAddress": null
     },
     "phone": "914-941-0001",
-    "website": "mailto:info@ossininghistorical.org",
+    "website": "https://www.ossininghistorical.org/",
+    "email": "mailto:info@ossininghistorical.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -546,7 +573,8 @@
       "mailingAddress": "P.O. Box 150Lawrenceville Rd./Rt.213Rosendale, NY 12472"
     },
     "phone": "845-658-9900",
-    "website": "mailto:info@centuryhouse.org",
+    "website": "https://www.centuryhouse.org/",
+    "email": "mailto:info@centuryhouse.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -566,7 +594,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.artspiral.org/",
+    "website": null,
+    "email": "https://www.artspiral.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -586,7 +615,8 @@
       "mailingAddress": "PO Box 297, 20 Summit StreetOyster Bay, NY 11771"
     },
     "phone": "516-922-5032",
-    "website": "https://www.oysterbayhistorical.org/",
+    "website": null,
+    "email": "https://www.oysterbayhistorical.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -606,7 +636,8 @@
       "mailingAddress": "P.O. Box 216Ghent, NY 12075"
     },
     "phone": "518-392-7200",
-    "website": "https://www.parkeromalley.org/",
+    "website": null,
+    "email": "https://www.parkeromalley.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -626,7 +657,8 @@
       "mailingAddress": null
     },
     "phone": "631-283-2118",
-    "website": "https://parrishart.org/",
+    "website": null,
+    "email": "https://parrishart.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -646,7 +678,8 @@
       "mailingAddress": "P.O. Box 84Peekskill, NY 10566"
     },
     "phone": "914-736-0473",
-    "website": "mailto:Info@peekskillmuseum.org",
+    "website": "https://www.peekskillmuseum.org/",
+    "email": "mailto:Info@peekskillmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -667,7 +700,8 @@
       "mailingAddress": null
     },
     "phone": "914-738-2525",
-    "website": "mailto:info@pelhamartcenter.org",
+    "website": "https://pelhamartcenter.org/",
+    "email": "mailto:info@pelhamartcenter.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -687,7 +721,8 @@
       "mailingAddress": null
     },
     "phone": "518-642-1515",
-    "website": "mailto:info@pembermuseum.com",
+    "website": "https://www.pembermuseum.com/",
+    "email": "mailto:info@pembermuseum.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -715,7 +750,8 @@
       "mailingAddress": "703 Creek RoadCrown Point, NY 12928"
     },
     "phone": null,
-    "website": "https://www.penfieldmuseum.org/",
+    "website": null,
+    "email": "https://www.penfieldmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -741,7 +777,8 @@
       "mailingAddress": null
     },
     "phone": "315-228-7634",
-    "website": "https://picker.colgate.edu/",
+    "website": null,
+    "email": "https://picker.colgate.edu/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -761,7 +798,8 @@
       "mailingAddress": null
     },
     "phone": "212-685-0008",
-    "website": "mailto:visitorservices@themorgan.org",
+    "website": "https://www.themorgan.org/",
+    "email": "mailto:visitorservices@themorgan.org",
     "socialLinks": {
       "facebook": "https://www.facebook.com/morganlibrary",
       "twitter": "https://www.twitter.com/#!/morganlibrary",
@@ -787,7 +825,8 @@
       "mailingAddress": "5816 Clarendon RoadBrooklyn, NY 11203"
     },
     "phone": "718-629-5400",
-    "website": "mailto:info@wyckoffassociation.org",
+    "website": "https://www.wyckoffassociation.org/",
+    "email": "mailto:info@wyckoffassociation.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -810,7 +849,8 @@
       "mailingAddress": "Oyster Bay, NY 11771"
     },
     "phone": "516-922-9200",
-    "website": "mailto:Henry.Joyce@plantingfields.org",
+    "website": "https://www.plantingfields.org/",
+    "email": "mailto:Henry.Joyce@plantingfields.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -830,7 +870,8 @@
       "mailingAddress": "PO Box 5168Potsdam, NY 13676"
     },
     "phone": "315-265-6910",
-    "website": "mailto:museum@vi.potsdam.ny.us",
+    "website": "https://www.potsdampublicmuseum.org/",
+    "email": "mailto:museum@vi.potsdam.ny.us",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -850,7 +891,8 @@
       "mailingAddress": "P.O. Box 51Pound Ridge, NY 10576"
     },
     "phone": "914-764-4333",
-    "website": "https://www.prhsmuseum.org/",
+    "website": null,
+    "email": "https://www.prhsmuseum.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -868,7 +910,8 @@
       "mailingAddress": "PO Box 1254Latham, NY 12110"
     },
     "phone": "518-783-1435",
-    "website": "mailto:pruynhouse@colonie.org",
+    "website": "https://www.pruynhouse.org/",
+    "email": "mailto:pruynhouse@colonie.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -888,7 +931,8 @@
       "mailingAddress": null
     },
     "phone": "845-265-4010",
-    "website": "mailto:office@pchs-fsm.org",
+    "website": "https://www.pchs-fsm.org/",
+    "email": "mailto:office@pchs-fsm.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -908,7 +952,8 @@
       "mailingAddress": null
     },
     "phone": "718-886-3800",
-    "website": "https://queensbotanical.org/",
+    "website": null,
+    "email": "https://queensbotanical.org/",
     "socialLinks": {
       "facebook": "https://www.facebook.com/#/queensbotanical?ref=nf",
       "twitter": null,
@@ -928,7 +973,8 @@
       "mailingAddress": null
     },
     "phone": "718-347-3276",
-    "website": "mailto:info@queensfarm.org",
+    "website": "https://queensfarm.org/",
+    "email": "mailto:info@queensfarm.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -948,7 +994,8 @@
       "mailingAddress": null
     },
     "phone": "718-939-0647",
-    "website": "https://www.queenshistoricalsociety.org/",
+    "website": null,
+    "email": "https://www.queenshistoricalsociety.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -968,7 +1015,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:info@queensmuseum.org",
+    "website": "https://www.queensmuseum.org/",
+    "email": "mailto:info@queensmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -988,7 +1036,8 @@
       "mailingAddress": null
     },
     "phone": "516-922-6808",
-    "website": "mailto:SWaldenburg@raynhamhallmuseum.org",
+    "website": "https://www.raynhamhallmuseum.org/",
+    "email": "mailto:SWaldenburg@raynhamhallmuseum.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1009,7 +1058,8 @@
       "mailingAddress": null
     },
     "phone": "800-310-2181",
-    "website": "mailto:letters@rd.com",
+    "website": "https://www.rd.com/",
+    "email": "mailto:letters@rd.com",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1027,7 +1077,8 @@
       "mailingAddress": null
     },
     "phone": "209-754-0800",
-    "website": "https://www.calaverascohistorical.com/exhibits/redbarn.html",
+    "website": null,
+    "email": "https://www.calaverascohistorical.com/exhibits/redbarn.html",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1045,7 +1096,8 @@
       "mailingAddress": null
     },
     "phone": "212-501-3000",
-    "website": "mailto:generalinfo@bgc.bard.edu",
+    "website": "https://www.bgc.bard.edu/",
+    "email": "mailto:generalinfo@bgc.bard.edu",
     "socialLinks": {
       "facebook": "https://www.facebook.com/BardGradCenter?sk=wall",
       "twitter": "https://www.twitter.com/#!/BardGradCenter",
@@ -1068,7 +1120,8 @@
       "mailingAddress": "The Quick Center for the ArtsDrawer BHSaint Bonaventure, NY 14778"
     },
     "phone": "716-375-2494",
-    "website": "mailto:quick@sbu.edu",
+    "website": "https://www.sbu.edu/quickcenter.aspx?id=2012",
+    "email": "mailto:quick@sbu.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1090,7 +1143,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:ilenefrank@rchsonline.org",
+    "website": "https://www.rchsonline.org/",
+    "email": "mailto:ilenefrank@rchsonline.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1110,7 +1164,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "mailto:info@rhinebeckhistoricalsociety.org",
+    "website": "https://www.rhinebeckhistoricalsociety.org/about.html",
+    "email": "mailto:info@rhinebeckhistoricalsociety.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1130,7 +1185,8 @@
       "mailingAddress": null
     },
     "phone": "315-229-5174",
-    "website": "mailto:ctedford@stlawu.edu",
+    "website": "https://www.stlawu.edu/gallery",
+    "email": "mailto:ctedford@stlawu.edu",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1150,7 +1206,8 @@
       "mailingAddress": null
     },
     "phone": "607-772-0660",
-    "website": "mailto:info@roberson.org",
+    "website": "https://www.roberson.org/",
+    "email": "mailto:info@roberson.org",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1174,7 +1231,8 @@
       "mailingAddress": "P.O. Box 607Saranac Lake, NY 12983"
     },
     "phone": "518-891-1462",
-    "website": "mailto:pennypiper@verizon.net",
+    "website": "https://www.robertlouisstevensonmemorialcottage.org/",
+    "email": "mailto:pennypiper@verizon.net",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
@@ -1197,7 +1255,8 @@
       "mailingAddress": null
     },
     "phone": null,
-    "website": "https://www.rochesterhistory.org/",
+    "website": null,
+    "email": "https://www.rochesterhistory.org/",
     "socialLinks": {
       "facebook": null,
       "twitter": null,
