@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-async function scrapeArcadesAndLaserTag(url) {
+async function scrapeArcadesAndLaserTag(url, retries = 3) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
@@ -37,9 +37,17 @@ async function scrapeArcadesAndLaserTag(url) {
         await browser.close();
         return data;
     } catch (error) {
-        console.error('Error during scraping:', error);
+        console.error(`Error during scraping ${url}:`, error);
         await browser.close();
-        return null;
+
+        if (retries > 0) {
+            console.log(`Retrying... (${retries} attempts left)`);
+            await new Promise(resolve => setTimeout(resolve, 2000)); // Wait for 2 seconds before retrying
+            return scrapeArcadesAndLaserTag(url, retries - 1);
+        } else {
+            console.log('Max retries reached. Skipping this URL.');
+            return null;
+        }
     }
 }
 
