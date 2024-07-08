@@ -39,9 +39,10 @@ async function scrapeArcadesAndLaserTag(url, retries = 3) {
     } catch (error) {
         console.error('Error during scraping:', error);
         await browser.close();
-        
+
         if (retries > 0) {
             console.log(`Retrying... (${retries} attempts left)`);
+            await new Promise(resolve => setTimeout(resolve, 2000)); // Wait for 2 seconds before retrying
             return scrapeArcadesAndLaserTag(url, retries - 1);
         } else {
             console.log('Max retries reached. Skipping this URL.');
