@@ -21,7 +21,7 @@ Ignore these parameters CITY, ZIP_CODE, STATE_PROVINCE as the data is no way org
 - Website URL
 - Category
 
-This data is then saved in three formats: JSON, CSV, and TXT. The JSON data is saved to `scrapedData.js`, the CSV data is saved to `scrapedData.csv`, and the TXT data is saved to `scrapedData.txt`.
+This data is then saved in three formats: JSON, CSV, and TXT. The JSON data is saved to `scrapedData.json`, the CSV data is saved to `scrapedData.csv`, and the TXT data is saved to `scrapedData.txt`.
 
 ### How to Use
 
