@@ -20,7 +20,7 @@ This script extracts business details from a list of URLs. The URLs are read fro
 
 The extracted details are written to a JSON file (`extracted_data.json`).
 
-## Usage
+## How to use
 
 1. Install the dependencies:
 

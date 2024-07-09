@@ -1,70 +1,50 @@
-// const puppeteer = require('puppeteer');
-
-// async function extractAirsoftBusinessDetails(url) {
-//     const browser = await puppeteer.launch();
-//     const page = await browser.newPage();
-//     await page.goto(url, { waitUntil: 'networkidle2' });
-
-//     const data = await page.evaluate(() => {
-//         const name = document.querySelector('.FieldName')?.textContent.trim();
-//         const addressParagraph = document.querySelector('.AirsoftBusinessListing > p');
-//         const address = addressParagraph ? addressParagraph.innerText.split('\n').slice(1, 3).join(', ') : null;
-//         const phone = document.querySelector('.AirsoftBusinessListing a[href^="tel:"]')?.textContent.trim();
-//         const website = document.querySelector('.AirsoftBusinessListing a[href^="http:"]')?.href;
-//         const facebook = document.querySelector('.AirsoftBusinessListing a[href*="facebook"]')?.href;
-
-//         return {
-//             name,
-//             address,
-//             phone,
-//             website,
-//             facebook
-//         };
-//     });
-
-//     await browser.close();
-//     return data;
-// }
-
-// (async () => {
-//     const url = 'https://www.airsoftnut.com/mt-doom-paintball-and-airsoft/';
-//     const details = await extractAirsoftBusinessDetails(url);
-//     console.log(details);
-// })();
-
-
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-async function extractAirsoftBusinessDetails(url) {
-    const browser = await puppeteer.launch();
-    const page = await browser.newPage();
-    await page.goto(url, { waitUntil: 'networkidle2' });
+async function extractAirsoftBusinessDetails(url, retryLimit = 3) {
+    let browser;
+    let attempt = 0;
 
-    const data = await page.evaluate(() => {
-        const name = document.querySelector('.FieldName')?.textContent.trim();
-        const addressParagraph = document.querySelector('.AirsoftBusinessListing > p');
-        const address = addressParagraph ? addressParagraph.innerText.split('\n').slice(1, 3).join(', ') : null;
-        const phone = document.querySelector('.AirsoftBusinessListing a[href^="tel:"]')?.textContent.trim();
-        const website = document.querySelector('.AirsoftBusinessListing a[href^="http:"]')?.href;
-        const facebook = document.querySelector('.AirsoftBusinessListing a[href*="facebook"]')?.href;
+    while (attempt < retryLimit) {
+        try {
+            browser = await puppeteer.launch();
+            const page = await browser.newPage();
+            await page.goto(url, { waitUntil: 'networkidle2' });
 
-        // Extract hours of operation
-        const hoursParagraph = [...document.querySelectorAll('.AirsoftBusinessListing > p')].find(p => p.textContent.includes('Hours:'));
-        const hours = hoursParagraph ? hoursParagraph.innerText.split('\n').slice(1).join(', ') : null;
+            const data = await page.evaluate(() => {
+                const name = document.querySelector('.FieldName')?.textContent.trim();
+                const addressParagraph = document.querySelector('.AirsoftBusinessListing > p');
+                const address = addressParagraph ? addressParagraph.innerText.split('\n').slice(1, 3).join(', ') : null;
+                const phone = document.querySelector('.AirsoftBusinessListing a[href^="tel:"]')?.textContent.trim();
+                const website = document.querySelector('.AirsoftBusinessListing a[href^="http:"]')?.href;
+                const facebook = document.querySelector('.AirsoftBusinessListing a[href*="facebook"]')?.href;
 
-        return {
-            name,
-            address,
-            phone,
-            website,
-            facebook,
-            hours
-        };
-    });
+                // Extract hours of operation
+                const hoursParagraph = [...document.querySelectorAll('.AirsoftBusinessListing > p')].find(p => p.textContent.includes('Hours:'));
+                const hours = hoursParagraph ? hoursParagraph.innerText.split('\n').slice(1).join(', ') : null;
 
-    await browser.close();
-    return data;
+                return {
+                    name,
+                    address,
+                    phone,
+                    website,
+                    facebook,
+                    hours
+                };
+            });
+
+            await browser.close();
+            return data;
+        } catch (error) {
+            if (browser) {
+                await browser.close();
+            }
+            console.error(`Attempt ${attempt + 1} failed for ${url}:`, error);
+            attempt++;
+        }
+    }
+
+    throw new Error(`Failed to extract details from ${url} after ${retryLimit} attempts`);
 }
 
 async function runExtractionFromFile(inputFile, outputFile) {
@@ -74,8 +54,12 @@ async function runExtractionFromFile(inputFile, outputFile) {
 
         for (const url of urls) {
             console.log(`Extracting data from ${url}`);
-            const details = await extractAirsoftBusinessDetails(url);
-            allData.push(details);
+            try {
+                const details = await extractAirsoftBusinessDetails(url);
+                allData.push(details);
+            } catch (error) {
+                console.error(`Failed to extract details from ${url}:`, error);
+            }
         }
 
         fs.writeFileSync(outputFile, JSON.stringify(allData, null, 2));
@@ -86,5 +70,5 @@ async function runExtractionFromFile(inputFile, outputFile) {
 }
 
 const inputUrlsFile = '2_place_links.txt';
-const outputJsonFile = 'extracted_data.json';
+const outputJsonFile = '11.Data.json';
 runExtractionFromFile(inputUrlsFile, outputJsonFile);
