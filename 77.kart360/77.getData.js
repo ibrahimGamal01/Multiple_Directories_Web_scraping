@@ -2,15 +2,22 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
 
+const OUTPUT_FILE = '77.Data.json';
+const INPUT_FILE = 'links.txt';
+const TIMEOUT = 60000; // 60 seconds timeout for page loading
+
 // Function to scrape details from a single page
 async function scrapeDetails(url) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
     try {
-        await page.goto(url);
-        await page.waitForSelector('.u-text-xl');
-        await page.waitForSelector('.o-List-item');
+        console.log(`Navigating to ${url}`);
+        await page.goto(url, { waitUntil: 'domcontentloaded', timeout: TIMEOUT });
+
+        console.log('Waiting for selectors...');
+        await page.waitForSelector('.u-text-xl', { timeout: TIMEOUT });
+        await page.waitForSelector('.o-List-item', { timeout: TIMEOUT });
 
         const details = await page.evaluate(() => {
             const name = document.querySelector('.u-text-xl a') ? document.querySelector('.u-text-xl a').innerText.trim() : null;
@@ -30,8 +37,8 @@ async function scrapeDetails(url) {
         return details;
 
     } catch (error) {
-        console.error('Error during scraping:', error);
-        return {};
+        console.error(`Error scraping ${url}:`, error);
+        return {}; // Return an empty object on error
     } finally {
         await browser.close();
     }
@@ -40,19 +47,23 @@ async function scrapeDetails(url) {
 // Function to read URLs from a file and process each one
 async function processLinks(file) {
     const filePath = path.join(__dirname, file);
-    const urls = fs.readFileSync(filePath, 'utf-8').split('\n');
+    const urls = fs.readFileSync(filePath, 'utf-8').split('\n').filter(Boolean);
     const results = [];
 
     for (const url of urls) {
         console.log(`Processing ${url}...`);
         const data = await scrapeDetails(url);
-        results.push(data);
+        if (Object.keys(data).length) { // Only add non-empty data
+            results.push(data);
+        }
     }
 
     // Writing results to JSON file
-    fs.writeFileSync('77.Data.json', JSON.stringify(results, null, 2));
-    console.log('Data has been written to 77.Data.json');
+    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(results, null, 2));
+    console.log(`Data has been written to ${OUTPUT_FILE}`);
 }
 
 // Adjust the path to your links.txt file
-processLinks('links.txt');
+processLinks(INPUT_FILE).catch(error => {
+    console.error('Error during processing:', error);
+});
