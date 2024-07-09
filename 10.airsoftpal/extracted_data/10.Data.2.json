@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Virginia – Ballahack Airsoft Field",
+    "address": ": 2900 Ballahack Rd, Chesapeake, VA 23322, USA",
+    "website": "http://ballahackairsoft.com/"
+  },
+  {
+    "name": "California – US AIRSOFT WORLD",
+    "address": ": 4506 Panorama Point Rd, Anderson, CA 96007, USA",
+    "website": "http://www.usairsoft.com/"
+  },
+  {
+    "name": "Florida – Wasteland OPS Airsoft Field",
+    "address": ": 12888 US-441, Belleview, FL 34420, USA",
+    "website": "https://www.wastelandops.com/"
+  },
+  {
+    "name": "New York – Strikeforce Sports",
+    "address": ":",
+    "website": "https://www.strikeforcesports.net/"
+  },
+  {
+    "name": "Maryland – Tactical Airsoft Arena",
+    "address": ": 20 Southlawn Ct B, Rockville, MD 20850, USA",
+    "website": "http://www.tacticalairsoftarena.com/"
+  },
+  {
+    "name": "California – Gamepod Combat Zone",
+    "address": ": 1400 West 4th Street Unit 2, Antioch, California",
+    "website": "https://combatzonecqc.com/"
+  },
+  {
+    "name": "New York – Buffalo Battleground",
+    "address": ": 1888 Niagara Falls Blvd, Tonawanda, NY 14150",
+    "website": "https://www.buffalobattleground.com/airsoft"
+  }
+]
