@@ -1,6 +1,7 @@
 const fs = require('fs');
 const puppeteer = require('puppeteer');
 
+// Function to extract bowling centers from a single URL
 async function extractBowlingCenters(url) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
@@ -18,13 +19,9 @@ async function extractBowlingCenters(url) {
             tableRows.forEach(row => {
                 const cell = row.querySelector('td p span');
                 if (cell) {
-                    const info = cell.textContent.trim().split(/[\r\n]+/).filter(text => text.trim() !== '');
-                    if (info.length === 2) {
-                        const nameAndAddress = info[0].split(/\s{2,}/);
-                        const [name, address] = nameAndAddress;
-                        const phone = info[1].trim();
-
-                        bowlingCenters.push({ name, address, phone });
+                    const info = cell.textContent.trim();
+                    if (info) {
+                        bowlingCenters.push({ info });
                     }
                 }
             });
@@ -41,6 +38,7 @@ async function extractBowlingCenters(url) {
     }
 }
 
+// Function to extract bowling centers from multiple URLs listed in a file
 async function extractFromMultipleURLs(file) {
     try {
         const urls = fs.readFileSync(file, 'utf8').split('\n').filter(Boolean);
@@ -58,13 +56,16 @@ async function extractFromMultipleURLs(file) {
     }
 }
 
-const inputFile = 'links.txt';
-extractFromMultipleURLs(inputFile)
-    .then(info => {
+// Main function to run the extraction and save data to a JSON file
+(async function main() {
+    const inputFile = 'links.txt';
+
+    try {
+        const info = await extractFromMultipleURLs(inputFile);
         const outputFile = 'output.json';
         fs.writeFileSync(outputFile, JSON.stringify(info, null, 2));
         console.log('Data extracted and saved to', outputFile);
-    })
-    .catch(async (error) => {
+    } catch (error) {
         console.error('Error:', error);
-    });
+    }
+})();
