@@ -9,4 +9,4 @@ Data scrapped is the best 2 options that would ever be gotten from this site
 
 4. Cleaning the website is done using ChatGPT, because even though the data structure has some majorities, it is not standarized properly so using chatGPT to ensure proper structure
 
-5. Check the cleaned files [Options](03.planomoms/extracted_data)
+5. Check the cleaned files [Option1](./extracted_data/option%201/) and [Option2](./extracted_data/option%202/) for more information
