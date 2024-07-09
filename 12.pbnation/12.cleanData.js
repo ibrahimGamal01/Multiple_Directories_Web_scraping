@@ -31,6 +31,6 @@ async function processJsonFile(inputFile, outputFile) {
     }
 }
 
-const inputJsonFile = '12.Data.json';
-const outputJsonFile = 'processed_data.json';
+const inputJsonFile = 'extracted_data.json';
+const outputJsonFile = '12.Data.json';
 processJsonFile(inputJsonFile, outputJsonFile);
