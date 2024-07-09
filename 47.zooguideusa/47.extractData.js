@@ -60,7 +60,7 @@ async function extractFromMultipleURLs(file) {
 const inputFile = 'links.txt';
 extractFromMultipleURLs(inputFile)
     .then(info => {
-        const outputFile = 'paintball_centers.json';
+        const outputFile = '47.Data.json';
         fs.writeFileSync(outputFile, JSON.stringify(info, null, 2));
         console.log('Data extracted and saved to', outputFile);
     })
