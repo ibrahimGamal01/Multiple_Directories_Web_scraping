@@ -1,27 +1,7 @@
-// const fs = require('fs');
-
-// // Read the JSON file
-// const rawData = fs.readFileSync('45.Data.json');
-// const theaters = JSON.parse(rawData);
-
-// // Define a function to extract name, address, and number
-// function extractInfo(theater) {
-//     const info = theater.name.split('\n');
-//     const name = info[0].trim();
-//     const address = info[1]?.trim() || 'Address not available'; // Check if address exists
-//     const number = info[2]?.trim() || 'Number not available'; // Check if number exists
-//     return { name, address, number };
-// }
-
-// // Extract info for each theater
-// const theaterInfo = theaters.map(theater => extractInfo(theater));
-
-// console.log(theaterInfo);
-
 const fs = require('fs');
 
 // Read the JSON file
-const rawData = fs.readFileSync('45.Data.json');
+const rawData = fs.readFileSync('format1.json');
 const theaters = JSON.parse(rawData);
 
 // Define a function to clean up address and number
@@ -45,4 +25,10 @@ function extractInfo(theater) {
 // Extract info for each theater
 const theaterInfo = theaters.map(theater => extractInfo(theater));
 
-console.log(theaterInfo);
+// Convert theaterInfo array to JSON format
+const jsonData = JSON.stringify(theaterInfo, null, 2);
+
+// Write JSON data to a file (optional)
+fs.writeFileSync('45.Data.3.json', jsonData);
+
+console.log('Theater information extracted and saved to theaterInfo.json.');

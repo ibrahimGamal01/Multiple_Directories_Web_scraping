@@ -19,10 +19,10 @@ async function scrapeData(url) {
 
       const details = $(element).next('ul').children('li').map((i, el) => {
         const theaterInfo = $(el).text().trim().split('\n');
-        const address = theaterInfo[0];
-        const phone = theaterInfo[1];
+        const name1 = theaterInfo[0];
+        const address = theaterInfo[1];
 
-        return { address, phone };
+        return { name1, address };
       }).get();
 
       theaters.push({ name, details });
@@ -44,7 +44,7 @@ async function scrapeData(url) {
     allTheaters.push(...theaters);
   }
 
-  // Save the data to 45.drive_in_theaters.json
-  fs.writeFileSync('45.drive_in_theaters.json', JSON.stringify(allTheaters, null, 2));
-  console.log('Scraping completed. Data saved to 45.drive_in_theaters.json');
+  // Save the data to 45.Data.json
+  fs.writeFileSync('45.Data.json', JSON.stringify(allTheaters, null, 2));
+  console.log('Scraping completed. Data saved to 45.Data.json');
 })();

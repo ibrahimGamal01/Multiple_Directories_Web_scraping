@@ -54,3 +54,25 @@ https://www.driveintheater.com/list/germany.htm
 https://www.driveintheater.com/list/india.htm
 https://www.driveintheater.com/list/southafrica.htm
 https://www.driveintheater.com/list/spain.htm
+
+
+
+Volume serial number is A29D-D833
+D:.
+|   45.cleanData.js
+|   45.cleanData.option.2.js
+|   45.Data.2.json
+|   45.Data.3.json
+|   45.Data.4.json
+|   45.Data.json
+|   45.formatData.ipynb
+|   45.getData.js
+|   45.links.txt
+|   cleaned_format1.json
+|   format1.json
+|
+\---extracted_data
+        45.Data.2.json
+        45.Data.2.xlsx
+        45.Data.json
+        45.Data.xlsx
