@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "Busch Gardens Tampa Bay —",
+    "Location": "Tampa, Florida",
+    "OpeningDate": "March 31, 1959",
+    "Area": "365 acres"
+  },
+  {
+    "Name": "Busch Gardens Williamsburg —",
+    "Location": "Williamsburg, Virginia",
+    "OpeningDate": "May 16, 1975",
+    "Area": "389 acres"
+  },
+  {
+    "Name": "SeaWorld Abu Dhabi —",
+    "Location": "Yas Island, Abu Dhabi, United Arab Emirates",
+    "OpeningDate": "May 24, 2023",
+    "Area": "166 acres"
+  },
+  {
+    "Name": "SeaWorld Orlando —",
+    "Location": "Orlando, Florida",
+    "OpeningDate": "December 15, 1973",
+    "Area": "200 acres"
+  },
+  {
+    "Name": "SeaWorld San Antonio —",
+    "Location": "San Antonio, Texas",
+    "OpeningDate": "May 27, 1988",
+    "Area": "255 acres"
+  },
+  {
+    "Name": "SeaWorld San Diego —",
+    "Location": "San Diego, California",
+    "OpeningDate": "March 21, 1964",
+    "Area": "189 acres"
+  },
+  {
+    "Name": "Sesame Place Philadelphia —",
+    "Location": "Langhorne, Pennsylvania",
+    "OpeningDate": "July 30, 1980",
+    "Area": "14 acres"
+  },
+  {
+    "Name": "Sesame Place San Diego —",
+    "Location": "San Diego, California",
+    "OpeningDate": "May 31, 1997 (as Whitewater Canyon)",
+    "Area": "17 acres"
+  },
+  {
+    "Name": "Boardwalk and Baseball",
+    "Location": "Haines City, Florida",
+    "OpeningDate": "",
+    "Area": ""
+  },
+  {
+    "Name": "Busch Gardens Houston",
+    "Location": "Houston Texas",
+    "OpeningDate": "",
+    "Area": ""
+  },
+  {
+    "Name": "Busch Gardens Los Angeles",
+    "Location": "Los Angeles, California",
+    "OpeningDate": "",
+    "Area": ""
+  },
+  {
+    "Name": "Cypress Gardens",
+    "Location": "Winter Haven, Florida",
+    "OpeningDate": "",
+    "Area": ""
+  },
+  {
+    "Name": "Pasadena’s Busch Gardens",
+    "Location": "Pasadena, California",
+    "OpeningDate": "",
+    "Area": ""
+  },
+  {
+    "Name": "Port Aventura",
+    "Location": "Salou, Spain",
+    "OpeningDate": "",
+    "Area": ""
+  },
+  {
+    "Name": "SeaWorld Ohio",
+    "Location": "Aurora, Ohio",
+    "OpeningDate": "",
+    "Area": ""
+  },
+  {
+    "Name": "Sesame Place",
+    "Location": "Irving, Texas",
+    "OpeningDate": "",
+    "Area": ""
+  }
+]
