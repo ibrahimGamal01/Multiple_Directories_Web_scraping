@@ -15,9 +15,10 @@ This data is then saved in a JSON format. The JSON data is saved to `02.Data.jso
 
 1. Ensure you have Node.js installed on your machine.
 2. Install the necessary dependencies by running `npm install puppeteer`.
-3. Run the script with `node 02.mykidlist.js`.
-4. Then run the script `node 02.getAddress.js`.
-5. Then run the script `02.getPhone.js`.
+3. Run the script with `node 02.index.js`.
+4. Use the data `02.Data.All.js`
+
+The address cleaning usues the \n and digits to locate addresses 
 
 ### Error Handling
 
