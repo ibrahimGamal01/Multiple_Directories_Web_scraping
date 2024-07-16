@@ -1,79 +1,104 @@
+//  Base Code
 
-//  Sample Scrapping 1
 // const puppeteer = require('puppeteer');
 // const fs = require('fs');
 
 // async function scrapeClimbingGyms(url) {
 //     const browser = await puppeteer.launch({ headless: true });
 //     const page = await browser.newPage();
-//     await page.goto(url, { waitUntil: 'networkidle2', timeout: 120000 });
+
+//     // Function to retry navigation
+//     const navigateWithRetry = async (url, retries = 3) => {
+//         for (let i = 0; i < retries; i++) {
+//             try {
+//                 await page.goto(url, { waitUntil: 'networkidle2', timeout: 120000 });
+//                 console.log(`Page loaded successfully on attempt ${i + 1}`);
+//                 return;
+//             } catch (error) {
+//                 console.error(`Error loading page on attempt ${i + 1}:`, error);
+//                 if (i === retries - 1) throw error;
+//             }
+//         }
+//     };
+
+//     await navigateWithRetry(url);
 
 //     const data = await page.evaluate(() => {
-//         const gyms = [];
+//         const results = [];
 //         const paragraphs = document.querySelectorAll('.paragraph');
 
 //         paragraphs.forEach(paragraph => {
-//             const strongTags = paragraph.querySelectorAll('strong');
-//             let name = '';
+//             let names = [];
 //             let address = '';
 //             let website = '';
+//             let foundName = false;
 
-//             if (strongTags.length > 0) {
-//                 name = strongTags[0].textContent.trim();
+//             // Collect names (first one or two <strong> tags)
+//             const strongTags = paragraph.querySelectorAll('strong');
+//             strongTags.forEach((strong, index) => {
+//                 if (index < 2) {
+//                     names.push(strong.textContent.trim());
+//                 }
+//             });
 
-//                 // Get the text after the first strong tag
-//                 let nextNode = strongTags[0].nextSibling;
-//                 while (nextNode && nextNode.nodeName !== 'BR') {
-//                     if (nextNode.nodeType === Node.TEXT_NODE) {
-//                         address += nextNode.textContent.trim();
+//             // Collect address and website
+//             const elements = paragraph.childNodes;
+//             elements.forEach((element, index) => {
+//                 if (element.nodeType === Node.TEXT_NODE) {
+//                     const text = element.textContent.trim();
+//                     if (text && names.length > 0 && !website) {
+//                         address += text + ' ';
 //                     }
-//                     nextNode = nextNode.nextSibling;
+//                 } else if (element.nodeName === 'A') {
+//                     const href = element.getAttribute('href');
+//                     if (href && href.includes('www')) {
+//                         website = href;
+//                     }
 //                 }
+//             });
 
-//                 // Check for the website link
-//                 const anchorTags = paragraph.querySelectorAll('a[href^="http"], a[href^="www"]');
-//                 if (anchorTags.length > 0) {
-//                     website = anchorTags[0].href;
-//                 }
-//             }
-
-//             if (name) {
-//                 gyms.push({ name, address, website });
+//             if (names.length > 0 && address) {
+//                 results.push({
+//                     name: names.join(' - '),
+//                     address: address.trim(),
+//                     website: website || 'N/A'
+//                 });
 //             }
 //         });
 
-//         return gyms;
+//         return results;
 //     });
 
 //     await browser.close();
 //     return data;
 // }
 
-// async function saveDataToFile(data, filePath) {
+// async function saveDataToFile(data, outputFile) {
 //     try {
-//         fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
-//         console.log(`Data has been written to ${filePath}`);
+//         fs.writeFileSync(outputFile, JSON.stringify(data, null, 2));
+//         console.log(`Data has been written to ${outputFile} successfully.`);
 //     } catch (error) {
-//         console.error('Error writing data to file:', error);
+//         console.error('Error saving data:', error);
 //     }
 // }
 
 // async function main() {
 //     const url = 'https://www.climbphilippines.com/gym-directory.html';
-//     const outputFilePath = 'climbing_gyms.json';
-
 //     try {
 //         const data = await scrapeClimbingGyms(url);
-//         await saveDataToFile(data, outputFilePath);
+//         const outputFilePath = 'climbing_gyms.json';
+//         saveDataToFile(data, outputFilePath);
 //     } catch (error) {
-//         console.error('Error during scraping:', error);
+//         console.error('Error during main execution:', error);
 //     }
 // }
 
 // main();
 
-// // ----------------------------------------------------------------
-//  Sample Scrapping 2
+// ! ----------------------------------------------------------------------------------------------------
+
+//  Sample Scrapping 1
+
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
@@ -101,41 +126,63 @@ async function scrapeClimbingGyms(url) {
         const results = [];
         const paragraphs = document.querySelectorAll('.paragraph');
 
+        const extractPhoneNumbers = (text) => {
+            const phonePattern = /\+\d{1,4}\s*\d{1,4}\s*\(?\d{1,4}\)?\s*-?\d{1,4}-?\d{1,4}(?:\s*x\s*\d+)?/g;
+            const matches = text.match(phonePattern);
+            return matches ? matches : [];
+        };
+
         paragraphs.forEach(paragraph => {
             let names = [];
             let address = '';
             let website = '';
-            let foundName = false;
+            let phoneNumbers = [];
+            let otherDetails = [];
+            let currentName = '';
 
-            // Collect names (first one or two <strong> tags)
-            const strongTags = paragraph.querySelectorAll('strong');
-            strongTags.forEach((strong, index) => {
-                if (index < 2) {
-                    names.push(strong.textContent.trim());
-                }
-            });
-
-            // Collect address and website
             const elements = paragraph.childNodes;
-            elements.forEach((element, index) => {
+            elements.forEach((element) => {
                 if (element.nodeType === Node.TEXT_NODE) {
                     const text = element.textContent.trim();
-                    if (text && names.length > 0 && !website) {
-                        address += text + ' ';
+                    if (text) {
+                        if (extractPhoneNumbers(text).length > 0) {
+                            phoneNumbers = phoneNumbers.concat(extractPhoneNumbers(text));
+                        } else {
+                            address += text + ' ';
+                        }
                     }
+                } else if (element.nodeName === 'STRONG') {
+                    if (currentName) {
+                        results.push({
+                            name: currentName,
+                            address: address.trim() || 'N/A',
+                            website: website || 'N/A',
+                            phoneNumbers: phoneNumbers.length > 0 ? phoneNumbers : ['N/A'],
+                            otherDetails: otherDetails.length > 0 ? otherDetails : ['N/A']
+                        });
+                        address = '';
+                        website = '';
+                        phoneNumbers = [];
+                        otherDetails = [];
+                    }
+                    currentName = element.textContent.trim();
                 } else if (element.nodeName === 'A') {
                     const href = element.getAttribute('href');
                     if (href && href.includes('www')) {
                         website = href;
+                    } else {
+                        otherDetails.push(href);
                     }
                 }
             });
 
-            if (names.length > 0 && address) {
+            if (currentName) {
                 results.push({
-                    name: names.join(' - '),
-                    address: address.trim(),
-                    website: website || 'N/A'
+                    name: currentName,
+                    address: address.trim() || 'N/A',
+                    website: website || 'N/A',
+                    phoneNumbers: phoneNumbers.length > 0 ? phoneNumbers : ['N/A'],
+                    otherDetails: otherDetails.length > 0 ? otherDetails : ['N/A']
                 });
             }
         });
@@ -160,7 +207,7 @@ async function main() {
     const url = 'https://www.climbphilippines.com/gym-directory.html';
     try {
         const data = await scrapeClimbingGyms(url);
-        const outputFilePath = 'climbing_gyms.json';
+        const outputFilePath = '28.Data.json';
         saveDataToFile(data, outputFilePath);
     } catch (error) {
         console.error('Error during main execution:', error);
@@ -168,4 +215,3 @@ async function main() {
 }
 
 main();
-
