@@ -73,7 +73,6 @@
 // ----------------------------------------------------------------------------------------------------------------------------
 
 // Path: 51.indoorskydiving/51.getData.js
-
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
@@ -99,10 +98,15 @@ const path = require('path');
                 const name = nameParts.join(' ');
 
                 const fullAddress = getTextContent('.mh-col-1-2.entry-content .su-table tr:nth-child(1) td:nth-child(2)');
-                // const addressText = getTextContent('.mh-col-1-2.entry-content .su-table tr:nth-child(2) a');
                 const addressLink = getHref('.mh-col-1-2.entry-content .su-table tr:nth-child(2) a');
                 const CityLink = getHref('.mh-col-1-2.entry-content .su-table tr:nth-child(3) a');
-                const CityName = getTextContent('.mh-col-1-2.entry-content .su-table tr:nth-child(3) a');
+                let CityName = getTextContent('.mh-col-1-2.entry-content .su-table tr:nth-child(3) a');
+
+                // Filter out email addresses from CityName
+                if (CityName && CityName.includes('@')) {
+                    CityName = null;
+                }
+
                 const stateAndCountryText = getTextContent('.mh-col-1-2.entry-content .su-table tr:nth-child(4) a:last-child');
                 const stateAndCountryLink = getHref('.mh-col-1-2.entry-content .su-table tr:nth-child(4) a:last-child');
 
@@ -116,7 +120,6 @@ const path = require('path');
                     name,
                     address: {
                         fullAddress,
-                        // addressText,
                         addressLink,
                         CityLink,
                         CityName,
