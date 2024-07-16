@@ -21,14 +21,15 @@ async function fetchDetails(url) {
         const address = $('.merchant-contact .adr').text().trim().replace(/\s+/g, ' ');
         const phone = $('#phone-number').text().trim();
         const overview = $('.merchant-about .merchant-contact span').first().text().trim();
-        // const map = $('#map').attr('style').match(/translate3d\((.+?)px,\s?(.+?)px,/);
+        const website = $('a:contains("Visit Website")').attr('href');
 
         const details = {
             name,
             overview,
             backgroundImage,
             address,
-            phone
+            phone,
+            website: website ? website : 'N/A'
         };
 
         return details;
