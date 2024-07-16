@@ -34,11 +34,11 @@ const fs = require('fs');
     await browser.close();
 
     // Write the data to a JSON file
-    fs.writeFileSync('airsoft_fields.json', JSON.stringify(data, null, 2), (err) => {
+    fs.writeFileSync('10.Data.json', JSON.stringify(data, null, 2), (err) => {
         if (err) {
             console.error('Error writing file:', err);
         } else {
-            console.log('Data successfully written to airsoft_fields.json');
+            console.log('Data successfully written to 10.Data.json');
         }
     });
 })();
