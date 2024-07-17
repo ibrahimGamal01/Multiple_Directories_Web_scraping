@@ -1,7 +1,7 @@
 const fs = require('fs');
 const puppeteer = require('puppeteer');
 
-const maxRetries = 3;
+const maxRetries = 2;
 const baseUrl = 'https://britishiceskating.sport80.com/public/widget/';
 
 async function scrapeRinkData(url) {
@@ -14,10 +14,15 @@ async function scrapeRinkData(url) {
         await page.waitForSelector('.v-expansion-panel', { visible: true });
 
         const data = await page.evaluate(async () => {
-            const delay = (time) => new Promise(resolve => setTimeout(resolve, time));
-
-            const widgets = document.querySelectorAll('.v-expansion-panel');
             const results = [];
+            const widgets = document.querySelectorAll('.v-expansion-panel');
+
+            // Define the extractUrl function inside page.evaluate
+            const extractUrl = (text) => {
+                const urlRegex = /(https?:\/\/[^\s]+)/g;
+                const match = text.match(urlRegex);
+                return match ? match[0] : '';
+            };
 
             for (const widget of widgets) {
                 const header = widget.querySelector('.v-expansion-panel-header');
@@ -25,17 +30,23 @@ async function scrapeRinkData(url) {
 
                 // Click to expand the panel
                 header.click();
-                await delay(1000); // Wait for the content to be visible
 
+                // Wait for the content to load
+                await new Promise(resolve => {
+                    const observer = new MutationObserver(mutationsList => {
+                        const contentWrap = widget.querySelector('.v-expansion-panel-content__wrap');
+                        if (contentWrap && contentWrap.innerText.trim().length > 0) {
+                            observer.disconnect();
+                            resolve();
+                        }
+                    });
+                    observer.observe(widget, { childList: true, subtree: true });
+                });
+
+                // Extract data after content is loaded
                 const getText = (selector, context = widget) => {
                     const element = context.querySelector(selector);
                     return element ? element.innerText.trim() : '';
-                };
-
-                const extractUrl = (text) => {
-                    const urlRegex = /(https?:\/\/[^\s]+)/g;
-                    const match = text.match(urlRegex);
-                    return match ? match[0] : '';
                 };
 
                 const name = getText('.v-expansion-panel-header strong');
@@ -91,9 +102,8 @@ async function scrapeRinkData(url) {
                     Website3: website3 !== '' ? website3 : 'N/A'
                 });
 
-                // Click to collapse the panel
+                // Click to collapse the panel (if needed)
                 header.click();
-                await delay(1000); // Wait for the content to collapse
             }
 
             return results;
@@ -112,7 +122,7 @@ async function scrapeRinkData(url) {
 async function scrapeAllLinks() {
     const scrapedData = [];
 
-    for (let i = 1; i <= 8; i++) { 
+    for (let i = 1; i <= 8; i++) {
         const url = `${baseUrl}${i}`;
         let success = false;
 
@@ -138,8 +148,8 @@ async function scrapeAllLinks() {
         }
     }
 
-    fs.writeFileSync('69.Data.json', JSON.stringify(scrapedData, null, 2));
-    console.log('Scraped data saved to 69.Data.json');
+    fs.writeFileSync('69.Dasta.json', JSON.stringify(scrapedData, null, 2));
+    console.log('Scraped data saved to 69.Dasta.json');
 }
 
 scrapeAllLinks().catch(error => console.error('Error scraping links:', error));
