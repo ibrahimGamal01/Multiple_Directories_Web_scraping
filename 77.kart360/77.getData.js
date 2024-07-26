@@ -5,6 +5,7 @@ const path = require('path');
 const OUTPUT_FILE = '77.Data.json';
 const INPUT_FILE = 'links.txt';
 const TIMEOUT = 60000; // 60 seconds timeout for page loading
+const MAX_RETRIES = 3; // Maximum number of retries for each URL
 
 // Function to scrape details from a single page
 async function scrapeDetails(url) {
@@ -51,16 +52,39 @@ async function processLinks(file) {
     const results = [];
 
     for (const url of urls) {
-        console.log(`Processing ${url}...`);
-        const data = await scrapeDetails(url);
+        let retries = 0;
+        let data = {};
+        
+        while (retries < MAX_RETRIES) {
+            console.log(`Processing ${url} (Attempt ${retries + 1})...`);
+            data = await scrapeDetails(url);
+            
+            if (Object.keys(data).length) { // If non-empty data, break out of retry loop
+                break;
+            } else {
+                console.log(`Retrying ${url} (Attempt ${retries + 1})...`);
+                retries++;
+                if (retries < MAX_RETRIES) {
+                    await delay(1000); // Wait a bit before retrying
+                }
+            }
+        }
+
         if (Object.keys(data).length) { // Only add non-empty data
             results.push(data);
+        } else {
+            console.log(`Failed to scrape ${url} after ${MAX_RETRIES} attempts.`);
         }
     }
 
     // Writing results to JSON file
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(results, null, 2));
     console.log(`Data has been written to ${OUTPUT_FILE}`);
+}
+
+// Function to delay execution for a specified time
+function delay(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 // Adjust the path to your links.txt file
