@@ -1,4 +1,3 @@
-// 79.arrowtagGetLinks.js
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
@@ -10,14 +9,37 @@ async function scrapeArrowTagLocations(url) {
         console.log('Navigating to the URL:', url);
         await page.goto(url, { waitUntil: 'networkidle2' });
 
-        // Loop over clicking the "Load More" button 90 times
+        // Loop over clicking the "Load More" button 90 times with error handling
         for (let i = 0; i < 93; i++) {
             console.log(`Clicking the "Load More" button - Attempt ${i + 1}...`);
-            await page.click('.javo-map-box-morebutton');
 
-            // Wait for 5 seconds after clicking the button
-            console.log('Waiting for 5 seconds...');
-            await delay(5000);
+            try {
+                await page.click('.javo-map-box-morebutton');
+                console.log('Waiting for 5 seconds...');
+                await delay(5000);
+            } catch (error) {
+                console.error(`Error clicking the "Load More" button on attempt ${i + 1}:`, error);
+
+                // Retry mechanism
+                let retryCount = 0;
+                while (retryCount < 3) {
+                    try {
+                        console.log(`Retrying click - Attempt ${i + 1}, Retry ${retryCount + 1}...`);
+                        await page.click('.javo-map-box-morebutton');
+                        console.log('Waiting for 5 seconds...');
+                        await delay(5000);
+                        break; // Exit retry loop if successful
+                    } catch (retryError) {
+                        console.error(`Retry ${retryCount + 1} failed:`, retryError);
+                        retryCount++;
+                        await delay(2000); // Wait before retrying
+                    }
+                }
+
+                if (retryCount === 3) {
+                    console.error(`Skipping click on attempt ${i + 1} after 3 retries.`);
+                }
+            }
         }
 
         // Wait for the content to load after clicking "Load More"
